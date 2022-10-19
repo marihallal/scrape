@@ -1,5 +1,51 @@
 [
   {
+    "id": 6230669,
+    "slug": "nog-te-veel-kinderen-in-ter-apel-coa-heeft-een-dag-om-275-plekken-te-vinden",
+    "type": "article",
+    "title": "Nog te veel kinderen in Ter Apel: COA heeft één dag om 275 plekken te vinden",
+    "subtitle": null,
+    "published_at": "2022-10-19T05:00:03+02:00",
+    "updated_at": "2022-10-19T05:00:04+02:00",
+    "media_id": "9qjx5ffaxw2c",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779109,
+      "slug": "asielcrisis",
+      "type": "default",
+      "name": "Asielcrisis",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/asielcrisis/6230669/nog-te-veel-kinderen-in-ter-apel-coa-heeft-een-dag-om-275-plekken-te-vinden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6230752,
+    "slug": "opnieuw-code-geel-in-het-midden-en-zuiden-van-ons-land-vanwege-dichte-mist",
+    "type": "article",
+    "title": "Opnieuw code geel in het midden en zuiden van ons land vanwege dichte mist",
+    "subtitle": null,
+    "published_at": "2022-10-19T02:46:22+02:00",
+    "updated_at": "2022-10-19T03:11:21+02:00",
+    "media_id": "0uyx6jqa1bkv",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6230752/opnieuw-code-geel-in-het-midden-en-zuiden-van-ons-land-vanwege-dichte-mist.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6230751,
     "slug": "kamerdelegatie-adviseert-kabinet-om-excuses-te-maken-voor-slavernijverleden",
     "type": "article",
@@ -29,7 +75,7 @@
     "title": "Glennis Grace: 'Ik heb iemand in het gezicht geduwd, maar niemand bedreigd'",
     "subtitle": null,
     "published_at": "2022-10-19T00:12:09+02:00",
-    "updated_at": "2022-10-19T00:14:47+02:00",
+    "updated_at": "2022-10-19T02:07:37+02:00",
     "media_id": "g9jxj3yas4m1",
     "duration": null,
     "canonical_section": {
@@ -259,8 +305,8 @@
     "title": "Landmacht krijgt voor het eerst sinds 2004 weer raketartillerie",
     "subtitle": null,
     "published_at": "2022-10-18T19:56:02+02:00",
-    "updated_at": "2022-10-18T20:22:21+02:00",
-    "media_id": "q08xnqkaekqm",
+    "updated_at": "2022-10-19T02:29:52+02:00",
+    "media_id": "cruxlifaewit",
     "duration": null,
     "canonical_section": {
       "id": 1771437,
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6230699/engelse-bond-klaagt-liverpool-coach-klopp-en-united-aan-wegens-wangedrag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6230702,
-    "slug": "brandstofcrisis-leidt-tot-nationale-stakingsdag-in-frankrijk",
-    "type": "video",
-    "title": "Brandstofcrisis leidt tot nationale stakingsdag in Frankrijk",
-    "subtitle": "Video",
-    "published_at": "2022-10-18T18:21:49+02:00",
-    "updated_at": "2022-10-18T18:26:24+02:00",
-    "media_id": "2r4x9i5a7n57",
-    "duration": "0:45",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6230702/brandstofcrisis-leidt-tot-nationale-stakingsdag-in-frankrijk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6230697,
-    "slug": "lang-moet-maand-voor-wk-geduld-hebben-bij-club-ga-niet-zomaar-veranderen",
-    "type": "article",
-    "title": "Lang moet maand voor WK geduld hebben bij Club: 'Ga niet zomaar veranderen'",
-    "subtitle": null,
-    "published_at": "2022-10-18T18:18:34+02:00",
-    "updated_at": "2022-10-18T18:23:03+02:00",
-    "media_id": "kn3xrd6apj2c",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6230697/lang-moet-maand-voor-wk-geduld-hebben-bij-club-ga-niet-zomaar-veranderen.html",
     "open_new_window": false,
     "partner": null
   }
