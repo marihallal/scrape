@@ -1,5 +1,28 @@
 [
   {
+    "id": 6231631,
+    "slug": "vitesse-revancheert-zich-tegen-fc-emmen-voor-blamage-in-knvb-beker",
+    "type": "article",
+    "title": "Vitesse revancheert zich tegen FC Emmen voor blamage in KNVB-beker",
+    "subtitle": null,
+    "published_at": "2022-10-22T22:53:56+02:00",
+    "updated_at": "2022-10-22T22:53:57+02:00",
+    "media_id": "0c5xt8jax1fq",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6231631/vitesse-revancheert-zich-tegen-fc-emmen-voor-blamage-in-knvb-beker.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6231632,
     "slug": "oekraine-in-het-donker-door-russische-raketaanvallen",
     "type": "video",
@@ -369,12 +392,12 @@
   },
   {
     "id": 6231615,
-    "slug": "ac-milan-naast-koploper-napoli-na-zege-op-monza-van-berlusconi",
+    "slug": "ac-milan-naast-koploper-napoli-door-zege-inter-wint-spektakelstuk-in-florence",
     "type": "article",
-    "title": "AC Milan naast koploper Napoli na zege op Monza van Berlusconi",
+    "title": "AC Milan naast koploper Napoli door zege, Inter wint spektakelstuk in Florence",
     "subtitle": null,
     "published_at": "2022-10-22T20:01:14+02:00",
-    "updated_at": "2022-10-22T20:07:43+02:00",
+    "updated_at": "2022-10-22T22:54:48+02:00",
     "media_id": "mlfx1z1airs3",
     "duration": null,
     "canonical_section": {
@@ -386,7 +409,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6231615/ac-milan-naast-koploper-napoli-na-zege-op-monza-van-berlusconi.html",
+    "url": "/voetbal/6231615/ac-milan-naast-koploper-napoli-door-zege-inter-wint-spektakelstuk-in-florence.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6231611/politie-stuurt-amber-alert-voor-vermiste-jayden-brock-11-in-den-haag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6231610,
-    "slug": "terugblik-gp-vs-2015-ferrari-duo-maakt-kennis-met-toro-rosso-rijder-verstappen",
-    "type": "article",
-    "title": "Terugblik GP VS 2015: Ferrari-duo maakt kennis met Toro Rosso-rijder Verstappen",
-    "subtitle": null,
-    "published_at": "2022-10-22T18:54:03+02:00",
-    "updated_at": "2022-10-22T19:12:09+02:00",
-    "media_id": "7jixdvvav2rp",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778846,
-      "slug": "nu-formule-1",
-      "type": "default",
-      "name": "NU+ Formule 1",
-      "style": "nusport",
-      "media_id": "gtmxcxnaui5m",
-      "partner": null
-    },
-    "url": "/nu-formule-1/6231610/terugblik-gp-vs-2015-ferrari-duo-maakt-kennis-met-toro-rosso-rijder-verstappen.html",
     "open_new_window": false,
     "partner": null
   }
