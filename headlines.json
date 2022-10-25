@@ -1,12 +1,35 @@
 [
   {
+    "id": 6231787,
+    "slug": "review-motorola-razr-heeft-pech-dat-de-galaxy-z-flip4-bestaat",
+    "type": "article",
+    "title": "Review: Motorola Razr heeft pech dat de Galaxy Z Flip4 bestaat",
+    "subtitle": null,
+    "published_at": "2022-10-25T12:00:24+02:00",
+    "updated_at": "2022-10-25T12:00:26+02:00",
+    "media_id": "wplx40fay17z",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772398,
+      "slug": "reviews",
+      "type": "default",
+      "name": "Reviews",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/reviews/6231787/review-motorola-razr-heeft-pech-dat-de-galaxy-z-flip4-bestaat.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6232075,
     "slug": "wereldwijde-whatsapp-storing-na-bijna-twee-uur-verholpen",
     "type": "article",
     "title": "Wereldwijde WhatsApp-storing na bijna twee uur verholpen",
     "subtitle": null,
     "published_at": "2022-10-25T11:31:51+02:00",
-    "updated_at": "2022-10-25T11:32:15+02:00",
+    "updated_at": "2022-10-25T11:51:57+02:00",
     "media_id": "f0cx0goahr8i",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6232017/vn-vluchtelingenorganisatie-waarschuwt-voor-catastrofale-gevolgen-geldtekort.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6232018,
-    "slug": "de-woordle-van-vandaag-raad-jij-het-woord-van-de-dag",
-    "type": "article",
-    "title": "De Woordle van vandaag: Raad jij het woord van de dag?",
-    "subtitle": null,
-    "published_at": "2022-10-25T06:38:33+02:00",
-    "updated_at": "2022-10-25T07:32:00+02:00",
-    "media_id": "q90x8w2aq9up",
-    "duration": null,
-    "canonical_section": {
-      "id": 1773179,
-      "slug": "uitgelicht",
-      "type": "default",
-      "name": "Uitgelicht",
-      "style": "mediapartner-external",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/uitgelicht/6232018/de-woordle-van-vandaag-raad-jij-het-woord-van-de-dag.html",
     "open_new_window": false,
     "partner": null
   }
