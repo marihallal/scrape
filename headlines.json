@@ -1,5 +1,28 @@
 [
   {
+    "id": 6232229,
+    "slug": "medespelers-genieten-van-messi-mbappe-en-neymar-in-cl-zat-op-de-eerste-rij",
+    "type": "article",
+    "title": "Medespelers genieten van Messi, Mbappé en Neymar in CL: 'Zat op de eerste rij'",
+    "subtitle": null,
+    "published_at": "2022-10-26T08:55:50+02:00",
+    "updated_at": "2022-10-26T08:55:50+02:00",
+    "media_id": "30axj05azpwg",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6232229/medespelers-genieten-van-messi-mbappe-en-neymar-in-cl-zat-op-de-eerste-rij.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6232228,
     "slug": "tesla-directeur-elon-musk-is-vanaf-vrijdag-de-nieuwe-eigenaar-van-twitter",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6232076/glennis-grace-voor-de-rechter-zangeres-verdacht-van-mishandeling-en-bedreiging.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6232135,
-    "slug": "langer-aan-het-gas-warmtenetruzie-dreigt-verduurzaming-te-vertragen",
-    "type": "article",
-    "title": "Langer aan het gas? Warmtenetruzie dreigt verduurzaming te vertragen",
-    "subtitle": "NU+",
-    "published_at": "2022-10-26T05:40:47+02:00",
-    "updated_at": "2022-10-26T05:40:48+02:00",
-    "media_id": "pfbxf7ka21wn",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778899,
-      "slug": "nu-klimaat",
-      "type": "region",
-      "name": "NU+ Klimaat",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/nu-klimaat/6232135/langer-aan-het-gas-warmtenetruzie-dreigt-verduurzaming-te-vertragen.html",
     "open_new_window": false,
     "partner": null
   }
