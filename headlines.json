@@ -1,12 +1,35 @@
 [
   {
+    "id": 6232273,
+    "slug": "hier-wordt-glennis-grace-volgens-het-om-van-verdacht",
+    "type": "video",
+    "title": "Hier wordt Glennis Grace volgens het OM van verdacht",
+    "subtitle": "Video",
+    "published_at": "2022-10-26T10:44:43+02:00",
+    "updated_at": "2022-10-26T10:46:48+02:00",
+    "media_id": "ksaxdyla230t",
+    "duration": "1:34",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6232273/hier-wordt-glennis-grace-volgens-het-om-van-verdacht.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6232249,
     "slug": "uit-beelden-blijkt-dat-glennis-grace-winkelmedewerker-tegen-zijn-hoofd-sloeg",
     "type": "article",
     "title": "Uit beelden blijkt dat Glennis Grace winkelmedewerker tegen zijn hoofd sloeg",
     "subtitle": null,
     "published_at": "2022-10-26T10:28:14+02:00",
-    "updated_at": "2022-10-26T10:30:01+02:00",
+    "updated_at": "2022-10-26T10:43:16+02:00",
     "media_id": "vzgxbnja3m6k",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Audi gaat samenwerken met Sauber en staat vanaf 2026 als fabrieksteam op F1-grid",
     "subtitle": null,
     "published_at": "2022-10-26T10:09:21+02:00",
-    "updated_at": "2022-10-26T10:15:27+02:00",
+    "updated_at": "2022-10-26T10:43:56+02:00",
     "media_id": "f1rxk54ay95l",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/cultuur-overig/6232221/suzan-seegers-speelt-edith-piaf-in-nieuwe-musical-over-zangeres.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6232219,
-    "slug": "omzetgroei-microsoft-op-het-laagste-punt-in-vijf-jaar-tijd",
-    "type": "article",
-    "title": "Omzetgroei Microsoft op het laagste punt in vijf jaar tijd",
-    "subtitle": null,
-    "published_at": "2022-10-26T07:24:35+02:00",
-    "updated_at": "2022-10-26T07:48:58+02:00",
-    "media_id": "oxyxha6aeagi",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6232219/omzetgroei-microsoft-op-het-laagste-punt-in-vijf-jaar-tijd.html",
     "open_new_window": false,
     "partner": null
   }
