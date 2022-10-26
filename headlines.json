@@ -1,5 +1,51 @@
 [
   {
+    "id": 6232366,
+    "slug": "cpnb-zag-vreemd-stemgedrag-bij-meerdere-boeken-voor-ns-publieksprijs",
+    "type": "article",
+    "title": "CPNB zag vreemd stemgedrag bij meerdere boeken voor NS Publieksprijs",
+    "subtitle": null,
+    "published_at": "2022-10-26T18:20:29+02:00",
+    "updated_at": "2022-10-26T18:20:50+02:00",
+    "media_id": "5tux2cva1tpn",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772075,
+      "slug": "cultuur-overig",
+      "type": "default",
+      "name": "Boek & Cultuur",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/cultuur-overig/6232366/cpnb-zag-vreemd-stemgedrag-bij-meerdere-boeken-voor-ns-publieksprijs.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6232365,
+    "slug": "geblesseerde-de-roon-ontbreekt-in-selectie-atalanta-geen-duidelijkheid-over-wk",
+    "type": "article",
+    "title": "Geblesseerde De Roon ontbreekt in selectie Atalanta, geen duidelijkheid over WK",
+    "subtitle": null,
+    "published_at": "2022-10-26T18:04:54+02:00",
+    "updated_at": "2022-10-26T18:10:16+02:00",
+    "media_id": "xg5xakdahgi9",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6232365/geblesseerde-de-roon-ontbreekt-in-selectie-atalanta-geen-duidelijkheid-over-wk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6232364,
     "slug": "verdachten-die-belgische-minister-wilden-ontvoeren-tegen-wil-in-berecht-in-belgie",
     "type": "article",
@@ -190,7 +236,7 @@
     "title": "China koopt zich in bij grote terminal in Hamburgse haven",
     "subtitle": null,
     "published_at": "2022-10-26T16:13:32+02:00",
-    "updated_at": "2022-10-26T16:18:17+02:00",
+    "updated_at": "2022-10-26T18:09:58+02:00",
     "media_id": "tg3xi58a0egz",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/tennis/6232324/griekspoor-strandt-in-wenen-voor-zesde-atp-toernooi-op-rij-in-eerste-ronde.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6232322,
-    "slug": "oekraine-en-rusland-stevenen-in-kherson-af-op-zwaarste-veldslag-tot-nu-toe",
-    "type": "article",
-    "title": "Oekraïne en Rusland stevenen in Kherson af op 'zwaarste veldslag tot nu toe'",
-    "subtitle": null,
-    "published_at": "2022-10-26T14:46:13+02:00",
-    "updated_at": "2022-10-26T17:51:34+02:00",
-    "media_id": "c4rxwzlajer5",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6232322/oekraine-en-rusland-stevenen-in-kherson-af-op-zwaarste-veldslag-tot-nu-toe.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6232317,
-    "slug": "floor-jansen-heeft-borstkanker-de-prognose-is-heel-goed",
-    "type": "article",
-    "title": "Floor Jansen heeft borstkanker: 'De prognose is heel goed'",
-    "subtitle": null,
-    "published_at": "2022-10-26T14:21:43+02:00",
-    "updated_at": "2022-10-26T14:24:15+02:00",
-    "media_id": "u1bxqc5azob5",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6232317/floor-jansen-heeft-borstkanker-de-prognose-is-heel-goed.html",
     "open_new_window": false,
     "partner": null
   }
