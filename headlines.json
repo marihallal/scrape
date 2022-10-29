@@ -1,12 +1,35 @@
 [
   {
+    "id": 6232859,
+    "slug": "van-gerwen-had-last-van-wind-op-ek-darts-dobey-ging-daar-beter-mee-om",
+    "type": "article",
+    "title": "Van Gerwen had last van wind op EK darts: 'Dobey ging daar beter mee om'",
+    "subtitle": null,
+    "published_at": "2022-10-29T09:42:34+02:00",
+    "updated_at": "2022-10-29T09:42:35+02:00",
+    "media_id": "8zsxyi1aeo51",
+    "duration": null,
+    "canonical_section": {
+      "id": 1777376,
+      "slug": "darts",
+      "type": "default",
+      "name": "Darts",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/darts/6232859/van-gerwen-had-last-van-wind-op-ek-darts-dobey-ging-daar-beter-mee-om.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6232854,
     "slug": "kuijt-mijdt-ado-kleedkamer-na-verlies-geen-dingen-zeggen-waar-ik-spijt-van-krijg",
     "type": "article",
     "title": "Kuijt mijdt ADO-kleedkamer na verlies: 'Geen dingen zeggen waar ik spijt van krijg'",
     "subtitle": null,
     "published_at": "2022-10-29T09:14:41+02:00",
-    "updated_at": "2022-10-29T09:17:13+02:00",
+    "updated_at": "2022-10-29T09:48:54+02:00",
     "media_id": "0ulxu48aexkf",
     "duration": null,
     "canonical_section": {
@@ -282,7 +305,7 @@
     "title": "Chronisch zieken zijn veel kwijt aan energiekosten, maar krijgen geen extra steun",
     "subtitle": null,
     "published_at": "2022-10-29T06:01:33+02:00",
-    "updated_at": "2022-10-29T08:22:13+02:00",
+    "updated_at": "2022-10-29T09:49:10+02:00",
     "media_id": "bl1xvm5abmqq",
     "duration": null,
     "canonical_section": {
@@ -415,12 +438,12 @@
   },
   {
     "id": 6232844,
-    "slug": "leclerc-crasht-bij-tweede-training-gp-mexico-russell-snelste-in-bandentest",
+    "slug": "leclerc-crasht-in-tweede-training-gp-mexico-russell-snelst-bij-bandentest",
     "type": "article",
-    "title": "Leclerc crasht bij tweede training GP Mexico, Russell snelste in bandentest",
+    "title": "Leclerc crasht in tweede training GP Mexico, Russell snelst bij bandentest",
     "subtitle": null,
     "published_at": "2022-10-29T00:31:02+02:00",
-    "updated_at": "2022-10-29T00:31:03+02:00",
+    "updated_at": "2022-10-29T09:44:17+02:00",
     "media_id": "b99x3hpaeqlm",
     "duration": null,
     "canonical_section": {
@@ -432,30 +455,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6232844/leclerc-crasht-bij-tweede-training-gp-mexico-russell-snelste-in-bandentest.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6232841,
-    "slug": "van-gerwen-verrassend-onderuit-tegen-dobey-in-eerste-ronde-ek-darts",
-    "type": "article",
-    "title": "Van Gerwen verrassend onderuit tegen Dobey in eerste ronde EK darts",
-    "subtitle": null,
-    "published_at": "2022-10-28T22:21:04+02:00",
-    "updated_at": "2022-10-28T23:13:40+02:00",
-    "media_id": "2nnxsmuanq3e",
-    "duration": null,
-    "canonical_section": {
-      "id": 1777376,
-      "slug": "darts",
-      "type": "default",
-      "name": "Darts",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/darts/6232841/van-gerwen-verrassend-onderuit-tegen-dobey-in-eerste-ronde-ek-darts.html",
+    "url": "/formule-1/6232844/leclerc-crasht-in-tweede-training-gp-mexico-russell-snelst-bij-bandentest.html",
     "open_new_window": false,
     "partner": null
   }
