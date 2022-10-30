@@ -1,5 +1,51 @@
 [
   {
+    "id": 6232982,
+    "slug": "youp-van-t-hek-gaat-in-december-tijdens-afscheidstour-flappie-zingen",
+    "type": "article",
+    "title": "Youp van 't Hek gaat in december tijdens afscheidstour Flappie zingen",
+    "subtitle": null,
+    "published_at": "2022-10-30T07:31:47+01:00",
+    "updated_at": "2022-10-30T07:31:48+01:00",
+    "media_id": "miaxljbaine9",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6232982/youp-van-t-hek-gaat-in-december-tijdens-afscheidstour-flappie-zingen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6232981,
+    "slug": "toppers-concert-op-17-november-afgelast-vanwege-tegenvallende-spaaractie",
+    "type": "article",
+    "title": "Toppers-concert op 17 november afgelast vanwege 'tegenvallende spaaractie'",
+    "subtitle": null,
+    "published_at": "2022-10-30T07:26:12+01:00",
+    "updated_at": "2022-10-30T07:26:13+01:00",
+    "media_id": "zr5xm8iarocr",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6232981/toppers-concert-op-17-november-afgelast-vanwege-tegenvallende-spaaractie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6232977,
     "slug": "de-woordle-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -144,7 +190,7 @@
     "title": "Weerbericht: Zacht weer, meestal droog met kans op regen in de avond",
     "subtitle": null,
     "published_at": "2022-10-30T05:25:07+01:00",
-    "updated_at": "2022-10-30T05:25:08+01:00",
+    "updated_at": "2022-10-30T07:31:11+01:00",
     "media_id": "ynpxohxa7kux",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6232967/verhoeven-merkte-tegen-gerges-dat-hij-een-jaar-lang-niet-had-gevochten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6232966,
-    "slug": "verhoeven-na-aparte-winst-gerges-is-een-baas-hij-viel-maar-niet-om",
-    "type": "video",
-    "title": "Verhoeven na 'aparte' winst: 'Gerges is een baas, hij viel maar niet om'",
-    "subtitle": "Video",
-    "published_at": "2022-10-29T23:58:09+02:00",
-    "updated_at": "2022-10-30T00:45:20+02:00",
-    "media_id": "p6lx5mha450j",
-    "duration": "2:16",
-    "canonical_section": {
-      "id": 149,
-      "slug": "sport",
-      "type": "default",
-      "name": "Sport",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport/6232966/verhoeven-na-aparte-winst-gerges-is-een-baas-hij-viel-maar-niet-om.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6232964,
-    "slug": "barcelona-ontsnapt-dankzij-late-goal-lewandowski-en-staat-weer-even-naast-real",
-    "type": "article",
-    "title": "Barcelona ontsnapt dankzij late goal Lewandowski en staat weer even naast Real",
-    "subtitle": null,
-    "published_at": "2022-10-29T23:11:37+02:00",
-    "updated_at": "2022-10-30T00:39:29+02:00",
-    "media_id": "7i3xoklafbgd",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6232964/barcelona-ontsnapt-dankzij-late-goal-lewandowski-en-staat-weer-even-naast-real.html",
     "open_new_window": false,
     "partner": null
   }
