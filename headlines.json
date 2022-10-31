@@ -1,12 +1,58 @@
 [
   {
-    "id": 6233295,
-    "slug": "reizigers-kunnen-langer-compensatie-aanvragen-na-missen-van-vlucht-op-schiphol",
+    "id": 6233299,
+    "slug": "om-eist-celstraffen-van-20-jaar-tot-levenslang-voor-beuningse-vergismoord",
     "type": "article",
-    "title": "Reizigers kunnen langer compensatie aanvragen na missen van vlucht op Schiphol",
+    "title": "OM eist celstraffen van 20 jaar tot levenslang voor Beuningse vergismoord",
+    "subtitle": null,
+    "published_at": "2022-10-31T18:19:33+01:00",
+    "updated_at": "2022-10-31T18:19:34+01:00",
+    "media_id": "424x6hvaw5qn",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6233299/om-eist-celstraffen-van-20-jaar-tot-levenslang-voor-beuningse-vergismoord.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6233297,
+    "slug": "verdachten-overvielen-waardetransport-in-amsterdam-vanwege-geldzorgen",
+    "type": "article",
+    "title": "Verdachten overvielen waardetransport in Amsterdam vanwege geldzorgen",
+    "subtitle": null,
+    "published_at": "2022-10-31T18:11:41+01:00",
+    "updated_at": "2022-10-31T18:11:42+01:00",
+    "media_id": "qt2x4oxaqjxx",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6233297/verdachten-overvielen-waardetransport-in-amsterdam-vanwege-geldzorgen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6233295,
+    "slug": "reizigers-kunnen-langer-compensatie-aanvragen-na-missen-schiphol-vlucht",
+    "type": "article",
+    "title": "Reizigers kunnen langer compensatie aanvragen na missen Schiphol-vlucht",
     "subtitle": null,
     "published_at": "2022-10-31T17:45:20+01:00",
-    "updated_at": "2022-10-31T17:45:21+01:00",
+    "updated_at": "2022-10-31T18:23:29+01:00",
     "media_id": "ivbx0cpaqw75",
     "duration": null,
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6233295/reizigers-kunnen-langer-compensatie-aanvragen-na-missen-van-vlucht-op-schiphol.html",
+    "url": "/economie/6233295/reizigers-kunnen-langer-compensatie-aanvragen-na-missen-schiphol-vlucht.html",
     "open_new_window": false,
     "partner": null
   },
@@ -75,8 +121,8 @@
     "title": "Ajax maakt geen gebruik van koopoptie en stuurt Ihattaren terug naar Juventus",
     "subtitle": null,
     "published_at": "2022-10-31T17:36:52+01:00",
-    "updated_at": "2022-10-31T17:44:37+01:00",
-    "media_id": "gn8x7u5a1q6x",
+    "updated_at": "2022-10-31T18:26:18+01:00",
+    "media_id": "84bx91nazvjv",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -98,7 +144,7 @@
     "title": "Kabinet helpt asielkinderen niet genoeg: 'Elk weekend spannend of elk kind bed heeft'",
     "subtitle": null,
     "published_at": "2022-10-31T17:36:35+01:00",
-    "updated_at": "2022-10-31T17:36:36+01:00",
+    "updated_at": "2022-10-31T18:28:06+01:00",
     "media_id": "kloxrsta4qe3",
     "duration": null,
     "canonical_section": {
@@ -121,7 +167,7 @@
     "title": "23 verdachten van rellen bij geëscaleerd feest in Amstelveen zitten nog vast",
     "subtitle": null,
     "published_at": "2022-10-31T17:34:44+01:00",
-    "updated_at": "2022-10-31T17:34:45+01:00",
+    "updated_at": "2022-10-31T17:58:46+01:00",
     "media_id": "95nxukua7jn9",
     "duration": null,
     "canonical_section": {
@@ -144,7 +190,7 @@
     "title": "Titelverdediger Frankrijk mist Pogba definitief op WK door slepende knieblessure",
     "subtitle": null,
     "published_at": "2022-10-31T17:25:04+01:00",
-    "updated_at": "2022-10-31T17:41:10+01:00",
+    "updated_at": "2022-10-31T17:55:02+01:00",
     "media_id": "cnbxk3yan4mb",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/tech/6233262/groot-aantal-instagram-accounts-plotseling-opgeschort-storing-lijkt-oorzaak.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6233213,
-    "slug": "antwoorden-op-jullie-vragen-over-gp-mexico-flater-ferrari-is-eenmalig",
-    "type": "article",
-    "title": "Antwoorden op jullie vragen over GP Mexico: 'Flater Ferrari is eenmalig'",
-    "subtitle": null,
-    "published_at": "2022-10-31T15:27:23+01:00",
-    "updated_at": "2022-10-31T16:41:20+01:00",
-    "media_id": "mncxvlya19p9",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778846,
-      "slug": "nu-formule-1",
-      "type": "default",
-      "name": "NU+ Formule 1",
-      "style": "nusport",
-      "media_id": "gtmxcxnaui5m",
-      "partner": null
-    },
-    "url": "/nu-formule-1/6233213/antwoorden-op-jullie-vragen-over-gp-mexico-flater-ferrari-is-eenmalig.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6233249,
-    "slug": "hoogzwangere-verbruggen-stopt-met-k3-optredens-en-wordt-tijdelijk-vervangen",
-    "type": "article",
-    "title": "Hoogzwangere Verbruggen stopt met K3-optredens en wordt tijdelijk vervangen",
-    "subtitle": null,
-    "published_at": "2022-10-31T15:21:09+01:00",
-    "updated_at": "2022-10-31T17:46:26+01:00",
-    "media_id": "3lbxdera0z3e",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6233249/hoogzwangere-verbruggen-stopt-met-k3-optredens-en-wordt-tijdelijk-vervangen.html",
     "open_new_window": false,
     "partner": null
   }
