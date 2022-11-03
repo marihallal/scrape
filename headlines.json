@@ -1,5 +1,28 @@
 [
   {
+    "id": 6233790,
+    "slug": "ye-betaalde-schikking-aan-oud-werknemer-voor-antisemitisch-taalgebruik",
+    "type": "article",
+    "title": "Ye betaalde schikking aan oud-werknemer voor antisemitisch taalgebruik",
+    "subtitle": null,
+    "published_at": "2022-11-03T06:05:11+01:00",
+    "updated_at": "2022-11-03T06:06:23+01:00",
+    "media_id": "4rexwb2a94hr",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6233790/ye-betaalde-schikking-aan-oud-werknemer-voor-antisemitisch-taalgebruik.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6233621,
     "slug": "de-winter-komt-eraan-wat-betekent-dat-voor-de-oorlog-in-oekraine",
     "type": "video",
@@ -213,7 +236,7 @@
     "title": "NS verhoogt prijzen, los treinkaartje wordt 5,5 procent duurder",
     "subtitle": null,
     "published_at": "2022-11-03T03:52:16+01:00",
-    "updated_at": "2022-11-03T03:52:17+01:00",
+    "updated_at": "2022-11-03T06:21:29+01:00",
     "media_id": "yc9xg8ea0k7g",
     "duration": null,
     "canonical_section": {
@@ -420,7 +443,7 @@
     "title": "Drie doden door ernstig ongeluk na politieachtervolging bij Kampen",
     "subtitle": null,
     "published_at": "2022-11-02T22:41:29+01:00",
-    "updated_at": "2022-11-03T01:58:55+01:00",
+    "updated_at": "2022-11-03T06:04:34+01:00",
     "media_id": "nlmx14caayk9",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6233778/drie-doden-door-ernstig-ongeluk-na-politieachtervolging-bij-kampen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6233776,
-    "slug": "levenslang-voor-man-die-zeventien-mensen-doodschoot-op-school-florida",
-    "type": "article",
-    "title": "Levenslang voor man die zeventien mensen doodschoot op school Florida",
-    "subtitle": null,
-    "published_at": "2022-11-02T22:04:07+01:00",
-    "updated_at": "2022-11-02T22:09:28+01:00",
-    "media_id": "inyxsfkah1am",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6233776/levenslang-voor-man-die-zeventien-mensen-doodschoot-op-school-florida.html",
     "open_new_window": false,
     "partner": null
   }
