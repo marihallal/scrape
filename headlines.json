@@ -1,5 +1,28 @@
 [
   {
+    "id": 6233946,
+    "slug": "nederland-stopt-exportsteun-fossiele-bedrijven-maar-smokkelt-een-jaar-extra",
+    "type": "article",
+    "title": "Nederland stopt exportsteun fossiele bedrijven, maar smokkelt één jaar extra",
+    "subtitle": null,
+    "published_at": "2022-11-03T18:36:52+01:00",
+    "updated_at": "2022-11-03T18:36:53+01:00",
+    "media_id": "thcx693ae5ur",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772754,
+      "slug": "klimaat",
+      "type": "default",
+      "name": "Klimaat",
+      "style": "nuzakelijk",
+      "media_id": "kf4x3b2agsxg",
+      "partner": null
+    },
+    "url": "/klimaat/6233946/nederland-stopt-exportsteun-fossiele-bedrijven-maar-smokkelt-een-jaar-extra.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6233913,
     "slug": "dit-zijn-de-grote-onzekerheden-van-het-nieuwe-pensioenstelsel",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Kabinet gaat excuses aanbieden voor slavernijverleden",
     "subtitle": null,
     "published_at": "2022-11-03T18:00:59+01:00",
-    "updated_at": "2022-11-03T18:08:25+01:00",
+    "updated_at": "2022-11-03T18:14:07+01:00",
     "media_id": "z5vx07ja2dyp",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Drukste avondspits van het jaar: 1.180 kilometer aan file",
     "subtitle": null,
     "published_at": "2022-11-03T17:46:24+01:00",
-    "updated_at": "2022-11-03T17:46:25+01:00",
+    "updated_at": "2022-11-03T18:33:18+01:00",
     "media_id": "mwux72fal4b1",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6233912/handbalbondscoach-johansson-kan-vanwege-paspoort-nog-niet-afreizen-naar-ek.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6233902,
-    "slug": "bank-of-england-verwacht-langste-recessie-in-bijna-honderd-jaar",
-    "type": "article",
-    "title": "Bank of England verwacht langste recessie in bijna honderd jaar",
-    "subtitle": null,
-    "published_at": "2022-11-03T14:50:59+01:00",
-    "updated_at": "2022-11-03T15:59:07+01:00",
-    "media_id": "f1gxquaargye",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6233902/bank-of-england-verwacht-langste-recessie-in-bijna-honderd-jaar.html",
     "open_new_window": false,
     "partner": null
   }
