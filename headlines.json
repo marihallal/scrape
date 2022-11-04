@@ -1,5 +1,28 @@
 [
   {
+    "id": 6233217,
+    "slug": "flemming-raakte-gemotiveerd-door-pesterijen-het-maakte-me-geen-barst-uit",
+    "type": "article",
+    "title": "FLEMMING raakte gemotiveerd door pesterijen: 'Het maakte me geen barst uit'",
+    "subtitle": null,
+    "published_at": "2022-11-04T12:45:31+01:00",
+    "updated_at": "2022-11-04T12:45:32+01:00",
+    "media_id": "ckbxzt5afhug",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6233217/flemming-raakte-gemotiveerd-door-pesterijen-het-maakte-me-geen-barst-uit.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6234121,
     "slug": "ploegleider-vierhouten-verruilt-team-van-pogacar-voor-oude-werkgever",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Resten van Chinese raket boven Grote Oceaan teruggekeerd in dampkring",
     "subtitle": null,
     "published_at": "2022-11-04T12:32:47+01:00",
-    "updated_at": "2022-11-04T12:32:48+01:00",
+    "updated_at": "2022-11-04T12:42:59+01:00",
     "media_id": "ezgxk1daujpa",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "NASA zet maanraket klaar voor nieuwe lanceerpoging",
     "subtitle": null,
     "published_at": "2022-11-04T12:03:26+01:00",
-    "updated_at": "2022-11-04T12:03:27+01:00",
+    "updated_at": "2022-11-04T12:41:55+01:00",
     "media_id": "44cxdl0a518e",
     "duration": null,
     "canonical_section": {
@@ -116,12 +139,12 @@
   },
   {
     "id": 6234094,
-    "slug": "overheid-moet-optreden-tegen-verkoop-van-filtersigaretten",
+    "slug": "overheid-moet-strenger-optreden-tegen-verkoop-van-filtersigaretten",
     "type": "article",
-    "title": "Overheid moet optreden tegen verkoop van filtersigaretten",
+    "title": "Overheid moet strenger optreden tegen verkoop van filtersigaretten",
     "subtitle": null,
     "published_at": "2022-11-04T11:26:30+01:00",
-    "updated_at": "2022-11-04T12:31:11+01:00",
+    "updated_at": "2022-11-04T12:48:19+01:00",
     "media_id": "0svx6aka3bno",
     "duration": null,
     "canonical_section": {
@@ -133,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6234094/overheid-moet-optreden-tegen-verkoop-van-filtersigaretten.html",
+    "url": "/economie/6234094/overheid-moet-strenger-optreden-tegen-verkoop-van-filtersigaretten.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6234056/sarri-laakt-feyenoord-fans-en-scheidsrechter-na-uitschakeling-lazio-in-el.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6234052,
-    "slug": "nick-cannon-verwacht-twaalfde-kindje-met-alyssa-scott",
-    "type": "article",
-    "title": "Nick Cannon verwacht twaalfde kindje met Alyssa Scott",
-    "subtitle": null,
-    "published_at": "2022-11-04T08:32:22+01:00",
-    "updated_at": "2022-11-04T08:32:23+01:00",
-    "media_id": "q93xk2haaide",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6234052/nick-cannon-verwacht-twaalfde-kindje-met-alyssa-scott.html",
     "open_new_window": false,
     "partner": null
   }
