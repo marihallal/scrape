@@ -1,5 +1,28 @@
 [
   {
+    "id": 6234362,
+    "slug": "rolls-royce-van-freddie-mercury-geveild-voor-ruim-drie-ton-geld-naar-oekraine",
+    "type": "article",
+    "title": "Rolls-Royce van Freddie Mercury geveild voor ruim drie ton, geld naar Oekraïne",
+    "subtitle": null,
+    "published_at": "2022-11-06T00:50:05+01:00",
+    "updated_at": "2022-11-06T00:51:57+01:00",
+    "media_id": "7ipx9dia23vf",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6234362/rolls-royce-van-freddie-mercury-geveild-voor-ruim-drie-ton-geld-naar-oekraine.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6234361,
     "slug": "van-t-wout-stunt-met-wereldbekerwinst-op-1500-meter-in-salt-lake-city",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Emotioneel afscheid Barcelona-icoon Piqué in Camp Nou",
     "subtitle": "In beeld",
     "published_at": "2022-11-05T23:34:16+01:00",
-    "updated_at": "2022-11-05T23:34:16+01:00",
+    "updated_at": "2022-11-06T00:32:55+01:00",
     "media_id": "vi5xe9zao08p",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Frenkie de Jong helpt Barcelona aan zege bij afscheidsduel Piqué in Camp Nou",
     "subtitle": null,
     "published_at": "2022-11-05T22:56:26+01:00",
-    "updated_at": "2022-11-06T00:06:38+01:00",
+    "updated_at": "2022-11-06T00:33:11+01:00",
     "media_id": "ku4xv7yarps5",
     "duration": null,
     "canonical_section": {
@@ -254,12 +277,12 @@
   },
   {
     "id": 6234347,
-    "slug": "de-roon-maakt-rentree-bij-atalanta-giroud-krijgt-rood-na-winnende-goal",
+    "slug": "de-roon-maakt-rentree-bij-atalanta-scorende-giroud-krijgt-rood-na-uittrekken-shirt",
     "type": "article",
-    "title": "De Roon maakt rentree bij Atalanta, Giroud krijgt rood na winnende goal",
+    "title": "De Roon maakt rentree bij Atalanta, scorende Giroud krijgt rood na uittrekken shirt",
     "subtitle": null,
     "published_at": "2022-11-05T20:02:48+01:00",
-    "updated_at": "2022-11-05T23:52:07+01:00",
+    "updated_at": "2022-11-06T00:41:22+01:00",
     "media_id": "101xwa2asfby",
     "duration": null,
     "canonical_section": {
@@ -271,7 +294,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6234347/de-roon-maakt-rentree-bij-atalanta-giroud-krijgt-rood-na-winnende-goal.html",
+    "url": "/voetbal/6234347/de-roon-maakt-rentree-bij-atalanta-scorende-giroud-krijgt-rood-na-uittrekken-shirt.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6234335/forest-green-rovers-aanvaller-schiet-in-fa-cup-vanaf-50-meter-raak.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6234332,
-    "slug": "twee-doden-en-twee-gewonden-na-steekpartij-in-psychiatrische-kliniek-in-balkbrug",
-    "type": "article",
-    "title": "Twee doden en twee gewonden na steekpartij in psychiatrische kliniek in Balkbrug",
-    "subtitle": null,
-    "published_at": "2022-11-05T17:49:39+01:00",
-    "updated_at": "2022-11-05T22:22:59+01:00",
-    "media_id": "aw7x00habrvs",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6234332/twee-doden-en-twee-gewonden-na-steekpartij-in-psychiatrische-kliniek-in-balkbrug.html",
     "open_new_window": false,
     "partner": null
   }
