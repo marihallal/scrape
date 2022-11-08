@@ -1,12 +1,35 @@
 [
   {
+    "id": 6234861,
+    "slug": "productie-van-laatste-serie-met-aaron-carter-gaat-door-ter-ere-van-aaron",
+    "type": "article",
+    "title": "Productie van laatste serie met Aaron Carter gaat door 'ter ere van Aaron'",
+    "subtitle": null,
+    "published_at": "2022-11-08T18:47:16+01:00",
+    "updated_at": "2022-11-08T18:47:17+01:00",
+    "media_id": "73zxzpaab7cx",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6234861/productie-van-laatste-serie-met-aaron-carter-gaat-door-ter-ere-van-aaron.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6234863,
     "slug": "oranje-stuit-tijdens-wk-definitief-op-ecuador-na-uitspraak-sporttribunaal-cas",
     "type": "article",
     "title": "Oranje stuit tijdens WK definitief op Ecuador na uitspraak sporttribunaal CAS",
     "subtitle": null,
     "published_at": "2022-11-08T18:41:30+01:00",
-    "updated_at": "2022-11-08T18:41:31+01:00",
+    "updated_at": "2022-11-08T18:49:29+01:00",
     "media_id": "dq1xsyza07ld",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/schaatsen/6234828/schaatssensatie-westenbroek-mist-eerste-wereldbekerwedstrijd-door-teenblessure.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6234816,
-    "slug": "wada-stapt-naar-cas-om-straf-voor-positief-geteste-valieva-openbaar-te-maken",
-    "type": "article",
-    "title": "WADA stapt naar CAS om straf voor positief geteste Valieva openbaar te maken",
-    "subtitle": null,
-    "published_at": "2022-11-08T15:20:40+01:00",
-    "updated_at": "2022-11-08T15:20:41+01:00",
-    "media_id": "p5mx801aj05q",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772452,
-      "slug": "schaatsen",
-      "type": "default",
-      "name": "Schaatsen",
-      "style": "nusport",
-      "media_id": "5ktx9n6axubw",
-      "partner": null
-    },
-    "url": "/schaatsen/6234816/wada-stapt-naar-cas-om-straf-voor-positief-geteste-valieva-openbaar-te-maken.html",
     "open_new_window": false,
     "partner": null
   }
