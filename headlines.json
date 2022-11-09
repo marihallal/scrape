@@ -1,12 +1,35 @@
 [
   {
+    "id": 6235110,
+    "slug": "wk-kandidaat-lang-redt-club-brugge-met-twee-goals-in-verlenging-tegen-amateurs",
+    "type": "article",
+    "title": "WK-kandidaat Lang redt Club Brugge met twee goals in verlenging tegen amateurs",
+    "subtitle": null,
+    "published_at": "2022-11-09T23:49:46+01:00",
+    "updated_at": "2022-11-09T23:49:47+01:00",
+    "media_id": "m3fx6t7a9seb",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6235110/wk-kandidaat-lang-redt-club-brugge-met-twee-goals-in-verlenging-tegen-amateurs.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6235109,
     "slug": "arsenal-en-tottenham-sneuvelen-direct-in-league-cup-city-schakelt-chelsea-uit",
     "type": "article",
     "title": "Arsenal en Tottenham sneuvelen direct in League Cup, City schakelt Chelsea uit",
     "subtitle": null,
     "published_at": "2022-11-09T23:20:42+01:00",
-    "updated_at": "2022-11-09T23:20:51+01:00",
+    "updated_at": "2022-11-09T23:24:13+01:00",
     "media_id": "16rxescaw69c",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Schreuder baalt van 'ongeconcentreerde' Ajax-defensie: 'Hadden dik moeten winnen'",
     "subtitle": null,
     "published_at": "2022-11-09T22:56:56+01:00",
-    "updated_at": "2022-11-09T23:01:14+01:00",
+    "updated_at": "2022-11-09T23:27:59+01:00",
     "media_id": "k55xsgzafcko",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Handbalsters kunnen op EK niet verrassen tegen olympisch kampioen Frankrijk",
     "subtitle": null,
     "published_at": "2022-11-09T22:07:37+01:00",
-    "updated_at": "2022-11-09T22:20:59+01:00",
+    "updated_at": "2022-11-09T23:29:57+01:00",
     "media_id": "9akx2rdal0es",
     "duration": null,
     "canonical_section": {
@@ -121,7 +144,7 @@
     "title": "Ajax stelt ook teleur tegen laagvlieger Vitesse en verzuimt koppositie te heroveren",
     "subtitle": null,
     "published_at": "2022-11-09T21:56:54+01:00",
-    "updated_at": "2022-11-09T22:27:29+01:00",
+    "updated_at": "2022-11-09T23:45:12+01:00",
     "media_id": "dqmxf2rava2p",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wk-voetbal/6235090/bale-mag-op-wk-niet-golfen-van-bondscoach-het-schema-is-meedogenloos.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6235055,
-    "slug": "fiji-verhuist-hele-dorpen-wat-is-er-aan-de-hand",
-    "type": "video",
-    "title": "Fiji verhuist hele dorpen, wat is er aan de hand?",
-    "subtitle": "Video",
-    "published_at": "2022-11-09T19:41:24+01:00",
-    "updated_at": "2022-11-09T20:15:21+01:00",
-    "media_id": "nn6xv9ba9uzs",
-    "duration": "2:07",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6235055/fiji-verhuist-hele-dorpen-wat-is-er-aan-de-hand.html",
     "open_new_window": false,
     "partner": null
   }
