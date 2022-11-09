@@ -1,12 +1,35 @@
 [
   {
+    "id": 6235089,
+    "slug": "ajax-kan-koppositie-heroveren-in-duel-met-vitesse",
+    "type": "article",
+    "title": "Ajax kan koppositie heroveren in duel met Vitesse",
+    "subtitle": "Liveblog Eredivisie",
+    "published_at": "2022-11-09T19:29:54+01:00",
+    "updated_at": "2022-11-09T19:29:55+01:00",
+    "media_id": "6q2xxr2ajrto",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6235089/ajax-kan-koppositie-heroveren-in-duel-met-vitesse.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6235077,
     "slug": "ajax-begint-met-klaassen-wijndal-en-kudus-tegen-vitesse-brobbey-op-de-bank",
     "type": "article",
     "title": "Ajax begint met Klaassen, Wijndal en Kudus tegen Vitesse, Brobbey op de bank",
     "subtitle": null,
     "published_at": "2022-11-09T18:47:04+01:00",
-    "updated_at": "2022-11-09T18:48:59+01:00",
+    "updated_at": "2022-11-09T19:16:20+01:00",
     "media_id": "vqzxo0hagzaa",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Handbiker Schipper verbetert werelduurrecord en rijdt Plat uit de boeken",
     "subtitle": null,
     "published_at": "2022-11-09T18:33:12+01:00",
-    "updated_at": "2022-11-09T18:35:46+01:00",
+    "updated_at": "2022-11-09T19:12:45+01:00",
     "media_id": "f2tx2r8acr4t",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/algemeen/6235016/de-rode-golf-blijft-uit-wat-betekent-dat-voor-de-vs.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6234995,
-    "slug": "zwangere-van-den-broek-blaak-mist-deel-van-komend-wielerseizoen",
-    "type": "article",
-    "title": "Zwangere Van den Broek-Blaak mist deel van komend wielerseizoen",
-    "subtitle": null,
-    "published_at": "2022-11-09T14:28:21+01:00",
-    "updated_at": "2022-11-09T16:24:53+01:00",
-    "media_id": "vqwxi29ajl6x",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6234995/zwangere-van-den-broek-blaak-mist-deel-van-komend-wielerseizoen.html",
     "open_new_window": false,
     "partner": null
   }
