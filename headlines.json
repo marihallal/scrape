@@ -1,12 +1,35 @@
 [
   {
-    "id": 6235110,
-    "slug": "wk-kandidaat-lang-redt-club-brugge-met-twee-goals-in-verlenging-tegen-amateurs",
+    "id": 6235111,
+    "slug": "groningen-spits-pepi-ontbreekt-in-wk-selectie-vs-onana-in-selectie-kameroen",
     "type": "article",
-    "title": "WK-kandidaat Lang redt Club Brugge met twee goals in verlenging tegen amateurs",
+    "title": "Groningen-spits Pepi ontbreekt in WK-selectie VS, Onana in selectie Kameroen",
+    "subtitle": null,
+    "published_at": "2022-11-10T00:11:15+01:00",
+    "updated_at": "2022-11-10T00:18:31+01:00",
+    "media_id": "kd6x91marjyd",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772307,
+      "slug": "wk-voetbal",
+      "type": "files",
+      "name": "WK voetbal",
+      "style": "nusport",
+      "media_id": "m1mxoqoan7eu",
+      "partner": null
+    },
+    "url": "/wk-voetbal/6235111/groningen-spits-pepi-ontbreekt-in-wk-selectie-vs-onana-in-selectie-kameroen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6235110,
+    "slug": "wk-kandidaat-lang-redt-club-brugge-met-goals-in-verlenging-tegen-amateurs",
+    "type": "article",
+    "title": "WK-kandidaat Lang redt Club Brugge met goals in verlenging tegen amateurs",
     "subtitle": null,
     "published_at": "2022-11-09T23:49:46+01:00",
-    "updated_at": "2022-11-09T23:49:47+01:00",
+    "updated_at": "2022-11-10T00:14:40+01:00",
     "media_id": "m3fx6t7a9seb",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6235110/wk-kandidaat-lang-redt-club-brugge-met-twee-goals-in-verlenging-tegen-amateurs.html",
+    "url": "/voetbal/6235110/wk-kandidaat-lang-redt-club-brugge-met-goals-in-verlenging-tegen-amateurs.html",
     "open_new_window": false,
     "partner": null
   },
@@ -144,7 +167,7 @@
     "title": "Ajax stelt ook teleur tegen laagvlieger Vitesse en verzuimt koppositie te heroveren",
     "subtitle": null,
     "published_at": "2022-11-09T21:56:54+01:00",
-    "updated_at": "2022-11-09T23:45:12+01:00",
+    "updated_at": "2022-11-10T00:02:57+01:00",
     "media_id": "dqmxf2rava2p",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6235093/reacties-na-nipte-nederlaag-nederland-tegen-frankrijk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6235090,
-    "slug": "bale-mag-op-wk-niet-golfen-van-bondscoach-het-schema-is-meedogenloos",
-    "type": "article",
-    "title": "Bale mag op WK niet golfen van bondscoach: 'Het schema is meedogenloos'",
-    "subtitle": null,
-    "published_at": "2022-11-09T19:46:43+01:00",
-    "updated_at": "2022-11-09T20:26:45+01:00",
-    "media_id": "qrix5laa32pk",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772307,
-      "slug": "wk-voetbal",
-      "type": "files",
-      "name": "WK voetbal",
-      "style": "nusport",
-      "media_id": "m1mxoqoan7eu",
-      "partner": null
-    },
-    "url": "/wk-voetbal/6235090/bale-mag-op-wk-niet-golfen-van-bondscoach-het-schema-is-meedogenloos.html",
     "open_new_window": false,
     "partner": null
   }
