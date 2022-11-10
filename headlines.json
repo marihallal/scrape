@@ -1,12 +1,58 @@
 [
   {
+    "id": 6235203,
+    "slug": "memoires-overleden-aaron-carter-verschijnen-dinsdag",
+    "type": "article",
+    "title": "Memoires overleden Aaron Carter verschijnen dinsdag",
+    "subtitle": null,
+    "published_at": "2022-11-10T12:48:53+01:00",
+    "updated_at": "2022-11-10T12:48:54+01:00",
+    "media_id": "vp9xjxxakt71",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772075,
+      "slug": "cultuur-overig",
+      "type": "default",
+      "name": "Boek & Cultuur",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/cultuur-overig/6235203/memoires-overleden-aaron-carter-verschijnen-dinsdag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6235209,
+    "slug": "problemen-bij-rechtbanken-en-gemeenten-door-landelijke-internetstoring",
+    "type": "article",
+    "title": "Problemen bij rechtbanken en gemeenten door landelijke internetstoring",
+    "subtitle": null,
+    "published_at": "2022-11-10T12:39:54+01:00",
+    "updated_at": "2022-11-10T12:40:12+01:00",
+    "media_id": "2crxensayu6y",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6235209/problemen-bij-rechtbanken-en-gemeenten-door-landelijke-internetstoring.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6235208,
     "slug": "teruggekeerde-ziyech-met-marokko-naar-wk-ook-mazraoui-geselecteerd",
     "type": "article",
     "title": "Teruggekeerde Ziyech met Marokko naar WK, ook Mazraoui geselecteerd",
     "subtitle": null,
     "published_at": "2022-11-10T12:36:36+01:00",
-    "updated_at": "2022-11-10T12:36:37+01:00",
+    "updated_at": "2022-11-10T12:49:32+01:00",
     "media_id": "rv3xvkwanow2",
     "duration": null,
     "canonical_section": {
@@ -98,7 +144,7 @@
     "title": "Ziggo heeft vanaf 2024 exclusief alle uitzendrechten van Europees voetbal",
     "subtitle": null,
     "published_at": "2022-11-10T12:15:51+01:00",
-    "updated_at": "2022-11-10T12:24:37+01:00",
+    "updated_at": "2022-11-10T12:41:44+01:00",
     "media_id": "iovxhbrayl3r",
     "duration": null,
     "canonical_section": {
@@ -144,7 +190,7 @@
     "title": "Lukaku ondanks blessure opgenomen in WK-selectie van België",
     "subtitle": null,
     "published_at": "2022-11-10T12:09:32+01:00",
-    "updated_at": "2022-11-10T12:09:33+01:00",
+    "updated_at": "2022-11-10T12:44:31+01:00",
     "media_id": "vfgxvawaikx9",
     "duration": null,
     "canonical_section": {
@@ -282,7 +328,7 @@
     "title": "Grote overname in cryptoland klapt, cryptokoersen onder druk",
     "subtitle": null,
     "published_at": "2022-11-10T11:07:56+01:00",
-    "updated_at": "2022-11-10T11:48:41+01:00",
+    "updated_at": "2022-11-10T12:47:29+01:00",
     "media_id": "0guxy75ak234",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/wetenschap/6235085/hartziekten-bij-vrouwen-met-migratieachtergrond-de-kennis-blijft-achter.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6235139,
-    "slug": "peter-gillis-mag-geen-nieuwe-chalets-bouwen-om-arbeidsmigranten-te-huisvesten",
-    "type": "article",
-    "title": "Peter Gillis mag geen nieuwe chalets bouwen om arbeidsmigranten te huisvesten",
-    "subtitle": null,
-    "published_at": "2022-11-10T10:03:08+01:00",
-    "updated_at": "2022-11-10T10:03:09+01:00",
-    "media_id": "2bpxdykapn5w",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6235139/peter-gillis-mag-geen-nieuwe-chalets-bouwen-om-arbeidsmigranten-te-huisvesten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6235153,
-    "slug": "britse-kustwacht-vist-drenkelingen-na-uur-uit-water-bij-jersey",
-    "type": "video",
-    "title": "Britse kustwacht vist drenkelingen na uur uit water bij Jersey",
-    "subtitle": "Video",
-    "published_at": "2022-11-10T09:49:42+01:00",
-    "updated_at": "2022-11-10T09:49:43+01:00",
-    "media_id": "qy4xijmazxbk",
-    "duration": "0:47",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6235153/britse-kustwacht-vist-drenkelingen-na-uur-uit-water-bij-jersey.html",
     "open_new_window": false,
     "partner": null
   }
