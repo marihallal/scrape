@@ -1,5 +1,28 @@
 [
   {
+    "id": 6235973,
+    "slug": "amnesty-demonstratierecht-staat-in-nederland-onder-druk",
+    "type": "article",
+    "title": "Amnesty: Demonstratierecht staat in Nederland onder druk",
+    "subtitle": null,
+    "published_at": "2022-11-14T00:48:38+01:00",
+    "updated_at": "2022-11-14T00:48:39+01:00",
+    "media_id": "jy4xlbyab0zq",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6235973/amnesty-demonstratierecht-staat-in-nederland-onder-druk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6235540,
     "slug": "chinese-import-in-nederland-neemt-toe",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport/6235952/verstappen-botst-met-hamilton-bij-herstart-van-race-in-brazilie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6235951,
-    "slug": "union-berlin-gaat-opnieuw-hard-onderuit-en-verliest-tweede-plek-aan-freiburg",
-    "type": "article",
-    "title": "Union Berlin gaat opnieuw hard onderuit en verliest tweede plek aan Freiburg",
-    "subtitle": null,
-    "published_at": "2022-11-13T19:33:08+01:00",
-    "updated_at": "2022-11-13T20:06:55+01:00",
-    "media_id": "d29x1ikagmem",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6235951/union-berlin-gaat-opnieuw-hard-onderuit-en-verliest-tweede-plek-aan-freiburg.html",
     "open_new_window": false,
     "partner": null
   }
