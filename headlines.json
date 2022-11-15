@@ -1,5 +1,28 @@
 [
   {
+    "id": 6236400,
+    "slug": "oranjevrouwen-sluiten-bewogen-2022-af-met-oefenzege-op-denemarken",
+    "type": "article",
+    "title": "Oranjevrouwen sluiten bewogen 2022 af met oefenzege op Denemarken",
+    "subtitle": null,
+    "published_at": "2022-11-15T21:50:24+01:00",
+    "updated_at": "2022-11-15T21:50:25+01:00",
+    "media_id": "6eixde3ahiav",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6236400/oranjevrouwen-sluiten-bewogen-2022-af-met-oefenzege-op-denemarken.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6236398,
     "slug": "wattimena-naar-knock-outfase-grand-slam-of-darts-na-zege-in-derde-groepsduel",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Twee Russische raketten treffen grensgebied in NAVO-lidstaat Polen",
     "subtitle": null,
     "published_at": "2022-11-15T20:00:56+01:00",
-    "updated_at": "2022-11-15T21:12:59+01:00",
+    "updated_at": "2022-11-15T21:49:38+01:00",
     "media_id": "f88xfxca3zqg",
     "duration": null,
     "canonical_section": {
@@ -93,12 +116,12 @@
   },
   {
     "id": 6236379,
-    "slug": "geemotioneerde-beerensteyn-verdubbelt-voorsprong",
+    "slug": "sterke-oranjevrouwen-op-2-0-voorsprong-tegen-denemarken",
     "type": "article",
-    "title": "Geëmotioneerde Beerensteyn verdubbelt voorsprong",
+    "title": "Sterke Oranjevrouwen op 2-0-voorsprong tegen Denemarken",
     "subtitle": "Liveblog voetbal",
     "published_at": "2022-11-15T19:34:32+01:00",
-    "updated_at": "2022-11-15T21:23:21+01:00",
+    "updated_at": "2022-11-15T21:31:52+01:00",
     "media_id": "0x3xuhlavwso",
     "duration": null,
     "canonical_section": {
@@ -110,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6236379/geemotioneerde-beerensteyn-verdubbelt-voorsprong.html",
+    "url": "/voetbal/6236379/sterke-oranjevrouwen-op-2-0-voorsprong-tegen-denemarken.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/politiek/6236352/kamer-ziet-niets-in-politiek-debat-over-kwestie-arib-met-kamervoorzitter-bergkamp.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6236355,
-    "slug": "vader-en-zoon-bouwen-huis-van-piepschuim-in-deventer",
-    "type": "video",
-    "title": "Vader en zoon bouwen huis van piepschuim in Deventer",
-    "subtitle": "Video",
-    "published_at": "2022-11-15T17:19:44+01:00",
-    "updated_at": "2022-11-15T17:19:45+01:00",
-    "media_id": "621xrvsa6v4b",
-    "duration": "0:56",
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6236355/vader-en-zoon-bouwen-huis-van-piepschuim-in-deventer.html",
     "open_new_window": false,
     "partner": null
   }
