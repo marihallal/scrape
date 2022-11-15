@@ -1,5 +1,28 @@
 [
   {
+    "id": 6236199,
+    "slug": "marieke-elsinga-is-bevallen-van-een-zoon",
+    "type": "article",
+    "title": "Marieke Elsinga is bevallen van een zoon",
+    "subtitle": null,
+    "published_at": "2022-11-15T08:23:15+01:00",
+    "updated_at": "2022-11-15T08:31:45+01:00",
+    "media_id": "7i5xawmawae7",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6236199/marieke-elsinga-is-bevallen-van-een-zoon.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6236194,
     "slug": "zo-verliep-de-laatste-training-van-oranje-op-nederlandse-bodem",
     "type": "video",
@@ -116,12 +139,12 @@
   },
   {
     "id": 6236187,
-    "slug": "vrouw-die-schade-aan-huis-opliep-door-crash-anne-heche-eist-vergoeding",
+    "slug": "vrouw-die-door-crash-anne-heche-schade-aan-huis-opliep-eist-vergoeding",
     "type": "article",
-    "title": "Vrouw die schade aan huis opliep door crash Anne Heche eist vergoeding",
+    "title": "Vrouw die door crash Anne Heche schade aan huis opliep eist vergoeding",
     "subtitle": null,
     "published_at": "2022-11-15T06:57:16+01:00",
-    "updated_at": "2022-11-15T07:03:41+01:00",
+    "updated_at": "2022-11-15T08:32:43+01:00",
     "media_id": "3skxp9iayv90",
     "duration": null,
     "canonical_section": {
@@ -133,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/achterklap/6236187/vrouw-die-schade-aan-huis-opliep-door-crash-anne-heche-eist-vergoeding.html",
+    "url": "/achterklap/6236187/vrouw-die-door-crash-anne-heche-schade-aan-huis-opliep-eist-vergoeding.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/cultuur-overig/6236182/kunstwerk-van-piet-mondriaan-geveild-voor-recordbedrag-van-51-miljoen-dollar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6236181,
-    "slug": "chimpansees-laten-net-als-mensen-objecten-zien-om-ervaringen-te-delen",
-    "type": "article",
-    "title": "Chimpansees laten net als mensen objecten zien om ervaringen te delen",
-    "subtitle": null,
-    "published_at": "2022-11-15T03:36:12+01:00",
-    "updated_at": "2022-11-15T07:21:54+01:00",
-    "media_id": "q3zxul6a4hha",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772536,
-      "slug": "dieren",
-      "type": "default",
-      "name": "Dieren",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/dieren/6236181/chimpansees-laten-net-als-mensen-objecten-zien-om-ervaringen-te-delen.html",
     "open_new_window": false,
     "partner": null
   }
