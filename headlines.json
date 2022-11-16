@@ -1,5 +1,28 @@
 [
   {
+    "id": 6236508,
+    "slug": "van-gaal-over-keuze-rugnummer-1-voor-pasveer-dat-heeft-te-maken-met-leeftijd",
+    "type": "article",
+    "title": "Van Gaal over keuze rugnummer 1 voor Pasveer: 'Dat heeft te maken met leeftijd'",
+    "subtitle": null,
+    "published_at": "2022-11-16T12:47:44+01:00",
+    "updated_at": "2022-11-16T12:47:45+01:00",
+    "media_id": "lrix8z5a56ku",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772307,
+      "slug": "wk-voetbal",
+      "type": "files",
+      "name": "WK voetbal",
+      "style": "nusport",
+      "media_id": "m1mxoqoan7eu",
+      "partner": null
+    },
+    "url": "/wk-voetbal/6236508/van-gaal-over-keuze-rugnummer-1-voor-pasveer-dat-heeft-te-maken-met-leeftijd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6236337,
     "slug": "grootste-uitstoter-china-houdt-zichzelf-uit-de-wind-op-klimaattop-egypte",
     "type": "article",
@@ -236,7 +259,7 @@
     "title": "Oranje meldt zich met complete selectie voor eerste training in warm Doha",
     "subtitle": null,
     "published_at": "2022-11-16T11:11:25+01:00",
-    "updated_at": "2022-11-16T12:04:04+01:00",
+    "updated_at": "2022-11-16T12:51:10+01:00",
     "media_id": "ox0xf6ga3ed6",
     "duration": null,
     "canonical_section": {
@@ -282,7 +305,7 @@
     "title": "Aanval of ongeluk? Wat we nu (nog niet) weten over de raketinslag in Polen",
     "subtitle": null,
     "published_at": "2022-11-16T11:01:40+01:00",
-    "updated_at": "2022-11-16T11:46:44+01:00",
+    "updated_at": "2022-11-16T12:44:09+01:00",
     "media_id": "f88xfxca3zqg",
     "duration": null,
     "canonical_section": {
@@ -351,7 +374,7 @@
     "title": "Oranje maakt kennis met Qatarese hitte: 'Geen voordeel voor ons als kikkerland'",
     "subtitle": null,
     "published_at": "2022-11-16T10:41:52+01:00",
-    "updated_at": "2022-11-16T12:04:20+01:00",
+    "updated_at": "2022-11-16T12:49:26+01:00",
     "media_id": "508xfbqa116n",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/film/6236451/disney-gaat-derde-the-princess-diaries-film-maken.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6236463,
-    "slug": "bodycam-filmt-hoe-politie-vrouw-uit-brandende-auto-redt-in-vs",
-    "type": "video",
-    "title": "Bodycam filmt hoe politie vrouw uit brandende auto redt in VS",
-    "subtitle": "Video",
-    "published_at": "2022-11-16T10:16:05+01:00",
-    "updated_at": "2022-11-16T10:16:06+01:00",
-    "media_id": "yrwxj6layzq7",
-    "duration": "0:49",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6236463/bodycam-filmt-hoe-politie-vrouw-uit-brandende-auto-redt-in-vs.html",
     "open_new_window": false,
     "partner": null
   }
