@@ -1,5 +1,51 @@
 [
   {
+    "id": 6237231,
+    "slug": "zakenman-van-den-nieuwenhuyzen-hoeft-door-fout-om-geen-13-miljoen-te-betalen",
+    "type": "article",
+    "title": "Zakenman Van den Nieuwenhuyzen hoeft door fout OM geen 13 miljoen te betalen",
+    "subtitle": null,
+    "published_at": "2022-11-19T17:48:39+01:00",
+    "updated_at": "2022-11-19T17:52:15+01:00",
+    "media_id": "csoxqn5a2ltx",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6237231/zakenman-van-den-nieuwenhuyzen-hoeft-door-fout-om-geen-13-miljoen-te-betalen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6236961,
+    "slug": "verstappen-gaat-eenvoudige-overwinning-boeken-in-abu-dhabi",
+    "type": "article",
+    "title": "'Verstappen gaat eenvoudige overwinning boeken in Abu Dhabi'",
+    "subtitle": "Voorspelling F1",
+    "published_at": "2022-11-19T17:47:36+01:00",
+    "updated_at": "2022-11-19T17:53:05+01:00",
+    "media_id": "3acxpf2aqphj",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Grand Prix van Abu Dhabi",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6236961/verstappen-gaat-eenvoudige-overwinning-boeken-in-abu-dhabi.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6237228,
     "slug": "treinreizigers-rijden-vlak-langs-gasexplosie-in-rusland",
     "type": "video",
@@ -29,7 +75,7 @@
     "title": "Politie doet onderzoek naar belemmeren demonstratie KOZP in Staphorst, veel aangiftes",
     "subtitle": null,
     "published_at": "2022-11-19T17:31:23+01:00",
-    "updated_at": "2022-11-19T17:31:24+01:00",
+    "updated_at": "2022-11-19T17:38:14+01:00",
     "media_id": "bp4xw0wat3ma",
     "duration": null,
     "canonical_section": {
@@ -52,7 +98,7 @@
     "title": "Femke Bol na topseizoen ook tot Nederlands atleet van het jaar verkozen",
     "subtitle": null,
     "published_at": "2022-11-19T17:28:32+01:00",
-    "updated_at": "2022-11-19T17:32:17+01:00",
+    "updated_at": "2022-11-19T17:33:25+01:00",
     "media_id": "ciaxo7uaiu0o",
     "duration": null,
     "canonical_section": {
@@ -141,10 +187,10 @@
     "id": 6237219,
     "slug": "fifa-baas-haalt-uit-naar-europa-kijk-naar-je-eigen-verleden",
     "type": "video",
-    "title": "FIFA-baas haalt uit naar Europa: ‘Kijk naar je eigen verleden’",
+    "title": "FIFA-baas haalt uit naar Europa: 'Kijk naar je eigen verleden'",
     "subtitle": "Video",
     "published_at": "2022-11-19T16:19:31+01:00",
-    "updated_at": "2022-11-19T16:43:00+01:00",
+    "updated_at": "2022-11-19T17:44:03+01:00",
     "media_id": "80lxe9paoreh",
     "duration": "1:11",
     "canonical_section": {
@@ -167,7 +213,7 @@
     "title": "Verstappen pakt pole voor slotrace in Abu Dhabi, teamgenoot Pérez tweede",
     "subtitle": null,
     "published_at": "2022-11-19T16:05:24+01:00",
-    "updated_at": "2022-11-19T16:13:46+01:00",
+    "updated_at": "2022-11-19T17:53:22+01:00",
     "media_id": "7rvxmcia5wqb",
     "duration": null,
     "canonical_section": {
@@ -190,7 +236,7 @@
     "title": "Roest maakt indruk met nieuw baanrecord op 5 kilometer in Heerenveen",
     "subtitle": null,
     "published_at": "2022-11-19T15:59:31+01:00",
-    "updated_at": "2022-11-19T17:17:34+01:00",
+    "updated_at": "2022-11-19T17:36:03+01:00",
     "media_id": "p43xv7gapsql",
     "duration": null,
     "canonical_section": {
@@ -213,7 +259,7 @@
     "title": "Rijpma-de Jong schaatst in Thialf naar eerste wereldbekerzege op 1.500 meter",
     "subtitle": null,
     "published_at": "2022-11-19T15:26:01+01:00",
-    "updated_at": "2022-11-19T15:38:01+01:00",
+    "updated_at": "2022-11-19T17:39:59+01:00",
     "media_id": "6mjxkxoake67",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/wk-voetbal/6237193/bondscoach-qatar-wuift-omkopingsgerucht-weg-niemand-brengt-ons-van-de-wijs.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6237190,
-    "slug": "vettel-imponeerde-oud-teambazen-hij-kwam-binnen-met-een-raar-kapsel",
-    "type": "article",
-    "title": "Vettel imponeerde oud-teambazen: 'Hij kwam binnen met een raar kapsel'",
-    "subtitle": "NU+",
-    "published_at": "2022-11-19T13:41:12+01:00",
-    "updated_at": "2022-11-19T17:10:06+01:00",
-    "media_id": "6t2xgfna7iwn",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Grand Prix van Abu Dhabi",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6237190/vettel-imponeerde-oud-teambazen-hij-kwam-binnen-met-een-raar-kapsel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6237186,
-    "slug": "npo-komt-met-actieplan-na-berichten-over-grensoverschrijdend-gedrag",
-    "type": "article",
-    "title": "NPO komt met actieplan na berichten over grensoverschrijdend gedrag",
-    "subtitle": null,
-    "published_at": "2022-11-19T13:28:38+01:00",
-    "updated_at": "2022-11-19T14:51:07+01:00",
-    "media_id": "y1axttfatwqw",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6237186/npo-komt-met-actieplan-na-berichten-over-grensoverschrijdend-gedrag.html",
     "open_new_window": false,
     "partner": null
   }
