@@ -1,5 +1,28 @@
 [
   {
+    "id": 6237407,
+    "slug": "liefdesbrieven-bob-dylan-geveild-voor-meer-dan-half-miljoen-dollar",
+    "type": "article",
+    "title": "Liefdesbrieven Bob Dylan geveild voor meer dan half miljoen dollar",
+    "subtitle": null,
+    "published_at": "2022-11-21T00:50:05+01:00",
+    "updated_at": "2022-11-21T00:50:08+01:00",
+    "media_id": "i1uxa6zay9fw",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6237407/liefdesbrieven-bob-dylan-geveild-voor-meer-dan-half-miljoen-dollar.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6237092,
     "slug": "we-betalen-meer-energiebelasting-en-brandstofaccijns",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6237353/hogere-temperaturen-gaan-samen-met-regenbuien.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6237376,
-    "slug": "zeldzame-nederlaag-zette-schouten-op-scherp-baanrecord-dankzij-wiklund",
-    "type": "article",
-    "title": "Zeldzame nederlaag zette Schouten op scherp: 'Baanrecord dankzij Wiklund'",
-    "subtitle": null,
-    "published_at": "2022-11-20T18:16:51+01:00",
-    "updated_at": "2022-11-20T18:53:17+01:00",
-    "media_id": "orqx2rjaen8n",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772452,
-      "slug": "schaatsen",
-      "type": "default",
-      "name": "Schaatsen",
-      "style": "nusport",
-      "media_id": "5ktx9n6axubw",
-      "partner": null
-    },
-    "url": "/schaatsen/6237376/zeldzame-nederlaag-zette-schouten-op-scherp-baanrecord-dankzij-wiklund.html",
     "open_new_window": false,
     "partner": null
   }
