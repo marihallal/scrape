@@ -1,5 +1,28 @@
 [
   {
+    "id": 6237295,
+    "slug": "benzema-reageert-op-mislopen-wk-door-blessure-moet-aan-het-team-denken",
+    "type": "article",
+    "title": "Benzema reageert op mislopen WK door blessure: 'Moet aan het team denken'",
+    "subtitle": null,
+    "published_at": "2022-11-20T08:51:29+01:00",
+    "updated_at": "2022-11-20T08:51:31+01:00",
+    "media_id": "0hlx2r4azxvk",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772307,
+      "slug": "wk-voetbal",
+      "type": "files",
+      "name": "WK voetbal",
+      "style": "nusport",
+      "media_id": "m1mxoqoan7eu",
+      "partner": null
+    },
+    "url": "/wk-voetbal/6237295/benzema-reageert-op-mislopen-wk-door-blessure-moet-aan-het-team-denken.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6237204,
     "slug": "we-volgen-de-regels-in-qatar-maar-dit-was-intimidatie",
     "type": "article",
@@ -346,12 +369,12 @@
   },
   {
     "id": 6237267,
-    "slug": "waarom-we-niet-exact-weten-hoeveel-doden-er-vielen-bij-bouw-wk-stadions",
+    "slug": "waarom-we-niet-weten-hoeveel-doden-er-vielen-bij-bouw-wk-stadions",
     "type": "video",
-    "title": "Waarom we niet exact weten hoeveel doden er vielen bij bouw WK-stadions",
+    "title": "Waarom we niet weten hoeveel doden er vielen bij bouw WK-stadions",
     "subtitle": "Video",
     "published_at": "2022-11-20T04:57:01+01:00",
-    "updated_at": "2022-11-20T08:28:06+01:00",
+    "updated_at": "2022-11-20T09:04:29+01:00",
     "media_id": "8oxxayfa81fl",
     "duration": "2:27",
     "canonical_section": {
@@ -363,7 +386,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/algemeen/6237267/waarom-we-niet-exact-weten-hoeveel-doden-er-vielen-bij-bouw-wk-stadions.html",
+    "url": "/algemeen/6237267/waarom-we-niet-weten-hoeveel-doden-er-vielen-bij-bouw-wk-stadions.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tech/6237280/elon-musk-kondigt-aan-dat-trump-mag-terugkeren-op-twitter.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6237279,
-    "slug": "turkije-bombardeert-dorpen-in-syrie-ter-vergelding-van-aanslag-in-istanboel",
-    "type": "article",
-    "title": "Turkije bombardeert dorpen in Syrië 'ter vergelding' van aanslag in Istanboel",
-    "subtitle": null,
-    "published_at": "2022-11-20T02:16:14+01:00",
-    "updated_at": "2022-11-20T02:16:15+01:00",
-    "media_id": "98zxxttak62k",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6237279/turkije-bombardeert-dorpen-in-syrie-ter-vergelding-van-aanslag-in-istanboel.html",
     "open_new_window": false,
     "partner": null
   }
