@@ -1,12 +1,35 @@
 [
   {
+    "id": 6237593,
+    "slug": "iraanse-bondscoach-verdedigt-uitgefloten-spelers-die-volkslied-niet-zongen",
+    "type": "article",
+    "title": "Iraanse bondscoach verdedigt uitgefloten spelers die volkslied niet zongen",
+    "subtitle": null,
+    "published_at": "2022-11-21T21:47:31+01:00",
+    "updated_at": "2022-11-21T21:47:32+01:00",
+    "media_id": "y24xl19aj0qr",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772307,
+      "slug": "wk-voetbal",
+      "type": "files",
+      "name": "WK voetbal",
+      "style": "nusport",
+      "media_id": "m1mxoqoan7eu",
+      "partner": null
+    },
+    "url": "/wk-voetbal/6237593/iraanse-bondscoach-verdedigt-uitgefloten-spelers-die-volkslied-niet-zongen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6237592,
     "slug": "enorme-rookwolken-bij-dodelijk-vliegtuigongeluk-in-colombia",
     "type": "video",
     "title": "Enorme rookwolken bij dodelijk vliegtuigongeluk in Colombia",
     "subtitle": "Video",
     "published_at": "2022-11-21T21:29:02+01:00",
-    "updated_at": "2022-11-21T21:29:02+01:00",
+    "updated_at": "2022-11-21T21:47:32+01:00",
     "media_id": "ufaxrr7a15ls",
     "duration": "0:38",
     "canonical_section": {
@@ -420,7 +443,7 @@
     "title": "Staking PostNL dinsdag van de baan, actie op Black Friday nog steeds mogelijk",
     "subtitle": null,
     "published_at": "2022-11-21T17:21:15+01:00",
-    "updated_at": "2022-11-21T17:54:23+01:00",
+    "updated_at": "2022-11-21T21:45:27+01:00",
     "media_id": "n9uxas2an0y5",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6237550/staking-postnl-dinsdag-van-de-baan-actie-op-black-friday-nog-steeds-mogelijk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6237507,
-    "slug": "sanil-b-gaat-in-hoger-beroep-tegen-celstraf-voor-dood-carlo-heuvelman",
-    "type": "article",
-    "title": "Sanil B. gaat in hoger beroep tegen celstraf voor dood Carlo Heuvelman",
-    "subtitle": null,
-    "published_at": "2022-11-21T17:16:31+01:00",
-    "updated_at": "2022-11-21T21:12:56+01:00",
-    "media_id": "t9qxb5tacxmt",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6237507/sanil-b-gaat-in-hoger-beroep-tegen-celstraf-voor-dood-carlo-heuvelman.html",
     "open_new_window": false,
     "partner": null
   }
