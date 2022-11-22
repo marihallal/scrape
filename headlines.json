@@ -1,5 +1,28 @@
 [
   {
+    "id": 6237612,
+    "slug": "kim-jong-un-hand-in-hand-met-dochter-wordt-zij-de-nieuwe-leider",
+    "type": "video",
+    "title": "Kim Jong-un hand in hand met dochter: wordt zij de nieuwe leider?",
+    "subtitle": "Video",
+    "published_at": "2022-11-22T06:48:25+01:00",
+    "updated_at": "2022-11-22T06:48:26+01:00",
+    "media_id": "v1sx195awuei",
+    "duration": "2:17",
+    "canonical_section": {
+      "id": 1778830,
+      "slug": "nu-uitgelegd",
+      "type": "default",
+      "name": "NU-uitgelegd",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/nu-uitgelegd/6237612/kim-jong-un-hand-in-hand-met-dochter-wordt-zij-de-nieuwe-leider.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6237600,
     "slug": "noppert-maakt-indruk-op-ploeggenoten-oranje-iedereen-vindt-hem-een-topgozer",
     "type": "article",
@@ -98,7 +121,7 @@
     "title": "Deel 7 | Het geheim van Mallorca: Een schuldige voor Carlo's dood",
     "subtitle": "Podcast",
     "published_at": "2022-11-22T05:31:16+01:00",
-    "updated_at": "2022-11-22T05:38:14+01:00",
+    "updated_at": "2022-11-22T06:51:00+01:00",
     "media_id": "37exyk1aw37m",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wk-voetbal/6229450/het-wk-programma-van-vandaag-wereldkampioen-frankrijk-en-messi-in-actie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6237594,
-    "slug": "bale-redt-punt-voor-wales-tegen-verenigde-staten-bij-wk-rentree-na-64-jaar",
-    "type": "article",
-    "title": "Bale redt punt voor Wales tegen Verenigde Staten bij WK-rentree na 64 jaar",
-    "subtitle": null,
-    "published_at": "2022-11-21T22:01:16+01:00",
-    "updated_at": "2022-11-21T22:49:53+01:00",
-    "media_id": "v9axj27a42p0",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772307,
-      "slug": "wk-voetbal",
-      "type": "files",
-      "name": "WK voetbal",
-      "style": "nusport",
-      "media_id": "m1mxoqoan7eu",
-      "partner": null
-    },
-    "url": "/wk-voetbal/6237594/bale-redt-punt-voor-wales-tegen-verenigde-staten-bij-wk-rentree-na-64-jaar.html",
     "open_new_window": false,
     "partner": null
   }
