@@ -1,12 +1,58 @@
 [
   {
-    "id": 6237978,
-    "slug": "duits-elftal-protesteert-met-hand-voor-de-mond-tegen-verbod-op-onelove-band",
+    "id": 6237984,
+    "slug": "dashcam-neemt-harde-knal-op-van-bomaanslag-in-jeruzalem",
+    "type": "video",
+    "title": "Dashcam neemt harde knal op van bomaanslag in Jeruzalem",
+    "subtitle": "Video",
+    "published_at": "2022-11-23T15:29:50+01:00",
+    "updated_at": "2022-11-23T15:29:51+01:00",
+    "media_id": "i99x8utau6a9",
+    "duration": "0:38",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6237984/dashcam-neemt-harde-knal-op-van-bomaanslag-in-jeruzalem.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6237982,
+    "slug": "boekenshow-brommer-op-zee-geschrapt-eus-boekenclub-komt-terug",
     "type": "article",
-    "title": "Duits elftal protesteert met hand voor de mond tegen verbod op OneLove-band",
+    "title": "Boekenshow Brommer op zee geschrapt, Eus' Boekenclub komt terug",
+    "subtitle": null,
+    "published_at": "2022-11-23T15:27:45+01:00",
+    "updated_at": "2022-11-23T15:27:46+01:00",
+    "media_id": "txzxogdaqiat",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772075,
+      "slug": "cultuur-overig",
+      "type": "default",
+      "name": "Boek & Cultuur",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/cultuur-overig/6237982/boekenshow-brommer-op-zee-geschrapt-eus-boekenclub-komt-terug.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6237978,
+    "slug": "duits-elftal-en-minister-maken-statement-tegen-fifa-bij-wk-duel-met-japan",
+    "type": "article",
+    "title": "Duits elftal en minister maken statement tegen FIFA bij WK-duel met Japan",
     "subtitle": null,
     "published_at": "2022-11-23T15:21:28+01:00",
-    "updated_at": "2022-11-23T15:21:29+01:00",
+    "updated_at": "2022-11-23T15:33:56+01:00",
     "media_id": "3n0x6k1alb2k",
     "duration": null,
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": "m1mxoqoan7eu",
       "partner": null
     },
-    "url": "/wk-voetbal/6237978/duits-elftal-protesteert-met-hand-voor-de-mond-tegen-verbod-op-onelove-band.html",
+    "url": "/wk-voetbal/6237978/duits-elftal-en-minister-maken-statement-tegen-fifa-bij-wk-duel-met-japan.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +75,7 @@
     "title": "Relaxte bondscoach Tite acht Brazilië in Qatar kansrijker dan op WK van 2018",
     "subtitle": null,
     "published_at": "2022-11-23T15:12:08+01:00",
-    "updated_at": "2022-11-23T15:12:09+01:00",
+    "updated_at": "2022-11-23T15:32:08+01:00",
     "media_id": "8pix26laocb7",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/opmerkelijk/6237942/tweeling-geboren-uit-bijna-dertig-jaar-oude-embryos.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6237925,
-    "slug": "marokko-ziet-mazraoui-uitvallen-bij-gelijkspel-tegen-vicewereldkampioen-kroatie",
-    "type": "article",
-    "title": "Marokko ziet Mazraoui uitvallen bij gelijkspel tegen vicewereldkampioen Kroatië",
-    "subtitle": null,
-    "published_at": "2022-11-23T12:55:09+01:00",
-    "updated_at": "2022-11-23T13:06:19+01:00",
-    "media_id": "04ax59fadbqt",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772307,
-      "slug": "wk-voetbal",
-      "type": "files",
-      "name": "WK voetbal",
-      "style": "nusport",
-      "media_id": "m1mxoqoan7eu",
-      "partner": null
-    },
-    "url": "/wk-voetbal/6237925/marokko-ziet-mazraoui-uitvallen-bij-gelijkspel-tegen-vicewereldkampioen-kroatie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6237941,
-    "slug": "wildcamera-legt-spelende-wolvenwelpen-vast-in-drenthe",
-    "type": "video",
-    "title": "Wildcamera legt spelende wolvenwelpen vast in Drenthe",
-    "subtitle": "Video",
-    "published_at": "2022-11-23T12:44:12+01:00",
-    "updated_at": "2022-11-23T12:44:13+01:00",
-    "media_id": "9cox1w2at1w9",
-    "duration": "0:41",
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6237941/wildcamera-legt-spelende-wolvenwelpen-vast-in-drenthe.html",
     "open_new_window": false,
     "partner": null
   }
