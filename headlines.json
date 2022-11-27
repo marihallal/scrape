@@ -1,5 +1,28 @@
 [
   {
+    "id": 6238775,
+    "slug": "me-ingezet-wegens-onrust-in-centrum-rotterdam-na-wk-overwinning-marokko",
+    "type": "article",
+    "title": "ME ingezet wegens onrust in centrum Rotterdam na WK-overwinning Marokko",
+    "subtitle": null,
+    "published_at": "2022-11-27T18:32:20+01:00",
+    "updated_at": "2022-11-27T18:32:21+01:00",
+    "media_id": "phnxg3baycnx",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6238775/me-ingezet-wegens-onrust-in-centrum-rotterdam-na-wk-overwinning-marokko.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6238760,
     "slug": "klein-beetje-alcohol-tijdens-zwangerschap-kan-hersenstructuur-foetus-aantasten",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Bondscoach Marokko lovend over Ziyech na stunt: 'Hij gaat voor je door het vuur'",
     "subtitle": null,
     "published_at": "2022-11-27T17:39:32+01:00",
-    "updated_at": "2022-11-27T18:05:09+01:00",
+    "updated_at": "2022-11-27T18:23:41+01:00",
     "media_id": "0qmx5boaixwv",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Rellen in Brussel na België-Marokko op WK, politie zet waterkanonnen in",
     "subtitle": null,
     "published_at": "2022-11-27T17:05:57+01:00",
-    "updated_at": "2022-11-27T18:16:33+01:00",
+    "updated_at": "2022-11-27T18:21:08+01:00",
     "media_id": "f9nxnkaa0b81",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Gakpo over vermeende interesse United: 'Leuk om zulke geruchten te horen'",
     "subtitle": null,
     "published_at": "2022-11-27T17:04:25+01:00",
-    "updated_at": "2022-11-27T17:13:21+01:00",
+    "updated_at": "2022-11-27T18:17:48+01:00",
     "media_id": "hqcxrg9aytip",
     "duration": null,
     "canonical_section": {
@@ -213,7 +236,7 @@
     "title": "Bondscoach spreekt over 'bittere pil' België: 'Konden het hoofd niet koel houden'",
     "subtitle": null,
     "published_at": "2022-11-27T16:44:05+01:00",
-    "updated_at": "2022-11-27T17:00:59+01:00",
+    "updated_at": "2022-11-27T18:18:19+01:00",
     "media_id": "pllxfa7ax6bw",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/spanningen-oekraine/6238728/vier-dagen-na-russische-aanval-hebben-bijna-alle-mensen-in-kyiv-weer-stroom.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6238722,
-    "slug": "oostenrijkers-griezelen-bij-optocht-met-hulpje-van-sinterklaas",
-    "type": "video",
-    "title": "Oostenrijkers griezelen bij optocht met hulpje van Sinterklaas",
-    "subtitle": "Video",
-    "published_at": "2022-11-27T13:10:06+01:00",
-    "updated_at": "2022-11-27T13:12:03+01:00",
-    "media_id": "et4x3ffakn2v",
-    "duration": "0:50",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6238722/oostenrijkers-griezelen-bij-optocht-met-hulpje-van-sinterklaas.html",
     "open_new_window": false,
     "partner": null
   }
