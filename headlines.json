@@ -1,5 +1,28 @@
 [
   {
+    "id": 6239244,
+    "slug": "leider-amerikaanse-militiegroep-schuldig-bevonden-aan-opruiing-capitoolaanval",
+    "type": "article",
+    "title": "Leider Amerikaanse militiegroep schuldig bevonden aan opruiing Capitoolaanval",
+    "subtitle": null,
+    "published_at": "2022-11-30T00:37:31+01:00",
+    "updated_at": "2022-11-30T00:37:32+01:00",
+    "media_id": "0j6x7c9anne7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6239244/leider-amerikaanse-militiegroep-schuldig-bevonden-aan-opruiing-capitoolaanval.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6239102,
     "slug": "meer-dan-een-derde-van-oekraiense-vluchtelingen-in-ons-land-vond-hier-werk",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wk-voetbal/6239208/herstelde-memphis-klaar-voor-hele-wedstrijd-geen-vragen-meer-over-fitheid.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6239204,
-    "slug": "auto-vliegt-door-de-lucht-bij-tolstation-in-china",
-    "type": "video",
-    "title": "Auto vliegt door de lucht bij tolstation in China",
-    "subtitle": "Video",
-    "published_at": "2022-11-29T19:35:02+01:00",
-    "updated_at": "2022-11-29T19:35:03+01:00",
-    "media_id": "sebx8y4a4mq8",
-    "duration": "0:29",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6239204/auto-vliegt-door-de-lucht-bij-tolstation-in-china.html",
     "open_new_window": false,
     "partner": null
   }
