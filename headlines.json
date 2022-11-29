@@ -1,5 +1,28 @@
 [
   {
+    "id": 6239104,
+    "slug": "wordt-de-hiv-preventiepil-prep-vergoed",
+    "type": "article",
+    "title": "Wordt de hiv-preventiepil PrEP vergoed?",
+    "subtitle": null,
+    "published_at": "2022-11-29T18:30:49+01:00",
+    "updated_at": "2022-11-29T18:30:50+01:00",
+    "media_id": "9hnxpmzaj58l",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6239104/wordt-de-hiv-preventiepil-prep-vergoed.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6239187,
     "slug": "gakpo-breekt-opnieuw-de-ban-voor-oranje-een-hattrick-over-drie-wedstrijden",
     "type": "article",
@@ -52,8 +75,8 @@
     "title": "Senegal klopt Ecuador in thriller en bereikt met Oranje achtste finales WK",
     "subtitle": null,
     "published_at": "2022-11-29T17:58:55+01:00",
-    "updated_at": "2022-11-29T18:18:51+01:00",
-    "media_id": "xxwxcb8a6ly8",
+    "updated_at": "2022-11-29T18:28:30+01:00",
+    "media_id": "05mxpy8aji08",
     "duration": null,
     "canonical_section": {
       "id": 1772307,
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tech/6239151/microsoft-wil-met-handreiking-goedkeuring-voor-overname-activision-blizzard.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6239147,
-    "slug": "stadsverwarming-bij-vattenfall-volgend-jaar-gemiddeld-375-euro-duurder",
-    "type": "article",
-    "title": "Stadsverwarming bij Vattenfall volgend jaar gemiddeld 375 euro duurder",
-    "subtitle": null,
-    "published_at": "2022-11-29T15:40:30+01:00",
-    "updated_at": "2022-11-29T16:17:10+01:00",
-    "media_id": "07xxcxvaykbr",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6239147/stadsverwarming-bij-vattenfall-volgend-jaar-gemiddeld-375-euro-duurder.html",
     "open_new_window": false,
     "partner": null
   }
