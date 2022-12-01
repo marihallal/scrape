@@ -1,12 +1,35 @@
 [
   {
+    "id": 6239574,
+    "slug": "stokstaartjes-en-apen-pakken-adventskalender-uit-in-london-zoo",
+    "type": "video",
+    "title": "Stokstaartjes en apen pakken adventskalender uit in London Zoo",
+    "subtitle": "Video",
+    "published_at": "2022-12-01T10:49:36+01:00",
+    "updated_at": "2022-12-01T10:49:37+01:00",
+    "media_id": "erbxjleavjxv",
+    "duration": "0:44",
+    "canonical_section": {
+      "id": 1772536,
+      "slug": "dieren",
+      "type": "default",
+      "name": "Dieren",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/dieren/6239574/stokstaartjes-en-apen-pakken-adventskalender-uit-in-london-zoo.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6239544,
     "slug": "bob-dylan-biedt-excuses-aan-voor-namaken-van-handtekening-met-machine",
     "type": "article",
     "title": "Bob Dylan biedt excuses aan voor namaken van handtekening met machine",
     "subtitle": null,
     "published_at": "2022-12-01T10:37:04+01:00",
-    "updated_at": "2022-12-01T10:37:06+01:00",
+    "updated_at": "2022-12-01T10:39:05+01:00",
     "media_id": "zhbxtbla17xq",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tech/6239488/elon-musk-en-apple-hebben-ruzie-uitgepraat.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6239367,
-    "slug": "hoe-strenge-vorst-voor-nieuwe-gevechten-in-oekraine-kan-zorgen",
-    "type": "video",
-    "title": "Hoe strenge vorst voor nieuwe gevechten in Oekraïne kan zorgen",
-    "subtitle": "Video",
-    "published_at": "2022-12-01T06:26:13+01:00",
-    "updated_at": "2022-12-01T06:26:14+01:00",
-    "media_id": "wuwxd54axuj6",
-    "duration": "1:34",
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6239367/hoe-strenge-vorst-voor-nieuwe-gevechten-in-oekraine-kan-zorgen.html",
     "open_new_window": false,
     "partner": null
   }
