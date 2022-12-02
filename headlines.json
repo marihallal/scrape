@@ -1,5 +1,28 @@
 [
   {
+    "id": 6239766,
+    "slug": "media-fileren-duitsland-na-wk-debacle-ooit-waren-we-een-groot-voetballand",
+    "type": "article",
+    "title": "Media fileren Duitsland na WK-debacle: 'Ooit waren we een groot voetballand'",
+    "subtitle": null,
+    "published_at": "2022-12-02T08:48:58+01:00",
+    "updated_at": "2022-12-02T08:49:01+01:00",
+    "media_id": "v6rx84iauzxm",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772307,
+      "slug": "wk-voetbal",
+      "type": "files",
+      "name": "WK voetbal",
+      "style": "nusport",
+      "media_id": "m1mxoqoan7eu",
+      "partner": null
+    },
+    "url": "/wk-voetbal/6239766/media-fileren-duitsland-na-wk-debacle-ooit-waren-we-een-groot-voetballand.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6239754,
     "slug": "ye-wederom-geschorst-op-twitter-na-antisemitische-posts",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Australiër krijgt dankzij podcast celstraf voor moord op zijn vrouw in 1982",
     "subtitle": null,
     "published_at": "2022-12-02T07:28:07+01:00",
-    "updated_at": "2022-12-02T07:56:51+01:00",
+    "updated_at": "2022-12-02T08:39:04+01:00",
     "media_id": "kuzxbpsafdqr",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6239740/ondanks-protest-uit-sector-gaat-statiegeld-op-blikjes-per-31-december-in.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6239739,
-    "slug": "skeletonster-bos-strandt-op-zevende-plek-bij-tweede-wereldbeker-in-park-city",
-    "type": "article",
-    "title": "Skeletonster Bos strandt op zevende plek bij tweede wereldbeker in Park City",
-    "subtitle": null,
-    "published_at": "2022-12-01T23:47:06+01:00",
-    "updated_at": "2022-12-02T08:08:46+01:00",
-    "media_id": "5b5xcr1az09y",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6239739/skeletonster-bos-strandt-op-zevende-plek-bij-tweede-wereldbeker-in-park-city.html",
     "open_new_window": false,
     "partner": null
   }
