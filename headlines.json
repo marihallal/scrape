@@ -1,5 +1,28 @@
 [
   {
+    "id": 6239804,
+    "slug": "elton-john-zegt-dat-optreden-op-glastonbury-zijn-laatste-show-in-vk-is",
+    "type": "article",
+    "title": "Elton John zegt dat optreden op Glastonbury zijn laatste show in VK is",
+    "subtitle": null,
+    "published_at": "2022-12-02T10:33:42+01:00",
+    "updated_at": "2022-12-02T10:33:43+01:00",
+    "media_id": "zu7x3odafzyj",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6239804/elton-john-zegt-dat-optreden-op-glastonbury-zijn-laatste-show-in-vk-is.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6239796,
     "slug": "we-gaan-dit-jaar-wereldwijd-2-procent-zuiniger-om-met-energie-dan-vorig-jaar",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/film/6239748/squid-game-acteur-in-februari-voor-rechter-wegens-seksueel-wangedrag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6239747,
-    "slug": "vogelgriep-blijft-gevaar-voor-zoogdieren-nog-niet-voor-mensen",
-    "type": "video",
-    "title": "Vogelgriep blijft: gevaar voor zoogdieren, nog niet voor mensen",
-    "subtitle": "Video",
-    "published_at": "2022-12-02T06:52:47+01:00",
-    "updated_at": "2022-12-02T10:04:22+01:00",
-    "media_id": "unoxhx7aphmu",
-    "duration": "1:36",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6239747/vogelgriep-blijft-gevaar-voor-zoogdieren-nog-niet-voor-mensen.html",
     "open_new_window": false,
     "partner": null
   }
