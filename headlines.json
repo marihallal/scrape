@@ -1,12 +1,35 @@
 [
   {
+    "id": 6239904,
+    "slug": "nederland-blijft-tegen-toetreding-bulgarije-tot-schengengebied",
+    "type": "article",
+    "title": "Nederland blijft tegen toetreding Bulgarije tot Schengengebied",
+    "subtitle": null,
+    "published_at": "2022-12-02T16:00:17+01:00",
+    "updated_at": "2022-12-02T16:00:19+01:00",
+    "media_id": "huqxbzya8jm4",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6239904/nederland-blijft-tegen-toetreding-bulgarije-tot-schengengebied.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6239895,
     "slug": "tesla-levert-eerste-elektrische-vrachtwagen-aan-pepsico",
     "type": "article",
     "title": "Tesla levert eerste elektrische vrachtwagen aan PepsiCo",
     "subtitle": null,
     "published_at": "2022-12-02T15:51:39+01:00",
-    "updated_at": "2022-12-02T15:51:40+01:00",
+    "updated_at": "2022-12-02T16:02:29+01:00",
     "media_id": "fj6xsexa46c3",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Omroepen praten volgende week over aanpassen journalistieke code NPO",
     "subtitle": null,
     "published_at": "2022-12-02T15:50:42+01:00",
-    "updated_at": "2022-12-02T15:50:43+01:00",
+    "updated_at": "2022-12-02T15:58:57+01:00",
     "media_id": "eklx8iaa3kjh",
     "duration": null,
     "canonical_section": {
@@ -144,7 +167,7 @@
     "title": "Landelijk systeem voor statiegeldblikjes pas in april van start",
     "subtitle": null,
     "published_at": "2022-12-02T14:33:37+01:00",
-    "updated_at": "2022-12-02T14:41:47+01:00",
+    "updated_at": "2022-12-02T16:08:11+01:00",
     "media_id": "4nrx1r9ax9zf",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6239839/macron-en-biden-toasten-op-staatsdiner-na-bijleggen-ruzie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6239838,
-    "slug": "van-gaal-beducht-voor-verenigde-staten-ze-zijn-heel-energiek-en-fysiek-sterk",
-    "type": "article",
-    "title": "Van Gaal beducht voor Verenigde Staten: 'Ze zijn heel energiek en fysiek sterk'",
-    "subtitle": null,
-    "published_at": "2022-12-02T12:29:07+01:00",
-    "updated_at": "2022-12-02T13:26:26+01:00",
-    "media_id": "vhfxhehaugce",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772307,
-      "slug": "wk-voetbal",
-      "type": "files",
-      "name": "WK voetbal",
-      "style": "nusport",
-      "media_id": "m1mxoqoan7eu",
-      "partner": null
-    },
-    "url": "/wk-voetbal/6239838/van-gaal-beducht-voor-verenigde-staten-ze-zijn-heel-energiek-en-fysiek-sterk.html",
     "open_new_window": false,
     "partner": null
   }
