@@ -1,5 +1,28 @@
 [
   {
+    "id": 6240051,
+    "slug": "verzwakt-ajax-verliest-oefenduel-van-blackburn-rovers-bij-officieus-debuut-kaplan",
+    "type": "article",
+    "title": "Verzwakt Ajax verliest oefenduel van Blackburn Rovers bij officieus debuut Kaplan",
+    "subtitle": null,
+    "published_at": "2022-12-03T12:48:31+01:00",
+    "updated_at": "2022-12-03T12:48:34+01:00",
+    "media_id": "axox7aeaakm7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6240051/verzwakt-ajax-verliest-oefenduel-van-blackburn-rovers-bij-officieus-debuut-kaplan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6237510,
     "slug": "leven-als-een-jonge-oma-dit-houdt-de-grandma-era-trend-op-tiktok-in",
     "type": "article",
@@ -75,7 +98,7 @@
     "title": "Waarom dit winterse WK 'soccer' enorm op de kaart zet in de VS",
     "subtitle": "Video",
     "published_at": "2022-12-03T12:11:38+01:00",
-    "updated_at": "2022-12-03T12:11:39+01:00",
+    "updated_at": "2022-12-03T12:39:32+01:00",
     "media_id": "5omxnpxaumro",
     "duration": "2:29",
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wk-voetbal/6239980/nederland-en-vs-spelen-voor-zesde-keer-tegen-elkaar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6239923,
-    "slug": "oranje-lijkt-meer-dan-ooit-voorbereid-op-penaltyserie-kan-een-plus-zijn",
-    "type": "article",
-    "title": "Oranje lijkt meer dan ooit voorbereid op penaltyserie: 'Kan een plus zijn'",
-    "subtitle": null,
-    "published_at": "2022-12-03T07:05:05+01:00",
-    "updated_at": "2022-12-03T07:05:06+01:00",
-    "media_id": "p8oxcypa4zhy",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772307,
-      "slug": "wk-voetbal",
-      "type": "files",
-      "name": "WK voetbal",
-      "style": "nusport",
-      "media_id": "m1mxoqoan7eu",
-      "partner": null
-    },
-    "url": "/wk-voetbal/6239923/oranje-lijkt-meer-dan-ooit-voorbereid-op-penaltyserie-kan-een-plus-zijn.html",
     "open_new_window": false,
     "partner": null
   }
