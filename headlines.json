@@ -1,5 +1,28 @@
 [
   {
+    "id": 6240068,
+    "slug": "zwaar-vuurwerk-afgestoken-in-trein-bij-schagen-passagiers-met-gehoorklachten",
+    "type": "article",
+    "title": "Zwaar vuurwerk afgestoken in trein bij Schagen, passagiers met gehoorklachten",
+    "subtitle": null,
+    "published_at": "2022-12-03T15:17:11+01:00",
+    "updated_at": "2022-12-03T15:22:44+01:00",
+    "media_id": "1vgxc6qa0yvw",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6240068/zwaar-vuurwerk-afgestoken-in-trein-bij-schagen-passagiers-met-gehoorklachten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6240067,
     "slug": "luchtbeelden-tonen-bijzondere-tocht-van-kudde-schapen",
     "type": "article",
@@ -75,8 +98,8 @@
     "title": "Van Gaal kiest ook tegen VS voor De Roon en Klaassen op middenveld Oranje",
     "subtitle": null,
     "published_at": "2022-12-03T14:45:34+01:00",
-    "updated_at": "2022-12-03T14:58:09+01:00",
-    "media_id": "ka4xg1kakb8w",
+    "updated_at": "2022-12-03T15:23:46+01:00",
+    "media_id": "4dgxhb1a0l84",
     "duration": null,
     "canonical_section": {
       "id": 1772307,
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wk-voetbal/6239968/dit-viel-op-in-de-poulefase-afrika-is-terug-en-extreem-weinig-rode-kaarten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6239993,
-    "slug": "wk-wedstrijden-van-vrijdag-niet-in-top-drie-kijkcijferlijst",
-    "type": "article",
-    "title": "WK-wedstrijden van vrijdag niet in top drie kijkcijferlijst",
-    "subtitle": null,
-    "published_at": "2022-12-03T09:18:06+01:00",
-    "updated_at": "2022-12-03T09:41:52+01:00",
-    "media_id": "4t3xob1avm12",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6239993/wk-wedstrijden-van-vrijdag-niet-in-top-drie-kijkcijferlijst.html",
     "open_new_window": false,
     "partner": null
   }
