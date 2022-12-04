@@ -1,5 +1,28 @@
 [
   {
+    "id": 6240161,
+    "slug": "bijna-vijf-miljoen-mensen-keken-thuis-naar-achtste-finale-nederland-vs",
+    "type": "article",
+    "title": "Bijna vijf miljoen mensen keken thuis naar achtste finale Nederland-VS",
+    "subtitle": null,
+    "published_at": "2022-12-04T15:30:58+01:00",
+    "updated_at": "2022-12-04T15:30:59+01:00",
+    "media_id": "2xtxym2a1hfj",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772307,
+      "slug": "wk-voetbal",
+      "type": "files",
+      "name": "WK voetbal",
+      "style": "nusport",
+      "media_id": "m1mxoqoan7eu",
+      "partner": null
+    },
+    "url": "/wk-voetbal/6240161/bijna-vijf-miljoen-mensen-keken-thuis-naar-achtste-finale-nederland-vs.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6240133,
     "slug": "raketten-over-en-weer-en-doodgeschoten-palestijnen-dit-speelt-nu-in-israel",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Honderden dode Kaspische zeehonden aangespoeld in Rusland",
     "subtitle": "Video",
     "published_at": "2022-12-04T14:35:34+01:00",
-    "updated_at": "2022-12-04T14:35:34+01:00",
+    "updated_at": "2022-12-04T15:19:49+01:00",
     "media_id": "u4zxtdba3rsw",
     "duration": "0:34",
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/algemeen/6240131/bewoners-java-filmen-uitbarsting-vulkaan-semeru.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6240129,
-    "slug": "israelische-luchtmacht-vuurt-raketten-af-op-gaza",
-    "type": "video",
-    "title": "Israëlische luchtmacht vuurt raketten af op Gaza",
-    "subtitle": "Video",
-    "published_at": "2022-12-04T10:34:27+01:00",
-    "updated_at": "2022-12-04T10:34:28+01:00",
-    "media_id": "xk2xkhbajd3h",
-    "duration": "0:39",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6240129/israelische-luchtmacht-vuurt-raketten-af-op-gaza.html",
     "open_new_window": false,
     "partner": null
   }
