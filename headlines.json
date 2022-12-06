@@ -1,5 +1,28 @@
 [
   {
+    "id": 6240530,
+    "slug": "frenkie-de-jong-kijkt-uit-naar-weerzien-met-jeugdheld-messi-hij-is-in-alles-de-beste",
+    "type": "article",
+    "title": "Frenkie de Jong kijkt uit naar weerzien met jeugdheld Messi: 'Hij is in alles de beste'",
+    "subtitle": null,
+    "published_at": "2022-12-06T12:19:13+01:00",
+    "updated_at": "2022-12-06T12:31:30+01:00",
+    "media_id": "cq4xjtlalath",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772307,
+      "slug": "wk-voetbal",
+      "type": "files",
+      "name": "WK voetbal",
+      "style": "nusport",
+      "media_id": "m1mxoqoan7eu",
+      "partner": null
+    },
+    "url": "/wk-voetbal/6240530/frenkie-de-jong-kijkt-uit-naar-weerzien-met-jeugdheld-messi-hij-is-in-alles-de-beste.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6240529,
     "slug": "coach-kroatie-ziet-kansen-tegen-brazilie-maar-hun-kwaliteit-is-beangstigend",
     "type": "article",
@@ -116,12 +139,12 @@
   },
   {
     "id": 6240520,
-    "slug": "nza-vindt-sluiten-kinderhartchirurgie-groot-risico-voor-aanbod-zorg-in-de-regio",
+    "slug": "zorgwaakhond-sluiten-kinderhartchirurgie-groot-risico-voor-aanbod-zorg-in-regio",
     "type": "article",
-    "title": "NZa vindt sluiten kinderhartchirurgie groot risico voor aanbod zorg in de regio",
+    "title": "Zorgwaakhond: Sluiten kinderhartchirurgie groot risico voor aanbod zorg in regio",
     "subtitle": null,
     "published_at": "2022-12-06T11:37:10+01:00",
-    "updated_at": "2022-12-06T12:14:03+01:00",
+    "updated_at": "2022-12-06T12:32:21+01:00",
     "media_id": "5iwxkwfa33h2",
     "duration": null,
     "canonical_section": {
@@ -133,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6240520/nza-vindt-sluiten-kinderhartchirurgie-groot-risico-voor-aanbod-zorg-in-de-regio.html",
+    "url": "/binnenland/6240520/zorgwaakhond-sluiten-kinderhartchirurgie-groot-risico-voor-aanbod-zorg-in-regio.html",
     "open_new_window": false,
     "partner": null
   },
@@ -144,7 +167,7 @@
     "title": "Producten die bijdragen aan ontbossing niet langer welkom in EU",
     "subtitle": null,
     "published_at": "2022-12-06T11:28:52+01:00",
-    "updated_at": "2022-12-06T11:38:37+01:00",
+    "updated_at": "2022-12-06T12:32:02+01:00",
     "media_id": "ihkxggua8mke",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/spanningen-oekraine/6240319/defensie-expert-ko-colijn-over-de-barstjes-in-de-westerse-eenheid-tegen-rusland.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6240458,
-    "slug": "paul-de-leeuw-trekt-met-sinterklaasshow-minder-kijkers-dan-voorgaande-jaren",
-    "type": "article",
-    "title": "Paul de Leeuw trekt met sinterklaasshow minder kijkers dan voorgaande jaren",
-    "subtitle": null,
-    "published_at": "2022-12-06T09:33:49+01:00",
-    "updated_at": "2022-12-06T09:33:50+01:00",
-    "media_id": "13fx8v8a3cau",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6240458/paul-de-leeuw-trekt-met-sinterklaasshow-minder-kijkers-dan-voorgaande-jaren.html",
     "open_new_window": false,
     "partner": null
   }
