@@ -1,12 +1,35 @@
 [
   {
+    "id": 6241130,
+    "slug": "thuiswerken-blijft-populair-en-is-steeds-vaker-onderdeel-van-caos",
+    "type": "article",
+    "title": "Thuiswerken blijft populair en is steeds vaker onderdeel van cao's",
+    "subtitle": null,
+    "published_at": "2022-12-09T07:57:17+01:00",
+    "updated_at": "2022-12-09T08:15:14+01:00",
+    "media_id": "bspxij4a0gt3",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6241130/thuiswerken-blijft-populair-en-is-steeds-vaker-onderdeel-van-caos.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6241127,
     "slug": "disney-introduceert-goedkoper-abonnement-met-reclame-in-vs",
     "type": "article",
     "title": "Disney+ introduceert goedkoper abonnement met reclame in VS",
     "subtitle": null,
     "published_at": "2022-12-09T07:45:12+01:00",
-    "updated_at": "2022-12-09T07:45:14+01:00",
+    "updated_at": "2022-12-09T07:57:56+01:00",
     "media_id": "onsxiuyas9d6",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Productie Nederlandse industrie groeit met ruim 3 procent",
     "subtitle": null,
     "published_at": "2022-12-09T07:19:39+01:00",
-    "updated_at": "2022-12-09T07:19:40+01:00",
+    "updated_at": "2022-12-09T07:50:54+01:00",
     "media_id": "yv7xa7iary13",
     "duration": null,
     "canonical_section": {
@@ -70,13 +93,13 @@
   },
   {
     "id": 6241118,
-    "slug": "aftellen-naar-kwartfinale-tussen-nederland-en-argentinie",
+    "slug": "oranje-mogelijk-met-bergwijn-in-de-basis-tegen-argentinie",
     "type": "article",
-    "title": "Aftellen naar kwartfinale tussen Nederland en Argentinië",
+    "title": "Oranje mogelijk met Bergwijn in de basis tegen Argentinië",
     "subtitle": "Liveblog WK",
     "published_at": "2022-12-09T07:19:29+01:00",
-    "updated_at": "2022-12-09T07:46:26+01:00",
-    "media_id": "62dx96la6dka",
+    "updated_at": "2022-12-09T07:57:11+01:00",
+    "media_id": "mj0x5baa3x8b",
     "duration": null,
     "canonical_section": {
       "id": 1772307,
@@ -87,7 +110,7 @@
       "media_id": "m1mxoqoan7eu",
       "partner": null
     },
-    "url": "/wk-voetbal/6241118/aftellen-naar-kwartfinale-tussen-nederland-en-argentinie.html",
+    "url": "/wk-voetbal/6241118/oranje-mogelijk-met-bergwijn-in-de-basis-tegen-argentinie.html",
     "open_new_window": false,
     "partner": null
   },
@@ -121,7 +144,7 @@
     "title": "Toezichthouder VS wil overname Activision Blizzard door Microsoft stoppen",
     "subtitle": null,
     "published_at": "2022-12-09T06:50:22+01:00",
-    "updated_at": "2022-12-09T07:47:27+01:00",
+    "updated_at": "2022-12-09T08:00:36+01:00",
     "media_id": "6zgxpcbadugn",
     "duration": null,
     "canonical_section": {
@@ -328,7 +351,7 @@
     "title": "KNMI waarschuwt vrijdagochtend voor gladheid, gestrooid in het hele land",
     "subtitle": null,
     "published_at": "2022-12-09T05:24:05+01:00",
-    "updated_at": "2022-12-09T07:50:41+01:00",
+    "updated_at": "2022-12-09T07:52:40+01:00",
     "media_id": "te9x3jua1fpo",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/spanningen-oekraine/6241107/nederland-stuurt-deze-winter-materiaal-voor-elektriciteitsnetwerk-naar-oekraine.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6241106,
-    "slug": "feyenoord-vrouwen-maakt-einde-aan-dramatische-reeks-met-winst-in-den-haag",
-    "type": "article",
-    "title": "Feyenoord Vrouwen maakt einde aan dramatische reeks met winst in Den Haag",
-    "subtitle": null,
-    "published_at": "2022-12-08T21:54:45+01:00",
-    "updated_at": "2022-12-08T22:16:22+01:00",
-    "media_id": "j52x5mdaosmo",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6241106/feyenoord-vrouwen-maakt-einde-aan-dramatische-reeks-met-winst-in-den-haag.html",
     "open_new_window": false,
     "partner": null
   }
