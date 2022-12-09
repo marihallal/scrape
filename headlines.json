@@ -1,5 +1,28 @@
 [
   {
+    "id": 6241111,
+    "slug": "weerbericht-code-geel-voor-mist-en-gladheid-met-af-en-toe-winterse-buien",
+    "type": "article",
+    "title": "Weerbericht: Code geel voor mist en gladheid met af en toe winterse buien",
+    "subtitle": null,
+    "published_at": "2022-12-09T05:24:05+01:00",
+    "updated_at": "2022-12-09T05:24:07+01:00",
+    "media_id": "te9x3jua1fpo",
+    "duration": null,
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6241111/weerbericht-code-geel-voor-mist-en-gladheid-met-af-en-toe-winterse-buien.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6241076,
     "slug": "vervoerders-zochten-nog-nooit-zoveel-personeel-als-nu",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6241074/congres-vs-neemt-wet-aan-die-verschillende-soorten-huwelijken-beschermt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6241075,
-    "slug": "klassementsleider-xandra-velzeboer-mist-wereldbeker-in-almaty-vanwege-griepje",
-    "type": "article",
-    "title": "Klassementsleider Xandra Velzeboer mist wereldbeker in Almaty vanwege griepje",
-    "subtitle": null,
-    "published_at": "2022-12-08T18:20:20+01:00",
-    "updated_at": "2022-12-08T18:34:50+01:00",
-    "media_id": "pt9xj62a2jy9",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772452,
-      "slug": "schaatsen",
-      "type": "default",
-      "name": "Schaatsen",
-      "style": "nusport",
-      "media_id": "5ktx9n6axubw",
-      "partner": null
-    },
-    "url": "/schaatsen/6241075/klassementsleider-xandra-velzeboer-mist-wereldbeker-in-almaty-vanwege-griepje.html",
     "open_new_window": false,
     "partner": null
   }
