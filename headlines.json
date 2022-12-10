@@ -1,12 +1,58 @@
 [
   {
+    "id": 6240997,
+    "slug": "doelman-lloris-passeert-thuram-en-is-alleen-recordinternational-van-frankrijk",
+    "type": "article",
+    "title": "Doelman Lloris passeert Thuram en is alleen recordinternational van Frankrijk",
+    "subtitle": null,
+    "published_at": "2022-12-10T20:08:36+01:00",
+    "updated_at": "2022-12-10T20:08:37+01:00",
+    "media_id": "vpcx0mmadhne",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772307,
+      "slug": "wk-voetbal",
+      "type": "files",
+      "name": "WK voetbal",
+      "style": "nusport",
+      "media_id": "m1mxoqoan7eu",
+      "partner": null
+    },
+    "url": "/wk-voetbal/6240997/doelman-lloris-passeert-thuram-en-is-alleen-recordinternational-van-frankrijk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6241462,
+    "slug": "opnieuw-code-geel-in-heel-het-land-vanwege-gladheid",
+    "type": "article",
+    "title": "Opnieuw code geel in heel het land vanwege gladheid",
+    "subtitle": null,
+    "published_at": "2022-12-10T19:54:47+01:00",
+    "updated_at": "2022-12-10T19:58:06+01:00",
+    "media_id": "t36x6hkamrxd",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6241462/opnieuw-code-geel-in-heel-het-land-vanwege-gladheid.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6241461,
     "slug": "oranje-daags-na-uitschakeling-terug-op-nederlandse-bodem",
     "type": "article",
     "title": "Oranje daags na uitschakeling terug op Nederlandse bodem",
     "subtitle": "In beeld",
     "published_at": "2022-12-10T19:50:14+01:00",
-    "updated_at": "2022-12-10T19:50:15+01:00",
+    "updated_at": "2022-12-10T19:58:51+01:00",
     "media_id": "1myxbwrafw3d",
     "duration": null,
     "canonical_section": {
@@ -29,7 +75,7 @@
     "title": "Amrabat in tranen na 'verdiende' zege Marokko: 'Dit had ik niet durven dromen'",
     "subtitle": null,
     "published_at": "2022-12-10T19:45:12+01:00",
-    "updated_at": "2022-12-10T19:50:07+01:00",
+    "updated_at": "2022-12-10T20:09:18+01:00",
     "media_id": "kvxx1mla9ax1",
     "duration": null,
     "canonical_section": {
@@ -121,7 +167,7 @@
     "title": "Portugese bondscoach Santos laat toekomst open na WK-uitschakeling",
     "subtitle": null,
     "published_at": "2022-12-10T19:01:22+01:00",
-    "updated_at": "2022-12-10T19:07:47+01:00",
+    "updated_at": "2022-12-10T20:14:08+01:00",
     "media_id": "vdex80aa8ct3",
     "duration": null,
     "canonical_section": {
@@ -144,7 +190,7 @@
     "title": "Marokko-coach Regragui trots na nieuwe stunt: 'Deze zege is voor heel Afrika'",
     "subtitle": null,
     "published_at": "2022-12-10T18:59:44+01:00",
-    "updated_at": "2022-12-10T19:11:57+01:00",
+    "updated_at": "2022-12-10T20:15:18+01:00",
     "media_id": "b1exwluahn5t",
     "duration": null,
     "canonical_section": {
@@ -162,12 +208,12 @@
   },
   {
     "id": 6241451,
-    "slug": "steden-vieren-historische-overwinning-marokko-me-grijpt-in-in-den-haag",
+    "slug": "steden-vieren-historische-zege-marokko-me-grijpt-in-in-den-haag-en-utrecht",
     "type": "article",
-    "title": "Steden vieren historische overwinning Marokko, ME grijpt in in Den Haag",
+    "title": "Steden vieren historische zege Marokko, ME grijpt in in Den Haag en Utrecht",
     "subtitle": null,
     "published_at": "2022-12-10T18:36:07+01:00",
-    "updated_at": "2022-12-10T19:51:03+01:00",
+    "updated_at": "2022-12-10T20:15:01+01:00",
     "media_id": "9zqx2m9asct1",
     "duration": null,
     "canonical_section": {
@@ -179,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6241451/steden-vieren-historische-overwinning-marokko-me-grijpt-in-in-den-haag.html",
+    "url": "/binnenland/6241451/steden-vieren-historische-zege-marokko-me-grijpt-in-in-den-haag-en-utrecht.html",
     "open_new_window": false,
     "partner": null
   },
@@ -213,7 +259,7 @@
     "title": "Marokko schrijft geschiedenis: nog nooit kwam een Afrikaans land zo ver op WK",
     "subtitle": null,
     "published_at": "2022-12-10T17:58:04+01:00",
-    "updated_at": "2022-12-10T18:37:30+01:00",
+    "updated_at": "2022-12-10T20:16:08+01:00",
     "media_id": "pyzxgciabtc9",
     "duration": null,
     "canonical_section": {
@@ -236,7 +282,7 @@
     "title": "Stuntploeg Marokko schakelt ook Portugal uit en staat in halve finales WK",
     "subtitle": null,
     "published_at": "2022-12-10T17:56:36+01:00",
-    "updated_at": "2022-12-10T18:44:10+01:00",
+    "updated_at": "2022-12-10T19:57:44+01:00",
     "media_id": "00jxzyqak96e",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/wk-voetbal/6241415/fifa-start-onderzoek-naar-argentinie-en-oranje-na-wangedrag-tijdens-kwartfinale.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6241420,
-    "slug": "vicevoorzitter-europees-parlement-geschokt-over-corruptieschandaal-qatar",
-    "type": "article",
-    "title": "Vicevoorzitter Europees Parlement geschokt over corruptieschandaal Qatar",
-    "subtitle": null,
-    "published_at": "2022-12-10T15:34:34+01:00",
-    "updated_at": "2022-12-10T15:53:53+01:00",
-    "media_id": "oggx5gday8c8",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6241420/vicevoorzitter-europees-parlement-geschokt-over-corruptieschandaal-qatar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6241418,
-    "slug": "twee-verdachten-opgepakt-voor-mishandeling-agent-bij-rellen-na-marokko-spanje",
-    "type": "article",
-    "title": "Twee verdachten opgepakt voor mishandeling agent bij rellen na Marokko-Spanje",
-    "subtitle": null,
-    "published_at": "2022-12-10T15:19:04+01:00",
-    "updated_at": "2022-12-10T15:28:11+01:00",
-    "media_id": "dvkxudjatsmo",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6241418/twee-verdachten-opgepakt-voor-mishandeling-agent-bij-rellen-na-marokko-spanje.html",
     "open_new_window": false,
     "partner": null
   }
