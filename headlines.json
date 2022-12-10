@@ -1,14 +1,37 @@
 [
   {
-    "id": 6241234,
-    "slug": "voor-wie-maakt-coach-moriyasu-een-buiging-test-jouw-nieuwskennis",
-    "type": "link",
-    "title": "Voor wie maakt coach Moriyasu een buiging? Test jouw nieuwskennis",
-    "subtitle": "Quiz",
-    "published_at": "2022-12-10T10:05:42+01:00",
-    "updated_at": "2022-12-10T10:05:43+01:00",
-    "media_id": "1bvxcwuaq088",
+    "id": 6241373,
+    "slug": "verbazing-bij-oranje-spelers-over-optreden-arbiter-hij-was-de-weg-kwijt",
+    "type": "article",
+    "title": "Verbazing bij Oranje-spelers over optreden arbiter: 'Hij was de weg kwijt'",
+    "subtitle": null,
+    "published_at": "2022-12-10T10:30:13+01:00",
+    "updated_at": "2022-12-10T10:30:14+01:00",
+    "media_id": "cu7xr1haq69j",
     "duration": null,
+    "canonical_section": {
+      "id": 1772307,
+      "slug": "wk-voetbal",
+      "type": "files",
+      "name": "WK voetbal",
+      "style": "nusport",
+      "media_id": "m1mxoqoan7eu",
+      "partner": null
+    },
+    "url": "/wk-voetbal/6241373/verbazing-bij-oranje-spelers-over-optreden-arbiter-hij-was-de-weg-kwijt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6241374,
+    "slug": "zo-zagen-nederlanders-en-argentijnen-de-bloedstollende-kwartfinale",
+    "type": "video",
+    "title": "Zo zagen Nederlanders en Argentijnen de bloedstollende kwartfinale",
+    "subtitle": "Video",
+    "published_at": "2022-12-10T10:22:43+01:00",
+    "updated_at": "2022-12-10T10:22:44+01:00",
+    "media_id": "hylxiabarm5u",
+    "duration": "1:14",
     "canonical_section": {
       "id": 100,
       "slug": "algemeen",
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "https://www.nu.nl/nieuwsquiz",
+    "url": "/algemeen/6241374/zo-zagen-nederlanders-en-argentijnen-de-bloedstollende-kwartfinale.html",
     "open_new_window": false,
     "partner": null
   },
@@ -75,7 +98,7 @@
     "title": "Oranje vertrekt uit hotel en is op weg naar vliegveld",
     "subtitle": "Liveblog WK",
     "published_at": "2022-12-10T09:38:56+01:00",
-    "updated_at": "2022-12-10T09:46:46+01:00",
+    "updated_at": "2022-12-10T10:21:12+01:00",
     "media_id": "v0expm1a91m9",
     "duration": null,
     "canonical_section": {
@@ -259,7 +282,7 @@
     "title": "Geëmotioneerde Weghorst: 'Had een van mooiste duels uit mijn leven moeten zijn'",
     "subtitle": null,
     "published_at": "2022-12-10T07:39:50+01:00",
-    "updated_at": "2022-12-10T09:38:44+01:00",
+    "updated_at": "2022-12-10T10:26:29+01:00",
     "media_id": "1ijxdvoa42tf",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6241354/code-geel-in-nederland-vanwege-gladheid-en-plaatselijk-dichte-mist.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6241353,
-    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
-    "type": "article",
-    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
-    "subtitle": null,
-    "published_at": "2022-12-10T06:08:08+01:00",
-    "updated_at": "2022-12-10T06:08:09+01:00",
-    "media_id": "5orxtf5awygy",
-    "duration": null,
-    "canonical_section": {
-      "id": 1773179,
-      "slug": "uitgelicht",
-      "type": "default",
-      "name": "Uitgelicht",
-      "style": "mediapartner-external",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/uitgelicht/6241353/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
     "open_new_window": false,
     "partner": null
   }
