@@ -1,5 +1,28 @@
 [
   {
+    "id": 6241598,
+    "slug": "veel-werkgevers-compenseren-personeel-voor-gestegen-kosten",
+    "type": "article",
+    "title": "Veel werkgevers compenseren personeel voor gestegen kosten",
+    "subtitle": null,
+    "published_at": "2022-12-12T08:45:49+01:00",
+    "updated_at": "2022-12-12T08:45:51+01:00",
+    "media_id": "d2fx1cvadss6",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6241598/veel-werkgevers-compenseren-personeel-voor-gestegen-kosten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6241593,
     "slug": "journalist-ron-fresen-en-actrice-anniek-pheifer-in-nieuwe-reeks-slimste-mens",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Politie doet onderzoek na dodelijke schietpartij in Rome",
     "subtitle": "Video",
     "published_at": "2022-12-12T08:31:24+01:00",
-    "updated_at": "2022-12-12T08:32:56+01:00",
+    "updated_at": "2022-12-12T08:34:43+01:00",
     "media_id": "7yqxkzwa50e1",
     "duration": "0:35",
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "China stopt met corona-app die bewegingen van mensen volgde",
     "subtitle": null,
     "published_at": "2022-12-12T08:31:16+01:00",
-    "updated_at": "2022-12-12T08:31:17+01:00",
+    "updated_at": "2022-12-12T08:41:57+01:00",
     "media_id": "qgzxlcnanikj",
     "duration": null,
     "canonical_section": {
@@ -121,7 +144,7 @@
     "title": "Ericsson en Apple beëindigen ruzie over patenten met licentieovereenkomst",
     "subtitle": null,
     "published_at": "2022-12-12T07:36:15+01:00",
-    "updated_at": "2022-12-12T07:43:29+01:00",
+    "updated_at": "2022-12-12T08:36:40+01:00",
     "media_id": "ty0xcyzacpb7",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6241580/londense-luchthavens-annuleren-vluchten-wegens-hevige-sneeuwval.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6241579,
-    "slug": "hoofdkwartier-wagner-group-in-oost-oekraiense-stad-kadiivka-aangevallen",
-    "type": "article",
-    "title": "Hoofdkwartier Wagner Group in Oost-Oekraïense stad Kadiivka aangevallen",
-    "subtitle": null,
-    "published_at": "2022-12-12T01:54:34+01:00",
-    "updated_at": "2022-12-12T06:39:45+01:00",
-    "media_id": "y6ixu78aecaw",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6241579/hoofdkwartier-wagner-group-in-oost-oekraiense-stad-kadiivka-aangevallen.html",
     "open_new_window": false,
     "partner": null
   }
