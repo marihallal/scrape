@@ -1,5 +1,28 @@
 [
   {
+    "id": 6241763,
+    "slug": "sociale-robot-gaat-ggz-clienten-helpen-bij-dagelijkse-bezigheden",
+    "type": "article",
+    "title": "Sociale robot gaat ggz-cliënten helpen bij dagelijkse bezigheden",
+    "subtitle": null,
+    "published_at": "2022-12-13T08:31:13+01:00",
+    "updated_at": "2022-12-13T08:31:15+01:00",
+    "media_id": "lcsxmytaasv7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6241763/sociale-robot-gaat-ggz-clienten-helpen-bij-dagelijkse-bezigheden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6241761,
     "slug": "aftellen-naar-argentinie-kroatie-trainers-marokko-en-frankrijk-blikken-vooruit",
     "type": "article",
@@ -75,7 +98,7 @@
     "title": "Rechtszaak over plagiaat in Shake it off van Taylor Swift afgeblazen",
     "subtitle": null,
     "published_at": "2022-12-13T07:20:41+01:00",
-    "updated_at": "2022-12-13T07:32:41+01:00",
+    "updated_at": "2022-12-13T08:29:04+01:00",
     "media_id": "07hxgvkantoc",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6241748/ftx-oprichter-gearresteerd-op-de-bahamas-na-faillissement-van-cryptobeurs.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6241648,
-    "slug": "zuid-holland-schroeft-wegenbelasting-komend-jaar-het-meest-op",
-    "type": "article",
-    "title": "Zuid-Holland schroeft wegenbelasting komend jaar het meest op",
-    "subtitle": null,
-    "published_at": "2022-12-13T00:09:11+01:00",
-    "updated_at": "2022-12-13T00:09:12+01:00",
-    "media_id": "bdcxngjaajc6",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6241648/zuid-holland-schroeft-wegenbelasting-komend-jaar-het-meest-op.html",
     "open_new_window": false,
     "partner": null
   }
