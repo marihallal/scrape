@@ -1,12 +1,35 @@
 [
   {
-    "id": 6242453,
-    "slug": "zege-bayern-in-cl-duel-juventus-en-beerensteyn-later-begonnen-wegens-sneeuw",
+    "id": 6242454,
+    "slug": "regering-slowakije-gevallen-na-motie-van-wantrouwen-om-hoge-energiekosten",
     "type": "article",
-    "title": "Zege Bayern in CL, duel Juventus en Beerensteyn later begonnen wegens sneeuw",
+    "title": "Regering Slowakije gevallen na motie van wantrouwen om hoge energiekosten",
+    "subtitle": null,
+    "published_at": "2022-12-15T20:53:46+01:00",
+    "updated_at": "2022-12-15T20:55:00+01:00",
+    "media_id": "olexahtanfs0",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6242454/regering-slowakije-gevallen-na-motie-van-wantrouwen-om-hoge-energiekosten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6242453,
+    "slug": "zege-bayern-in-cl-duel-juventus-en-beerensteyn-later-gestart-wegens-sneeuw",
+    "type": "article",
+    "title": "Zege Bayern in CL, duel Juventus en Beerensteyn later gestart wegens sneeuw",
     "subtitle": null,
     "published_at": "2022-12-15T20:50:15+01:00",
-    "updated_at": "2022-12-15T20:50:16+01:00",
+    "updated_at": "2022-12-15T20:54:33+01:00",
     "media_id": "t9vxrkxawicx",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6242453/zege-bayern-in-cl-duel-juventus-en-beerensteyn-later-begonnen-wegens-sneeuw.html",
+    "url": "/voetbal/6242453/zege-bayern-in-cl-duel-juventus-en-beerensteyn-later-gestart-wegens-sneeuw.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +52,7 @@
     "title": "Luchtbeelden tonen protest tegen celstraf voor burgemeester Istanboel",
     "subtitle": "Video",
     "published_at": "2022-12-15T20:43:26+01:00",
-    "updated_at": "2022-12-15T20:43:27+01:00",
+    "updated_at": "2022-12-15T20:55:25+01:00",
     "media_id": "0m7xuapa9pbv",
     "duration": "0:43",
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Code oranje in kustprovincies vanwege gladheid",
     "subtitle": null,
     "published_at": "2022-12-15T20:25:50+01:00",
-    "updated_at": "2022-12-15T20:33:13+01:00",
+    "updated_at": "2022-12-15T20:53:47+01:00",
     "media_id": "ke4xi6tax4pm",
     "duration": null,
     "canonical_section": {
@@ -420,7 +443,7 @@
     "title": "Hoe prins Harry met de docu de deur naar zijn familie lijkt te sluiten",
     "subtitle": "Video",
     "published_at": "2022-12-15T17:16:16+01:00",
-    "updated_at": "2022-12-15T17:16:18+01:00",
+    "updated_at": "2022-12-15T20:55:37+01:00",
     "media_id": "p43xju8a9rwn",
     "duration": "2:30",
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/algemeen/6242410/hoe-prins-harry-met-de-docu-de-deur-naar-zijn-familie-lijkt-te-sluiten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6242395,
-    "slug": "bastille-en-eagles-of-death-metal-treden-op-tijdens-zwarte-cross",
-    "type": "article",
-    "title": "Bastille en Eagles of Death Metal treden op tijdens Zwarte Cross",
-    "subtitle": null,
-    "published_at": "2022-12-15T17:10:59+01:00",
-    "updated_at": "2022-12-15T17:18:04+01:00",
-    "media_id": "ivtxdt0aa91c",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6242395/bastille-en-eagles-of-death-metal-treden-op-tijdens-zwarte-cross.html",
     "open_new_window": false,
     "partner": null
   }
