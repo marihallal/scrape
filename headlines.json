@@ -1,12 +1,35 @@
 [
   {
-    "id": 6242682,
-    "slug": "ajacied-kaplan-raakt-opnieuw-zwaar-geblesseerd-en-is-maanden-uit-de-roulatie",
+    "id": 6242685,
+    "slug": "keeperstrainer-babos-48-noodgedwongen-op-bank-bij-nac-in-kkd-duel",
     "type": "article",
-    "title": "Ajacied Kaplan raakt opnieuw zwaar geblesseerd en is maanden uit de roulatie",
+    "title": "Keeperstrainer Babos (48) noodgedwongen op bank bij NAC in KKD-duel",
+    "subtitle": null,
+    "published_at": "2022-12-16T19:39:42+01:00",
+    "updated_at": "2022-12-16T19:42:17+01:00",
+    "media_id": "cz2xplyal3bw",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6242685/keeperstrainer-babos-48-noodgedwongen-op-bank-bij-nac-in-kkd-duel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6242682,
+    "slug": "ajax-verdediger-kaplan-opnieuw-maanden-uit-de-roulatie-door-zware-blessure",
+    "type": "article",
+    "title": "Ajax-verdediger Kaplan opnieuw maanden uit de roulatie door zware blessure",
     "subtitle": null,
     "published_at": "2022-12-16T19:10:09+01:00",
-    "updated_at": "2022-12-16T19:20:21+01:00",
+    "updated_at": "2022-12-16T19:28:02+01:00",
     "media_id": "kykxn7jadp54",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6242682/ajacied-kaplan-raakt-opnieuw-zwaar-geblesseerd-en-is-maanden-uit-de-roulatie.html",
+    "url": "/voetbal/6242682/ajax-verdediger-kaplan-opnieuw-maanden-uit-de-roulatie-door-zware-blessure.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/entertainment/6242617/bekijk-de-teaser-van-de-liveactionverfilming-van-barbie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6242610,
-    "slug": "trainer-en-oud-speler-sinisa-mihajlovic-53-overleden-aan-gevolgen-leukemie",
-    "type": "article",
-    "title": "Trainer en oud-speler Sinisa Mihajlovic (53) overleden aan gevolgen leukemie",
-    "subtitle": null,
-    "published_at": "2022-12-16T15:40:56+01:00",
-    "updated_at": "2022-12-16T17:05:34+01:00",
-    "media_id": "nw5xtzlaiqd1",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6242610/trainer-en-oud-speler-sinisa-mihajlovic-53-overleden-aan-gevolgen-leukemie.html",
     "open_new_window": false,
     "partner": null
   }
