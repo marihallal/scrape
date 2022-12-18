@@ -1,5 +1,28 @@
 [
   {
+    "id": 6242879,
+    "slug": "rookwolken-uit-afghaanse-tunnel-na-ontploffing-brandstoftankwagen",
+    "type": "video",
+    "title": "Rookwolken uit Afghaanse tunnel na ontploffing brandstoftankwagen",
+    "subtitle": "Video",
+    "published_at": "2022-12-18T14:29:38+01:00",
+    "updated_at": "2022-12-18T14:29:39+01:00",
+    "media_id": "ladx8xma34vo",
+    "duration": "0:32",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6242879/rookwolken-uit-afghaanse-tunnel-na-ontploffing-brandstoftankwagen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6242877,
     "slug": "ijspret-op-de-delftse-grachten",
     "type": "video",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6242839/nederlands-bedrijf-betrokken-bij-dambreuk-brazilie-waarbij-272-doden-vielen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6242833,
-    "slug": "eerste-toeschouwers-in-stadion-voor-finale-argentinie-frankrijk",
-    "type": "article",
-    "title": "Eerste toeschouwers in stadion voor finale Argentinië-Frankrijk",
-    "subtitle": "Liveblog WK",
-    "published_at": "2022-12-18T08:15:40+01:00",
-    "updated_at": "2022-12-18T13:54:02+01:00",
-    "media_id": "ubux0z1aju1r",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772307,
-      "slug": "wk-voetbal",
-      "type": "files",
-      "name": "WK voetbal",
-      "style": "nusport",
-      "media_id": "m1mxoqoan7eu",
-      "partner": null
-    },
-    "url": "/wk-voetbal/6242833/eerste-toeschouwers-in-stadion-voor-finale-argentinie-frankrijk.html",
     "open_new_window": false,
     "partner": null
   }
