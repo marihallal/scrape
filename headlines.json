@@ -1,12 +1,35 @@
 [
   {
+    "id": 6242886,
+    "slug": "man-24-in-ridderkerk-omgekomen-doordat-vuurwerk-in-zijn-gezicht-ontploft",
+    "type": "article",
+    "title": "Man (24) in Ridderkerk omgekomen doordat vuurwerk in zijn gezicht ontploft",
+    "subtitle": null,
+    "published_at": "2022-12-18T15:48:17+01:00",
+    "updated_at": "2022-12-18T15:51:20+01:00",
+    "media_id": "4flxlg8az1gk",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6242886/man-24-in-ridderkerk-omgekomen-doordat-vuurwerk-in-zijn-gezicht-ontploft.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6242878,
     "slug": "argentinie-begint-met-di-maria-aan-wk-finale-rabiot-keert-terug-bij-fransen",
     "type": "article",
     "title": "Argentinië begint met Di María aan WK-finale, Rabiot keert terug bij Fransen",
     "subtitle": null,
     "published_at": "2022-12-18T15:03:23+01:00",
-    "updated_at": "2022-12-18T15:16:55+01:00",
+    "updated_at": "2022-12-18T15:40:49+01:00",
     "media_id": "vrkxfrpabkg7",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Poetin heeft 'belangrijk nieuws', Oekraïne verwacht nieuw offensief",
     "subtitle": "Overzicht",
     "published_at": "2022-12-18T14:44:52+01:00",
-    "updated_at": "2022-12-18T15:00:46+01:00",
+    "updated_at": "2022-12-18T15:34:09+01:00",
     "media_id": "5z7xmddap2hx",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6242848/steenbergen-pakt-brons-op-wk-kortebaan-geen-medaille-de-waard-en-toussaint.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6242834,
-    "slug": "wel-of-geen-boom-echt-of-nep-praat-mee-over-kerstbomen",
-    "type": "article",
-    "title": "Wel of geen boom, echt of nep? Praat mee over kerstbomen",
-    "subtitle": null,
-    "published_at": "2022-12-18T09:14:06+01:00",
-    "updated_at": "2022-12-18T10:12:47+01:00",
-    "media_id": "0v6xag8a7jfi",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6242834/wel-of-geen-boom-echt-of-nep-praat-mee-over-kerstbomen.html",
     "open_new_window": false,
     "partner": null
   }
