@@ -1,5 +1,28 @@
 [
   {
+    "id": 6243338,
+    "slug": "trein-botst-tegen-vrachtwagen-met-pech-in-belgie",
+    "type": "video",
+    "title": "Trein botst tegen vrachtwagen met pech in België",
+    "subtitle": "Video",
+    "published_at": "2022-12-20T22:31:03+01:00",
+    "updated_at": "2022-12-20T22:31:05+01:00",
+    "media_id": "642xqlyamobw",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6243338/trein-botst-tegen-vrachtwagen-met-pech-in-belgie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6243336,
     "slug": "van-barneveld-niet-fit-voor-eerste-partij-op-wk-zat-continu-op-het-toilet",
     "type": "article",
@@ -282,7 +305,7 @@
     "title": "Femke Halsema is gescheiden van haar man Robert Oey",
     "subtitle": null,
     "published_at": "2022-12-20T19:05:06+01:00",
-    "updated_at": "2022-12-20T19:21:08+01:00",
+    "updated_at": "2022-12-20T22:19:28+01:00",
     "media_id": "l3ixqnfahajg",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6243284/zacht-weer-houdt-aan-kans-op-witte-kerst-dit-jaar-nihil.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6243281,
-    "slug": "veel-twijfels-over-nut-van-europees-prijsplafond-voor-gas",
-    "type": "article",
-    "title": "Veel twijfels over nut van Europees prijsplafond voor gas",
-    "subtitle": null,
-    "published_at": "2022-12-20T17:20:10+01:00",
-    "updated_at": "2022-12-20T17:20:12+01:00",
-    "media_id": "um6xkefamknp",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6243281/veel-twijfels-over-nut-van-europees-prijsplafond-voor-gas.html",
     "open_new_window": false,
     "partner": null
   }
