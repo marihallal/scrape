@@ -1,5 +1,28 @@
 [
   {
+    "id": 6243301,
+    "slug": "zware-storm-en-gevoelstemperatuur-onder-30-teisteren-vs-tijdens-kerst",
+    "type": "video",
+    "title": "Zware storm en gevoelstemperatuur onder -30 teisteren VS tijdens Kerst",
+    "subtitle": "Video",
+    "published_at": "2022-12-21T06:30:52+01:00",
+    "updated_at": "2022-12-21T06:30:53+01:00",
+    "media_id": "cvfxitraa4wh",
+    "duration": "1:43",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6243301/zware-storm-en-gevoelstemperatuur-onder-30-teisteren-vs-tijdens-kerst.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6243349,
     "slug": "weerbericht-in-noorden-en-westen-kans-op-dichte-mist-later-zon-maar-ook-regen",
     "type": "article",
@@ -144,7 +167,7 @@
     "title": "Antidiscriminatiebeleid gemeenten schiet maar niet op: 'Om je kapot te schamen'",
     "subtitle": null,
     "published_at": "2022-12-21T05:30:05+01:00",
-    "updated_at": "2022-12-21T06:15:45+01:00",
+    "updated_at": "2022-12-21T06:17:24+01:00",
     "media_id": "4dqxhu3agqcm",
     "duration": null,
     "canonical_section": {
@@ -420,7 +443,7 @@
     "title": "Zeker achttien gewonden bij volksfeest in Buenos Aires na WK-winst",
     "subtitle": null,
     "published_at": "2022-12-20T22:32:13+01:00",
-    "updated_at": "2022-12-20T23:30:29+01:00",
+    "updated_at": "2022-12-21T06:27:22+01:00",
     "media_id": "a4wxd0ea8sz2",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6243339/zeker-achttien-gewonden-bij-volksfeest-in-buenos-aires-na-wk-winst.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6243338,
-    "slug": "trein-botst-tegen-vrachtwagen-met-pech-in-belgie",
-    "type": "video",
-    "title": "Trein botst tegen vrachtwagen met pech in België",
-    "subtitle": "Video",
-    "published_at": "2022-12-20T22:31:03+01:00",
-    "updated_at": "2022-12-20T22:31:05+01:00",
-    "media_id": "642xqlyamobw",
-    "duration": "0:45",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6243338/trein-botst-tegen-vrachtwagen-met-pech-in-belgie.html",
     "open_new_window": false,
     "partner": null
   }
