@@ -1,5 +1,28 @@
 [
   {
+    "id": 6244058,
+    "slug": "kalvin-phillips-kampt-met-overgewicht-na-wk-en-ontbreekt-bij-manchester-city",
+    "type": "article",
+    "title": "Kalvin Phillips kampt met overgewicht na WK en ontbreekt bij Manchester City",
+    "subtitle": null,
+    "published_at": "2022-12-24T08:29:31+01:00",
+    "updated_at": "2022-12-24T08:29:32+01:00",
+    "media_id": "qr2xm1ladzmm",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6244058/kalvin-phillips-kampt-met-overgewicht-na-wk-en-ontbreekt-bij-manchester-city.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6244057,
     "slug": "bezoekers-na-2-uur-gered-uit-stilstaand-reuzenrad-in-enschede",
     "type": "video",
@@ -24,12 +47,12 @@
   },
   {
     "id": 6244056,
-    "slug": "2022-is-zonnigste-jaar-ooit-gemeten-en-ook-extreem-warm-en-droog-geweest",
+    "slug": "2022-is-het-zonnigste-jaar-ooit-gemeten-en-was-ook-extreem-warm-en-droog",
     "type": "article",
-    "title": "2022 is zonnigste jaar ooit gemeten, en ook extreem warm en droog geweest",
+    "title": "2022 is het zonnigste jaar ooit gemeten en was ook extreem warm en droog",
     "subtitle": null,
     "published_at": "2022-12-24T08:23:56+01:00",
-    "updated_at": "2022-12-24T08:24:28+01:00",
+    "updated_at": "2022-12-24T08:45:44+01:00",
     "media_id": "5wixdoeafdgb",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6244056/2022-is-zonnigste-jaar-ooit-gemeten-en-ook-extreem-warm-en-droog-geweest.html",
+    "url": "/binnenland/6244056/2022-is-het-zonnigste-jaar-ooit-gemeten-en-was-ook-extreem-warm-en-droog.html",
     "open_new_window": false,
     "partner": null
   },
@@ -236,7 +259,7 @@
     "title": "Goed nieuws: 'Silly walk' goed voor je fitheid | Krabbels huisarts eindelijk leesbaar",
     "subtitle": null,
     "published_at": "2022-12-24T05:19:23+01:00",
-    "updated_at": "2022-12-24T05:36:09+01:00",
+    "updated_at": "2022-12-24T08:33:38+01:00",
     "media_id": "00txbayazrym",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/darts/6244037/noppert-wint-eenvoudig-en-gaat-als-vijfde-nederlander-verder-op-wk-darts.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6244038,
-    "slug": "extreme-kou-meters-sneeuw-en-overstromingen-in-vs",
-    "type": "video",
-    "title": "Extreme kou, meters sneeuw en overstromingen in VS",
-    "subtitle": "Video",
-    "published_at": "2022-12-23T22:05:28+01:00",
-    "updated_at": "2022-12-23T22:41:04+01:00",
-    "media_id": "u82xe7xabm8j",
-    "duration": "0:46",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6244038/extreme-kou-meters-sneeuw-en-overstromingen-in-vs.html",
     "open_new_window": false,
     "partner": null
   }
