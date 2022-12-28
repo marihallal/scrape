@@ -1,5 +1,28 @@
 [
   {
+    "id": 6244663,
+    "slug": "rijpma-de-jong-geeft-titel-extra-glans-met-baanrecord-dit-was-echt-bijzonder",
+    "type": "article",
+    "title": "Rijpma-de Jong geeft titel extra glans met baanrecord: 'Dit was echt bijzonder'",
+    "subtitle": null,
+    "published_at": "2022-12-28T20:48:26+01:00",
+    "updated_at": "2022-12-28T20:48:27+01:00",
+    "media_id": "mx9xn2xaxj5u",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772452,
+      "slug": "schaatsen",
+      "type": "default",
+      "name": "Schaatsen",
+      "style": "nusport",
+      "media_id": "5ktx9n6axubw",
+      "partner": null
+    },
+    "url": "/schaatsen/6244663/rijpma-de-jong-geeft-titel-extra-glans-met-baanrecord-dit-was-echt-bijzonder.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6244600,
     "slug": "gemeenten-niet-bang-voor-vuurwerktoeristen-uit-buurregios-met-afsteekverbod",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Huizen in Canada bedekt met dikke laag ijs na sneeuwstorm",
     "subtitle": "In beeld",
     "published_at": "2022-12-28T19:49:45+01:00",
-    "updated_at": "2022-12-28T20:24:52+01:00",
+    "updated_at": "2022-12-28T20:27:48+01:00",
     "media_id": "i2pxiuya0jcy",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tech/6244612/twitter-alternatief-mastodon-wijst-aanbiedingen-van-investeerders-af.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6244610,
-    "slug": "feyenoord-heeft-weinig-moeite-met-fc-emmen-in-benefietduel-in-de-kuip",
-    "type": "article",
-    "title": "Feyenoord heeft weinig moeite met FC Emmen in benefietduel in De Kuip",
-    "subtitle": null,
-    "published_at": "2022-12-28T15:57:59+01:00",
-    "updated_at": "2022-12-28T17:20:49+01:00",
-    "media_id": "nbox118avvk7",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6244610/feyenoord-heeft-weinig-moeite-met-fc-emmen-in-benefietduel-in-de-kuip.html",
     "open_new_window": false,
     "partner": null
   }
