@@ -1,5 +1,28 @@
 [
   {
+    "id": 6244872,
+    "slug": "infantino-over-pele-als-je-met-hem-samen-was-stond-de-wereld-even-stil",
+    "type": "article",
+    "title": "Infantino over Pelé: 'Als je met hem samen was, stond de wereld even stil'",
+    "subtitle": null,
+    "published_at": "2022-12-29T23:29:29+01:00",
+    "updated_at": "2022-12-29T23:29:30+01:00",
+    "media_id": "nlsxou4a55c4",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6244872/infantino-over-pele-als-je-met-hem-samen-was-stond-de-wereld-even-stil.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6244871,
     "slug": "gezonder-leven-helpt-van-der-voort-nog-niet-het-was-een-waardeloos-wk",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Modeontwerpster Vivienne Westwood op 81-jarige leeftijd overleden",
     "subtitle": null,
     "published_at": "2022-12-29T22:24:44+01:00",
-    "updated_at": "2022-12-29T23:02:42+01:00",
+    "updated_at": "2022-12-29T23:23:09+01:00",
     "media_id": "m1mxhpkads7f",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/opmerkelijk/6244802/toren-van-pisa-staat-4-centimeter-minder-scheef-dan-twintig-jaar-geleden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6244851,
-    "slug": "huizen-in-kyiv-verwoest-door-puin-van-neergehaalde-russische-raketten",
-    "type": "video",
-    "title": "Huizen in Kyiv verwoest door puin van neergehaalde Russische raketten",
-    "subtitle": "Video",
-    "published_at": "2022-12-29T18:51:32+01:00",
-    "updated_at": "2022-12-29T18:51:32+01:00",
-    "media_id": "mjyxckda55mt",
-    "duration": "0:31",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6244851/huizen-in-kyiv-verwoest-door-puin-van-neergehaalde-russische-raketten.html",
     "open_new_window": false,
     "partner": null
   }
