@@ -1,5 +1,28 @@
 [
   {
+    "id": 6245401,
+    "slug": "diallo-vindt-nieuwe-club-na-vermeende-betrokkenheid-bij-mishandelingszaak-psg",
+    "type": "article",
+    "title": "Diallo vindt nieuwe club na vermeende betrokkenheid bij mishandelingszaak PSG",
+    "subtitle": null,
+    "published_at": "2023-01-02T18:28:51+01:00",
+    "updated_at": "2023-01-02T18:28:51+01:00",
+    "media_id": "lqpxghsakhex",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6245401/diallo-vindt-nieuwe-club-na-vermeende-betrokkenheid-bij-mishandelingszaak-psg.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6245399,
     "slug": "sampdoria-pakt-door-na-komst-lammers-en-pikt-nuytinck-op-bij-udinese",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6245383/prins-harry-hoopt-op-verzoening-familie-doet-volgens-hem-geen-enkele-moeite.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6245381,
-    "slug": "aantal-hypotheekaanvragen-voor-derde-maand-op-rij-flink-gedaald",
-    "type": "article",
-    "title": "Aantal hypotheekaanvragen voor derde maand op rij flink gedaald",
-    "subtitle": null,
-    "published_at": "2023-01-02T14:14:38+01:00",
-    "updated_at": "2023-01-02T14:28:00+01:00",
-    "media_id": "f20x14wagfox",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6245381/aantal-hypotheekaanvragen-voor-derde-maand-op-rij-flink-gedaald.html",
     "open_new_window": false,
     "partner": null
   }
