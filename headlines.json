@@ -1,5 +1,28 @@
 [
   {
+    "id": 6245556,
+    "slug": "van-gerwen-gaat-in-finale-tegen-smith-voor-vierde-wereldtitel",
+    "type": "article",
+    "title": "Van Gerwen gaat in finale tegen Smith voor vierde wereldtitel",
+    "subtitle": "Liveblog WK darts",
+    "published_at": "2023-01-03T20:33:05+01:00",
+    "updated_at": "2023-01-03T20:40:47+01:00",
+    "media_id": "cmhxe2aawqbj",
+    "duration": null,
+    "canonical_section": {
+      "id": 1777376,
+      "slug": "darts",
+      "type": "default",
+      "name": "Darts",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/darts/6245556/van-gerwen-gaat-in-finale-tegen-smith-voor-vierde-wereldtitel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6245555,
     "slug": "kist-pele-komt-na-rondrit-op-brandweertruck-aan-bij-laatste-rustplaats",
     "type": "video",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/algemeen/6245537/russen-zeer-kritisch-op-eigen-leger-na-dodelijke-aanval-dit-zeggen-ze.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6245533,
-    "slug": "bultrug-waargenomen-vlak-voor-kust-van-scheveningen-en-kijkduin",
-    "type": "article",
-    "title": "Bultrug waargenomen vlak voor kust van Scheveningen en Kijkduin",
-    "subtitle": null,
-    "published_at": "2023-01-03T16:40:18+01:00",
-    "updated_at": "2023-01-03T17:13:47+01:00",
-    "media_id": "vyvxwmra4z7w",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772536,
-      "slug": "dieren",
-      "type": "default",
-      "name": "Dieren",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/dieren/6245533/bultrug-waargenomen-vlak-voor-kust-van-scheveningen-en-kijkduin.html",
     "open_new_window": false,
     "partner": null
   }
