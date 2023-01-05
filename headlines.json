@@ -1,5 +1,28 @@
 [
   {
+    "id": 6245714,
+    "slug": "djokovic-komt-met-schrik-vrij-in-achtste-finales-van-atp-toernooi-in-adelaide",
+    "type": "article",
+    "title": "Djokovic komt met schrik vrij in achtste finales van ATP-toernooi in Adelaide",
+    "subtitle": null,
+    "published_at": "2023-01-05T08:29:59+01:00",
+    "updated_at": "2023-01-05T08:30:00+01:00",
+    "media_id": "bamx58bay6dm",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6245714/djokovic-komt-met-schrik-vrij-in-achtste-finales-van-atp-toernooi-in-adelaide.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6245710,
     "slug": "toestand-van-door-hartstilstand-getroffen-nfl-speler-hamlin-nog-altijd-kritiek",
     "type": "article",
@@ -75,7 +98,7 @@
     "title": "Amazon zet meer dan achttienduizend medewerkers op straat",
     "subtitle": null,
     "published_at": "2023-01-05T07:36:54+01:00",
-    "updated_at": "2023-01-05T08:06:28+01:00",
+    "updated_at": "2023-01-05T08:24:19+01:00",
     "media_id": "hg5x82qahmhm",
     "duration": null,
     "canonical_section": {
@@ -93,12 +116,12 @@
   },
   {
     "id": 6245705,
-    "slug": "200000-bezoekers-voor-opgebaarde-paus-emeritus-benedictus-vandaag-begrafenis",
+    "slug": "200000-mensen-bezoeken-opgebaarde-paus-benedictus-vandaag-begrafenis",
     "type": "article",
-    "title": "200.000 bezoekers voor opgebaarde paus emeritus Benedictus, vandaag begrafenis",
+    "title": "200.000 mensen bezoeken opgebaarde paus Benedictus, vandaag begrafenis",
     "subtitle": null,
     "published_at": "2023-01-05T07:33:20+01:00",
-    "updated_at": "2023-01-05T08:11:20+01:00",
+    "updated_at": "2023-01-05T08:21:43+01:00",
     "media_id": "i86xt5va8y2u",
     "duration": null,
     "canonical_section": {
@@ -110,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6245705/200000-bezoekers-voor-opgebaarde-paus-emeritus-benedictus-vandaag-begrafenis.html",
+    "url": "/buitenland/6245705/200000-mensen-bezoeken-opgebaarde-paus-benedictus-vandaag-begrafenis.html",
     "open_new_window": false,
     "partner": null
   },
@@ -397,7 +420,7 @@
     "title": "Lonen gingen vorig jaar hard omhoog, maar prijzen nog veel harder",
     "subtitle": null,
     "published_at": "2023-01-05T00:00:14+01:00",
-    "updated_at": "2023-01-05T07:28:50+01:00",
+    "updated_at": "2023-01-05T08:23:21+01:00",
     "media_id": "k8uxzimajs5k",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6245697/barcelona-geeft-voorsprong-drie-keer-weg-maar-wint-alsnog-van-derdeklasser.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6245695,
-    "slug": "uitblinker-kane-wijst-tottenham-de-weg-bij-klinkende-zege-op-crystal-palace",
-    "type": "article",
-    "title": "Uitblinker Kane wijst Tottenham de weg bij klinkende zege op Crystal Palace",
-    "subtitle": null,
-    "published_at": "2023-01-04T23:10:34+01:00",
-    "updated_at": "2023-01-05T01:15:01+01:00",
-    "media_id": "purx13za95iv",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6245695/uitblinker-kane-wijst-tottenham-de-weg-bij-klinkende-zege-op-crystal-palace.html",
     "open_new_window": false,
     "partner": null
   }
