@@ -1,5 +1,28 @@
 [
   {
+    "id": 6245992,
+    "slug": "120-mensen-raakten-bij-jaarwisseling-gewond-aan-ogen-zeven-ogen-verwijderd",
+    "type": "article",
+    "title": "120 mensen raakten bij jaarwisseling gewond aan ogen, zeven ogen verwijderd",
+    "subtitle": null,
+    "published_at": "2023-01-06T18:50:30+01:00",
+    "updated_at": "2023-01-06T18:50:31+01:00",
+    "media_id": "fzbxqzea8rhg",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6245992/120-mensen-raakten-bij-jaarwisseling-gewond-aan-ogen-zeven-ogen-verwijderd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6245989,
     "slug": "skeletonster-bos-boekt-in-winterberg-eerste-wereldbekerzege-van-het-seizoen",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Italiaan Bosa verrast Scheperkamp, Verbij en Otterspeer bij start EK sprint",
     "subtitle": null,
     "published_at": "2023-01-06T18:28:31+01:00",
-    "updated_at": "2023-01-06T18:29:32+01:00",
+    "updated_at": "2023-01-06T18:34:32+01:00",
     "media_id": "b15xe0eapl0n",
     "duration": null,
     "canonical_section": {
@@ -121,8 +144,8 @@
     "title": "Kok verslaat Leerdam ook bij EK sprint op eerste 500 meter",
     "subtitle": null,
     "published_at": "2023-01-06T17:56:24+01:00",
-    "updated_at": "2023-01-06T18:14:09+01:00",
-    "media_id": "82fxjnpait5d",
+    "updated_at": "2023-01-06T18:38:59+01:00",
+    "media_id": "ix7xhdpaq404",
     "duration": null,
     "canonical_section": {
       "id": 1772452,
@@ -259,7 +282,7 @@
     "title": "Na 'goede evaluatie' grijpt Schreuder in bij Ajax: kleinere selectie en versterkingen",
     "subtitle": null,
     "published_at": "2023-01-06T16:56:52+01:00",
-    "updated_at": "2023-01-06T17:39:46+01:00",
+    "updated_at": "2023-01-06T18:48:07+01:00",
     "media_id": "flbxnrkaao7d",
     "duration": null,
     "canonical_section": {
@@ -305,7 +328,7 @@
     "title": "Bemanning Nederlands vrachtschip redde vier mannen op Atlantische Oceaan",
     "subtitle": null,
     "published_at": "2023-01-06T16:05:13+01:00",
-    "updated_at": "2023-01-06T16:46:16+01:00",
+    "updated_at": "2023-01-06T18:37:58+01:00",
     "media_id": "nb1xijkaqr86",
     "duration": null,
     "canonical_section": {
@@ -374,7 +397,7 @@
     "title": "Inflatie eurozone weer onder de 10 procent, Nederland nog steeds in kopgroep",
     "subtitle": null,
     "published_at": "2023-01-06T15:53:40+01:00",
-    "updated_at": "2023-01-06T15:53:42+01:00",
+    "updated_at": "2023-01-06T18:43:07+01:00",
     "media_id": "dhlxasva9lt6",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6245952/liverpool-weken-zonder-van-dijk-gakpo-kan-zaterdag-debuteren.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6245945,
-    "slug": "slot-raakt-niet-in-de-war-van-blessures-bij-feyenoord-kunnen-goed-team-inzetten",
-    "type": "article",
-    "title": "Slot raakt niet in de war van blessures bij Feyenoord: 'Kunnen goed team inzetten'",
-    "subtitle": null,
-    "published_at": "2023-01-06T15:00:37+01:00",
-    "updated_at": "2023-01-06T15:00:39+01:00",
-    "media_id": "kvyxu7ga3pay",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6245945/slot-raakt-niet-in-de-war-van-blessures-bij-feyenoord-kunnen-goed-team-inzetten.html",
     "open_new_window": false,
     "partner": null
   }
