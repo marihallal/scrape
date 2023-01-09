@@ -1,12 +1,58 @@
 [
   {
+    "id": 6246280,
+    "slug": "az-versterkt-zich-met-ervaren-australische-doelman-ryan",
+    "type": "article",
+    "title": "AZ versterkt zich met ervaren Australische doelman Ryan",
+    "subtitle": null,
+    "published_at": "2023-01-09T22:06:21+01:00",
+    "updated_at": "2023-01-09T22:06:22+01:00",
+    "media_id": "yitx7hiai73p",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6246280/az-versterkt-zich-met-ervaren-australische-doelman-ryan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6246320,
+    "slug": "boze-spits-barasi-helpt-jong-az-met-benutte-strafschoppen-aan-uitzege",
+    "type": "article",
+    "title": "Boze spits Barasi helpt Jong AZ met benutte strafschoppen aan uitzege",
+    "subtitle": null,
+    "published_at": "2023-01-09T21:55:28+01:00",
+    "updated_at": "2023-01-09T22:00:11+01:00",
+    "media_id": "l62x6h1arvv0",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6246320/boze-spits-barasi-helpt-jong-az-met-benutte-strafschoppen-aan-uitzege.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6246318,
     "slug": "american-footballer-hamlin-mag-ziekenhuis-week-na-hartstilstand-verlaten",
     "type": "article",
     "title": "American footballer Hamlin mag ziekenhuis week na hartstilstand verlaten",
     "subtitle": null,
     "published_at": "2023-01-09T21:47:35+01:00",
-    "updated_at": "2023-01-09T21:47:37+01:00",
+    "updated_at": "2023-01-09T21:53:13+01:00",
     "media_id": "1htxhxeab5uj",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6246241/bolsonaro-speelde-zeker-een-rol-bij-bestorming-gevolg-van-vier-jaar-beleid.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6246264,
-    "slug": "weer-discussie-over-ek-schaatsen-vier-nederlandse-winnaars-hoe-leuk-is-dat",
-    "type": "article",
-    "title": "Weer discussie over EK schaatsen: 'Vier Nederlandse winnaars, hoe leuk is dat?'",
-    "subtitle": null,
-    "published_at": "2023-01-09T17:14:30+01:00",
-    "updated_at": "2023-01-09T19:57:48+01:00",
-    "media_id": "ln8xnilalc3r",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772452,
-      "slug": "schaatsen",
-      "type": "default",
-      "name": "Schaatsen",
-      "style": "nusport",
-      "media_id": "5ktx9n6axubw",
-      "partner": null
-    },
-    "url": "/schaatsen/6246264/weer-discussie-over-ek-schaatsen-vier-nederlandse-winnaars-hoe-leuk-is-dat.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6246292,
-    "slug": "coldeweijer-reageert-op-rechtszaak-tegen-hazes-waarom-zitten-we-hier",
-    "type": "video",
-    "title": "Coldeweijer reageert op rechtszaak tegen Hazes: 'Waarom zitten we hier?'",
-    "subtitle": "Video",
-    "published_at": "2023-01-09T16:45:55+01:00",
-    "updated_at": "2023-01-09T16:45:56+01:00",
-    "media_id": "st7xjt7acyg7",
-    "duration": "1:31",
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6246292/coldeweijer-reageert-op-rechtszaak-tegen-hazes-waarom-zitten-we-hier.html",
     "open_new_window": false,
     "partner": null
   }
