@@ -1,5 +1,51 @@
 [
   {
+    "id": 6246846,
+    "slug": "djokovic-warm-onthaald-bij-weerzien-met-publiek-op-australian-open",
+    "type": "article",
+    "title": "Djokovic warm onthaald bij weerzien met publiek op Australian Open",
+    "subtitle": "In beeld",
+    "published_at": "2023-01-13T11:47:19+01:00",
+    "updated_at": "2023-01-13T11:47:20+01:00",
+    "media_id": "hrvxwl4aqks0",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6246846/djokovic-warm-onthaald-bij-weerzien-met-publiek-op-australian-open.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6246840,
+    "slug": "medeoprichter-en-drummer-van-bachman-turner-overdrive-69-overleden",
+    "type": "article",
+    "title": "Medeoprichter en drummer van Bachman-Turner Overdrive (69) overleden",
+    "subtitle": null,
+    "published_at": "2023-01-13T11:33:01+01:00",
+    "updated_at": "2023-01-13T11:33:02+01:00",
+    "media_id": "vwnxvi8azv5w",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6246840/medeoprichter-en-drummer-van-bachman-turner-overdrive-69-overleden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6246831,
     "slug": "china-handelt-erop-los-met-het-door-sancties-geraakte-rusland",
     "type": "article",
@@ -52,7 +98,7 @@
     "title": "Moeizaam scorend FC Emmen haalt spits Darfalou terug naar Eredivisie",
     "subtitle": null,
     "published_at": "2023-01-13T10:58:44+01:00",
-    "updated_at": "2023-01-13T10:58:46+01:00",
+    "updated_at": "2023-01-13T11:38:00+01:00",
     "media_id": "b3jxormar8cz",
     "duration": null,
     "canonical_section": {
@@ -167,7 +213,7 @@
     "title": "Hollywood reageert op overlijden Lisa Marie Presley: 'Mijn hart is gebroken'",
     "subtitle": null,
     "published_at": "2023-01-13T09:53:01+01:00",
-    "updated_at": "2023-01-13T09:57:41+01:00",
+    "updated_at": "2023-01-13T11:51:01+01:00",
     "media_id": "rnbxwfnao6so",
     "duration": null,
     "canonical_section": {
@@ -190,7 +236,7 @@
     "title": "Familie over Bas van Toor (87): 'Je ziet hem langzaam achteruit gaan'",
     "subtitle": null,
     "published_at": "2023-01-13T09:51:53+01:00",
-    "updated_at": "2023-01-13T09:58:20+01:00",
+    "updated_at": "2023-01-13T11:34:16+01:00",
     "media_id": "r3yxzbfalgr0",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/stelling/6246674/stelling-kabinet-moet-uitspraak-van-rechter-naast-zich-neer-kunnen-leggen-als-dat-nodig-is.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6246784,
-    "slug": "tornado-laat-enorme-puinhoop-achter-in-alabama",
-    "type": "video",
-    "title": "Tornado laat enorme puinhoop achter in Alabama",
-    "subtitle": "Video",
-    "published_at": "2023-01-13T08:32:12+01:00",
-    "updated_at": "2023-01-13T08:32:13+01:00",
-    "media_id": "g9oxjucarh4n",
-    "duration": "0:47",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6246784/tornado-laat-enorme-puinhoop-achter-in-alabama.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6246780,
-    "slug": "brand-zorgt-voor-grote-ravage-bij-busstalling-utrecht",
-    "type": "video",
-    "title": "Brand zorgt voor grote ravage bij busstalling Utrecht",
-    "subtitle": "Video",
-    "published_at": "2023-01-13T08:15:26+01:00",
-    "updated_at": "2023-01-13T08:55:47+01:00",
-    "media_id": "0ymx3xmact63",
-    "duration": "0:43",
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6246780/brand-zorgt-voor-grote-ravage-bij-busstalling-utrecht.html",
     "open_new_window": false,
     "partner": null
   }
