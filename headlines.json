@@ -1,5 +1,28 @@
 [
   {
+    "id": 6246972,
+    "slug": "fifa-opent-disciplinair-onderzoek-naar-wangedrag-van-wereldkampioen-argentinie",
+    "type": "article",
+    "title": "FIFA opent disciplinair onderzoek naar wangedrag van wereldkampioen Argentinië",
+    "subtitle": null,
+    "published_at": "2023-01-14T09:30:11+01:00",
+    "updated_at": "2023-01-14T09:48:04+01:00",
+    "media_id": "48jxnvea71vo",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6246972/fifa-opent-disciplinair-onderzoek-naar-wangedrag-van-wereldkampioen-argentinie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6246969,
     "slug": "bijna-13-miljoen-kijkers-voor-documentaire-over-watersnoodramp",
     "type": "article",
@@ -70,12 +93,12 @@
   },
   {
     "id": 6246966,
-    "slug": "explosie-bij-woning-agent-werd-mogelijk-gepleegd-uit-woede-door-boetes",
+    "slug": "aanslag-bij-woning-agent-werd-mogelijk-gepleegd-uit-woede-over-boetes",
     "type": "article",
-    "title": "Explosie bij woning agent werd mogelijk gepleegd uit woede door boetes",
+    "title": "Aanslag bij woning agent werd mogelijk gepleegd uit woede over boetes",
     "subtitle": null,
     "published_at": "2023-01-14T08:35:31+01:00",
-    "updated_at": "2023-01-14T08:42:03+01:00",
+    "updated_at": "2023-01-14T09:38:22+01:00",
     "media_id": "pmcxpgvaeu4n",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6246966/explosie-bij-woning-agent-werd-mogelijk-gepleegd-uit-woede-door-boetes.html",
+    "url": "/binnenland/6246966/aanslag-bij-woning-agent-werd-mogelijk-gepleegd-uit-woede-over-boetes.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6246690/bolcom-verwijderde-sinds-oktober-tientallen-nieuwe-antisemitische-boeken.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6246955,
-    "slug": "ook-in-engeland-wordt-wegwerpplastic-verboden",
-    "type": "article",
-    "title": "Ook in Engeland wordt wegwerpplastic verboden",
-    "subtitle": null,
-    "published_at": "2023-01-14T02:13:04+01:00",
-    "updated_at": "2023-01-14T07:53:30+01:00",
-    "media_id": "g45x76mauw13",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6246955/ook-in-engeland-wordt-wegwerpplastic-verboden.html",
     "open_new_window": false,
     "partner": null
   }
