@@ -1,5 +1,28 @@
 [
   {
+    "id": 6246998,
+    "slug": "andre-hazes-zegt-aan-nieuw-album-te-werken-mag-eindelijk-mezelf-zijn",
+    "type": "article",
+    "title": "André Hazes zegt aan nieuw album te werken: 'Mag eindelijk mezelf zijn'",
+    "subtitle": null,
+    "published_at": "2023-01-14T14:34:59+01:00",
+    "updated_at": "2023-01-14T14:44:52+01:00",
+    "media_id": "4hdxzp0aht38",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6246998/andre-hazes-zegt-aan-nieuw-album-te-werken-mag-eindelijk-mezelf-zijn.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6246996,
     "slug": "duizenden-mensen-marcheren-richting-duits-bruinkooldorp-lutzerath",
     "type": "video",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6246968/bewakingsbeelden-tonen-hoe-tornado-truck-omverblaast-in-vs.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6246966,
-    "slug": "aanslag-bij-woning-agent-werd-mogelijk-gepleegd-uit-woede-over-boetes",
-    "type": "article",
-    "title": "Aanslag bij woning agent werd mogelijk gepleegd uit woede over boetes",
-    "subtitle": null,
-    "published_at": "2023-01-14T08:35:31+01:00",
-    "updated_at": "2023-01-14T09:38:22+01:00",
-    "media_id": "pmcxpgvaeu4n",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6246966/aanslag-bij-woning-agent-werd-mogelijk-gepleegd-uit-woede-over-boetes.html",
     "open_new_window": false,
     "partner": null
   }
