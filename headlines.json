@@ -1,5 +1,28 @@
 [
   {
+    "id": 6247474,
+    "slug": "cees-bol-vindt-onderdak-bij-astana-en-gaat-sprint-aantrekken-voor-cavendish",
+    "type": "article",
+    "title": "Cees Bol vindt onderdak bij Astana en gaat sprint aantrekken voor Cavendish",
+    "subtitle": null,
+    "published_at": "2023-01-18T12:34:13+01:00",
+    "updated_at": "2023-01-18T12:34:14+01:00",
+    "media_id": "b6zxkc1ayjol",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6247474/cees-bol-vindt-onderdak-bij-astana-en-gaat-sprint-aantrekken-voor-cavendish.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6247454,
     "slug": "dit-vinden-jullie-ervan-dat-chatgpt-het-huiswerk-van-scholieren-kan-maken",
     "type": "article",
@@ -116,12 +139,12 @@
   },
   {
     "id": 6247465,
-    "slug": "griekspoor-op-voorsprong-tegen-van-de-zandschulp-in-melbourne",
+    "slug": "griekspoor-heeft-de-overhand-tegen-van-de-zandschulp-in-melbourne",
     "type": "article",
-    "title": "Griekspoor op voorsprong tegen Van de Zandschulp in Melbourne",
+    "title": "Griekspoor heeft de overhand tegen Van de Zandschulp in Melbourne",
     "subtitle": "Liveblog",
     "published_at": "2023-01-18T11:37:53+01:00",
-    "updated_at": "2023-01-18T12:11:45+01:00",
+    "updated_at": "2023-01-18T12:47:51+01:00",
     "media_id": "4c0xngnatf7w",
     "duration": null,
     "canonical_section": {
@@ -133,7 +156,7 @@
       "media_id": "m1oxohpan0gq",
       "partner": null
     },
-    "url": "/tennis/6247465/griekspoor-op-voorsprong-tegen-van-de-zandschulp-in-melbourne.html",
+    "url": "/tennis/6247465/griekspoor-heeft-de-overhand-tegen-van-de-zandschulp-in-melbourne.html",
     "open_new_window": false,
     "partner": null
   },
@@ -374,7 +397,7 @@
     "title": "Oekraïense minister en veertien anderen komen om bij helikoptercrash in Kyiv",
     "subtitle": null,
     "published_at": "2023-01-18T09:37:59+01:00",
-    "updated_at": "2023-01-18T12:11:40+01:00",
+    "updated_at": "2023-01-18T12:36:48+01:00",
     "media_id": "ownx0s9ac5f0",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/auto/6247436/eerste-kennismaking-bmw-xm.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247434,
-    "slug": "suarez-helpt-nieuwe-club-gremio-direct-aan-prijs-met-hattrick-bij-debuut",
-    "type": "article",
-    "title": "Suárez helpt nieuwe club Grêmio direct aan prijs met hattrick bij debuut",
-    "subtitle": null,
-    "published_at": "2023-01-18T09:09:52+01:00",
-    "updated_at": "2023-01-18T09:34:05+01:00",
-    "media_id": "yj3xhy7afvtp",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6247434/suarez-helpt-nieuwe-club-gremio-direct-aan-prijs-met-hattrick-bij-debuut.html",
     "open_new_window": false,
     "partner": null
   }
