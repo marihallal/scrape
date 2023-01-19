@@ -1,5 +1,28 @@
 [
   {
+    "id": 6247651,
+    "slug": "russen-herdenken-doop-van-jezus-met-ijsbad",
+    "type": "video",
+    "title": "Russen herdenken doop van Jezus met ijsbad",
+    "subtitle": "Video",
+    "published_at": "2023-01-19T14:09:19+01:00",
+    "updated_at": "2023-01-19T14:09:20+01:00",
+    "media_id": "i0nx4cyawnyw",
+    "duration": "0:46",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6247651/russen-herdenken-doop-van-jezus-met-ijsbad.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6247645,
     "slug": "flekken-was-boos-om-mislopen-wk-geen-duidelijk-verhaal-van-frans-hoek",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Djokovic ondanks fysieke problemen door naar derde ronde Australian Open",
     "subtitle": null,
     "published_at": "2023-01-19T13:23:01+01:00",
-    "updated_at": "2023-01-19T13:39:50+01:00",
+    "updated_at": "2023-01-19T13:57:08+01:00",
     "media_id": "xn9xzezagn0q",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Twee Nederlandse drugscriminelen in Dubai van radar verdwenen na aanhouding",
     "subtitle": null,
     "published_at": "2023-01-19T12:39:04+01:00",
-    "updated_at": "2023-01-19T12:39:05+01:00",
+    "updated_at": "2023-01-19T14:05:15+01:00",
     "media_id": "yp8xw1rakiey",
     "duration": null,
     "canonical_section": {
@@ -167,7 +190,7 @@
     "title": "Hockeyers halen ongenadig uit en boeken tegen Chili grootste WK-zege ooit",
     "subtitle": null,
     "published_at": "2023-01-19T12:26:07+01:00",
-    "updated_at": "2023-01-19T13:38:21+01:00",
+    "updated_at": "2023-01-19T13:53:19+01:00",
     "media_id": "q2ixo4baya0g",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6247593/cryptohandelaar-genesis-vraagt-mogelijk-deze-week-faillissement-aan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247589,
-    "slug": "nadal-na-vroege-uitschakeling-in-australie-weken-aan-de-kant-met-heupblessure",
-    "type": "article",
-    "title": "Nadal na vroege uitschakeling in Australië weken aan de kant met heupblessure",
-    "subtitle": null,
-    "published_at": "2023-01-19T09:08:37+01:00",
-    "updated_at": "2023-01-19T10:11:37+01:00",
-    "media_id": "h67xnzqax6wa",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6247589/nadal-na-vroege-uitschakeling-in-australie-weken-aan-de-kant-met-heupblessure.html",
     "open_new_window": false,
     "partner": null
   }
