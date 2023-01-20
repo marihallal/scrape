@@ -1,5 +1,28 @@
 [
   {
+    "id": 6247774,
+    "slug": "bijna-25-miljoen-bezoekers-meer-voor-concerten-en-festivals-dan-in-2019",
+    "type": "article",
+    "title": "Bijna 2,5 miljoen bezoekers meer voor concerten en festivals dan in 2019",
+    "subtitle": null,
+    "published_at": "2023-01-20T10:31:43+01:00",
+    "updated_at": "2023-01-20T10:31:44+01:00",
+    "media_id": "1krx1iiav4uv",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6247774/bijna-25-miljoen-bezoekers-meer-voor-concerten-en-festivals-dan-in-2019.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6247761,
     "slug": "uitzending-met-andre-hazes-best-bekeken-jinek-aflevering-van-de-week",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Tim Hofman door Villamedia uitgeroepen tot Journalist van het Jaar",
     "subtitle": null,
     "published_at": "2023-01-20T10:07:51+01:00",
-    "updated_at": "2023-01-20T10:07:53+01:00",
+    "updated_at": "2023-01-20T10:21:14+01:00",
     "media_id": "g3zxx1sad3nb",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wielrennen/6247741/jumbo-visma-renner-dennis-verliest-leiderstrui-in-australie-ritzege-bilbao.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247739,
-    "slug": "weerbericht-centimeters-sneeuw-en-gladde-wegen",
-    "type": "article",
-    "title": "Weerbericht: Centimeters sneeuw en gladde wegen",
-    "subtitle": null,
-    "published_at": "2023-01-20T05:56:43+01:00",
-    "updated_at": "2023-01-20T07:06:05+01:00",
-    "media_id": "zjxxy1vasulh",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6247739/weerbericht-centimeters-sneeuw-en-gladde-wegen.html",
     "open_new_window": false,
     "partner": null
   }
