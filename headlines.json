@@ -1,5 +1,28 @@
 [
   {
+    "id": 6247744,
+    "slug": "directie-australian-open-houdt-ook-na-nachtwerk-murray-vast-aan-tijdschema",
+    "type": "article",
+    "title": "Directie Australian Open houdt ook na nachtwerk Murray vast aan tijdschema",
+    "subtitle": null,
+    "published_at": "2023-01-20T06:24:31+01:00",
+    "updated_at": "2023-01-20T06:24:32+01:00",
+    "media_id": "w93xwd8ad55v",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6247744/directie-australian-open-houdt-ook-na-nachtwerk-murray-vast-aan-tijdschema.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6247743,
     "slug": "chrissy-teigen-en-john-legend-verwelkomen-dochter-esti-maxine",
     "type": "article",
@@ -75,7 +98,7 @@
     "title": "Weerbericht: Centimeters sneeuw en gladde wegen",
     "subtitle": null,
     "published_at": "2023-01-20T05:56:43+01:00",
-    "updated_at": "2023-01-20T05:56:45+01:00",
+    "updated_at": "2023-01-20T06:29:25+01:00",
     "media_id": "zjxxy1vasulh",
     "duration": null,
     "canonical_section": {
@@ -185,12 +208,12 @@
   },
   {
     "id": 6247708,
-    "slug": "waarom-niet-iedereen-blij-is-met-gefilterd-japans-kernafvalwater-in-oceaan",
+    "slug": "waarom-niet-iedereen-blij-is-met-gefilterd-japans-kernafvalwater",
     "type": "video",
-    "title": "Waarom niet iedereen blij is met gefilterd Japans kernafvalwater in oceaan",
+    "title": "Waarom niet iedereen blij is met gefilterd Japans kernafvalwater",
     "subtitle": "Video",
     "published_at": "2023-01-20T05:11:14+01:00",
-    "updated_at": "2023-01-20T05:11:16+01:00",
+    "updated_at": "2023-01-20T06:33:03+01:00",
     "media_id": "tokxcvfacwzv",
     "duration": "1:58",
     "canonical_section": {
@@ -202,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/uitleg/6247708/waarom-niet-iedereen-blij-is-met-gefilterd-japans-kernafvalwater-in-oceaan.html",
+    "url": "/uitleg/6247708/waarom-niet-iedereen-blij-is-met-gefilterd-japans-kernafvalwater.html",
     "open_new_window": false,
     "partner": null
   },
@@ -351,7 +374,7 @@
     "title": "Code oranje voor vier provincies vanwege sneeuwval: 'Werk thuis'",
     "subtitle": null,
     "published_at": "2023-01-19T22:44:41+01:00",
-    "updated_at": "2023-01-20T05:48:15+01:00",
+    "updated_at": "2023-01-20T06:30:11+01:00",
     "media_id": "odzxxjmam2aq",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/film/6247729/zoektocht-naar-vermiste-acteur-julian-sands-voorlopig-gestaakt-wegens-noodweer.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247728,
-    "slug": "patty-brard-verhuist-naar-almere-vooroordelen-zijn-zo-2001",
-    "type": "article",
-    "title": "Patty Brard verhuist naar Almere: 'Vooroordelen zijn zó 2001'",
-    "subtitle": null,
-    "published_at": "2023-01-19T22:20:58+01:00",
-    "updated_at": "2023-01-19T22:38:38+01:00",
-    "media_id": "dz3xw5ca59ep",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6247728/patty-brard-verhuist-naar-almere-vooroordelen-zijn-zo-2001.html",
     "open_new_window": false,
     "partner": null
   }
