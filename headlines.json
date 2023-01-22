@@ -1,12 +1,58 @@
 [
   {
+    "id": 6248083,
+    "slug": "lisa-marie-presley-naast-zoon-benjamin-begraven-op-graceland",
+    "type": "article",
+    "title": "Lisa Marie Presley naast zoon Benjamin begraven op Graceland",
+    "subtitle": null,
+    "published_at": "2023-01-22T21:30:38+01:00",
+    "updated_at": "2023-01-22T21:30:39+01:00",
+    "media_id": "31ax65haj6hx",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6248083/lisa-marie-presley-naast-zoon-benjamin-begraven-op-graceland.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6248072,
+    "slug": "van-der-poel-opgelucht-dat-hij-verlost-is-van-rugklachten-kon-weer-diepgaan",
+    "type": "article",
+    "title": "Van der Poel opgelucht dat hij verlost is van rugklachten: 'Kon weer diepgaan'",
+    "subtitle": null,
+    "published_at": "2023-01-22T21:28:32+01:00",
+    "updated_at": "2023-01-22T21:28:33+01:00",
+    "media_id": "px7x61laa1gl",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6248072/van-der-poel-opgelucht-dat-hij-verlost-is-van-rugklachten-kon-weer-diepgaan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6248074,
     "slug": "verdachte-schietpartij-zwijndrecht-eerder-veroordeeld-wegens-overvallen",
     "type": "article",
     "title": "Verdachte schietpartij Zwijndrecht eerder veroordeeld wegens overvallen",
     "subtitle": null,
     "published_at": "2023-01-22T20:45:17+01:00",
-    "updated_at": "2023-01-22T20:45:18+01:00",
+    "updated_at": "2023-01-22T21:20:25+01:00",
     "media_id": "gg2x8gjaw9oq",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6248048/koploper-feyenoord-geeft-zege-uit-handen-in-beladen-klassieker-tegen-ajax.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6248055,
-    "slug": "fc-twente-zet-pover-fc-utrecht-opzij-en-blijft-meedraaien-in-eredivisie-top",
-    "type": "article",
-    "title": "FC Twente zet pover FC Utrecht opzij en blijft meedraaien in Eredivisie-top",
-    "subtitle": null,
-    "published_at": "2023-01-22T16:27:10+01:00",
-    "updated_at": "2023-01-22T16:48:24+01:00",
-    "media_id": "cvmx1mfaubhy",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6248055/fc-twente-zet-pover-fc-utrecht-opzij-en-blijft-meedraaien-in-eredivisie-top.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6248051,
-    "slug": "politie-zet-waterkanon-in-tegen-vuurwerkgooiers-bij-klassieker",
-    "type": "video",
-    "title": "Politie zet waterkanon in tegen vuurwerkgooiers bij Klassieker",
-    "subtitle": "Video",
-    "published_at": "2023-01-22T15:38:46+01:00",
-    "updated_at": "2023-01-22T15:38:48+01:00",
-    "media_id": "6hlxh4zar4ij",
-    "duration": "0:29",
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6248051/politie-zet-waterkanon-in-tegen-vuurwerkgooiers-bij-klassieker.html",
     "open_new_window": false,
     "partner": null
   }
