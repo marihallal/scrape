@@ -1,5 +1,28 @@
 [
   {
+    "id": 6248099,
+    "slug": "shakira-eerste-vrouw-met-meeste-spotify-streams-van-latijns-amerika",
+    "type": "article",
+    "title": "Shakira eerste vrouw met meeste Spotify-streams van Latijns-Amerika",
+    "subtitle": null,
+    "published_at": "2023-01-23T06:46:46+01:00",
+    "updated_at": "2023-01-23T06:46:48+01:00",
+    "media_id": "oz9xj22afdoz",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6248099/shakira-eerste-vrouw-met-meeste-spotify-streams-van-latijns-amerika.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6248092,
     "slug": "klassieker-verloopt-zonder-gevreesde-incidenten-ik-wist-niet-wat-ik-zag",
     "type": "article",
@@ -98,7 +121,7 @@
     "title": "Aantal orgaandonaties steeg in 2022 tot recordaantal in Nederland",
     "subtitle": null,
     "published_at": "2023-01-23T05:38:15+01:00",
-    "updated_at": "2023-01-23T05:38:17+01:00",
+    "updated_at": "2023-01-23T06:38:16+01:00",
     "media_id": "ingxxlsak4p7",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wielrennen/6248072/van-der-poel-opgelucht-dat-hij-verlost-is-van-rugklachten-kon-weer-diepgaan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6248074,
-    "slug": "verdachte-schietpartij-zwijndrecht-eerder-veroordeeld-wegens-overvallen",
-    "type": "article",
-    "title": "Verdachte schietpartij Zwijndrecht eerder veroordeeld wegens overvallen",
-    "subtitle": null,
-    "published_at": "2023-01-22T20:45:17+01:00",
-    "updated_at": "2023-01-22T21:20:25+01:00",
-    "media_id": "gg2x8gjaw9oq",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6248074/verdachte-schietpartij-zwijndrecht-eerder-veroordeeld-wegens-overvallen.html",
     "open_new_window": false,
     "partner": null
   }
