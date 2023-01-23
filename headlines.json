@@ -1,5 +1,51 @@
 [
   {
+    "id": 6248157,
+    "slug": "koeman-stuurde-appje-naar-berghuis-heel-goed-dat-hij-dit-zo-gezegd-heeft",
+    "type": "article",
+    "title": "Koeman stuurde appje naar Berghuis: 'Heel goed dat hij dit zo gezegd heeft'",
+    "subtitle": null,
+    "published_at": "2023-01-23T14:49:14+01:00",
+    "updated_at": "2023-01-23T14:49:14+01:00",
+    "media_id": "ri4xm0ja1kvl",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6248157/koeman-stuurde-appje-naar-berghuis-heel-goed-dat-hij-dit-zo-gezegd-heeft.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6248162,
+    "slug": "koeman-over-strafschoppen-bij-oranje-moet-altijd-een-item-zijn",
+    "type": "video",
+    "title": "Koeman over strafschoppen bij Oranje: 'Moet altijd een item zijn'",
+    "subtitle": "Video",
+    "published_at": "2023-01-23T14:43:02+01:00",
+    "updated_at": "2023-01-23T14:43:03+01:00",
+    "media_id": "lf7xe5ba3ekk",
+    "duration": "1:17",
+    "canonical_section": {
+      "id": 149,
+      "slug": "sport",
+      "type": "default",
+      "name": "Sport",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport/6248162/koeman-over-strafschoppen-bij-oranje-moet-altijd-een-item-zijn.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6248158,
     "slug": "koeman-niet-terug-geweest-in-stadion-barcelona-dat-laat-ik-voorlopig-zo",
     "type": "video",
@@ -121,7 +167,7 @@
     "title": "Bondscoach Koeman gaat bij Oranje weer met vier verdedigers spelen",
     "subtitle": null,
     "published_at": "2023-01-23T13:20:26+01:00",
-    "updated_at": "2023-01-23T14:21:57+01:00",
+    "updated_at": "2023-01-23T14:49:55+01:00",
     "media_id": "1e0xmm0aj8uw",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6248128/zo-zag-beyonces-omstreden-optreden-in-dubai-eruit.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6248126,
-    "slug": "van-der-poel-kiest-voor-cross-in-besancon-geen-nieuw-duel-met-van-aert-voor-wk",
-    "type": "article",
-    "title": "Van der Poel kiest voor cross in Besançon, geen nieuw duel met Van Aert voor WK",
-    "subtitle": null,
-    "published_at": "2023-01-23T11:02:04+01:00",
-    "updated_at": "2023-01-23T11:08:54+01:00",
-    "media_id": "m7ox5u3aim9q",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6248126/van-der-poel-kiest-voor-cross-in-besancon-geen-nieuw-duel-met-van-aert-voor-wk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6248118,
-    "slug": "japanse-premier-bezorgd-over-historisch-laag-geboortecijfer-het-is-nu-of-nooit",
-    "type": "article",
-    "title": "Japanse premier bezorgd over historisch laag geboortecijfer: 'Het is nu of nooit'",
-    "subtitle": null,
-    "published_at": "2023-01-23T10:58:38+01:00",
-    "updated_at": "2023-01-23T10:58:40+01:00",
-    "media_id": "2krx6dba70g0",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6248118/japanse-premier-bezorgd-over-historisch-laag-geboortecijfer-het-is-nu-of-nooit.html",
     "open_new_window": false,
     "partner": null
   }
