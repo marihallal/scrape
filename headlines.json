@@ -52,8 +52,8 @@
     "title": "Overzicht klimaatuitgaven is bij kabinet een puinhoop, Kamer tast in het duister",
     "subtitle": null,
     "published_at": "2023-01-25T11:17:57+01:00",
-    "updated_at": "2023-01-25T11:36:30+01:00",
-    "media_id": "n2bxgdwa93el",
+    "updated_at": "2023-01-25T11:37:03+01:00",
+    "media_id": "ldaxkmzawwz2",
     "duration": null,
     "canonical_section": {
       "id": 1771437,
@@ -75,7 +75,7 @@
     "title": "Nederland treft in eigen land Kroatië in halve finales Nations League",
     "subtitle": null,
     "published_at": "2023-01-25T11:11:37+01:00",
-    "updated_at": "2023-01-25T11:33:26+01:00",
+    "updated_at": "2023-01-25T11:43:28+01:00",
     "media_id": "s73xj4gaznui",
     "duration": null,
     "canonical_section": {
@@ -111,29 +111,6 @@
       "partner": null
     },
     "url": "/economie/6248417/adverteerders-lopen-massaal-weg-bij-twitter-sinds-musk-aan-het-roer-staat.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6248405,
-    "slug": "sneijder-koppelt-oranje-aan-kroatie-gesloten",
-    "type": "article",
-    "title": "Sneijder koppelt Oranje aan Kroatië (gesloten)",
-    "subtitle": "Liveblog",
-    "published_at": "2023-01-25T10:44:48+01:00",
-    "updated_at": "2023-01-25T11:13:20+01:00",
-    "media_id": "baqxx5yaevc8",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6248405/sneijder-koppelt-oranje-aan-kroatie-gesloten.html",
     "open_new_window": false,
     "partner": null
   },
@@ -190,8 +167,8 @@
     "title": "Ei bevriest direct in extreem koud Noord-China",
     "subtitle": "Video",
     "published_at": "2023-01-25T09:46:13+01:00",
-    "updated_at": "2023-01-25T10:02:26+01:00",
-    "media_id": "on6xtjna8n3b",
+    "updated_at": "2023-01-25T11:42:41+01:00",
+    "media_id": "xtwxqe7aoit9",
     "duration": "0:51",
     "canonical_section": {
       "id": 1771436,
@@ -456,6 +433,29 @@
       "partner": null
     },
     "url": "/tennis/6248391/sabalenka-en-linette-als-laatste-vrouwen-naar-halve-finales-australian-open.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6248234,
+    "slug": "stelling-eredivisie-wedstrijden-moeten-zonder-uitpubliek-worden-gespeeld",
+    "type": "article",
+    "title": "Stelling: Eredivisie-wedstrijden moeten zonder uitpubliek worden gespeeld",
+    "subtitle": null,
+    "published_at": "2023-01-25T07:02:00+01:00",
+    "updated_at": "2023-01-25T07:02:01+01:00",
+    "media_id": "mlpxrrja5cbz",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6248234/stelling-eredivisie-wedstrijden-moeten-zonder-uitpubliek-worden-gespeeld.html",
     "open_new_window": false,
     "partner": null
   }
