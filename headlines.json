@@ -1,12 +1,35 @@
 [
   {
+    "id": 6248439,
+    "slug": "ajax-draagt-pier-eringa-voor-als-nieuwe-voorzitter-raad-van-commissarissen",
+    "type": "article",
+    "title": "Ajax draagt Pier Eringa voor als nieuwe voorzitter raad van commissarissen",
+    "subtitle": null,
+    "published_at": "2023-01-25T12:44:36+01:00",
+    "updated_at": "2023-01-25T12:44:37+01:00",
+    "media_id": "q7oxn9gajf2u",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6248439/ajax-draagt-pier-eringa-voor-als-nieuwe-voorzitter-raad-van-commissarissen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6248436,
     "slug": "asml-topman-te-heftige-importbeperkingen-china-kunnen-ons-allemaal-raken",
     "type": "article",
     "title": "ASML-topman: 'Te heftige importbeperkingen China kunnen ons allemaal raken'",
     "subtitle": null,
     "published_at": "2023-01-25T12:29:29+01:00",
-    "updated_at": "2023-01-25T12:29:30+01:00",
+    "updated_at": "2023-01-25T12:34:08+01:00",
     "media_id": "kmwxk4oaqscp",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "'Verschrikkelijk als F1 in Saoedische handen komt'",
     "subtitle": "Podcast De Boordradio",
     "published_at": "2023-01-25T12:27:40+01:00",
-    "updated_at": "2023-01-25T12:30:57+01:00",
+    "updated_at": "2023-01-25T12:35:39+01:00",
     "media_id": "d7txn41aiq2x",
     "duration": null,
     "canonical_section": {
@@ -121,7 +144,7 @@
     "title": "PSV haalt Fábio Silva als eerste winterversterking, Hoever terug naar Wolves",
     "subtitle": null,
     "published_at": "2023-01-25T12:08:45+01:00",
-    "updated_at": "2023-01-25T12:31:19+01:00",
+    "updated_at": "2023-01-25T12:40:50+01:00",
     "media_id": "456x7y0ayuol",
     "duration": null,
     "canonical_section": {
@@ -167,7 +190,7 @@
     "title": "Kunstrijdster Van Zundert is een idool door Spelen, maar heeft ook geldzorgen",
     "subtitle": null,
     "published_at": "2023-01-25T11:58:38+01:00",
-    "updated_at": "2023-01-25T12:16:31+01:00",
+    "updated_at": "2023-01-25T12:34:14+01:00",
     "media_id": "scdxgzxafis0",
     "duration": null,
     "canonical_section": {
@@ -208,12 +231,12 @@
   },
   {
     "id": 6248431,
-    "slug": "duitsland-stuurt-twee-bataljons-van-tientallen-leopard-2-tanks-naar-oekraine",
+    "slug": "duitsland-wil-twee-bataljons-van-bijna-negentig-leopard-2-tanks-naar-oekraine-sturen",
     "type": "article",
-    "title": "Duitsland stuurt twee bataljons van tientallen Leopard 2-tanks naar Oekraïne",
+    "title": "Duitsland wil twee bataljons van bijna negentig Leopard 2-tanks naar Oekraïne sturen",
     "subtitle": null,
     "published_at": "2023-01-25T11:52:29+01:00",
-    "updated_at": "2023-01-25T12:28:51+01:00",
+    "updated_at": "2023-01-25T12:45:05+01:00",
     "media_id": "m1mxequauq8o",
     "duration": null,
     "canonical_section": {
@@ -225,7 +248,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/spanningen-oekraine/6248431/duitsland-stuurt-twee-bataljons-van-tientallen-leopard-2-tanks-naar-oekraine.html",
+    "url": "/spanningen-oekraine/6248431/duitsland-wil-twee-bataljons-van-bijna-negentig-leopard-2-tanks-naar-oekraine-sturen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/entertainment/6248414/mattie-valk-morst-drankje-op-mengpaneel-tijdens-uitzending.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6248407,
-    "slug": "ei-bevriest-direct-in-extreem-koud-noord-china",
-    "type": "video",
-    "title": "Ei bevriest direct in extreem koud Noord-China",
-    "subtitle": "Video",
-    "published_at": "2023-01-25T09:46:13+01:00",
-    "updated_at": "2023-01-25T11:42:41+01:00",
-    "media_id": "xtwxqe7aoit9",
-    "duration": "0:51",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6248407/ei-bevriest-direct-in-extreem-koud-noord-china.html",
     "open_new_window": false,
     "partner": null
   }
