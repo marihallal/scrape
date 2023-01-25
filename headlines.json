@@ -1,5 +1,28 @@
 [
   {
+    "id": 6248523,
+    "slug": "giel-de-winter-vader-geworden-van-een-dochter",
+    "type": "article",
+    "title": "Giel de Winter vader geworden van een dochter",
+    "subtitle": null,
+    "published_at": "2023-01-25T19:40:21+01:00",
+    "updated_at": "2023-01-25T19:45:33+01:00",
+    "media_id": "db2xhvnau5xh",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6248523/giel-de-winter-vader-geworden-van-een-dochter.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6248522,
     "slug": "razzies-verhogen-leeftijdsgrens-na-kritiek-op-nominatie-voor-kindacteur",
     "type": "article",
@@ -121,7 +144,7 @@
     "title": "AZ virtueel koploper na doelpunt Pavlidis",
     "subtitle": "Liveblog Eredivisie",
     "published_at": "2023-01-25T18:21:52+01:00",
-    "updated_at": "2023-01-25T19:33:03+01:00",
+    "updated_at": "2023-01-25T19:41:42+01:00",
     "media_id": "jnwx1b2a5etl",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6248486/hockeyers-winnen-weer-ruim-en-azen-in-halve-finale-wk-op-revanche-tegen-belgie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6248475,
-    "slug": "deze-landen-leveren-waarschijnlijk-tanks-aan-oekraine-en-dit-doet-nederland",
-    "type": "article",
-    "title": "Deze landen leveren waarschijnlijk tanks aan Oekraïne (en dit doet Nederland)",
-    "subtitle": null,
-    "published_at": "2023-01-25T16:14:13+01:00",
-    "updated_at": "2023-01-25T18:30:50+01:00",
-    "media_id": "djixbvoaia8f",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6248475/deze-landen-leveren-waarschijnlijk-tanks-aan-oekraine-en-dit-doet-nederland.html",
     "open_new_window": false,
     "partner": null
   }
