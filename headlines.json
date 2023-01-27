@@ -1,12 +1,35 @@
 [
   {
+    "id": 6248852,
+    "slug": "verenigde-staten-mag-twee-jaar-voor-wk-ook-copa-america-organiseren",
+    "type": "article",
+    "title": "Verenigde Staten mag twee jaar voor WK ook Copa América organiseren",
+    "subtitle": null,
+    "published_at": "2023-01-27T19:51:00+01:00",
+    "updated_at": "2023-01-27T19:51:01+01:00",
+    "media_id": "xudxvydawhjl",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6248852/verenigde-staten-mag-twee-jaar-voor-wk-ook-copa-america-organiseren.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6248858,
     "slug": "hockeyer-de-geus-voelt-zich-leeg-na-wk-uitschakeling-flashback-naar-2018",
     "type": "article",
     "title": "Hockeyer De Geus voelt zich leeg na WK-uitschakeling: 'Flashback naar 2018'",
     "subtitle": null,
     "published_at": "2023-01-27T19:31:13+01:00",
-    "updated_at": "2023-01-27T19:33:46+01:00",
+    "updated_at": "2023-01-27T19:38:18+01:00",
     "media_id": "9ygxx1daug60",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6248832/ook-in-hoger-beroep-levenslang-geeist-tegen-verdachten-moord-derk-wiersum.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6248829,
-    "slug": "quest-hoofdredacteur-vertrekt-na-ophef-onwetenschappelijke-uitspraken",
-    "type": "article",
-    "title": "Quest-hoofdredacteur vertrekt na ophef onwetenschappelijke uitspraken",
-    "subtitle": null,
-    "published_at": "2023-01-27T16:13:18+01:00",
-    "updated_at": "2023-01-27T16:37:36+01:00",
-    "media_id": "jjoxd9damwg3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6248829/quest-hoofdredacteur-vertrekt-na-ophef-onwetenschappelijke-uitspraken.html",
     "open_new_window": false,
     "partner": null
   }
