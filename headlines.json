@@ -1,12 +1,35 @@
 [
   {
+    "id": 6249162,
+    "slug": "automobilist-filmt-serval-langs-veluwse-weg",
+    "type": "video",
+    "title": "Automobilist filmt serval langs Veluwse weg",
+    "subtitle": "Video",
+    "published_at": "2023-01-30T18:39:08+01:00",
+    "updated_at": "2023-01-30T18:39:09+01:00",
+    "media_id": "wu4xqhyaa6hd",
+    "duration": "0:44",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6249162/automobilist-filmt-serval-langs-veluwse-weg.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6249158,
     "slug": "messi-niet-trots-op-gedrag-in-duel-met-oranje-gebeurde-in-heetst-van-de-strijd",
     "type": "article",
     "title": "Messi niet trots op gedrag in duel met Oranje: 'Gebeurde in heetst van de strijd'",
     "subtitle": null,
     "published_at": "2023-01-30T18:32:36+01:00",
-    "updated_at": "2023-01-30T18:32:37+01:00",
+    "updated_at": "2023-01-30T18:49:33+01:00",
     "media_id": "lxwx42ya4sjd",
     "duration": null,
     "canonical_section": {
@@ -70,12 +93,12 @@
   },
   {
     "id": 6249161,
-    "slug": "inmiddels-55-mensen-verdacht-van-rol-bij-extreemrechtse-staatsgreep-in-duitsland",
+    "slug": "inmiddels-55-mensen-verdacht-van-rol-bij-voorbereiden-staatsgreep-in-duitsland",
     "type": "article",
-    "title": "Inmiddels 55 mensen verdacht van rol bij extreemrechtse staatsgreep in Duitsland",
+    "title": "Inmiddels 55 mensen verdacht van rol bij voorbereiden staatsgreep in Duitsland",
     "subtitle": null,
     "published_at": "2023-01-30T18:26:00+01:00",
-    "updated_at": "2023-01-30T18:33:08+01:00",
+    "updated_at": "2023-01-30T18:37:25+01:00",
     "media_id": "9b9xtxfaf0aj",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6249161/inmiddels-55-mensen-verdacht-van-rol-bij-extreemrechtse-staatsgreep-in-duitsland.html",
+    "url": "/buitenland/6249161/inmiddels-55-mensen-verdacht-van-rol-bij-voorbereiden-staatsgreep-in-duitsland.html",
     "open_new_window": false,
     "partner": null
   },
@@ -121,7 +144,7 @@
     "title": "Wiegman na EK-titel met Engeland verkozen tot Sportpersoonlijkheid van het jaar",
     "subtitle": null,
     "published_at": "2023-01-30T18:05:49+01:00",
-    "updated_at": "2023-01-30T18:05:51+01:00",
+    "updated_at": "2023-01-30T18:49:51+01:00",
     "media_id": "jfix9k9ab1f7",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/politiek/6249128/raad-van-state-kritisch-over-wetsvoorstel-dat-homogenezing-verbiedt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6249125,
-    "slug": "jay-jay-boske-wordt-voor-het-eerst-vader",
-    "type": "article",
-    "title": "Jay-Jay Boske wordt voor het eerst vader",
-    "subtitle": null,
-    "published_at": "2023-01-30T14:17:47+01:00",
-    "updated_at": "2023-01-30T14:31:49+01:00",
-    "media_id": "my0xgn4a91gy",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6249125/jay-jay-boske-wordt-voor-het-eerst-vader.html",
     "open_new_window": false,
     "partner": null
   }
