@@ -1,5 +1,28 @@
 [
   {
+    "id": 6249108,
+    "slug": "olympier-krumins-treedt-toe-tot-technische-staf-van-atletiekbond",
+    "type": "article",
+    "title": "Olympiër Krumins treedt toe tot technische staf van atletiekbond",
+    "subtitle": null,
+    "published_at": "2023-01-30T12:30:33+01:00",
+    "updated_at": "2023-01-30T12:30:34+01:00",
+    "media_id": "kl2xuh7avss5",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6249108/olympier-krumins-treedt-toe-tot-technische-staf-van-atletiekbond.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6249095,
     "slug": "spoel-medicijnen-niet-door-wc-vissen-bewegen-minder-door-kalmeringsmiddelen",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Noppert ontbreekt in Premier League Darts, Van Gerwen enige Nederlander",
     "subtitle": null,
     "published_at": "2023-01-30T12:09:00+01:00",
-    "updated_at": "2023-01-30T12:13:06+01:00",
+    "updated_at": "2023-01-30T12:20:58+01:00",
     "media_id": "itax7x3avm8z",
     "duration": null,
     "canonical_section": {
@@ -121,7 +144,7 @@
     "title": "Website UMCG platgelegd door pro-Russische hackersgroep Killnet",
     "subtitle": null,
     "published_at": "2023-01-30T11:00:55+01:00",
-    "updated_at": "2023-01-30T12:11:23+01:00",
+    "updated_at": "2023-01-30T12:17:08+01:00",
     "media_id": "zqfxxpdai0yp",
     "duration": null,
     "canonical_section": {
@@ -162,12 +185,12 @@
   },
   {
     "id": 6249089,
-    "slug": "zeker-28-doden-en-ruim-150-gewonden-bij-explosie-in-pakistaanse-moskee",
+    "slug": "zeker-32-doden-en-147-gewonden-bij-zelfmoordaanslag-in-pakistaanse-moskee",
     "type": "article",
-    "title": "Zeker 28 doden en ruim 150 gewonden bij explosie in Pakistaanse moskee",
+    "title": "Zeker 32 doden en 147 gewonden bij zelfmoordaanslag in Pakistaanse moskee",
     "subtitle": null,
     "published_at": "2023-01-30T10:54:51+01:00",
-    "updated_at": "2023-01-30T12:02:23+01:00",
+    "updated_at": "2023-01-30T12:22:52+01:00",
     "media_id": "ofaxf4maxsb5",
     "duration": null,
     "canonical_section": {
@@ -179,7 +202,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6249089/zeker-28-doden-en-ruim-150-gewonden-bij-explosie-in-pakistaanse-moskee.html",
+    "url": "/buitenland/6249089/zeker-32-doden-en-147-gewonden-bij-zelfmoordaanslag-in-pakistaanse-moskee.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6249067/inwoners-auckland-halen-hun-huizen-leeg-na-overstromingen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6249066,
-    "slug": "nederlander-hein-schumacher-wordt-nieuwe-baas-van-unilever",
-    "type": "article",
-    "title": "Nederlander Hein Schumacher wordt nieuwe baas van Unilever",
-    "subtitle": null,
-    "published_at": "2023-01-30T08:51:06+01:00",
-    "updated_at": "2023-01-30T08:56:43+01:00",
-    "media_id": "gnjxmpca50tu",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6249066/nederlander-hein-schumacher-wordt-nieuwe-baas-van-unilever.html",
     "open_new_window": false,
     "partner": null
   }
