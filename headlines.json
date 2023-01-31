@@ -1,12 +1,35 @@
 [
   {
+    "id": 6249347,
+    "slug": "overleden-persoon-aangetroffen-op-locatie-van-grote-brand-in-arnhem",
+    "type": "article",
+    "title": "Overleden persoon aangetroffen op locatie van grote brand in Arnhem",
+    "subtitle": null,
+    "published_at": "2023-01-31T23:49:08+01:00",
+    "updated_at": "2023-01-31T23:49:10+01:00",
+    "media_id": "62cxkdha9dvk",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6249347/overleden-persoon-aangetroffen-op-locatie-van-grote-brand-in-arnhem.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6249345,
     "slug": "inter-klopt-atalanta-in-nederlands-duel-botman-haalt-finale-met-newcastle",
     "type": "article",
     "title": "Inter klopt Atalanta in 'Nederlands duel', Botman haalt finale met Newcastle",
     "subtitle": null,
     "published_at": "2023-01-31T23:02:58+01:00",
-    "updated_at": "2023-01-31T23:26:31+01:00",
+    "updated_at": "2023-01-31T23:44:27+01:00",
     "media_id": "q7pxjn0a3xi2",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6249320/surinaamse-justitie-eist-twintig-jaar-cel-voor-bouterse-vanwege-decembermoorden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6249318,
-    "slug": "belgisch-zorgpersoneel-eist-verkleed-als-shrek-hoger-loon",
-    "type": "video",
-    "title": "Belgisch zorgpersoneel eist verkleed als Shrek hoger loon",
-    "subtitle": "Video",
-    "published_at": "2023-01-31T17:55:47+01:00",
-    "updated_at": "2023-01-31T17:55:48+01:00",
-    "media_id": "37cx9u6a2hym",
-    "duration": "0:44",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6249318/belgisch-zorgpersoneel-eist-verkleed-als-shrek-hoger-loon.html",
     "open_new_window": false,
     "partner": null
   }
