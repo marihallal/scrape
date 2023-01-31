@@ -1,5 +1,28 @@
 [
   {
+    "id": 6249192,
+    "slug": "illinois-laat-aanklachten-tegen-r-kelly-vallen-wegens-andere-veroordelingen",
+    "type": "article",
+    "title": "Illinois laat aanklachten tegen R. Kelly vallen wegens andere veroordelingen",
+    "subtitle": null,
+    "published_at": "2023-01-31T06:50:37+01:00",
+    "updated_at": "2023-01-31T06:51:26+01:00",
+    "media_id": "j1ixyf4a9dk8",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6249192/illinois-laat-aanklachten-tegen-r-kelly-vallen-wegens-andere-veroordelingen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6249191,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -236,7 +259,7 @@
     "title": "Vliegtuig landt na vlucht van dertien uur op zelfde luchthaven vanwaar het vertrok",
     "subtitle": null,
     "published_at": "2023-01-31T00:16:38+01:00",
-    "updated_at": "2023-01-31T06:28:49+01:00",
+    "updated_at": "2023-01-31T06:34:49+01:00",
     "media_id": "omexoiiafmn9",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6249181/rutte-tijdens-bezoek-macron-band-met-frankrijk-onmisbaar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6249179,
-    "slug": "zanger-lee-towers-heeft-zijn-heup-gebroken-en-moet-revalideren",
-    "type": "article",
-    "title": "Zanger Lee Towers heeft zijn heup gebroken en moet revalideren",
-    "subtitle": null,
-    "published_at": "2023-01-30T21:33:19+01:00",
-    "updated_at": "2023-01-31T05:25:58+01:00",
-    "media_id": "svzx6e9aaz6w",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772242,
-      "slug": "entertainment",
-      "type": "default",
-      "name": "Media en Cultuur",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/entertainment/6249179/zanger-lee-towers-heeft-zijn-heup-gebroken-en-moet-revalideren.html",
     "open_new_window": false,
     "partner": null
   }
