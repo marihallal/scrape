@@ -1,12 +1,35 @@
 [
   {
+    "id": 6249243,
+    "slug": "wat-kost-amalias-reis-naar-de-cariben-en-nog-vijf-antwoorden-op-jullie-vragen",
+    "type": "article",
+    "title": "Wat kost Amalia's reis naar de Cariben? En nog vijf antwoorden op jullie vragen",
+    "subtitle": null,
+    "published_at": "2023-01-31T20:42:52+01:00",
+    "updated_at": "2023-01-31T20:42:53+01:00",
+    "media_id": "p98x48fah3bx",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778775,
+      "slug": "koningshuis",
+      "type": "default",
+      "name": "Koningshuis",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/koningshuis/6249243/wat-kost-amalias-reis-naar-de-cariben-en-nog-vijf-antwoorden-op-jullie-vragen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6249336,
     "slug": "grote-zwarte-rookwolken-bij-brand-in-drenthe",
     "type": "video",
     "title": "Grote zwarte rookwolken bij brand in Drenthe",
     "subtitle": "Video",
     "published_at": "2023-01-31T20:27:21+01:00",
-    "updated_at": "2023-01-31T20:27:22+01:00",
+    "updated_at": "2023-01-31T20:46:08+01:00",
     "media_id": "kq9x37dazz1s",
     "duration": "0:37",
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Nederlands duo Mia & Dion strijdt in eerste halve finale Eurovisie Songfestival",
     "subtitle": null,
     "published_at": "2023-01-31T20:23:38+01:00",
-    "updated_at": "2023-01-31T20:26:22+01:00",
+    "updated_at": "2023-01-31T20:40:44+01:00",
     "media_id": "11kx7qgazg81",
     "duration": null,
     "canonical_section": {
@@ -282,7 +305,7 @@
     "title": "Heerenveen haalt Noor als opvolger Sarr, Groningen ontbindt contract Te Wierik",
     "subtitle": null,
     "published_at": "2023-01-31T17:40:27+01:00",
-    "updated_at": "2023-01-31T20:14:29+01:00",
+    "updated_at": "2023-01-31T20:50:08+01:00",
     "media_id": "9s1x2e3a0uns",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/uitleg/6249270/waarom-je-meer-onthoudt-als-je-van-papier-leest-dan-van-een-scherm.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6249199,
-    "slug": "psv-heeft-met-belgisch-international-thorgan-hazard-gewenste-aanvaller-binnen",
-    "type": "article",
-    "title": "PSV heeft met Belgisch international Thorgan Hazard gewenste aanvaller binnen",
-    "subtitle": null,
-    "published_at": "2023-01-31T16:49:24+01:00",
-    "updated_at": "2023-01-31T20:25:23+01:00",
-    "media_id": "jggxzduaaj01",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6249199/psv-heeft-met-belgisch-international-thorgan-hazard-gewenste-aanvaller-binnen.html",
     "open_new_window": false,
     "partner": null
   }
