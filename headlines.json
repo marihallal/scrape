@@ -1,12 +1,35 @@
 [
   {
+    "id": 6249354,
+    "slug": "oranjes-gooien-heupen-los-op-laatste-avond-op-aruba",
+    "type": "video",
+    "title": "Oranjes gooien heupen los op laatste avond op Aruba",
+    "subtitle": "Video",
+    "published_at": "2023-02-01T06:51:26+01:00",
+    "updated_at": "2023-02-01T06:51:27+01:00",
+    "media_id": "i58x6ieaqabo",
+    "duration": "0:31",
+    "canonical_section": {
+      "id": 1778775,
+      "slug": "koningshuis",
+      "type": "default",
+      "name": "Koningshuis",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/koningshuis/6249354/oranjes-gooien-heupen-los-op-laatste-avond-op-aruba.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6249353,
     "slug": "talkshow-dr-phil-stopt-deze-lente-na-ruim-twintig-jaar",
     "type": "article",
     "title": "Talkshow Dr. Phil stopt deze lente na ruim twintig jaar",
     "subtitle": null,
     "published_at": "2023-02-01T06:27:51+01:00",
-    "updated_at": "2023-02-01T06:27:52+01:00",
+    "updated_at": "2023-02-01T06:51:38+01:00",
     "media_id": "graxej0a5nzk",
     "duration": null,
     "canonical_section": {
@@ -167,7 +190,7 @@
     "title": "Te weinig kennis over Caribisch Nederland: 'Suriname en Curaçao niet hetzelfde'",
     "subtitle": null,
     "published_at": "2023-02-01T04:57:44+01:00",
-    "updated_at": "2023-02-01T04:57:46+01:00",
+    "updated_at": "2023-02-01T06:51:04+01:00",
     "media_id": "eb7xboaaf7sr",
     "duration": null,
     "canonical_section": {
@@ -351,7 +374,7 @@
     "title": "Groei aantal internationale studenten afremmen is lastige klus voor de minister",
     "subtitle": null,
     "published_at": "2023-01-31T22:11:55+01:00",
-    "updated_at": "2023-02-01T06:10:02+01:00",
+    "updated_at": "2023-02-01T06:41:08+01:00",
     "media_id": "a45xwv1a216t",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6249283/chelsea-middenvelder-jorginho-maakt-gevoelige-overstap-naar-koploper-arsenal.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6249300,
-    "slug": "eredivisie-revelatie-sparta-verliest-smaakmaker-mijnans-aan-az",
-    "type": "article",
-    "title": "Eredivisie-revelatie Sparta verliest smaakmaker Mijnans aan AZ",
-    "subtitle": null,
-    "published_at": "2023-01-31T21:02:22+01:00",
-    "updated_at": "2023-01-31T21:15:06+01:00",
-    "media_id": "y2qxp01ajgq9",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6249300/eredivisie-revelatie-sparta-verliest-smaakmaker-mijnans-aan-az.html",
     "open_new_window": false,
     "partner": null
   }
