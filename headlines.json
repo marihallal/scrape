@@ -1,5 +1,51 @@
 [
   {
+    "id": 6249635,
+    "slug": "veel-veiligheidsregios-houden-crisisnoodopvang-voor-asielzoekers-langer-open",
+    "type": "article",
+    "title": "Veel veiligheidsregio's houden crisisnoodopvang voor asielzoekers langer open",
+    "subtitle": null,
+    "published_at": "2023-02-02T22:32:07+01:00",
+    "updated_at": "2023-02-02T22:32:25+01:00",
+    "media_id": "tjoxpp9ah0ni",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6249635/veel-veiligheidsregios-houden-crisisnoodopvang-voor-asielzoekers-langer-open.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6249641,
+    "slug": "gewonde-verdachte-van-fataal-ongeluk-op-a16-bij-kennis-en-in-voorarrest-genomen",
+    "type": "article",
+    "title": "Gewonde verdachte van fataal ongeluk op A16 bij kennis en in voorarrest genomen",
+    "subtitle": null,
+    "published_at": "2023-02-02T22:30:09+01:00",
+    "updated_at": "2023-02-02T22:30:10+01:00",
+    "media_id": "zj3xayna0q1l",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6249641/gewonde-verdachte-van-fataal-ongeluk-op-a16-bij-kennis-en-in-voorarrest-genomen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6249636,
     "slug": "van-gerwen-klopt-smith-in-premier-league-en-revancheert-zich-voor-wk-finale",
     "type": "article",
@@ -52,7 +98,7 @@
     "title": "Eerste veroordeelde veteraan van conflict in Noord-Ierland ontloopt celstraf",
     "subtitle": null,
     "published_at": "2023-02-02T21:05:36+01:00",
-    "updated_at": "2023-02-02T21:23:15+01:00",
+    "updated_at": "2023-02-02T22:31:13+01:00",
     "media_id": "gizxc0cajz0p",
     "duration": null,
     "canonical_section": {
@@ -116,12 +162,12 @@
   },
   {
     "id": 6249630,
-    "slug": "jager-naar-nazischat-in-ommeren-ziet-steelpan-aan-voor-landmijn",
+    "slug": "jager-op-nazischat-in-ommeren-ziet-steelpan-aan-voor-landmijn",
     "type": "article",
-    "title": "Jager naar nazischat in Ommeren ziet steelpan aan voor landmijn",
+    "title": "Jager op nazischat in Ommeren ziet steelpan aan voor landmijn",
     "subtitle": null,
     "published_at": "2023-02-02T20:37:21+01:00",
-    "updated_at": "2023-02-02T20:52:58+01:00",
+    "updated_at": "2023-02-02T22:16:55+01:00",
     "media_id": "wmixa7mac8a8",
     "duration": null,
     "canonical_section": {
@@ -133,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/opmerkelijk/6249630/jager-naar-nazischat-in-ommeren-ziet-steelpan-aan-voor-landmijn.html",
+    "url": "/opmerkelijk/6249630/jager-op-nazischat-in-ommeren-ziet-steelpan-aan-voor-landmijn.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/coronavirus/6249434/corona-blijft-een-internationale-noodsituatie-maar-hoe-staat-het-er-nu-voor.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6249609,
-    "slug": "voormalige-milieu-inspecteur-gaat-aan-de-slag-bij-tata-steel",
-    "type": "article",
-    "title": "Voormalige milieu-inspecteur gaat aan de slag bij Tata Steel",
-    "subtitle": null,
-    "published_at": "2023-02-02T17:04:24+01:00",
-    "updated_at": "2023-02-02T19:52:07+01:00",
-    "media_id": "c34x2w9ab68d",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6249609/voormalige-milieu-inspecteur-gaat-aan-de-slag-bij-tata-steel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6249611,
-    "slug": "dronebeelden-tonen-ravage-na-dodelijke-raketaanval-in-oekraine",
-    "type": "video",
-    "title": "Dronebeelden tonen ravage na dodelijke raketaanval in Oekraïne",
-    "subtitle": "Video",
-    "published_at": "2023-02-02T16:59:43+01:00",
-    "updated_at": "2023-02-02T21:41:35+01:00",
-    "media_id": "a38xz6nalxmf",
-    "duration": "0:45",
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6249611/dronebeelden-tonen-ravage-na-dodelijke-raketaanval-in-oekraine.html",
     "open_new_window": false,
     "partner": null
   }
