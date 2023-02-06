@@ -1,5 +1,28 @@
 [
   {
+    "id": 6250097,
+    "slug": "zo-kom-je-erachter-of-een-auto-schade-heeft-gehad",
+    "type": "article",
+    "title": "Zo kom je erachter of een auto schade heeft gehad",
+    "subtitle": null,
+    "published_at": "2023-02-06T21:31:33+01:00",
+    "updated_at": "2023-02-06T21:31:34+01:00",
+    "media_id": "aqox44caao5i",
+    "duration": null,
+    "canonical_section": {
+      "id": 881569,
+      "slug": "auto",
+      "type": "default",
+      "name": "Onderweg",
+      "style": "nuzakelijk",
+      "media_id": "z66x61xaq79c",
+      "partner": null
+    },
+    "url": "/auto/6250097/zo-kom-je-erachter-of-een-auto-schade-heeft-gehad.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6250161,
     "slug": "oranjes-doen-mee-aan-rampoefening-op-sint-maarten",
     "type": "video",
@@ -29,7 +52,7 @@
     "title": "Comeback Pröpper loopt uit op drama: Vitessenaar loopt zware knieblessure op",
     "subtitle": null,
     "published_at": "2023-02-06T21:16:46+01:00",
-    "updated_at": "2023-02-06T21:21:00+01:00",
+    "updated_at": "2023-02-06T21:24:25+01:00",
     "media_id": "rg4xp5sawh50",
     "duration": null,
     "canonical_section": {
@@ -47,12 +70,12 @@
   },
   {
     "id": 6250159,
-    "slug": "nu-ruim-3000-doden-in-syrie-en-turkije-door-aardbevingen-vrees-voor-veel-meer",
+    "slug": "nu-ruim-3500-doden-in-syrie-en-turkije-door-aardbevingen-vrees-voor-veel-meer",
     "type": "article",
-    "title": "Nu ruim 3.000 doden in Syrië en Turkije door aardbevingen, vrees voor veel meer",
+    "title": "Nu ruim 3.500 doden in Syrië en Turkije door aardbevingen, vrees voor veel meer",
     "subtitle": null,
     "published_at": "2023-02-06T21:10:56+01:00",
-    "updated_at": "2023-02-06T21:13:57+01:00",
+    "updated_at": "2023-02-06T21:31:56+01:00",
     "media_id": "gr9xqc4aad6c",
     "duration": null,
     "canonical_section": {
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/aardbeving-syrie-en-turkije/6250159/nu-ruim-3000-doden-in-syrie-en-turkije-door-aardbevingen-vrees-voor-veel-meer.html",
+    "url": "/aardbeving-syrie-en-turkije/6250159/nu-ruim-3500-doden-in-syrie-en-turkije-door-aardbevingen-vrees-voor-veel-meer.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/aardbeving-syrie-en-turkije/6250135/nederlandse-reddingswerkers-naar-rampgebied-wat-gaan-ze-doen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6250125,
-    "slug": "juist-in-parijs-boekt-polling-eerste-succes-in-bijzijn-dochtertje-dit-is-heel-speciaal",
-    "type": "article",
-    "title": "Juist in Parijs boekt Polling eerste succes in bijzijn dochtertje: 'Dit is heel speciaal'",
-    "subtitle": null,
-    "published_at": "2023-02-06T17:12:44+01:00",
-    "updated_at": "2023-02-06T17:49:39+01:00",
-    "media_id": "bksxdejax32r",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6250125/juist-in-parijs-boekt-polling-eerste-succes-in-bijzijn-dochtertje-dit-is-heel-speciaal.html",
     "open_new_window": false,
     "partner": null
   }
