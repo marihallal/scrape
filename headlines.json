@@ -1,5 +1,28 @@
 [
   {
+    "id": 6250216,
+    "slug": "nederland-wil-europees-pfas-verbod-op-ruim-tienduizend-chemische-stoffen",
+    "type": "article",
+    "title": "Nederland wil Europees PFAS-verbod op ruim tienduizend chemische stoffen",
+    "subtitle": null,
+    "published_at": "2023-02-07T11:46:13+01:00",
+    "updated_at": "2023-02-07T11:46:14+01:00",
+    "media_id": "zrox7kdabp7k",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6250216/nederland-wil-europees-pfas-verbod-op-ruim-tienduizend-chemische-stoffen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6250217,
     "slug": "acm-onderzoekt-energietarieven-van-eneco-essent-en-vattenfall",
     "type": "article",
@@ -213,7 +236,7 @@
     "title": "Ook BP boert goed bij hoge energieprijzen en boekt recordwinst",
     "subtitle": null,
     "published_at": "2023-02-07T10:19:57+01:00",
-    "updated_at": "2023-02-07T11:31:00+01:00",
+    "updated_at": "2023-02-07T11:42:10+01:00",
     "media_id": "q1fxk4kamvr1",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/aardbeving-syrie-en-turkije/6250182/luchtbeelden-tonen-verwoesting-in-turkije-en-syrie-na-aardbevingen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6250179,
-    "slug": "zes-nederlanders-vermist-in-turkije-dodental-boven-de-5000",
-    "type": "article",
-    "title": "Zes Nederlanders vermist in Turkije, dodental boven de 5.000",
-    "subtitle": "Liveblog",
-    "published_at": "2023-02-07T07:43:47+01:00",
-    "updated_at": "2023-02-07T11:27:21+01:00",
-    "media_id": "ugwxzjxauxmk",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779210,
-      "slug": "aardbeving-syrie-en-turkije",
-      "type": "files",
-      "name": "Aardbeving Syrië en Turkije",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/aardbeving-syrie-en-turkije/6250179/zes-nederlanders-vermist-in-turkije-dodental-boven-de-5000.html",
     "open_new_window": false,
     "partner": null
   }
