@@ -1,12 +1,35 @@
 [
   {
+    "id": 6250516,
+    "slug": "essent-gaat-de-tarieven-ook-verlagen-maar-ze-blijven-boven-het-prijsplafond",
+    "type": "article",
+    "title": "Essent gaat de tarieven ook verlagen, maar ze blijven boven het prijsplafond",
+    "subtitle": null,
+    "published_at": "2023-02-09T10:30:52+01:00",
+    "updated_at": "2023-02-09T10:30:53+01:00",
+    "media_id": "3frxet2af41j",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6250516/essent-gaat-de-tarieven-ook-verlagen-maar-ze-blijven-boven-het-prijsplafond.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6250509,
     "slug": "meisje-met-de-parel-maar-tijdelijk-te-zien-bij-vermeer-tentoonstelling-rijksmuseum",
     "type": "article",
     "title": "Meisje met de parel maar tijdelijk te zien bij Vermeer-tentoonstelling Rijksmuseum",
     "subtitle": null,
     "published_at": "2023-02-09T10:15:50+01:00",
-    "updated_at": "2023-02-09T10:15:51+01:00",
+    "updated_at": "2023-02-09T10:32:20+01:00",
     "media_id": "ksox69gamh3y",
     "duration": null,
     "canonical_section": {
@@ -70,12 +93,12 @@
   },
   {
     "id": 6250507,
-    "slug": "na-irving-kiest-ook-nba-vedette-durant-voor-vertrek-bij-brooklyn-nets",
+    "slug": "na-irving-vertrekt-ook-nba-superster-durant-bij-brooklyn-nets",
     "type": "article",
-    "title": "Na Irving kiest ook NBA-vedette Durant voor vertrek bij Brooklyn Nets",
+    "title": "Na Irving vertrekt ook NBA-superster Durant bij Brooklyn Nets",
     "subtitle": null,
     "published_at": "2023-02-09T09:43:57+01:00",
-    "updated_at": "2023-02-09T10:01:17+01:00",
+    "updated_at": "2023-02-09T10:21:36+01:00",
     "media_id": "51dxuvka35x2",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport-overig/6250507/na-irving-kiest-ook-nba-vedette-durant-voor-vertrek-bij-brooklyn-nets.html",
+    "url": "/sport-overig/6250507/na-irving-vertrekt-ook-nba-superster-durant-bij-brooklyn-nets.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/media/6250491/oud-presentator-jan-de-hoop-start-als-columnist-bij-tijdschrift-margriet.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6250490,
-    "slug": "nog-steeds-overlevenden-gevonden-nederlands-reddingsteam-verplaatst",
-    "type": "article",
-    "title": "Nog steeds overlevenden gevonden, Nederlands reddingsteam verplaatst",
-    "subtitle": "Liveblog",
-    "published_at": "2023-02-09T06:47:13+01:00",
-    "updated_at": "2023-02-09T07:03:10+01:00",
-    "media_id": "3h0xhoda6t3w",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779210,
-      "slug": "aardbeving-syrie-en-turkije",
-      "type": "files",
-      "name": "Aardbeving Syrië en Turkije",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/aardbeving-syrie-en-turkije/6250490/nog-steeds-overlevenden-gevonden-nederlands-reddingsteam-verplaatst.html",
     "open_new_window": false,
     "partner": null
   }
