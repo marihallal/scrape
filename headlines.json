@@ -1,5 +1,28 @@
 [
   {
+    "id": 6250559,
+    "slug": "kool-klopt-voormalig-kopvrouw-en-topfavoriet-wiebes-in-eerste-etappe-uae-tour",
+    "type": "article",
+    "title": "Kool klopt voormalig kopvrouw en topfavoriet Wiebes in eerste etappe UAE Tour",
+    "subtitle": null,
+    "published_at": "2023-02-09T14:22:24+01:00",
+    "updated_at": "2023-02-09T14:27:46+01:00",
+    "media_id": "nvzxlt5anahx",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6250559/kool-klopt-voormalig-kopvrouw-en-topfavoriet-wiebes-in-eerste-etappe-uae-tour.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6250554,
     "slug": "tot-zes-jaar-cel-geeist-tegen-plofkraakbende-die-fataal-ongeluk-veroorzaakte",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "KNSB geeft Knegt officiële waarschuwing voor felle kritiek op bondscoach",
     "subtitle": null,
     "published_at": "2023-02-09T14:05:03+01:00",
-    "updated_at": "2023-02-09T14:10:35+01:00",
+    "updated_at": "2023-02-09T14:31:29+01:00",
     "media_id": "t8xx2r5a5lbz",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/cultuur-overig/6250509/meisje-met-de-parel-maar-tijdelijk-te-zien-bij-vermeer-tentoonstelling-rijksmuseum.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6250456,
-    "slug": "hoe-beleeft-onze-verslaggever-het-koninklijk-bezoek-aan-de-caribische-eilanden",
-    "type": "article",
-    "title": "Hoe beleeft onze verslaggever het koninklijk bezoek aan de Caribische eilanden?",
-    "subtitle": null,
-    "published_at": "2023-02-09T10:07:23+01:00",
-    "updated_at": "2023-02-09T14:03:59+01:00",
-    "media_id": "7jexk4zaza21",
-    "duration": null,
-    "canonical_section": {
-      "id": 1773185,
-      "slug": "nujij",
-      "type": "default",
-      "name": "Praat mee op NUjij",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/nujij/6250456/hoe-beleeft-onze-verslaggever-het-koninklijk-bezoek-aan-de-caribische-eilanden.html",
     "open_new_window": false,
     "partner": null
   }
