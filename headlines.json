@@ -1,5 +1,28 @@
 [
   {
+    "id": 6250681,
+    "slug": "de-graafschap-trainer-poldervaart-moet-voorlopig-in-ziekenhuis-blijven",
+    "type": "article",
+    "title": "De Graafschap-trainer Poldervaart moet voorlopig in ziekenhuis blijven",
+    "subtitle": null,
+    "published_at": "2023-02-10T10:36:28+01:00",
+    "updated_at": "2023-02-10T10:42:20+01:00",
+    "media_id": "dx9xvyyaxyh9",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6250681/de-graafschap-trainer-poldervaart-moet-voorlopig-in-ziekenhuis-blijven.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6250682,
     "slug": "meisje-90-uur-na-aardbeving-onder-puin-vandaan-gehaald-in-turkije",
     "type": "video",
@@ -70,12 +93,12 @@
   },
   {
     "id": 6250679,
-    "slug": "stichting-doet-aangifte-na-antisemitische-projectie-op-anne-frank-huis",
+    "slug": "stichting-achter-anne-frank-huis-doet-aangifte-na-antisemitische-projectie",
     "type": "article",
-    "title": "Stichting doet aangifte na antisemitische projectie op Anne Frank Huis",
+    "title": "Stichting achter Anne Frank Huis doet aangifte na antisemitische projectie",
     "subtitle": null,
     "published_at": "2023-02-10T10:04:06+01:00",
-    "updated_at": "2023-02-10T10:26:28+01:00",
+    "updated_at": "2023-02-10T10:32:52+01:00",
     "media_id": "gy0xkk4a80n0",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6250679/stichting-doet-aangifte-na-antisemitische-projectie-op-anne-frank-huis.html",
+    "url": "/binnenland/6250679/stichting-achter-anne-frank-huis-doet-aangifte-na-antisemitische-projectie.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6250643/matchwinner-kudus-voelt-eindelijk-vertrouwen-bij-ajax-ik-kan-vrijuit-spelen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6250646,
-    "slug": "koning-begrijpt-behoefte-aan-slavernijexcuses-maar-spreekt-ze-zelf-niet-uit",
-    "type": "article",
-    "title": "Koning begrijpt behoefte aan slavernijexcuses, maar spreekt ze zelf niet uit",
-    "subtitle": null,
-    "published_at": "2023-02-10T05:25:51+01:00",
-    "updated_at": "2023-02-10T09:46:15+01:00",
-    "media_id": "b8yx7q0asxbu",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778775,
-      "slug": "koningshuis",
-      "type": "default",
-      "name": "Koningshuis",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/koningshuis/6250646/koning-begrijpt-behoefte-aan-slavernijexcuses-maar-spreekt-ze-zelf-niet-uit.html",
     "open_new_window": false,
     "partner": null
   }
