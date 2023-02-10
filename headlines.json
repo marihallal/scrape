@@ -1,5 +1,28 @@
 [
   {
+    "id": 6250682,
+    "slug": "meisje-90-uur-na-aardbeving-onder-puin-vandaan-gehaald-in-turkije",
+    "type": "video",
+    "title": "Meisje 90 uur na aardbeving onder puin vandaan gehaald in Turkije",
+    "subtitle": "Video",
+    "published_at": "2023-02-10T10:32:48+01:00",
+    "updated_at": "2023-02-10T10:32:49+01:00",
+    "media_id": "7nuxetfaw68e",
+    "duration": "0:28",
+    "canonical_section": {
+      "id": 1779210,
+      "slug": "aardbeving-syrie-en-turkije",
+      "type": "files",
+      "name": "Aardbeving Syrië en Turkije",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/aardbeving-syrie-en-turkije/6250682/meisje-90-uur-na-aardbeving-onder-puin-vandaan-gehaald-in-turkije.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6250674,
     "slug": "ook-yahoo-gaat-reorganiseren-vijfde-van-de-werknemers-moet-vertrekken",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Stichting doet aangifte na antisemitische projectie op Anne Frank Huis",
     "subtitle": null,
     "published_at": "2023-02-10T10:04:06+01:00",
-    "updated_at": "2023-02-10T10:13:56+01:00",
+    "updated_at": "2023-02-10T10:26:28+01:00",
     "media_id": "gy0xkk4a80n0",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Jetten: 'Ondanks verbod komt mogelijk toch nog Russische olie in Europa terecht'",
     "subtitle": null,
     "published_at": "2023-02-10T10:01:39+01:00",
-    "updated_at": "2023-02-10T10:01:40+01:00",
+    "updated_at": "2023-02-10T10:27:22+01:00",
     "media_id": "vswxqyjawtjr",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/koningshuis/6250646/koning-begrijpt-behoefte-aan-slavernijexcuses-maar-spreekt-ze-zelf-niet-uit.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6250644,
-    "slug": "weerbericht-knmi-waarschuwt-met-code-geel-voor-mist-of-gladheid",
-    "type": "article",
-    "title": "Weerbericht: KNMI waarschuwt met code geel voor mist of gladheid",
-    "subtitle": null,
-    "published_at": "2023-02-10T05:23:21+01:00",
-    "updated_at": "2023-02-10T07:33:44+01:00",
-    "media_id": "m7cx586as6h7",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6250644/weerbericht-knmi-waarschuwt-met-code-geel-voor-mist-of-gladheid.html",
     "open_new_window": false,
     "partner": null
   }
