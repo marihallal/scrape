@@ -1,12 +1,35 @@
 [
   {
+    "id": 6250986,
+    "slug": "noppert-klopt-whitlock-in-finale-en-wint-voor-derde-keer-players-championship",
+    "type": "article",
+    "title": "Noppert klopt Whitlock in finale en wint voor derde keer Players Championship",
+    "subtitle": null,
+    "published_at": "2023-02-12T19:50:14+01:00",
+    "updated_at": "2023-02-12T19:51:10+01:00",
+    "media_id": "x46x0swah5vo",
+    "duration": null,
+    "canonical_section": {
+      "id": 1777376,
+      "slug": "darts",
+      "type": "default",
+      "name": "Darts",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/darts/6250986/noppert-klopt-whitlock-in-finale-en-wint-voor-derde-keer-players-championship.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6250985,
     "slug": "trainer-jans-en-technisch-directeur-streuer-na-dit-seizoen-weg-bij-fc-twente",
     "type": "article",
     "title": "Trainer Jans en technisch directeur Streuer na dit seizoen weg bij FC Twente",
     "subtitle": null,
     "published_at": "2023-02-12T19:03:36+01:00",
-    "updated_at": "2023-02-12T19:17:50+01:00",
+    "updated_at": "2023-02-12T19:43:35+01:00",
     "media_id": "2qexs1wa3dpl",
     "duration": null,
     "canonical_section": {
@@ -305,7 +328,7 @@
     "title": "Weghorst belangrijk bij zwaarbevochten zege Manchester United op Leeds United",
     "subtitle": null,
     "published_at": "2023-02-12T17:07:46+01:00",
-    "updated_at": "2023-02-12T18:56:53+01:00",
+    "updated_at": "2023-02-12T19:33:55+01:00",
     "media_id": "1uoxn84ar9kg",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6250965/schreuder-genoemd-als-topkandidaat-bij-leeds-united-na-afzegging-slot.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6250961,
-    "slug": "bergwijn-ontbreekt-bij-ajax-wegens-gebrek-aan-fitheid-conceicao-in-de-basis",
-    "type": "article",
-    "title": "Bergwijn ontbreekt bij Ajax wegens gebrek aan fitheid, Conceição in de basis",
-    "subtitle": null,
-    "published_at": "2023-02-12T15:40:06+01:00",
-    "updated_at": "2023-02-12T16:22:28+01:00",
-    "media_id": "vvfx2f6ae4is",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6250961/bergwijn-ontbreekt-bij-ajax-wegens-gebrek-aan-fitheid-conceicao-in-de-basis.html",
     "open_new_window": false,
     "partner": null
   }
