@@ -1,5 +1,74 @@
 [
   {
+    "id": 6251139,
+    "slug": "verpleegsters-beschermen-pasgeboren-babys-tijdens-aardbeving",
+    "type": "video",
+    "title": "Verpleegsters beschermen pasgeboren baby's tijdens aardbeving",
+    "subtitle": "Video",
+    "published_at": "2023-02-13T18:48:36+01:00",
+    "updated_at": "2023-02-13T18:48:38+01:00",
+    "media_id": "uvtxz6map738",
+    "duration": "0:38",
+    "canonical_section": {
+      "id": 1779210,
+      "slug": "aardbeving-syrie-en-turkije",
+      "type": "files",
+      "name": "Aardbeving Syrië en Turkije",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/aardbeving-syrie-en-turkije/6251139/verpleegsters-beschermen-pasgeboren-babys-tijdens-aardbeving.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6251134,
+    "slug": "mclaren-presenteert-auto-voor-komend-seizoen-mcl60-evolutie-van-voorganger",
+    "type": "article",
+    "title": "McLaren presenteert auto voor komend seizoen: MCL60 evolutie van voorganger",
+    "subtitle": null,
+    "published_at": "2023-02-13T18:42:54+01:00",
+    "updated_at": "2023-02-13T18:42:55+01:00",
+    "media_id": "bo0xshwa50gh",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Formule 1",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6251134/mclaren-presenteert-auto-voor-komend-seizoen-mcl60-evolutie-van-voorganger.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6251099,
+    "slug": "antwoord-op-jullie-vragen-over-de-aardbeving-aftreden-erdogan-ondenkbaar",
+    "type": "article",
+    "title": "Antwoord op jullie vragen over de aardbeving: 'Aftreden Erdogan ondenkbaar'",
+    "subtitle": null,
+    "published_at": "2023-02-13T18:42:30+01:00",
+    "updated_at": "2023-02-13T18:42:31+01:00",
+    "media_id": "j5fxdwtaep0d",
+    "duration": null,
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6251099/antwoord-op-jullie-vragen-over-de-aardbeving-aftreden-erdogan-ondenkbaar.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6251114,
     "slug": "hoe-schadelijk-is-drinken-nou-echt-voor-je-gezondheid",
     "type": "article",
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6251101/feestwinkels-verkopen-veel-carnavalskleding-vooral-trainingspakken-populair.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6251076,
-    "slug": "dragan-bakema-kruipt-in-de-rol-van-pilatus-in-the-passion",
-    "type": "article",
-    "title": "Dragan Bakema kruipt in de rol van Pilatus in The Passion",
-    "subtitle": null,
-    "published_at": "2023-02-13T15:33:54+01:00",
-    "updated_at": "2023-02-13T15:33:56+01:00",
-    "media_id": "my4xdiia8cgd",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6251076/dragan-bakema-kruipt-in-de-rol-van-pilatus-in-the-passion.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6251098,
-    "slug": "wil-je-dat-chatgpt-beter-werkt-dan-moet-je-betalen",
-    "type": "article",
-    "title": "Wil je dat ChatGPT beter werkt? Dan moet je betalen",
-    "subtitle": null,
-    "published_at": "2023-02-13T15:28:09+01:00",
-    "updated_at": "2023-02-13T16:12:44+01:00",
-    "media_id": "jdcx9xgarq1a",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6251098/wil-je-dat-chatgpt-beter-werkt-dan-moet-je-betalen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6251096,
-    "slug": "minister-hakt-knoop-door-kinderhartchirurgie-alleen-in-rotterdam-en-groningen",
-    "type": "article",
-    "title": "Minister hakt knoop door: kinderhartchirurgie alleen in Rotterdam en Groningen",
-    "subtitle": null,
-    "published_at": "2023-02-13T15:10:10+01:00",
-    "updated_at": "2023-02-13T18:13:41+01:00",
-    "media_id": "lmkxb3pa66d3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6251096/minister-hakt-knoop-door-kinderhartchirurgie-alleen-in-rotterdam-en-groningen.html",
     "open_new_window": false,
     "partner": null
   }
