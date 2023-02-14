@@ -1,12 +1,58 @@
 [
   {
+    "id": 6251262,
+    "slug": "gijs-brouwer-maakt-naam-op-abn-amro-open-had-appje-krajicek-niet-verwacht",
+    "type": "article",
+    "title": "Gijs Brouwer maakt naam op ABN AMRO Open: 'Had appje Krajicek niet verwacht'",
+    "subtitle": null,
+    "published_at": "2023-02-14T16:20:29+01:00",
+    "updated_at": "2023-02-14T16:20:30+01:00",
+    "media_id": "c3qxbxeahfuu",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6251262/gijs-brouwer-maakt-naam-op-abn-amro-open-had-appje-krajicek-niet-verwacht.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6251261,
+    "slug": "minimumloon-verder-omhoog-door-invoering-minimumuurloon",
+    "type": "article",
+    "title": "Minimumloon verder omhoog door invoering minimumuurloon",
+    "subtitle": null,
+    "published_at": "2023-02-14T15:57:01+01:00",
+    "updated_at": "2023-02-14T16:13:51+01:00",
+    "media_id": "a34xfkoaz69h",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6251261/minimumloon-verder-omhoog-door-invoering-minimumuurloon.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6251259,
     "slug": "valentijnskunstwerk-van-banksy-duikt-op-in-engeland",
     "type": "video",
     "title": "'Valentijnskunstwerk' van Banksy duikt op in Engeland",
     "subtitle": "Video",
     "published_at": "2023-02-14T15:49:28+01:00",
-    "updated_at": "2023-02-14T15:49:29+01:00",
+    "updated_at": "2023-02-14T16:08:17+01:00",
     "media_id": "zw4xpf1at1c8",
     "duration": "0:30",
     "canonical_section": {
@@ -98,7 +144,7 @@
     "title": "Amsterdamse student komt toch in aanmerking voor energietoeslag",
     "subtitle": null,
     "published_at": "2023-02-14T14:56:00+01:00",
-    "updated_at": "2023-02-14T15:31:38+01:00",
+    "updated_at": "2023-02-14T16:12:51+01:00",
     "media_id": "8g3x1seax3p9",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/tennis/6251218/gijs-brouwer-verrast-bij-debuut-op-abn-amro-open-en-bereikt-tweede-ronde.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6251213,
-    "slug": "we-stappen-steeds-vaker-over-naar-een-nieuwe-baan",
-    "type": "article",
-    "title": "We stappen steeds vaker over naar een nieuwe baan",
-    "subtitle": null,
-    "published_at": "2023-02-14T12:24:04+01:00",
-    "updated_at": "2023-02-14T13:01:15+01:00",
-    "media_id": "nd2xhk2avhm7",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6251213/we-stappen-steeds-vaker-over-naar-een-nieuwe-baan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6251200,
-    "slug": "nieuwe-ferrari-is-een-duidelijke-doorontwikkeling-van-snelle-auto-uit-2022",
-    "type": "article",
-    "title": "Nieuwe Ferrari is een duidelijke doorontwikkeling van snelle auto uit 2022",
-    "subtitle": null,
-    "published_at": "2023-02-14T12:17:52+01:00",
-    "updated_at": "2023-02-14T13:16:49+01:00",
-    "media_id": "7zvxcwqa65ud",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6251200/nieuwe-ferrari-is-een-duidelijke-doorontwikkeling-van-snelle-auto-uit-2022.html",
     "open_new_window": false,
     "partner": null
   }
