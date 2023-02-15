@@ -1,12 +1,35 @@
 [
   {
+    "id": 6251477,
+    "slug": "spreeuwenzwerm-zorgt-voor-spektakel-boven-friese-grou",
+    "type": "video",
+    "title": "Spreeuwenzwerm zorgt voor spektakel boven Friese Grou",
+    "subtitle": "Video",
+    "published_at": "2023-02-15T21:47:42+01:00",
+    "updated_at": "2023-02-15T21:47:43+01:00",
+    "media_id": "nptxemfah71o",
+    "duration": "0:40",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6251477/spreeuwenzwerm-zorgt-voor-spektakel-boven-friese-grou.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6251473,
-    "slug": "actrice-raquel-welch-overleden-op-82-jarige-leeftijd",
+    "slug": "actrice-raquel-welch-op-82-jarige-leeftijd-overleden",
     "type": "article",
-    "title": "Actrice Raquel Welch overleden op 82-jarige leeftijd",
+    "title": "Actrice Raquel Welch op 82-jarige leeftijd overleden",
     "subtitle": null,
     "published_at": "2023-02-15T21:09:50+01:00",
-    "updated_at": "2023-02-15T21:26:39+01:00",
+    "updated_at": "2023-02-15T21:37:26+01:00",
     "media_id": "n7mx76iamzf7",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/film/6251473/actrice-raquel-welch-overleden-op-82-jarige-leeftijd.html",
+    "url": "/film/6251473/actrice-raquel-welch-op-82-jarige-leeftijd-overleden.html",
     "open_new_window": false,
     "partner": null
   },
@@ -70,13 +93,13 @@
   },
   {
     "id": 6251471,
-    "slug": "haller-schiet-net-naast-tegen-chelsea-brugge-en-benfica-nog-in-evenwicht",
+    "slug": "joao-felix-schiet-op-de-lat-brugge-en-benfica-nog-in-evenwicht",
     "type": "article",
-    "title": "Haller schiet net naast tegen Chelsea, Brugge en Benfica nog in evenwicht",
+    "title": "João Félix schiet op de lat, Brugge en Benfica nog in evenwicht",
     "subtitle": "Liveblog CL",
     "published_at": "2023-02-15T20:27:26+01:00",
-    "updated_at": "2023-02-15T21:31:26+01:00",
-    "media_id": "qmmxifxaunsw",
+    "updated_at": "2023-02-15T21:43:36+01:00",
+    "media_id": "0qwx4e2ar4gt",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6251471/haller-schiet-net-naast-tegen-chelsea-brugge-en-benfica-nog-in-evenwicht.html",
+    "url": "/voetbal/6251471/joao-felix-schiet-op-de-lat-brugge-en-benfica-nog-in-evenwicht.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6251453/schutter-zwijndrecht-nog-steeds-voortvluchtig-hoe-kan-dat.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6251452,
-    "slug": "wolk-salpeterzuur-komt-vrij-bij-ongeluk-in-vs",
-    "type": "video",
-    "title": "Wolk salpeterzuur komt vrij bij ongeluk in VS",
-    "subtitle": "Video",
-    "published_at": "2023-02-15T17:53:30+01:00",
-    "updated_at": "2023-02-15T18:05:15+01:00",
-    "media_id": "ggfxezka5xi7",
-    "duration": "0:45",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6251452/wolk-salpeterzuur-komt-vrij-bij-ongeluk-in-vs.html",
     "open_new_window": false,
     "partner": null
   }
