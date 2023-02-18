@@ -1,12 +1,35 @@
 [
   {
+    "id": 6251910,
+    "slug": "brit-stuitert-over-water-nadat-hij-van-boot-valt-tijdens-race",
+    "type": "video",
+    "title": "Brit stuitert over water nadat hij van boot valt tijdens race",
+    "subtitle": "Video",
+    "published_at": "2023-02-18T17:50:45+01:00",
+    "updated_at": "2023-02-18T17:50:45+01:00",
+    "media_id": "28dx8l3ap2u4",
+    "duration": "0:46",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6251910/brit-stuitert-over-water-nadat-hij-van-boot-valt-tijdens-race.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6251907,
     "slug": "bayern-moet-vrezen-voor-verlies-koppositie-na-nederlaag-bij-basisdebuut-blind",
     "type": "article",
     "title": "Bayern moet vrezen voor verlies koppositie na nederlaag bij basisdebuut Blind",
     "subtitle": null,
     "published_at": "2023-02-18T17:26:06+01:00",
-    "updated_at": "2023-02-18T17:27:09+01:00",
+    "updated_at": "2023-02-18T17:51:03+01:00",
     "media_id": "u7tx0n2a0g4j",
     "duration": null,
     "canonical_section": {
@@ -70,12 +93,12 @@
   },
   {
     "id": 6251904,
-    "slug": "volendam-halverwege-op-kleine-voorsprong-tegen-vitesse",
+    "slug": "volendam-na-rust-op-kleine-voorsprong-tegen-vitesse",
     "type": "article",
-    "title": "Volendam halverwege op kleine voorsprong tegen Vitesse",
+    "title": "Volendam na rust op kleine voorsprong tegen Vitesse",
     "subtitle": "Liveblog Eredivisie",
     "published_at": "2023-02-18T16:18:48+01:00",
-    "updated_at": "2023-02-18T17:17:58+01:00",
+    "updated_at": "2023-02-18T17:35:54+01:00",
     "media_id": "hpsxup0ahd4e",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6251904/volendam-halverwege-op-kleine-voorsprong-tegen-vitesse.html",
+    "url": "/voetbal/6251904/volendam-na-rust-op-kleine-voorsprong-tegen-vitesse.html",
     "open_new_window": false,
     "partner": null
   },
@@ -213,7 +236,7 @@
     "title": "Pogacar boekt vijftigste zege, Pidcock grijpt macht in Ronde van de Algarve",
     "subtitle": null,
     "published_at": "2023-02-18T15:17:09+01:00",
-    "updated_at": "2023-02-18T17:16:52+01:00",
+    "updated_at": "2023-02-18T17:33:55+01:00",
     "media_id": "v03xkn2a4tlt",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6251885/ineos-eigenaar-ratcliffe-brengt-miljardenbod-uit-op-manchester-united.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6251879,
-    "slug": "dodelijk-vliegtuigongeluk-in-kornhorn-veroorzaakt-door-losse-kap-van-cockpit",
-    "type": "article",
-    "title": "Dodelijk vliegtuigongeluk in Kornhorn veroorzaakt door losse kap van cockpit",
-    "subtitle": null,
-    "published_at": "2023-02-18T13:00:17+01:00",
-    "updated_at": "2023-02-18T13:10:50+01:00",
-    "media_id": "th4xj8gapo9u",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6251879/dodelijk-vliegtuigongeluk-in-kornhorn-veroorzaakt-door-losse-kap-van-cockpit.html",
     "open_new_window": false,
     "partner": null
   }
