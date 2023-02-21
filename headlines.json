@@ -1,5 +1,28 @@
 [
   {
+    "id": 6252248,
+    "slug": "wat-doet-een-makelaar-voor-je",
+    "type": "article",
+    "title": "Wat doet een makelaar voor je?",
+    "subtitle": null,
+    "published_at": "2023-02-21T18:31:27+01:00",
+    "updated_at": "2023-02-21T18:31:28+01:00",
+    "media_id": "815xbr0abllf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6252248/wat-doet-een-makelaar-voor-je.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6252298,
     "slug": "pogacar-slaat-strade-bianche-over-geen-driestrijd-met-van-aert-en-van-der-poel",
     "type": "article",
@@ -75,7 +98,7 @@
     "title": "Ralf Seuntjens traint na herstel van lymfeklierkanker voorlopig mee met Sparta",
     "subtitle": null,
     "published_at": "2023-02-21T17:43:56+01:00",
-    "updated_at": "2023-02-21T18:04:16+01:00",
+    "updated_at": "2023-02-21T18:22:45+01:00",
     "media_id": "v2sxwesanear",
     "duration": null,
     "canonical_section": {
@@ -121,8 +144,8 @@
     "title": "Uitgerekend Beerensteyn zet Nederland op 1-0 tegen Oostenrijk",
     "subtitle": "Liveblog Oranje",
     "published_at": "2023-02-21T17:38:58+01:00",
-    "updated_at": "2023-02-21T18:16:25+01:00",
-    "media_id": "5vmxpoxa6ucm",
+    "updated_at": "2023-02-21T18:23:16+01:00",
+    "media_id": "7j8x6p4agkeq",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6252257/duitsland-in-gesprek-met-tennet-over-deal-van-meer-dan-20-miljard-euro.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6252262,
-    "slug": "politieagenten-liggen-in-bos-na-helikoptercrash-in-indonesie",
-    "type": "video",
-    "title": "Politieagenten liggen in bos na helikoptercrash in Indonesië",
-    "subtitle": "Video",
-    "published_at": "2023-02-21T15:19:17+01:00",
-    "updated_at": "2023-02-21T15:19:18+01:00",
-    "media_id": "a9bx8upapqcp",
-    "duration": "0:45",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6252262/politieagenten-liggen-in-bos-na-helikoptercrash-in-indonesie.html",
     "open_new_window": false,
     "partner": null
   }
