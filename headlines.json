@@ -1,5 +1,28 @@
 [
   {
+    "id": 6252468,
+    "slug": "ruzie-tussen-wagner-group-en-rusland-loopt-op-kremlin-vernietigt-mijn-troepen",
+    "type": "article",
+    "title": "Ruzie tussen Wagner Group en Rusland loopt op: 'Kremlin vernietigt mijn troepen'",
+    "subtitle": null,
+    "published_at": "2023-02-22T18:51:22+01:00",
+    "updated_at": "2023-02-22T18:51:24+01:00",
+    "media_id": "g8yxbbpazh4f",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778980,
+      "slug": "spanningen-oekraine",
+      "type": "default",
+      "name": "Oorlog in Oekraïne",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/spanningen-oekraine/6252468/ruzie-tussen-wagner-group-en-rusland-loopt-op-kremlin-vernietigt-mijn-troepen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6252420,
     "slug": "hoe-werkt-de-nieuwe-regeling-voor-studiefinanciering",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/klimaat/6252413/de-winter-krijgt-dit-jaar-nog-een-staartje-vorst-en-zon-in-maart.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6252423,
-    "slug": "ten-hag-geniet-van-etentje-met-ferguson-prachtig-om-zijn-steun-te-hebben",
-    "type": "article",
-    "title": "Ten Hag geniet van etentje met Ferguson: 'Prachtig om zijn steun te hebben'",
-    "subtitle": null,
-    "published_at": "2023-02-22T14:32:30+01:00",
-    "updated_at": "2023-02-22T15:28:45+01:00",
-    "media_id": "uw7xtssaxg2x",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6252423/ten-hag-geniet-van-etentje-met-ferguson-prachtig-om-zijn-steun-te-hebben.html",
     "open_new_window": false,
     "partner": null
   }
