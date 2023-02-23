@@ -1,5 +1,28 @@
 [
   {
+    "id": 6252574,
+    "slug": "de-graafschap-trainer-poldervaart-verlaat-ziekenhuis-en-begint-aan-herstel",
+    "type": "article",
+    "title": "De Graafschap-trainer Poldervaart verlaat ziekenhuis en begint aan herstel",
+    "subtitle": null,
+    "published_at": "2023-02-23T12:50:37+01:00",
+    "updated_at": "2023-02-23T12:50:39+01:00",
+    "media_id": "islxjvmaqr7s",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6252574/de-graafschap-trainer-poldervaart-verlaat-ziekenhuis-en-begint-aan-herstel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6252557,
     "slug": "lezers-over-interview-de-groot-d66-hij-draait-al-jaren-zelfde-bandje-af",
     "type": "article",
@@ -75,7 +98,7 @@
     "title": "Productieve Verstappen beleeft met snelste tijd probleemloze eerste testochtend",
     "subtitle": null,
     "published_at": "2023-02-23T12:18:53+01:00",
-    "updated_at": "2023-02-23T12:24:03+01:00",
+    "updated_at": "2023-02-23T12:35:25+01:00",
     "media_id": "aa0xxmxahprr",
     "duration": null,
     "canonical_section": {
@@ -305,7 +328,7 @@
     "title": "Rachel Hazes mag zich erfgenaam André blijven noemen, maar is dat officieel niet",
     "subtitle": null,
     "published_at": "2023-02-23T11:07:39+01:00",
-    "updated_at": "2023-02-23T12:30:35+01:00",
+    "updated_at": "2023-02-23T12:33:04+01:00",
     "media_id": "384x2wraofze",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6252531/israelische-luchtaanvallen-na-raketten-en-dood-van-elf-palestijnen-bij-inval.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6252527,
-    "slug": "uitblinker-onana-ziet-akkefietje-met-inter-ploeggenoot-dzeko-als-iets-positiefs",
-    "type": "article",
-    "title": "Uitblinker Onana ziet akkefietje met Inter-ploeggenoot Dzeko als iets positiefs",
-    "subtitle": null,
-    "published_at": "2023-02-23T09:50:50+01:00",
-    "updated_at": "2023-02-23T11:43:25+01:00",
-    "media_id": "qdkxvqtaxouv",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6252527/uitblinker-onana-ziet-akkefietje-met-inter-ploeggenoot-dzeko-als-iets-positiefs.html",
     "open_new_window": false,
     "partner": null
   }
