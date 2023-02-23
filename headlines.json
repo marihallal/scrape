@@ -1,12 +1,35 @@
 [
   {
+    "id": 6252620,
+    "slug": "reizigers-uit-china-hoeven-zich-op-schiphol-niet-meer-te-testen-op-coronavirus",
+    "type": "article",
+    "title": "Reizigers uit China hoeven zich op Schiphol niet meer te testen op coronavirus",
+    "subtitle": null,
+    "published_at": "2023-02-23T16:34:55+01:00",
+    "updated_at": "2023-02-23T16:34:59+01:00",
+    "media_id": "2h1xb3faeu3f",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6252620/reizigers-uit-china-hoeven-zich-op-schiphol-niet-meer-te-testen-op-coronavirus.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6252616,
     "slug": "fawry-not-sawry-verlaat-rumag-en-maakt-overstap-naar-rtl-boulevard-online",
     "type": "article",
     "title": "Fawry not Sawry verlaat RUMAG en maakt overstap naar RTL Boulevard online",
     "subtitle": null,
     "published_at": "2023-02-23T16:19:35+01:00",
-    "updated_at": "2023-02-23T16:19:36+01:00",
+    "updated_at": "2023-02-23T16:27:02+01:00",
     "media_id": "croxj7oat0z1",
     "duration": null,
     "canonical_section": {
@@ -213,7 +236,7 @@
     "title": "Selena Gomez haalt Kylie Jenner in als meest gevolgde vrouw op Instagram",
     "subtitle": null,
     "published_at": "2023-02-23T14:46:25+01:00",
-    "updated_at": "2023-02-23T14:46:27+01:00",
+    "updated_at": "2023-02-23T16:23:40+01:00",
     "media_id": "rm5xgh6ac8g0",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wielrennen/6252580/toptalent-kooij-komt-net-tekort-voor-zege-in-uae-tour-maar-pakt-wel-groene-trui.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6252584,
-    "slug": "miedema-woest-om-deal-fifa-met-saoedi-arabie-je-schiet-er-bijna-van-in-de-lach",
-    "type": "article",
-    "title": "Miedema woest om deal FIFA met Saoedi-Arabië: 'Je schiet er bijna van in de lach'",
-    "subtitle": null,
-    "published_at": "2023-02-23T13:40:29+01:00",
-    "updated_at": "2023-02-23T14:55:13+01:00",
-    "media_id": "fhhxzaka1cfq",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6252584/miedema-woest-om-deal-fifa-met-saoedi-arabie-je-schiet-er-bijna-van-in-de-lach.html",
     "open_new_window": false,
     "partner": null
   }
