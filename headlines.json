@@ -1,12 +1,35 @@
 [
   {
+    "id": 6252530,
+    "slug": "recensieoverzicht-cocaine-bear-overpeinzingen-van-eenzame-cokesnuivende-beer",
+    "type": "article",
+    "title": "Recensieoverzicht Cocaine Bear: 'Overpeinzingen van eenzame, cokesnuivende beer'",
+    "subtitle": null,
+    "published_at": "2023-02-23T15:40:05+01:00",
+    "updated_at": "2023-02-23T15:40:07+01:00",
+    "media_id": "ijuxynlayykc",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6252530/recensieoverzicht-cocaine-bear-overpeinzingen-van-eenzame-cokesnuivende-beer.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6252605,
     "slug": "eerste-sterrenstelsels-vormden-zich-mogelijk-vrijwel-direct-na-de-oerknal",
     "type": "article",
     "title": "Eerste sterrenstelsels vormden zich mogelijk vrijwel direct na de oerknal",
     "subtitle": null,
     "published_at": "2023-02-23T15:31:55+01:00",
-    "updated_at": "2023-02-23T15:31:57+01:00",
+    "updated_at": "2023-02-23T15:43:00+01:00",
     "media_id": "1pfxol0acu6o",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Chaos in Spaanse koers door sneeuwval: peloton stapt af, kopgroep rijdt door",
     "subtitle": null,
     "published_at": "2023-02-23T15:25:05+01:00",
-    "updated_at": "2023-02-23T15:35:17+01:00",
+    "updated_at": "2023-02-23T15:38:45+01:00",
     "media_id": "4k1xpd1adnnc",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/nucheckt/6252442/nucheckt-het-wonder-van-de-turkse-stad-erzin-is-eenvoudig-te-verklaren.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6252576,
-    "slug": "academy-zet-crisisteam-in-om-incidenten-tijdens-oscars-te-voorkomen",
-    "type": "article",
-    "title": "Academy zet crisisteam in om incidenten tijdens Oscars te voorkomen",
-    "subtitle": null,
-    "published_at": "2023-02-23T13:01:21+01:00",
-    "updated_at": "2023-02-23T13:20:08+01:00",
-    "media_id": "j3txnwqa0u4p",
-    "duration": null,
-    "canonical_section": {
-      "id": 127,
-      "slug": "film",
-      "type": "default",
-      "name": "Films & Series",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/film/6252576/academy-zet-crisisteam-in-om-incidenten-tijdens-oscars-te-voorkomen.html",
     "open_new_window": false,
     "partner": null
   }
