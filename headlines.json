@@ -1,5 +1,28 @@
 [
   {
+    "id": 6252512,
+    "slug": "verstappen-laat-nieuwe-red-bull-zien-in-bahrein",
+    "type": "article",
+    "title": "Verstappen laat nieuwe Red Bull zien in Bahrein",
+    "subtitle": "In beeld",
+    "published_at": "2023-02-23T08:41:22+01:00",
+    "updated_at": "2023-02-23T08:41:23+01:00",
+    "media_id": "0uux5y0a83r5",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Formule 1",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6252512/verstappen-laat-nieuwe-red-bull-zien-in-bahrein.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6252519,
     "slug": "prijzengeld-mannen-en-vrouwen-bij-vlaamse-wielerklassiekers-gelijkgetrokken",
     "type": "article",
@@ -185,13 +208,13 @@
   },
   {
     "id": 6252509,
-    "slug": "verstappen-hervat-eerste-testdag-na-vroege-rode-vlag-door-drugovich",
+    "slug": "verstappen-hervat-testdag-na-vroege-rode-vlag-door-drugovich",
     "type": "article",
-    "title": "Verstappen hervat eerste testdag na vroege rode vlag door Drugovich",
+    "title": "Verstappen hervat testdag na vroege rode vlag door Drugovich",
     "subtitle": "Liveblog F1",
     "published_at": "2023-02-23T07:22:50+01:00",
-    "updated_at": "2023-02-23T08:31:51+01:00",
-    "media_id": "8vqxghcajr6e",
+    "updated_at": "2023-02-23T08:41:49+01:00",
+    "media_id": "n3kxhb2abmiv",
     "duration": null,
     "canonical_section": {
       "id": 1772449,
@@ -202,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6252509/verstappen-hervat-eerste-testdag-na-vroege-rode-vlag-door-drugovich.html",
+    "url": "/formule-1/6252509/verstappen-hervat-testdag-na-vroege-rode-vlag-door-drugovich.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/formule-1/6252367/minder-stuiteren-en-nieuwe-kwalificatie-deze-regels-zijn-nieuw-in-f1.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6252433,
-    "slug": "achter-de-oorlog-heb-fles-champagne-klaarstaan-voor-de-overwinning",
-    "type": "article",
-    "title": "Achter de oorlog: 'Heb fles champagne klaarstaan voor de overwinning'",
-    "subtitle": "NU+",
-    "published_at": "2023-02-23T05:07:26+01:00",
-    "updated_at": "2023-02-23T07:40:42+01:00",
-    "media_id": "sqnxpjuaa5jy",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6252433/achter-de-oorlog-heb-fles-champagne-klaarstaan-voor-de-overwinning.html",
     "open_new_window": false,
     "partner": null
   }
