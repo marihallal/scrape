@@ -1,12 +1,58 @@
 [
   {
+    "id": 6252909,
+    "slug": "afsluitdijk-dicht-voor-verkeer-om-storing-aan-brug",
+    "type": "article",
+    "title": "Afsluitdijk dicht voor verkeer om storing aan brug",
+    "subtitle": null,
+    "published_at": "2023-02-25T14:23:33+01:00",
+    "updated_at": "2023-02-25T14:23:34+01:00",
+    "media_id": "gd0x0rra53r3",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6252909/afsluitdijk-dicht-voor-verkeer-om-storing-aan-brug.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6252906,
+    "slug": "hulpdiensten-rukken-uit-na-omslaan-pontje-in-zuid-hollands-natuurgebied",
+    "type": "video",
+    "title": "Hulpdiensten rukken uit na omslaan pontje in Zuid-Hollands natuurgebied",
+    "subtitle": "Video",
+    "published_at": "2023-02-25T14:06:35+01:00",
+    "updated_at": "2023-02-25T14:06:36+01:00",
+    "media_id": "e5nxt2maca1m",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6252906/hulpdiensten-rukken-uit-na-omslaan-pontje-in-zuid-hollands-natuurgebied.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6252905,
     "slug": "g20-landen-nog-niet-eens-over-kwijtschelding-schulden-van-armere-landen",
     "type": "article",
     "title": "G20-landen nog niet eens over kwijtschelding schulden van armere landen",
     "subtitle": null,
     "published_at": "2023-02-25T13:58:06+01:00",
-    "updated_at": "2023-02-25T13:58:08+01:00",
+    "updated_at": "2023-02-25T14:06:33+01:00",
     "media_id": "i0cxz0nar6yu",
     "duration": null,
     "canonical_section": {
@@ -75,7 +121,7 @@
     "title": "Groenewegen kan dag na imposante zege niet meedoen om ritwinst in UAE Tour",
     "subtitle": null,
     "published_at": "2023-02-25T13:34:54+01:00",
-    "updated_at": "2023-02-25T13:59:22+01:00",
+    "updated_at": "2023-02-25T14:09:17+01:00",
     "media_id": "mdqxzotaki4k",
     "duration": null,
     "canonical_section": {
@@ -167,7 +213,7 @@
     "title": "Vier mensen naar het ziekenhuis na omslaan wandelaarspont in Zuidland",
     "subtitle": null,
     "published_at": "2023-02-25T12:14:48+01:00",
-    "updated_at": "2023-02-25T13:24:41+01:00",
+    "updated_at": "2023-02-25T14:06:58+01:00",
     "media_id": "m89x2wcaxecm",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/stelling/6252732/stelling-de-zomertijd-moet-afgeschaft-worden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6252877,
-    "slug": "perez-snel-in-laatste-testsessie-nederlanders-niet-in-actie",
-    "type": "article",
-    "title": "Pérez snel in laatste testsessie, Nederlanders niet in actie",
-    "subtitle": "Liveblog F1",
-    "published_at": "2023-02-25T07:46:55+01:00",
-    "updated_at": "2023-02-25T13:46:05+01:00",
-    "media_id": "uxzxz9sag8df",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6252877/perez-snel-in-laatste-testsessie-nederlanders-niet-in-actie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6252875,
-    "slug": "turkse-journalisten-opgepakt-omdat-ze-nepnieuws-over-aardbeving-zouden-delen",
-    "type": "article",
-    "title": "Turkse journalisten opgepakt omdat ze nepnieuws over aardbeving zouden delen",
-    "subtitle": null,
-    "published_at": "2023-02-25T06:47:29+01:00",
-    "updated_at": "2023-02-25T08:15:05+01:00",
-    "media_id": "08rxxnka8r9q",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779210,
-      "slug": "aardbeving-syrie-en-turkije",
-      "type": "files",
-      "name": "Aardbeving Syrië en Turkije",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/aardbeving-syrie-en-turkije/6252875/turkse-journalisten-opgepakt-omdat-ze-nepnieuws-over-aardbeving-zouden-delen.html",
     "open_new_window": false,
     "partner": null
   }
