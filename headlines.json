@@ -1,12 +1,35 @@
 [
   {
+    "id": 6253591,
+    "slug": "geseksualiseerd-script-en-ontevreden-crew-wat-is-er-mis-bij-hbo-serie-the-idol",
+    "type": "article",
+    "title": "Geseksualiseerd script en ontevreden crew: wat is er mis bij HBO-serie The Idol?",
+    "subtitle": null,
+    "published_at": "2023-03-03T21:33:27+01:00",
+    "updated_at": "2023-03-03T21:33:28+01:00",
+    "media_id": "m4uxh97a0f7w",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6253591/geseksualiseerd-script-en-ontevreden-crew-wat-is-er-mis-bij-hbo-serie-the-idol.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6253834,
     "slug": "femke-kok-pakt-als-eerste-nederlandse-wereldtitel-op-500-meter",
     "type": "article",
     "title": "Femke Kok pakt als eerste Nederlandse wereldtitel op 500 meter",
     "subtitle": null,
     "published_at": "2023-03-03T21:19:07+01:00",
-    "updated_at": "2023-03-03T21:20:59+01:00",
+    "updated_at": "2023-03-03T21:33:46+01:00",
     "media_id": "g5axly8atflb",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Beune in tranen na fout met sokje en diskwalificatie: 'Ik heb het verpest'",
     "subtitle": null,
     "published_at": "2023-03-03T21:05:16+01:00",
-    "updated_at": "2023-03-03T21:16:53+01:00",
+    "updated_at": "2023-03-03T21:32:53+01:00",
     "media_id": "wj8xvyja1w79",
     "duration": null,
     "canonical_section": {
@@ -254,13 +277,13 @@
   },
   {
     "id": 6253819,
-    "slug": "az-op-voorsprong-tegen-vitesse-utrecht-fortuna-nog-0-0",
+    "slug": "az-lijkt-op-weg-naar-tweede-plaats-utrecht-en-vitesse-op-1-1",
     "type": "article",
-    "title": "AZ op voorsprong tegen Vitesse, Utrecht-Fortuna nog 0-0",
+    "title": "AZ lijkt op weg naar tweede plaats, Utrecht en Vitesse op 1-1",
     "subtitle": "Liveblog Eredivisie",
     "published_at": "2023-03-03T19:32:28+01:00",
-    "updated_at": "2023-03-03T20:41:01+01:00",
-    "media_id": "1fux6suavuz5",
+    "updated_at": "2023-03-03T21:31:59+01:00",
+    "media_id": "llcx30daiia5",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -271,7 +294,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6253819/az-op-voorsprong-tegen-vitesse-utrecht-fortuna-nog-0-0.html",
+    "url": "/voetbal/6253819/az-lijkt-op-weg-naar-tweede-plaats-utrecht-en-vitesse-op-1-1.html",
     "open_new_window": false,
     "partner": null
   },
@@ -282,7 +305,7 @@
     "title": "Diskwalificatie kost Nederlandse schaatssters wereldtitel op ploegenachtervolging",
     "subtitle": null,
     "published_at": "2023-03-03T19:23:30+01:00",
-    "updated_at": "2023-03-03T21:18:07+01:00",
+    "updated_at": "2023-03-03T21:31:02+01:00",
     "media_id": "qpgxt0sakfza",
     "duration": null,
     "canonical_section": {
@@ -397,7 +420,7 @@
     "title": "Reacties op verrassend goud Kok op 500 meter",
     "subtitle": "Liveblog WK afstanden",
     "published_at": "2023-03-03T18:41:37+01:00",
-    "updated_at": "2023-03-03T21:19:31+01:00",
+    "updated_at": "2023-03-03T21:25:00+01:00",
     "media_id": "fppxxoyaoivh",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/stelling/6253754/wat-kunnen-werkgevers-doen-om-hoge-werkdruk-te-voorkomen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6253808,
-    "slug": "djokovic-ziet-tegen-medvedev-einde-komen-aan-imponerende-zegereeks",
-    "type": "article",
-    "title": "Djokovic ziet tegen Medvedev einde komen aan imponerende zegereeks",
-    "subtitle": null,
-    "published_at": "2023-03-03T18:24:04+01:00",
-    "updated_at": "2023-03-03T18:41:08+01:00",
-    "media_id": "4enx6z8ab4q2",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6253808/djokovic-ziet-tegen-medvedev-einde-komen-aan-imponerende-zegereeks.html",
     "open_new_window": false,
     "partner": null
   }
