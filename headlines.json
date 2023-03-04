@@ -1,12 +1,35 @@
 [
   {
+    "id": 6253967,
+    "slug": "feyenoord-treft-ajax-in-halve-finales-knvb-beker-spakenburg-ontvangt-psv",
+    "type": "article",
+    "title": "Feyenoord treft Ajax in halve finales KNVB-beker, Spakenburg ontvangt PSV",
+    "subtitle": null,
+    "published_at": "2023-03-04T22:46:56+01:00",
+    "updated_at": "2023-03-04T22:47:42+01:00",
+    "media_id": "pqxxd1lagrn3",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6253967/feyenoord-treft-ajax-in-halve-finales-knvb-beker-spakenburg-ontvangt-psv.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6253962,
     "slug": "ajax-psv-feyenoord-en-spakenburg-in-koker-voor-loting-halve-finales",
     "type": "article",
     "title": "Ajax, PSV, Feyenoord en Spakenburg in koker voor loting halve finales",
     "subtitle": "Liveblog KNVB-beker",
     "published_at": "2023-03-04T22:30:02+01:00",
-    "updated_at": "2023-03-04T22:30:37+01:00",
+    "updated_at": "2023-03-04T22:35:15+01:00",
     "media_id": "xr2x4b8auvj8",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Feyenoord ontsnapt door late goal aan puntenverlies tegen tiental FC Groningen",
     "subtitle": null,
     "published_at": "2023-03-04T21:58:46+01:00",
-    "updated_at": "2023-03-04T22:25:24+01:00",
+    "updated_at": "2023-03-04T22:43:49+01:00",
     "media_id": "ppcxwf4apk95",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6253933/femke-bol-maakt-favorietenrol-waar-en-prolongeert-europese-titel-op-400-meter.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6253901,
-    "slug": "waarom-is-vitamine-b12-zo-belangrijk-voor-je",
-    "type": "article",
-    "title": "Waarom is vitamine B12 zo belangrijk voor je?",
-    "subtitle": null,
-    "published_at": "2023-03-04T18:31:13+01:00",
-    "updated_at": "2023-03-04T18:31:14+01:00",
-    "media_id": "euhxq5ca5b4r",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6253901/waarom-is-vitamine-b12-zo-belangrijk-voor-je.html",
     "open_new_window": false,
     "partner": null
   }
