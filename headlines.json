@@ -1,5 +1,28 @@
 [
   {
+    "id": 6254371,
+    "slug": "bbb-leider-van-der-plas-niet-bij-boerenprotest-vanwege-serieuze-bedreigingen",
+    "type": "article",
+    "title": "BBB-leider Van der Plas niet bij boerenprotest vanwege serieuze bedreigingen",
+    "subtitle": null,
+    "published_at": "2023-03-07T23:52:17+01:00",
+    "updated_at": "2023-03-07T23:52:18+01:00",
+    "media_id": "mvhxpkgawdzd",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6254371/bbb-leider-van-der-plas-niet-bij-boerenprotest-vanwege-serieuze-bedreigingen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6254370,
     "slug": "bijzondere-minisfinx-met-mogelijk-gezicht-van-romeinse-keizer-ontdekt-in-egypte",
     "type": "article",
@@ -75,7 +98,7 @@
     "title": "Chelsea poetst via dubieuze penalty verlies bij Dortmund weg in achtste finales CL",
     "subtitle": null,
     "published_at": "2023-03-07T23:07:52+01:00",
-    "updated_at": "2023-03-07T23:21:39+01:00",
+    "updated_at": "2023-03-07T23:37:50+01:00",
     "media_id": "3czx9a1a214u",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/media/6254347/mediameiden-stoppen-met-podcastrubriek-over-etende-bners-te-ver-gegaan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6254346,
-    "slug": "chaos-na-explosie-in-flatgebouw-in-bangladesh",
-    "type": "video",
-    "title": "Chaos na explosie in flatgebouw in Bangladesh",
-    "subtitle": "Video",
-    "published_at": "2023-03-07T19:35:32+01:00",
-    "updated_at": "2023-03-07T19:35:33+01:00",
-    "media_id": "wf8xw0xa33eo",
-    "duration": "0:44",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6254346/chaos-na-explosie-in-flatgebouw-in-bangladesh.html",
     "open_new_window": false,
     "partner": null
   }
