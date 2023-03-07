@@ -1,5 +1,74 @@
 [
   {
+    "id": 6254287,
+    "slug": "geneesmiddelenbureau-klaagt-bij-eu-over-gepland-erotisch-centrum-amsterdam",
+    "type": "article",
+    "title": "Geneesmiddelenbureau klaagt bij EU over gepland erotisch centrum Amsterdam",
+    "subtitle": null,
+    "published_at": "2023-03-07T14:22:37+01:00",
+    "updated_at": "2023-03-07T14:22:38+01:00",
+    "media_id": "regxflsav9wb",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6254287/geneesmiddelenbureau-klaagt-bij-eu-over-gepland-erotisch-centrum-amsterdam.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6254283,
+    "slug": "controversiele-jumbo-topman-van-eerd-komt-definitief-niet-terug",
+    "type": "article",
+    "title": "Controversiële Jumbo-topman Van Eerd komt definitief niet terug",
+    "subtitle": null,
+    "published_at": "2023-03-07T13:51:59+01:00",
+    "updated_at": "2023-03-07T14:28:11+01:00",
+    "media_id": "qhbxyvrab3mc",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6254283/controversiele-jumbo-topman-van-eerd-komt-definitief-niet-terug.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6254285,
+    "slug": "koningspaar-komt-aan-in-slowakije-voor-staatsbezoek",
+    "type": "video",
+    "title": "Koningspaar komt aan in Slowakije voor staatsbezoek",
+    "subtitle": "Video",
+    "published_at": "2023-03-07T13:50:34+01:00",
+    "updated_at": "2023-03-07T14:00:37+01:00",
+    "media_id": "afix9xiabfz2",
+    "duration": "0:44",
+    "canonical_section": {
+      "id": 1778775,
+      "slug": "koningshuis",
+      "type": "default",
+      "name": "Koningshuis",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/koningshuis/6254285/koningspaar-komt-aan-in-slowakije-voor-staatsbezoek.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6254284,
     "slug": "man-die-grapt-over-bom-en-drugs-aangehouden-op-vliegveld-bonaire",
     "type": "article",
@@ -52,7 +121,7 @@
     "title": "Vitesse en eigenaar GelreDome opnieuw tegenover elkaar in rechtbank",
     "subtitle": null,
     "published_at": "2023-03-07T12:41:21+01:00",
-    "updated_at": "2023-03-07T12:44:00+01:00",
+    "updated_at": "2023-03-07T14:20:16+01:00",
     "media_id": "ntvxgqmaexiy",
     "duration": null,
     "canonical_section": {
@@ -121,7 +190,7 @@
     "title": "Actievoerders in VS belagen agenten bij protest tegen politiecentrum",
     "subtitle": "Video",
     "published_at": "2023-03-07T12:10:00+01:00",
-    "updated_at": "2023-03-07T12:10:01+01:00",
+    "updated_at": "2023-03-07T13:56:19+01:00",
     "media_id": "sj2x7rsatgru",
     "duration": "0:45",
     "canonical_section": {
@@ -231,12 +300,12 @@
   },
   {
     "id": 6254169,
-    "slug": "sam-altman-is-het-gezicht-achter-chatgpt-en-een-rijzende-ster-in-silicon-valley",
+    "slug": "sam-altman-is-het-gezicht-achter-chatgpt-en-rijzende-ster-in-silicon-valley",
     "type": "article",
-    "title": "Sam Altman is het gezicht achter ChatGPT en een rijzende ster in Silicon Valley",
-    "subtitle": null,
+    "title": "Sam Altman is het gezicht achter ChatGPT en rijzende ster in Silicon Valley",
+    "subtitle": "NU+",
     "published_at": "2023-03-07T11:54:58+01:00",
-    "updated_at": "2023-03-07T12:12:28+01:00",
+    "updated_at": "2023-03-07T14:22:19+01:00",
     "media_id": "dfvxwjvag0hv",
     "duration": null,
     "canonical_section": {
@@ -248,7 +317,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/tech/6254169/sam-altman-is-het-gezicht-achter-chatgpt-en-een-rijzende-ster-in-silicon-valley.html",
+    "url": "/tech/6254169/sam-altman-is-het-gezicht-achter-chatgpt-en-rijzende-ster-in-silicon-valley.html",
     "open_new_window": false,
     "partner": null
   },
@@ -328,8 +397,8 @@
     "title": "Heineken trekt boetekleed aan vanwege aanwezigheid in Rusland",
     "subtitle": null,
     "published_at": "2023-03-07T11:18:44+01:00",
-    "updated_at": "2023-03-07T11:51:42+01:00",
-    "media_id": "7nyxdd4abqa0",
+    "updated_at": "2023-03-07T14:02:37+01:00",
+    "media_id": "18yxgqzaocoh",
     "duration": null,
     "canonical_section": {
       "id": 99,
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6254240/om-vervolgt-monteur-voor-veroorzaken-zware-explosie-in-woning-oldenzaal.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6254254,
-    "slug": "japanse-raket-vernietigt-zichzelf-na-mislukte-lancering",
-    "type": "video",
-    "title": "Japanse raket vernietigt zichzelf na mislukte lancering",
-    "subtitle": "Video",
-    "published_at": "2023-03-07T10:39:43+01:00",
-    "updated_at": "2023-03-07T10:39:45+01:00",
-    "media_id": "d8rxwssapoc3",
-    "duration": "0:44",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6254254/japanse-raket-vernietigt-zichzelf-na-mislukte-lancering.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6254243,
-    "slug": "dennis-schouten-doet-melding-bij-politie-over-ex-maakt-dossier-vol-leugens",
-    "type": "article",
-    "title": "Dennis Schouten doet melding bij politie over ex: 'Maakt dossier vol leugens'",
-    "subtitle": null,
-    "published_at": "2023-03-07T09:51:31+01:00",
-    "updated_at": "2023-03-07T09:51:32+01:00",
-    "media_id": "6ftxwstaieoh",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6254243/dennis-schouten-doet-melding-bij-politie-over-ex-maakt-dossier-vol-leugens.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6254237,
-    "slug": "dj-martin-garrix-bracht-krezip-drummer-in-contact-met-u2",
-    "type": "article",
-    "title": "Dj Martin Garrix bracht Krezip-drummer in contact met U2",
-    "subtitle": null,
-    "published_at": "2023-03-07T09:34:55+01:00",
-    "updated_at": "2023-03-07T10:52:04+01:00",
-    "media_id": "ev7x2l4aedh4",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6254237/dj-martin-garrix-bracht-krezip-drummer-in-contact-met-u2.html",
     "open_new_window": false,
     "partner": null
   }
