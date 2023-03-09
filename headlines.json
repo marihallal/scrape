@@ -1,5 +1,28 @@
 [
   {
+    "id": 6254674,
+    "slug": "zes-doden-en-meerdere-zwaargewonden-bij-schietpartij-in-kerk-in-hamburg",
+    "type": "article",
+    "title": "Zes doden en meerdere zwaargewonden bij schietpartij in kerk in Hamburg",
+    "subtitle": null,
+    "published_at": "2023-03-09T22:36:12+01:00",
+    "updated_at": "2023-03-09T22:49:52+01:00",
+    "media_id": "11jxmrlax7r7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6254674/zes-doden-en-meerdere-zwaargewonden-bij-schietpartij-in-kerk-in-hamburg.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6254673,
     "slug": "jan-smit-bijt-van-zich-af-op-verhitte-avond-bij-fc-volendam-dit-dorp-is-vergiftigd",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Bewakingscamera in Rijsbergen filmt jacht op verdachten van overval",
     "subtitle": "Video",
     "published_at": "2023-03-09T22:23:23+01:00",
-    "updated_at": "2023-03-09T22:23:24+01:00",
+    "updated_at": "2023-03-09T22:35:46+01:00",
     "media_id": "68jx4ypaoilq",
     "duration": "0:44",
     "canonical_section": {
@@ -47,12 +70,12 @@
   },
   {
     "id": 6254670,
-    "slug": "sbs6-stopt-met-talkshow-hlf8-vanwege-ongewenste-resultaten",
+    "slug": "sbs6-stopt-met-talkshow-hlf8-vanwege-tegenvallende-kijkcijfers",
     "type": "article",
-    "title": "SBS6 stopt met talkshow HLF8 vanwege 'ongewenste resultaten'",
+    "title": "SBS6 stopt met talkshow HLF8 vanwege tegenvallende kijkcijfers",
     "subtitle": null,
     "published_at": "2023-03-09T22:22:50+01:00",
-    "updated_at": "2023-03-09T22:22:52+01:00",
+    "updated_at": "2023-03-09T22:41:51+01:00",
     "media_id": "zrvxrmlah9rj",
     "duration": null,
     "canonical_section": {
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/media/6254670/sbs6-stopt-met-talkshow-hlf8-vanwege-ongewenste-resultaten.html",
+    "url": "/media/6254670/sbs6-stopt-met-talkshow-hlf8-vanwege-tegenvallende-kijkcijfers.html",
     "open_new_window": false,
     "partner": null
   },
@@ -116,12 +139,12 @@
   },
   {
     "id": 6254660,
-    "slug": "van-gerwen-zet-clayton-opzij-en-begint-overtuigend-aan-premier-league-avond",
+    "slug": "van-gerwen-overklast-wright-en-bereikt-finale-van-premier-league-in-liverpool",
     "type": "article",
-    "title": "Van Gerwen zet Clayton opzij en begint overtuigend aan Premier League-avond",
+    "title": "Van Gerwen overklast Wright en bereikt finale van Premier League in Liverpool",
     "subtitle": null,
     "published_at": "2023-03-09T21:16:15+01:00",
-    "updated_at": "2023-03-09T22:30:50+01:00",
+    "updated_at": "2023-03-09T22:51:02+01:00",
     "media_id": "ec0xkbhaph49",
     "duration": null,
     "canonical_section": {
@@ -133,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/darts/6254660/van-gerwen-zet-clayton-opzij-en-begint-overtuigend-aan-premier-league-avond.html",
+    "url": "/darts/6254660/van-gerwen-overklast-wright-en-bereikt-finale-van-premier-league-in-liverpool.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6254650/william-spaaij-vervuld-van-geluk-vanwege-komst-eerste-kind.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6254646,
-    "slug": "nog-geen-einde-aan-het-winterweer-meer-sneeuw-op-komst",
-    "type": "article",
-    "title": "Nog geen einde aan het winterweer: meer sneeuw op komst",
-    "subtitle": null,
-    "published_at": "2023-03-09T19:03:08+01:00",
-    "updated_at": "2023-03-09T19:03:11+01:00",
-    "media_id": "7i7xbhyas0cv",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6254646/nog-geen-einde-aan-het-winterweer-meer-sneeuw-op-komst.html",
     "open_new_window": false,
     "partner": null
   }
