@@ -1,5 +1,28 @@
 [
   {
+    "id": 6254565,
+    "slug": "waarom-mogen-tbsers-met-verlof-jullie-vragen-over-tbs-beantwoord",
+    "type": "article",
+    "title": "Waarom mogen tbs'ers met verlof? Jullie vragen over tbs beantwoord",
+    "subtitle": null,
+    "published_at": "2023-03-09T12:31:21+01:00",
+    "updated_at": "2023-03-09T12:31:23+01:00",
+    "media_id": "2b6xveja1viy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773185,
+      "slug": "nujij",
+      "type": "default",
+      "name": "Praat mee op NUjij",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/nujij/6254565/waarom-mogen-tbsers-met-verlof-jullie-vragen-over-tbs-beantwoord.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6254558,
     "slug": "lezersreacties-op-ov-bezuinigingen-in-landelijk-gebied-den-haag-moet-hiernaar-kijken",
     "type": "article",
@@ -75,7 +98,7 @@
     "title": "OM eist twee jaar cel tegen muziekleraar voor ontucht met minderjarige leerlingen",
     "subtitle": null,
     "published_at": "2023-03-09T12:03:19+01:00",
-    "updated_at": "2023-03-09T12:03:20+01:00",
+    "updated_at": "2023-03-09T12:41:47+01:00",
     "media_id": "2fox7ciaqlx2",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6254540/milan-na-lange-absentie-terug-in-kwartfinales-cl-bewijs-dat-serie-a-is-gegroeid.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6254534,
-    "slug": "georgische-regering-trekt-wetsvoorstel-over-buitenlandse-financiering-in-na-onrust",
-    "type": "article",
-    "title": "Georgische regering trekt wetsvoorstel over buitenlandse financiering in na onrust",
-    "subtitle": null,
-    "published_at": "2023-03-09T09:24:55+01:00",
-    "updated_at": "2023-03-09T09:24:56+01:00",
-    "media_id": "9w6x293acg6v",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6254534/georgische-regering-trekt-wetsvoorstel-over-buitenlandse-financiering-in-na-onrust.html",
     "open_new_window": false,
     "partner": null
   }
