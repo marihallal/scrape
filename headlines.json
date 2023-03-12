@@ -1,12 +1,35 @@
 [
   {
+    "id": 6254974,
+    "slug": "pogacar-vermorzelt-concurrentie-in-slotrit-en-stelt-eindzege-parijs-nice-veilig",
+    "type": "article",
+    "title": "Pogacar vermorzelt concurrentie in slotrit en stelt eindzege Parijs-Nice veilig",
+    "subtitle": null,
+    "published_at": "2023-03-12T14:47:37+01:00",
+    "updated_at": "2023-03-12T14:49:58+01:00",
+    "media_id": "t7rxrniarl1u",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6254974/pogacar-vermorzelt-concurrentie-in-slotrit-en-stelt-eindzege-parijs-nice-veilig.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6254989,
     "slug": "na-luuk-de-jong-zet-ook-vincent-janssen-28-punt-achter-interlandcarriere",
     "type": "article",
     "title": "Na Luuk de Jong zet ook Vincent Janssen (28) punt achter interlandcarrière",
     "subtitle": null,
     "published_at": "2023-03-12T14:22:13+01:00",
-    "updated_at": "2023-03-12T14:31:17+01:00",
+    "updated_at": "2023-03-12T14:48:48+01:00",
     "media_id": "cfvx070axrdh",
     "duration": null,
     "canonical_section": {
@@ -392,13 +415,13 @@
   },
   {
     "id": 6254969,
-    "slug": "ajax-op-zoek-naar-zege-in-heerenveen",
+    "slug": "alvarez-verdubbelt-de-voorsprong-voor-ajax-in-heerenveen",
     "type": "article",
-    "title": "Ajax op zoek naar zege in Heerenveen",
+    "title": "Álvarez verdubbelt de voorsprong voor Ajax in Heerenveen",
     "subtitle": "Liveblog Eredivisie",
     "published_at": "2023-03-12T11:50:36+01:00",
-    "updated_at": "2023-03-12T14:33:44+01:00",
-    "media_id": "e2yxeb6avwp5",
+    "updated_at": "2023-03-12T14:50:03+01:00",
+    "media_id": "ivyxndiajtwm",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -409,7 +432,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6254969/ajax-op-zoek-naar-zege-in-heerenveen.html",
+    "url": "/voetbal/6254969/alvarez-verdubbelt-de-voorsprong-voor-ajax-in-heerenveen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6254972/bij-ado-ontslagen-kuijt-wil-snel-weer-als-hoofdtrainer-of-assistent-aan-de-slag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6254970,
-    "slug": "straten-staan-blank-nadat-dijk-doorbreekt-in-californie",
-    "type": "video",
-    "title": "Straten staan blank nadat dijk doorbreekt in Californië",
-    "subtitle": "Video",
-    "published_at": "2023-03-12T11:33:33+01:00",
-    "updated_at": "2023-03-12T11:33:34+01:00",
-    "media_id": "wdex16ia522l",
-    "duration": "0:43",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6254970/straten-staan-blank-nadat-dijk-doorbreekt-in-californie.html",
     "open_new_window": false,
     "partner": null
   }
