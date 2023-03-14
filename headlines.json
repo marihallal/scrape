@@ -1,5 +1,28 @@
 [
   {
+    "id": 6255191,
+    "slug": "weer-drukste-ochtendspits-van-jaar-door-regen-meer-dan-1100-kilometer-file",
+    "type": "article",
+    "title": "Weer drukste ochtendspits van jaar door regen: meer dan 1.100 kilometer file",
+    "subtitle": null,
+    "published_at": "2023-03-14T08:49:46+01:00",
+    "updated_at": "2023-03-14T08:49:47+01:00",
+    "media_id": "cg9xlyjaljkd",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6255191/weer-drukste-ochtendspits-van-jaar-door-regen-meer-dan-1100-kilometer-file.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6255186,
     "slug": "ook-vandaag-minder-treinen-en-bussen-vakbonden-overwegen-stakingspauze",
     "type": "article",
@@ -190,7 +213,7 @@
     "title": "Griekspoor kan in Indian Wells niet stunten tegen US Open-winnaar Alcaraz",
     "subtitle": null,
     "published_at": "2023-03-14T07:02:34+01:00",
-    "updated_at": "2023-03-14T08:18:16+01:00",
+    "updated_at": "2023-03-14T08:45:33+01:00",
     "media_id": "1slxg74a0rol",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6254801/stiekem-condoom-afdoen-strafbaar-rechter-oordeelt-in-eerste-stealthingzaak.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6254587,
-    "slug": "steeds-meer-ziekenhuizen-gebruiken-duurzame-roes-in-plaats-van-schadelijk-narcosegas",
-    "type": "article",
-    "title": "Steeds meer ziekenhuizen gebruiken duurzame roes in plaats van schadelijk narcosegas",
-    "subtitle": null,
-    "published_at": "2023-03-14T05:00:03+01:00",
-    "updated_at": "2023-03-14T05:00:05+01:00",
-    "media_id": "3u9xvctatv73",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772754,
-      "slug": "klimaat",
-      "type": "default",
-      "name": "Klimaat",
-      "style": "nuzakelijk",
-      "media_id": "kf4x3b2agsxg",
-      "partner": null
-    },
-    "url": "/klimaat/6254587/steeds-meer-ziekenhuizen-gebruiken-duurzame-roes-in-plaats-van-schadelijk-narcosegas.html",
     "open_new_window": false,
     "partner": null
   }
