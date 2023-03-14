@@ -1,12 +1,35 @@
 [
   {
+    "id": 6255185,
+    "slug": "mbo-en-hbo-studenten-missen-veel-lessen-door-ov-stakingen",
+    "type": "article",
+    "title": "Mbo- en hbo-studenten missen veel lessen door ov-stakingen",
+    "subtitle": null,
+    "published_at": "2023-03-14T08:07:02+01:00",
+    "updated_at": "2023-03-14T08:18:58+01:00",
+    "media_id": "twhxwf7aj9kc",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6255185/mbo-en-hbo-studenten-missen-veel-lessen-door-ov-stakingen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6255182,
     "slug": "la-liga-baas-over-omkoopschandaal-barca-reputatie-van-voetbal-staat-op-het-spel",
     "type": "article",
     "title": "La Liga-baas over omkoopschandaal Barça: 'Reputatie van voetbal staat op het spel'",
     "subtitle": null,
     "published_at": "2023-03-14T07:50:33+01:00",
-    "updated_at": "2023-03-14T07:51:44+01:00",
+    "updated_at": "2023-03-14T08:08:32+01:00",
     "media_id": "r9wx3whajbvt",
     "duration": null,
     "canonical_section": {
@@ -24,12 +47,12 @@
   },
   {
     "id": 6255181,
-    "slug": "politie-krijgt-messendatabase-vanwege-stijgend-messengeweld-onder-jongeren",
+    "slug": "politie-krijgt-messendatabase-vanwege-toenemend-geweld-onder-jongeren",
     "type": "article",
-    "title": "Politie krijgt messendatabase vanwege stijgend messengeweld onder jongeren",
+    "title": "Politie krijgt messendatabase vanwege toenemend geweld onder jongeren",
     "subtitle": null,
     "published_at": "2023-03-14T07:50:13+01:00",
-    "updated_at": "2023-03-14T07:51:23+01:00",
+    "updated_at": "2023-03-14T08:07:58+01:00",
     "media_id": "67nxtk3a2eqa",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6255181/politie-krijgt-messendatabase-vanwege-stijgend-messengeweld-onder-jongeren.html",
+    "url": "/binnenland/6255181/politie-krijgt-messendatabase-vanwege-toenemend-geweld-onder-jongeren.html",
     "open_new_window": false,
     "partner": null
   },
@@ -98,7 +121,7 @@
     "title": "Minder studenten in hoger onderwijs, jongeren wachten mogelijk op basisbeurs",
     "subtitle": null,
     "published_at": "2023-03-14T07:30:17+01:00",
-    "updated_at": "2023-03-14T07:48:36+01:00",
+    "updated_at": "2023-03-14T07:57:47+01:00",
     "media_id": "op4xkw3aisx4",
     "duration": null,
     "canonical_section": {
@@ -144,7 +167,7 @@
     "title": "Griekspoor kan in Indian Wells niet stunten tegen US Open-winnaar Alcaraz",
     "subtitle": null,
     "published_at": "2023-03-14T07:02:34+01:00",
-    "updated_at": "2023-03-14T07:45:00+01:00",
+    "updated_at": "2023-03-14T08:18:16+01:00",
     "media_id": "1slxg74a0rol",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/klimaat/6255116/planbureau-maak-water-uitgangspunt-van-alle-investeringen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6255166,
-    "slug": "treinverkeer-op-fries-traject-weer-stilgelegd-door-dassenburcht-onder-het-spoor",
-    "type": "article",
-    "title": "Treinverkeer op Fries traject weer stilgelegd door dassenburcht onder het spoor",
-    "subtitle": null,
-    "published_at": "2023-03-13T23:38:01+01:00",
-    "updated_at": "2023-03-13T23:38:02+01:00",
-    "media_id": "surxj6ea3fw4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772536,
-      "slug": "dieren",
-      "type": "default",
-      "name": "Dieren",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/dieren/6255166/treinverkeer-op-fries-traject-weer-stilgelegd-door-dassenburcht-onder-het-spoor.html",
     "open_new_window": false,
     "partner": null
   }
