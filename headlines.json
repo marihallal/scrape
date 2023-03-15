@@ -1,12 +1,35 @@
 [
   {
+    "id": 6255473,
+    "slug": "zwitserse-centrale-bank-zal-geplaagd-credit-suisse-steunen-wanneer-nodig",
+    "type": "article",
+    "title": "Zwitserse centrale bank zal geplaagd Credit Suisse steunen wanneer nodig",
+    "subtitle": null,
+    "published_at": "2023-03-15T20:48:46+01:00",
+    "updated_at": "2023-03-15T20:48:47+01:00",
+    "media_id": "lppx2kqaeirj",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6255473/zwitserse-centrale-bank-zal-geplaagd-credit-suisse-steunen-wanneer-nodig.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6255468,
     "slug": "nederlandse-banken-volgens-ministerie-weerbaar-om-schokken-op-te-vangen",
     "type": "article",
     "title": "Nederlandse banken volgens ministerie weerbaar om schokken op te vangen",
     "subtitle": null,
     "published_at": "2023-03-15T20:20:40+01:00",
-    "updated_at": "2023-03-15T20:26:13+01:00",
+    "updated_at": "2023-03-15T20:33:32+01:00",
     "media_id": "oi5xkulautdg",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Nog maar twee aanvragen voor vervangend vervoer tijdens staking streekvervoer",
     "subtitle": null,
     "published_at": "2023-03-15T20:13:16+01:00",
-    "updated_at": "2023-03-15T20:20:29+01:00",
+    "updated_at": "2023-03-15T20:45:09+01:00",
     "media_id": "vszxvi3anjha",
     "duration": null,
     "canonical_section": {
@@ -167,7 +190,7 @@
     "title": "AZ-coach Jansen weet niet of hij sterkste elf van Lazio treft: 'Ga ik ook niet over'",
     "subtitle": null,
     "published_at": "2023-03-15T19:38:30+01:00",
-    "updated_at": "2023-03-15T20:21:21+01:00",
+    "updated_at": "2023-03-15T20:32:25+01:00",
     "media_id": "98mx3p0axpe9",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/media/6255440/onderzoek-naar-misstanden-the-voice-na-veertien-maanden-nog-niet-afgerond.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6255444,
-    "slug": "ook-excelsior-captain-el-yaakoubi-draagt-aangepaste-band-in-onelove-weekend",
-    "type": "article",
-    "title": "Ook Excelsior-captain El Yaakoubi draagt aangepaste band in OneLove-weekend",
-    "subtitle": null,
-    "published_at": "2023-03-15T17:38:48+01:00",
-    "updated_at": "2023-03-15T18:44:48+01:00",
-    "media_id": "85yxy1gava3o",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6255444/ook-excelsior-captain-el-yaakoubi-draagt-aangepaste-band-in-onelove-weekend.html",
     "open_new_window": false,
     "partner": null
   }
