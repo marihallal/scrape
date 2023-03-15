@@ -1,12 +1,35 @@
 [
   {
+    "id": 6255482,
+    "slug": "chelsea-organiseert-als-eerste-topclub-iftar-in-stadion-tijdens-ramadan",
+    "type": "article",
+    "title": "Chelsea organiseert als eerste topclub iftar in stadion tijdens ramadan",
+    "subtitle": null,
+    "published_at": "2023-03-15T21:46:11+01:00",
+    "updated_at": "2023-03-15T21:46:13+01:00",
+    "media_id": "kyjxgcwa2p6q",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6255482/chelsea-organiseert-als-eerste-topclub-iftar-in-stadion-tijdens-ramadan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6255296,
     "slug": "bekijk-hier-de-verkiezingsuitslag-in-jouw-provincie",
     "type": "article",
     "title": "Bekijk hier de verkiezingsuitslag in jouw provincie",
     "subtitle": "Kaart",
     "published_at": "2023-03-15T21:33:07+01:00",
-    "updated_at": "2023-03-15T21:33:09+01:00",
+    "updated_at": "2023-03-15T21:39:06+01:00",
     "media_id": "s62x2p0ag9v3",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Italiaanse rockband Maneskin gaat later dit jaar op wereldtournee",
     "subtitle": null,
     "published_at": "2023-03-15T21:28:10+01:00",
-    "updated_at": "2023-03-15T21:30:53+01:00",
+    "updated_at": "2023-03-15T21:41:58+01:00",
     "media_id": "i7zxd8ea7isx",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Lazio-trainer Sarri heeft geen goed woord over voor 'onacceptabel' veld bij AZ",
     "subtitle": null,
     "published_at": "2023-03-15T21:27:11+01:00",
-    "updated_at": "2023-03-15T21:27:13+01:00",
+    "updated_at": "2023-03-15T21:34:28+01:00",
     "media_id": "0kgx4e5au4ca",
     "duration": null,
     "canonical_section": {
@@ -162,12 +185,12 @@
   },
   {
     "id": 6255466,
-    "slug": "liverpool-kan-real-madrid-vooralsnog-weinig-pijn-doen",
+    "slug": "liverpool-heeft-nog-maar-een-helft-om-stunt-te-verwezenlijken",
     "type": "article",
-    "title": "Liverpool kan Real Madrid vooralsnog weinig pijn doen",
+    "title": "Liverpool heeft nog maar één helft om stunt te verwezenlijken",
     "subtitle": "Liveblog CL",
     "published_at": "2023-03-15T20:18:25+01:00",
-    "updated_at": "2023-03-15T21:29:38+01:00",
+    "updated_at": "2023-03-15T21:48:12+01:00",
     "media_id": "fq7xe03akhwt",
     "duration": null,
     "canonical_section": {
@@ -179,7 +202,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6255466/liverpool-kan-real-madrid-vooralsnog-weinig-pijn-doen.html",
+    "url": "/voetbal/6255466/liverpool-heeft-nog-maar-een-helft-om-stunt-te-verwezenlijken.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6255450/israel-laakt-kritiek-eu-op-israelische-militaire-operaties-tegen-palestijnen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6255453,
-    "slug": "69-urige-werkweek-wordt-waarschijnlijk-toch-geen-werkelijkheid-in-zuid-korea",
-    "type": "article",
-    "title": "69-urige werkweek wordt waarschijnlijk tóch geen werkelijkheid in Zuid-Korea",
-    "subtitle": null,
-    "published_at": "2023-03-15T18:57:40+01:00",
-    "updated_at": "2023-03-15T19:11:09+01:00",
-    "media_id": "udhxx66avplx",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6255453/69-urige-werkweek-wordt-waarschijnlijk-toch-geen-werkelijkheid-in-zuid-korea.html",
     "open_new_window": false,
     "partner": null
   }
