@@ -1,5 +1,28 @@
 [
   {
+    "id": 6255443,
+    "slug": "europese-banken-hard-onderuit-door-problemen-bij-credit-suisse-wat-is-er-aan-de-hand",
+    "type": "article",
+    "title": "Europese banken hard onderuit door problemen bij Credit Suisse: wat is er aan de hand?",
+    "subtitle": null,
+    "published_at": "2023-03-15T18:39:44+01:00",
+    "updated_at": "2023-03-15T18:51:16+01:00",
+    "media_id": "n2dx1gtaojvl",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6255443/europese-banken-hard-onderuit-door-problemen-bij-credit-suisse-wat-is-er-aan-de-hand.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6255420,
     "slug": "lezersreacties-op-verkiezingen-ik-stem-deze-keer-niet",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Groenhart keert terug bij GLORY en kan tweede Nederlandse kampioen worden",
     "subtitle": null,
     "published_at": "2023-03-15T18:23:34+01:00",
-    "updated_at": "2023-03-15T18:23:35+01:00",
+    "updated_at": "2023-03-15T18:45:12+01:00",
     "media_id": "se8xz62agnv6",
     "duration": null,
     "canonical_section": {
@@ -52,8 +75,8 @@
     "title": "Bas Nijhuis breekt pols bij ongeluk met boomstam en kan voorlopig niet fluiten",
     "subtitle": null,
     "published_at": "2023-03-15T18:01:59+01:00",
-    "updated_at": "2023-03-15T18:34:26+01:00",
-    "media_id": "6p4xq4hairi2",
+    "updated_at": "2023-03-15T18:40:37+01:00",
+    "media_id": "5noxssia633u",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -98,7 +121,7 @@
     "title": "Ook Excelsior-captain El Yaakoubi draagt aangepaste band in OneLove-weekend",
     "subtitle": null,
     "published_at": "2023-03-15T17:38:48+01:00",
-    "updated_at": "2023-03-15T18:11:02+01:00",
+    "updated_at": "2023-03-15T18:44:48+01:00",
     "media_id": "85yxy1gava3o",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6255407/tsjech-duikt-naar-recorddiepte-van-52-meter-in-bevroren-meer.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6255402,
-    "slug": "la-liga-bestempelt-wk-uitbreiding-als-totale-minachting-van-clubcompetities",
-    "type": "article",
-    "title": "La Liga bestempelt WK-uitbreiding als 'totale minachting' van clubcompetities",
-    "subtitle": null,
-    "published_at": "2023-03-15T14:33:10+01:00",
-    "updated_at": "2023-03-15T14:38:13+01:00",
-    "media_id": "c6yxg6vamtwh",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6255402/la-liga-bestempelt-wk-uitbreiding-als-totale-minachting-van-clubcompetities.html",
     "open_new_window": false,
     "partner": null
   }
