@@ -1,5 +1,28 @@
 [
   {
+    "id": 6255639,
+    "slug": "man-opgepakt-voor-sprong-van-windmolen-andere-parachutist-nog-zwaargewond",
+    "type": "article",
+    "title": "Man opgepakt voor sprong van windmolen, andere parachutist nog zwaargewond",
+    "subtitle": null,
+    "published_at": "2023-03-16T18:39:49+01:00",
+    "updated_at": "2023-03-16T18:39:51+01:00",
+    "media_id": "yhexr5uakd15",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6255639/man-opgepakt-voor-sprong-van-windmolen-andere-parachutist-nog-zwaargewond.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6255614,
     "slug": "dit-vinden-jullie-van-de-monsterzege-van-de-bbb-het-volk-heeft-gesproken",
     "type": "article",
@@ -98,7 +121,7 @@
     "title": "Olieprijzen zakken naar laagste punt in vijftien maanden",
     "subtitle": null,
     "published_at": "2023-03-16T18:13:21+01:00",
-    "updated_at": "2023-03-16T18:13:23+01:00",
+    "updated_at": "2023-03-16T18:38:11+01:00",
     "media_id": "d2lx9zca5ksp",
     "duration": null,
     "canonical_section": {
@@ -144,7 +167,7 @@
     "title": "Feyenoord en Shakhtar warmen zich op voor return",
     "subtitle": "Liveblog voetbal",
     "published_at": "2023-03-16T18:05:24+01:00",
-    "updated_at": "2023-03-16T18:32:30+01:00",
+    "updated_at": "2023-03-16T18:36:10+01:00",
     "media_id": "tmbxqgkahvr9",
     "duration": null,
     "canonical_section": {
@@ -328,7 +351,7 @@
     "title": "Chaos in GP Denain: rare stuurbreuk, gevallen motor en Nederlandse pechvogels",
     "subtitle": null,
     "published_at": "2023-03-16T17:20:01+01:00",
-    "updated_at": "2023-03-16T17:24:52+01:00",
+    "updated_at": "2023-03-16T18:37:09+01:00",
     "media_id": "14pxxkfavv07",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6255606/franse-regering-drukt-pensioenhervorming-door-zonder-stemming-parlement.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6255607,
-    "slug": "heitinga-relativeert-voordeel-uitgerust-ajax-voor-een-klassieker-ben-je-niet-moe",
-    "type": "article",
-    "title": "Heitinga relativeert voordeel uitgerust Ajax: 'Voor een Klassieker ben je niet moe'",
-    "subtitle": null,
-    "published_at": "2023-03-16T15:24:20+01:00",
-    "updated_at": "2023-03-16T16:33:50+01:00",
-    "media_id": "413xcxxa76r2",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6255607/heitinga-relativeert-voordeel-uitgerust-ajax-voor-een-klassieker-ben-je-niet-moe.html",
     "open_new_window": false,
     "partner": null
   }
