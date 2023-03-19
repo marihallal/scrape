@@ -1,5 +1,28 @@
 [
   {
+    "id": 6255984,
+    "slug": "luuk-de-jong-keert-bij-bezoek-aan-vitesse-terug-in-basis-psv",
+    "type": "article",
+    "title": "Luuk de Jong keert bij bezoek aan Vitesse terug in basis PSV",
+    "subtitle": null,
+    "published_at": "2023-03-19T15:28:49+01:00",
+    "updated_at": "2023-03-19T15:28:50+01:00",
+    "media_id": "6ojx1geayno7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6255984/luuk-de-jong-keert-bij-bezoek-aan-vitesse-terug-in-basis-psv.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6255992,
     "slug": "fc-groningen-lijdt-op-inktzwarte-dag-pijnlijke-nederlaag-tegen-heerenveen",
     "type": "article",
@@ -139,12 +162,12 @@
   },
   {
     "id": 6255987,
-    "slug": "ubs-biedt-1-miljard-dollar-voor-noodlijdend-credit-suisse",
+    "slug": "noodlijdend-credit-suisse-wijst-bod-van-ubs-af",
     "type": "article",
-    "title": "UBS biedt 1 miljard dollar voor noodlijdend Credit Suisse",
+    "title": "Noodlijdend Credit Suisse wijst bod van UBS af",
     "subtitle": null,
     "published_at": "2023-03-19T13:19:29+01:00",
-    "updated_at": "2023-03-19T13:49:32+01:00",
+    "updated_at": "2023-03-19T15:25:03+01:00",
     "media_id": "u53x099aqqtf",
     "duration": null,
     "canonical_section": {
@@ -156,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6255987/ubs-biedt-1-miljard-dollar-voor-noodlijdend-credit-suisse.html",
+    "url": "/economie/6255987/noodlijdend-credit-suisse-wijst-bod-van-ubs-af.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wielrennen/6255969/gesink-maakt-in-klimkoers-in-catalonie-rentree-na-akelige-breuk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6255801,
-    "slug": "een-brede-grijns-op-een-historische-verkiezingsavond",
-    "type": "article",
-    "title": "Een brede grijns op een historische verkiezingsavond",
-    "subtitle": "Van de hoofdredactie",
-    "published_at": "2023-03-19T09:08:15+01:00",
-    "updated_at": "2023-03-19T09:08:17+01:00",
-    "media_id": "cttxvjaa5n3q",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772069,
-      "slug": "blog",
-      "type": "default",
-      "name": "Van de hoofdredactie",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/blog/6255801/een-brede-grijns-op-een-historische-verkiezingsavond.html",
     "open_new_window": false,
     "partner": null
   }
