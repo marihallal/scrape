@@ -1,12 +1,35 @@
 [
   {
+    "id": 6256042,
+    "slug": "dochter-obama-schrijft-mee-aan-nieuwe-serie-swarm-van-donald-glover",
+    "type": "article",
+    "title": "Dochter Obama schrijft mee aan nieuwe serie Swarm van Donald Glover",
+    "subtitle": null,
+    "published_at": "2023-03-19T22:34:15+01:00",
+    "updated_at": "2023-03-19T22:34:17+01:00",
+    "media_id": "zvoxenqazp1m",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6256042/dochter-obama-schrijft-mee-aan-nieuwe-serie-swarm-van-donald-glover.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6256041,
     "slug": "verstappen-en-perez-weten-al-dat-ze-alleen-elkaar-hoeven-te-verslaan",
     "type": "article",
     "title": "Verstappen en Pérez weten al dat ze alleen elkaar hoeven te verslaan",
     "subtitle": "NU+",
     "published_at": "2023-03-19T22:30:15+01:00",
-    "updated_at": "2023-03-19T22:30:51+01:00",
+    "updated_at": "2023-03-19T22:39:22+01:00",
     "media_id": "1iexndbanc4p",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "FC Twente maakt dag van koploper Feyenoord nog mooier door zege op AZ",
     "subtitle": null,
     "published_at": "2023-03-19T22:00:16+01:00",
-    "updated_at": "2023-03-19T22:09:22+01:00",
+    "updated_at": "2023-03-19T22:36:39+01:00",
     "media_id": "ii6xyh2axqlb",
     "duration": null,
     "canonical_section": {
@@ -397,7 +420,7 @@
     "title": "Messi wordt uitgefloten én lijdt nederlaag met PSG, Bayern is koppositie kwijt",
     "subtitle": null,
     "published_at": "2023-03-19T19:01:54+01:00",
-    "updated_at": "2023-03-19T19:55:54+01:00",
+    "updated_at": "2023-03-19T22:39:06+01:00",
     "media_id": "jbmxliza7cgj",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/cultuur-overig/6256018/russische-tank-bij-vrijheidsmuseum-in-groesbeek-beklad-met-letter-z.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6256017,
-    "slug": "heitinga-blijft-hopen-op-titel-ajax-we-zijn-de-laatsten-die-opgeven",
-    "type": "article",
-    "title": "Heitinga blijft hopen op titel Ajax: 'We zijn de laatsten die opgeven'",
-    "subtitle": null,
-    "published_at": "2023-03-19T18:47:07+01:00",
-    "updated_at": "2023-03-19T21:59:03+01:00",
-    "media_id": "us1xpxhaq3rx",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6256017/heitinga-blijft-hopen-op-titel-ajax-we-zijn-de-laatsten-die-opgeven.html",
     "open_new_window": false,
     "partner": null
   }
