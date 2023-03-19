@@ -1,12 +1,35 @@
 [
   {
+    "id": 6255759,
+    "slug": "geen-verpakking-in-een-verpakking-het-kan-slimmer-met-plastic",
+    "type": "video",
+    "title": "‘Geen verpakking in een verpakking’: het kan slimmer met plastic",
+    "subtitle": "Video",
+    "published_at": "2023-03-19T06:20:43+01:00",
+    "updated_at": "2023-03-19T06:20:44+01:00",
+    "media_id": "4c9xzska13jk",
+    "duration": "6:18",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6255759/geen-verpakking-in-een-verpakking-het-kan-slimmer-met-plastic.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6255960,
     "slug": "servie-en-kosovo-akkoord-met-plan-om-banden-te-normaliseren",
     "type": "article",
     "title": "Servië en Kosovo akkoord met plan om banden te normaliseren",
     "subtitle": null,
     "published_at": "2023-03-19T06:18:44+01:00",
-    "updated_at": "2023-03-19T06:18:46+01:00",
+    "updated_at": "2023-03-19T06:24:01+01:00",
     "media_id": "55uxvxbatqph",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6255945/ierse-rugbyers-pakken-met-grand-slam-na-vijf-jaar-weer-eindzege-six-nations.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6255580,
-    "slug": "mogen-we-niks-meer-zeggen-foute-grappen-hebben-nu-wel-gevolgen",
-    "type": "article",
-    "title": "Mogen we niks meer zeggen? 'Foute grappen hebben nu wèl gevolgen'",
-    "subtitle": "NU+",
-    "published_at": "2023-03-18T20:48:23+01:00",
-    "updated_at": "2023-03-18T20:48:23+01:00",
-    "media_id": "h1ix6f9aokec",
-    "duration": null,
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6255580/mogen-we-niks-meer-zeggen-foute-grappen-hebben-nu-wel-gevolgen.html",
     "open_new_window": false,
     "partner": null
   }
