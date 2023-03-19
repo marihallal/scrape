@@ -1,5 +1,28 @@
 [
   {
+    "id": 6256041,
+    "slug": "verstappen-en-perez-weten-al-dat-ze-alleen-elkaar-hoeven-te-verslaan",
+    "type": "article",
+    "title": "Verstappen en Pérez weten al dat ze alleen elkaar hoeven te verslaan",
+    "subtitle": "NU+",
+    "published_at": "2023-03-19T22:30:15+01:00",
+    "updated_at": "2023-03-19T22:30:51+01:00",
+    "media_id": "1iexndbanc4p",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778846,
+      "slug": "nu-formule-1",
+      "type": "default",
+      "name": "NU+ Formule 1",
+      "style": "nusport",
+      "media_id": "gtmxcxnaui5m",
+      "partner": null
+    },
+    "url": "/nu-formule-1/6256041/verstappen-en-perez-weten-al-dat-ze-alleen-elkaar-hoeven-te-verslaan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6256037,
     "slug": "fc-twente-maakt-dag-van-koploper-feyenoord-nog-mooier-door-zege-op-az",
     "type": "article",
@@ -24,12 +47,12 @@
   },
   {
     "id": 6256035,
-    "slug": "russell-profiteert-van-onterechte-straf-alonso-moeten-gezond-verstand-gebruiken",
+    "slug": "russell-profiteert-van-onterechte-straf-alonso-moeten-ons-verstand-gebruiken",
     "type": "article",
-    "title": "Russell profiteert van 'onterechte straf' Alonso: 'Moeten gezond verstand gebruiken'",
+    "title": "Russell profiteert van 'onterechte straf' Alonso: 'Moeten ons verstand gebruiken'",
     "subtitle": null,
     "published_at": "2023-03-19T21:58:55+01:00",
-    "updated_at": "2023-03-19T22:04:01+01:00",
+    "updated_at": "2023-03-19T22:24:17+01:00",
     "media_id": "mo4xxkva38oj",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6256035/russell-profiteert-van-onterechte-straf-alonso-moeten-gezond-verstand-gebruiken.html",
+    "url": "/formule-1/6256035/russell-profiteert-van-onterechte-straf-alonso-moeten-ons-verstand-gebruiken.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6256017/heitinga-blijft-hopen-op-titel-ajax-we-zijn-de-laatsten-die-opgeven.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6255993,
-    "slug": "dit-vinden-jullie-van-bezoek-poetin-mariupol-de-russificatie-is-in-volle-gang",
-    "type": "article",
-    "title": "Dit vinden jullie van bezoek Poetin Mariupol: 'De russificatie is in volle gang'",
-    "subtitle": null,
-    "published_at": "2023-03-19T18:46:42+01:00",
-    "updated_at": "2023-03-19T18:46:43+01:00",
-    "media_id": "cq0xt8zab6n6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6255993/dit-vinden-jullie-van-bezoek-poetin-mariupol-de-russificatie-is-in-volle-gang.html",
     "open_new_window": false,
     "partner": null
   }
