@@ -1,5 +1,28 @@
 [
   {
+    "id": 6255795,
+    "slug": "lezers-over-overwinning-bbb-dit-is-echt-slecht-voor-nederland",
+    "type": "article",
+    "title": "Lezers over overwinning BBB: 'Dit is echt slecht voor Nederland'",
+    "subtitle": null,
+    "published_at": "2023-03-19T12:27:08+01:00",
+    "updated_at": "2023-03-19T12:27:10+01:00",
+    "media_id": "8xxxd3tag9m8",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773185,
+      "slug": "nujij",
+      "type": "default",
+      "name": "Praat mee op NUjij",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/nujij/6255795/lezers-over-overwinning-bbb-dit-is-echt-slecht-voor-nederland.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6255532,
     "slug": "recensieoverzicht-shazam-fury-of-the-gods-druk-en-vreugdeloos",
     "type": "article",
@@ -93,13 +116,13 @@
   },
   {
     "id": 6255979,
-    "slug": "groningen-ontvangt-heerenveen-op-hectische-dag",
+    "slug": "lat-voorkomt-openingsgoal-groningen-tegen-heerenveen",
     "type": "article",
-    "title": "Groningen ontvangt Heerenveen op hectische dag",
+    "title": "Lat voorkomt openingsgoal Groningen tegen Heerenveen",
     "subtitle": "Liveblog Eredivisie",
     "published_at": "2023-03-19T11:50:39+01:00",
-    "updated_at": "2023-03-19T12:13:18+01:00",
-    "media_id": "6f0x0thagta3",
+    "updated_at": "2023-03-19T12:28:14+01:00",
+    "media_id": "2tkxcooay1e0",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -110,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6255979/groningen-ontvangt-heerenveen-op-hectische-dag.html",
+    "url": "/voetbal/6255979/lat-voorkomt-openingsgoal-groningen-tegen-heerenveen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/spanningen-oekraine/6255961/poetin-bezoekt-volgens-russische-media-de-bezette-stad-mariupol.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6255759,
-    "slug": "geen-verpakking-in-een-verpakking-het-kan-slimmer-met-plastic",
-    "type": "video",
-    "title": "‘Geen verpakking in een verpakking’: het kan slimmer met plastic",
-    "subtitle": "Video",
-    "published_at": "2023-03-19T06:20:43+01:00",
-    "updated_at": "2023-03-19T10:13:26+01:00",
-    "media_id": "4c9xzska13jk",
-    "duration": "6:18",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6255759/geen-verpakking-in-een-verpakking-het-kan-slimmer-met-plastic.html",
     "open_new_window": false,
     "partner": null
   }
