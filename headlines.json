@@ -1,5 +1,28 @@
 [
   {
+    "id": 6256149,
+    "slug": "aderlating-voor-oranje-frenkie-de-jong-en-bergwijn-vallen-weg-met-blessures",
+    "type": "article",
+    "title": "Aderlating voor Oranje: Frenkie de Jong en Bergwijn vallen weg met blessures",
+    "subtitle": null,
+    "published_at": "2023-03-20T15:48:00+01:00",
+    "updated_at": "2023-03-20T15:48:05+01:00",
+    "media_id": "1jqxoh3asch8",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6256149/aderlating-voor-oranje-frenkie-de-jong-en-bergwijn-vallen-weg-met-blessures.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6256141,
     "slug": "noord-ierse-unionisten-stemmen-woensdag-tegen-nieuwe-brexit-deal",
     "type": "article",
@@ -213,7 +236,7 @@
     "title": "Experts na acht jaar onderzoek: 'Gevolgen klimaatverandering groter dan gedacht'",
     "subtitle": null,
     "published_at": "2023-03-20T14:03:21+01:00",
-    "updated_at": "2023-03-20T15:37:27+01:00",
+    "updated_at": "2023-03-20T15:39:03+01:00",
     "media_id": "bnrx0r2amvoq",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/stelling/6256105/gaan-er-nu-echt-dingen-veranderen-praat-mee-over-de-verkiezingszege-van-bbb.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6256100,
-    "slug": "antwoord-op-jullie-vragen-drs-is-doorgeslagen-met-te-veel-zones",
-    "type": "article",
-    "title": "Antwoord op jullie vragen: 'DRS is doorgeslagen met te veel zones'",
-    "subtitle": null,
-    "published_at": "2023-03-20T12:36:14+01:00",
-    "updated_at": "2023-03-20T15:00:52+01:00",
-    "media_id": "akjxnxcaenk0",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778846,
-      "slug": "nu-formule-1",
-      "type": "default",
-      "name": "NU+ Formule 1",
-      "style": "nusport",
-      "media_id": "gtmxcxnaui5m",
-      "partner": null
-    },
-    "url": "/nu-formule-1/6256100/antwoord-op-jullie-vragen-drs-is-doorgeslagen-met-te-veel-zones.html",
     "open_new_window": false,
     "partner": null
   }
