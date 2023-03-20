@@ -1,5 +1,28 @@
 [
   {
+    "id": 6256173,
+    "slug": "drie-mannen-schuldig-bevonden-aan-moord-op-rapper-xxxtentacion",
+    "type": "article",
+    "title": "Drie mannen schuldig bevonden aan moord op rapper XXXTentacion",
+    "subtitle": null,
+    "published_at": "2023-03-20T18:36:34+01:00",
+    "updated_at": "2023-03-20T18:36:36+01:00",
+    "media_id": "id7xqmiah7jp",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6256173/drie-mannen-schuldig-bevonden-aan-moord-op-rapper-xxxtentacion.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6256154,
     "slug": "dit-vinden-jullie-van-grotere-gevolgen-klimaatverandering-daarvoor-is-het-nu-te-laat",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Kledingmerk Scotch & Soda vraagt faillissement aan voor Nederlands deel",
     "subtitle": null,
     "published_at": "2023-03-20T18:15:26+01:00",
-    "updated_at": "2023-03-20T18:31:52+01:00",
+    "updated_at": "2023-03-20T18:35:16+01:00",
     "media_id": "c9hxlwhadrsu",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Ciarán Hinds en Rory Kinnear in tweede seizoen van The Rings of Power",
     "subtitle": null,
     "published_at": "2023-03-20T17:57:53+01:00",
-    "updated_at": "2023-03-20T17:57:54+01:00",
+    "updated_at": "2023-03-20T18:32:47+01:00",
     "media_id": "914xge3ad39g",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6256149/aderlating-voor-oranje-frenkie-de-jong-en-bergwijn-vallen-weg-met-blessures.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6256141,
-    "slug": "noord-ierse-unionisten-stemmen-woensdag-tegen-nieuwe-brexit-deal",
-    "type": "article",
-    "title": "Noord-Ierse unionisten stemmen woensdag tegen nieuwe Brexit-deal",
-    "subtitle": null,
-    "published_at": "2023-03-20T15:34:24+01:00",
-    "updated_at": "2023-03-20T15:34:25+01:00",
-    "media_id": "apix0xpa9w18",
-    "duration": null,
-    "canonical_section": {
-      "id": 1773002,
-      "slug": "brexit",
-      "type": "files",
-      "name": "Brexit",
-      "style": "nuzakelijk",
-      "media_id": "kfgxmlaa80o2",
-      "partner": null
-    },
-    "url": "/brexit/6256141/noord-ierse-unionisten-stemmen-woensdag-tegen-nieuwe-brexit-deal.html",
     "open_new_window": false,
     "partner": null
   }
