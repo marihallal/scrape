@@ -1,5 +1,28 @@
 [
   {
+    "id": 6256062,
+    "slug": "stelling-loting-voor-een-studie-bevordert-kansengelijkheid",
+    "type": "article",
+    "title": "Stelling: Loting voor een studie bevordert kansengelijkheid",
+    "subtitle": null,
+    "published_at": "2023-03-20T08:50:49+01:00",
+    "updated_at": "2023-03-20T08:50:50+01:00",
+    "media_id": "tqdxegjam4js",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6256062/stelling-loting-voor-een-studie-bevordert-kansengelijkheid.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6256059,
     "slug": "real-coach-ancelotti-houdt-nare-smaak-over-aan-afgekeurde-goal-in-clasico",
     "type": "article",
@@ -75,7 +98,7 @@
     "title": "Documentaire over zanger Antoon in april in de bioscoop te zien",
     "subtitle": null,
     "published_at": "2023-03-20T06:35:47+01:00",
-    "updated_at": "2023-03-20T08:24:19+01:00",
+    "updated_at": "2023-03-20T08:32:49+01:00",
     "media_id": "eapxvsman1ps",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6256033/discussie-over-mogelijk-tweede-geel-hartman-hij-stond-op-anderhalve-kaart.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6256044,
-    "slug": "fc-barcelona-klopt-real-dankzij-late-goal-en-zet-grote-stap-richting-landstitel",
-    "type": "article",
-    "title": "FC Barcelona klopt Real dankzij late goal en zet grote stap richting landstitel",
-    "subtitle": null,
-    "published_at": "2023-03-19T22:58:07+01:00",
-    "updated_at": "2023-03-20T06:35:31+01:00",
-    "media_id": "zt0xkrlaq64i",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6256044/fc-barcelona-klopt-real-dankzij-late-goal-en-zet-grote-stap-richting-landstitel.html",
     "open_new_window": false,
     "partner": null
   }
