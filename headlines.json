@@ -1,12 +1,35 @@
 [
   {
+    "id": 6256166,
+    "slug": "koeman-over-wieffer-kan-een-betere-marten-de-roon-worden",
+    "type": "video",
+    "title": "Koeman over Wieffer: 'Kan een betere Marten de Roon worden'",
+    "subtitle": "Video",
+    "published_at": "2023-03-20T17:51:35+01:00",
+    "updated_at": "2023-03-20T17:51:36+01:00",
+    "media_id": "xcexc5maej5l",
+    "duration": "1:32",
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6256166/koeman-over-wieffer-kan-een-betere-marten-de-roon-worden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6256145,
     "slug": "spelersvakbond-eist-actie-van-knvb-en-clubs-na-klap-van-fan-aan-jetro-willems",
     "type": "article",
     "title": "Spelersvakbond eist actie van KNVB en clubs na klap van fan aan Jetro Willems",
     "subtitle": null,
     "published_at": "2023-03-20T17:27:51+01:00",
-    "updated_at": "2023-03-20T17:27:53+01:00",
+    "updated_at": "2023-03-20T17:29:26+01:00",
     "media_id": "8qyxws7a5uir",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "PSV geeft stadionverbod van veertig jaar aan fan die Sevilla-keeper aanviel",
     "subtitle": null,
     "published_at": "2023-03-20T17:20:09+01:00",
-    "updated_at": "2023-03-20T17:25:52+01:00",
+    "updated_at": "2023-03-20T17:47:48+01:00",
     "media_id": "enlxntxapbpc",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Roglic wint eerste slag in strijd met Evenepoel, Schelling derde in Catalonië",
     "subtitle": null,
     "published_at": "2023-03-20T17:10:44+01:00",
-    "updated_at": "2023-03-20T17:27:00+01:00",
+    "updated_at": "2023-03-20T17:34:45+01:00",
     "media_id": "jhexamnabyyd",
     "duration": null,
     "canonical_section": {
@@ -190,7 +213,7 @@
     "title": "Koeman is niet bang om Wieffer op te stellen als vervanger van Frenkie de Jong",
     "subtitle": null,
     "published_at": "2023-03-20T16:25:26+01:00",
-    "updated_at": "2023-03-20T16:38:05+01:00",
+    "updated_at": "2023-03-20T17:52:53+01:00",
     "media_id": "guexqv9a0req",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/cultuur-overig/6256127/brokeback-mountain-krijgt-eigen-musical-met-hoofdrol-voor-lucas-hedges.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6256133,
-    "slug": "schoonmaker-geeft-london-eye-op-grote-hoogte-een-opfrisbeurt",
-    "type": "video",
-    "title": "Schoonmaker geeft London Eye op grote hoogte een opfrisbeurt",
-    "subtitle": "Video",
-    "published_at": "2023-03-20T14:33:29+01:00",
-    "updated_at": "2023-03-20T14:34:55+01:00",
-    "media_id": "dctxwyfaop09",
-    "duration": "0:45",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6256133/schoonmaker-geeft-london-eye-op-grote-hoogte-een-opfrisbeurt.html",
     "open_new_window": false,
     "partner": null
   }
