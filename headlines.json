@@ -1,12 +1,35 @@
 [
   {
+    "id": 6256154,
+    "slug": "dit-vinden-jullie-van-grotere-gevolgen-klimaatverandering-daarvoor-is-het-nu-te-laat",
+    "type": "article",
+    "title": "Dit vinden jullie van grotere gevolgen klimaatverandering: 'Daarvoor is het nu te laat'",
+    "subtitle": null,
+    "published_at": "2023-03-20T18:30:46+01:00",
+    "updated_at": "2023-03-20T18:30:47+01:00",
+    "media_id": "533x66paz3jt",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6256154/dit-vinden-jullie-van-grotere-gevolgen-klimaatverandering-daarvoor-is-het-nu-te-laat.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6256172,
     "slug": "kledingmerk-scotch-soda-vraagt-faillissement-aan-voor-nederlands-deel",
     "type": "article",
     "title": "Kledingmerk Scotch & Soda vraagt faillissement aan voor Nederlands deel",
     "subtitle": null,
     "published_at": "2023-03-20T18:15:26+01:00",
-    "updated_at": "2023-03-20T18:18:35+01:00",
+    "updated_at": "2023-03-20T18:31:52+01:00",
     "media_id": "c9hxlwhadrsu",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/brexit/6256141/noord-ierse-unionisten-stemmen-woensdag-tegen-nieuwe-brexit-deal.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6256142,
-    "slug": "franse-voetballer-soleert-vanaf-eigen-strafschopgebied-en-maakt-wereldgoal",
-    "type": "video",
-    "title": "Franse voetballer soleert vanaf eigen strafschopgebied en maakt wereldgoal",
-    "subtitle": "Video",
-    "published_at": "2023-03-20T15:29:00+01:00",
-    "updated_at": "2023-03-20T15:29:02+01:00",
-    "media_id": "aopxn2yazfuz",
-    "duration": "0:40",
-    "canonical_section": {
-      "id": 149,
-      "slug": "sport",
-      "type": "default",
-      "name": "Sport",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport/6256142/franse-voetballer-soleert-vanaf-eigen-strafschopgebied-en-maakt-wereldgoal.html",
     "open_new_window": false,
     "partner": null
   }
