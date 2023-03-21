@@ -1,5 +1,51 @@
 [
   {
+    "id": 6256283,
+    "slug": "onverwachte-inspecties-bij-red-bull-vanwege-mogelijke-prijsafspraken",
+    "type": "article",
+    "title": "Onverwachte inspecties bij Red Bull vanwege mogelijke prijsafspraken",
+    "subtitle": null,
+    "published_at": "2023-03-21T14:50:55+01:00",
+    "updated_at": "2023-03-21T14:50:56+01:00",
+    "media_id": "cdqx7mrat7r6",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6256283/onverwachte-inspecties-bij-red-bull-vanwege-mogelijke-prijsafspraken.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6256284,
+    "slug": "vrachtwagen-ligt-op-zn-kop-in-sloot-in-simonshaven",
+    "type": "video",
+    "title": "Vrachtwagen ligt op z'n kop in sloot in Simonshaven",
+    "subtitle": "Video",
+    "published_at": "2023-03-21T14:33:48+01:00",
+    "updated_at": "2023-03-21T14:33:55+01:00",
+    "media_id": "xsmxkswadcc0",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6256284/vrachtwagen-ligt-op-zn-kop-in-sloot-in-simonshaven.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6256276,
     "slug": "man-die-andre-van-duin-chanteerde-aangehouden-komiek-is-opgelucht",
     "type": "article",
@@ -328,7 +374,7 @@
     "title": "Nederlands kabinet gaat gebruik van TikTok op overheidstelefoons verbieden",
     "subtitle": null,
     "published_at": "2023-03-21T12:32:00+01:00",
-    "updated_at": "2023-03-21T12:56:20+01:00",
+    "updated_at": "2023-03-21T14:40:02+01:00",
     "media_id": "6mixkhnakxzj",
     "duration": null,
     "canonical_section": {
@@ -397,7 +443,7 @@
     "title": "Steeds meer erkenning discriminatie: zes voorbeelden van afgelopen jaar",
     "subtitle": "NU+",
     "published_at": "2023-03-21T12:05:23+01:00",
-    "updated_at": "2023-03-21T12:05:24+01:00",
+    "updated_at": "2023-03-21T14:50:04+01:00",
     "media_id": "psix5eyav2a5",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6255279/steeds-meer-erkenning-discriminatie-zes-voorbeelden-van-afgelopen-jaar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6256248,
-    "slug": "debutant-veerman-completeert-oranjeselectie-op-trainingsveld-in-zeist",
-    "type": "article",
-    "title": "Debutant Veerman completeert Oranjeselectie op trainingsveld in Zeist",
-    "subtitle": null,
-    "published_at": "2023-03-21T11:56:49+01:00",
-    "updated_at": "2023-03-21T12:29:23+01:00",
-    "media_id": "7koxf3ea7eha",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6256248/debutant-veerman-completeert-oranjeselectie-op-trainingsveld-in-zeist.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6256247,
-    "slug": "poetin-en-xi-bevestigen-gesprek-over-chinees-vredesplan-nieuw-bezoek-gepland",
-    "type": "article",
-    "title": "Poetin en Xi bevestigen gesprek over Chinees vredesplan, nieuw bezoek gepland",
-    "subtitle": null,
-    "published_at": "2023-03-21T11:49:12+01:00",
-    "updated_at": "2023-03-21T13:15:00+01:00",
-    "media_id": "gvyx0zyazqzd",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6256247/poetin-en-xi-bevestigen-gesprek-over-chinees-vredesplan-nieuw-bezoek-gepland.html",
     "open_new_window": false,
     "partner": null
   }
