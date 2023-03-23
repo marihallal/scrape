@@ -1,5 +1,28 @@
 [
   {
+    "id": 6256511,
+    "slug": "israelische-premier-netanyahu-maakt-met-omstreden-wet-eigen-afzetting-moeilijker",
+    "type": "article",
+    "title": "Israëlische premier Netanyahu maakt met omstreden wet eigen afzetting moeilijker",
+    "subtitle": null,
+    "published_at": "2023-03-23T09:47:26+01:00",
+    "updated_at": "2023-03-23T09:47:27+01:00",
+    "media_id": "mbexqz3ah01z",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6256511/israelische-premier-netanyahu-maakt-met-omstreden-wet-eigen-afzetting-moeilijker.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6256503,
     "slug": "eerste-ge-3d-printe-raket-vertrekt-eindelijk-maar-haalt-atmosfeer-niet",
     "type": "video",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6256483/janssen-schiet-wolfsburg-in-cl-met-rake-strafschop-langs-psg-van-groenen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6256485,
-    "slug": "fc-barcelona-sleept-journalisten-en-media-voor-de-rechter-in-omkopingszaak",
-    "type": "article",
-    "title": "FC Barcelona sleept journalisten en media voor de rechter in omkopingszaak",
-    "subtitle": null,
-    "published_at": "2023-03-22T22:28:28+01:00",
-    "updated_at": "2023-03-22T22:41:35+01:00",
-    "media_id": "8ohx1j1ajnb8",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6256485/fc-barcelona-sleept-journalisten-en-media-voor-de-rechter-in-omkopingszaak.html",
     "open_new_window": false,
     "partner": null
   }
