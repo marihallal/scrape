@@ -1,5 +1,51 @@
 [
   {
+    "id": 6256625,
+    "slug": "trainer-nagelsmann-moet-waarschijnlijk-per-direct-vertrekken-bij-bayern-munchen",
+    "type": "article",
+    "title": "Trainer Nagelsmann moet waarschijnlijk per direct vertrekken bij Bayern München",
+    "subtitle": null,
+    "published_at": "2023-03-23T22:31:22+01:00",
+    "updated_at": "2023-03-23T22:31:23+01:00",
+    "media_id": "bxwxvqxav2nl",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6256625/trainer-nagelsmann-moet-waarschijnlijk-per-direct-vertrekken-bij-bayern-munchen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6256624,
+    "slug": "vandalen-vernielen-mcdonalds-tijdens-pensioenprotest-in-parijs",
+    "type": "video",
+    "title": "Vandalen vernielen McDonald's tijdens pensioenprotest in Parijs",
+    "subtitle": "Video",
+    "published_at": "2023-03-23T22:20:25+01:00",
+    "updated_at": "2023-03-23T22:20:26+01:00",
+    "media_id": "732xr3iagbwa",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6256624/vandalen-vernielen-mcdonalds-tijdens-pensioenprotest-in-parijs.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6256623,
     "slug": "rusland-speelt-eerste-interland-buiten-oude-sovjetgrenzen-sinds-inval-in-oekraine",
     "type": "article",
@@ -52,7 +98,7 @@
     "title": "Deschamps begrijpt 'ontgoochelde' Griezmann na keuze voor captain Mbappé",
     "subtitle": null,
     "published_at": "2023-03-23T21:58:57+01:00",
-    "updated_at": "2023-03-23T22:08:49+01:00",
+    "updated_at": "2023-03-23T22:28:03+01:00",
     "media_id": "39dx765a3qq8",
     "duration": null,
     "canonical_section": {
@@ -75,7 +121,7 @@
     "title": "Veerdienst van Eemshaven naar Noorwegen stopt na maanden met problemen",
     "subtitle": null,
     "published_at": "2023-03-23T21:45:33+01:00",
-    "updated_at": "2023-03-23T22:14:35+01:00",
+    "updated_at": "2023-03-23T22:30:33+01:00",
     "media_id": "3fqxm8patfqx",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6256602/oranje-stelt-verwachtingen-niet-bij-na-ziektegolf-anderen-moeten-opstaan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6256588,
-    "slug": "dit-zeggen-jullie-over-klimaatverandering-klimaatcrisis-is-geen-mening-maar-feit",
-    "type": "article",
-    "title": "Dit zeggen jullie over klimaatverandering: 'Klimaatcrisis is geen mening, maar feit'",
-    "subtitle": null,
-    "published_at": "2023-03-23T18:34:35+01:00",
-    "updated_at": "2023-03-23T18:34:36+01:00",
-    "media_id": "h96xczlam91a",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6256588/dit-zeggen-jullie-over-klimaatverandering-klimaatcrisis-is-geen-mening-maar-feit.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6256600,
-    "slug": "koeman-over-ziektegolf-bij-oranje-niet-gevloekt-wel-geschrokken",
-    "type": "video",
-    "title": "Koeman over ziektegolf bij Oranje: 'Niet gevloekt, wel geschrokken'",
-    "subtitle": "Video",
-    "published_at": "2023-03-23T18:23:45+01:00",
-    "updated_at": "2023-03-23T18:23:46+01:00",
-    "media_id": "kyfxjggaa6tw",
-    "duration": "1:27",
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6256600/koeman-over-ziektegolf-bij-oranje-niet-gevloekt-wel-geschrokken.html",
     "open_new_window": false,
     "partner": null
   }
