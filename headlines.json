@@ -1,12 +1,58 @@
 [
   {
+    "id": 6256669,
+    "slug": "veel-hulpdiensten-bij-dodelijk-busongeluk-met-kind-in-utrecht",
+    "type": "video",
+    "title": "Veel hulpdiensten bij dodelijk busongeluk met kind in Utrecht",
+    "subtitle": "Video",
+    "published_at": "2023-03-24T10:16:17+01:00",
+    "updated_at": "2023-03-24T10:16:18+01:00",
+    "media_id": "jmxxzn7a9vn6",
+    "duration": "0:33",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6256669/veel-hulpdiensten-bij-dodelijk-busongeluk-met-kind-in-utrecht.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6256661,
+    "slug": "kind-7-overleden-bij-ongeluk-met-stadsbus-in-utrecht-ander-kind-zwaargewond",
+    "type": "article",
+    "title": "Kind (7) overleden bij ongeluk met stadsbus in Utrecht, ander kind zwaargewond",
+    "subtitle": null,
+    "published_at": "2023-03-24T10:02:23+01:00",
+    "updated_at": "2023-03-24T10:15:56+01:00",
+    "media_id": "radxwf4aqj38",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6256661/kind-7-overleden-bij-ongeluk-met-stadsbus-in-utrecht-ander-kind-zwaargewond.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6256656,
     "slug": "beyonce-en-adidas-gaan-uit-elkaar-na-tegenvallende-verkopen",
     "type": "article",
     "title": "Beyoncé en adidas gaan uit elkaar na tegenvallende verkopen",
     "subtitle": null,
     "published_at": "2023-03-24T09:49:43+01:00",
-    "updated_at": "2023-03-24T09:49:57+01:00",
+    "updated_at": "2023-03-24T09:55:15+01:00",
     "media_id": "cayxqkra0ll0",
     "duration": null,
     "canonical_section": {
@@ -29,7 +75,7 @@
     "title": "Twitter verwijdert volgende week oude blauwe vinkjes",
     "subtitle": null,
     "published_at": "2023-03-24T09:36:56+01:00",
-    "updated_at": "2023-03-24T09:36:59+01:00",
+    "updated_at": "2023-03-24T10:05:05+01:00",
     "media_id": "7vpxsxmat52p",
     "duration": null,
     "canonical_section": {
@@ -98,8 +144,8 @@
     "title": "Bedrijven vrezen dat economie op slot gaat door stikstofregels",
     "subtitle": null,
     "published_at": "2023-03-24T09:22:16+01:00",
-    "updated_at": "2023-03-24T09:22:17+01:00",
-    "media_id": "v5xxtnga07zs",
+    "updated_at": "2023-03-24T10:10:00+01:00",
+    "media_id": "nddxccfasm0o",
     "duration": null,
     "canonical_section": {
       "id": 99,
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6256631/zeker-149-agenten-gewond-bij-franse-massaprotesten-tegen-pensioenplannen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6256630,
-    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
-    "type": "article",
-    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
-    "subtitle": null,
-    "published_at": "2023-03-24T05:10:18+01:00",
-    "updated_at": "2023-03-24T05:10:20+01:00",
-    "media_id": "5orxtf5awygy",
-    "duration": null,
-    "canonical_section": {
-      "id": 1773179,
-      "slug": "uitgelicht",
-      "type": "default",
-      "name": "Uitgelicht",
-      "style": "mediapartner-external",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/uitgelicht/6256630/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6256423,
-    "slug": "hoe-oranje-dankzij-van-gaal-ook-nog-een-sluiproute-naar-het-ek-heeft",
-    "type": "article",
-    "title": "Hoe Oranje dankzij Van Gaal ook nog een sluiproute naar het EK heeft",
-    "subtitle": null,
-    "published_at": "2023-03-24T05:09:42+01:00",
-    "updated_at": "2023-03-24T05:09:43+01:00",
-    "media_id": "siqxwiqah38i",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6256423/hoe-oranje-dankzij-van-gaal-ook-nog-een-sluiproute-naar-het-ek-heeft.html",
     "open_new_window": false,
     "partner": null
   }
