@@ -1,12 +1,35 @@
 [
   {
+    "id": 6257320,
+    "slug": "aantal-slachtoffers-van-weeffout-in-toeslagenstelsel-veel-groter-dan-gedacht",
+    "type": "article",
+    "title": "Aantal slachtoffers van weeffout in toeslagenstelsel veel groter dan gedacht",
+    "subtitle": null,
+    "published_at": "2023-03-29T15:29:23+02:00",
+    "updated_at": "2023-03-29T15:29:25+02:00",
+    "media_id": "c1bxd8zazki8",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771437,
+      "slug": "politiek",
+      "type": "default",
+      "name": "Politiek",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/politiek/6257320/aantal-slachtoffers-van-weeffout-in-toeslagenstelsel-veel-groter-dan-gedacht.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6257321,
     "slug": "technologie-experts-roepen-op-ontwikkeling-van-ai-systemen-te-pauzeren",
     "type": "article",
     "title": "Technologie-experts roepen op ontwikkeling van AI-systemen te pauzeren",
     "subtitle": null,
     "published_at": "2023-03-29T15:07:16+02:00",
-    "updated_at": "2023-03-29T15:08:16+02:00",
+    "updated_at": "2023-03-29T15:11:21+02:00",
     "media_id": "m8fx55taotvj",
     "duration": null,
     "canonical_section": {
@@ -231,13 +254,13 @@
   },
   {
     "id": 6257300,
-    "slug": "al-vroeg-vuurwerk-in-dwars-door-vlaanderen",
+    "slug": "vuurwerk-in-dwars-door-vlaanderen-jumbo-visma-laat-zich-gelden",
     "type": "article",
-    "title": "Al vroeg vuurwerk in Dwars door Vlaanderen",
+    "title": "Vuurwerk in Dwars door Vlaanderen, Jumbo-Visma laat zich gelden",
     "subtitle": "Liveblog",
     "published_at": "2023-03-29T12:10:07+02:00",
-    "updated_at": "2023-03-29T15:03:07+02:00",
-    "media_id": "ulaxpsmasp6q",
+    "updated_at": "2023-03-29T15:34:48+02:00",
+    "media_id": "7t2xedcaml71",
     "duration": null,
     "canonical_section": {
       "id": 1772339,
@@ -248,7 +271,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/wielrennen/6257300/al-vroeg-vuurwerk-in-dwars-door-vlaanderen.html",
+    "url": "/wielrennen/6257300/vuurwerk-in-dwars-door-vlaanderen-jumbo-visma-laat-zich-gelden.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wetenschap/6257290/astronomen-vinden-dankzij-zwaartekrachtlens-een-van-grootste-zwarte-gaten-ooit.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257293,
-    "slug": "motorrijder-daagt-britse-politie-uit-met-wheelies",
-    "type": "video",
-    "title": "Motorrijder daagt Britse politie uit met wheelies",
-    "subtitle": "Video",
-    "published_at": "2023-03-29T11:26:45+02:00",
-    "updated_at": "2023-03-29T11:26:47+02:00",
-    "media_id": "svpx87da7n5h",
-    "duration": "0:45",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6257293/motorrijder-daagt-britse-politie-uit-met-wheelies.html",
     "open_new_window": false,
     "partner": null
   }
