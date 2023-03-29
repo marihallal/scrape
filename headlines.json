@@ -1,12 +1,35 @@
 [
   {
+    "id": 6257255,
+    "slug": "franse-politie-beukt-man-omver-tijdens-demonstraties",
+    "type": "video",
+    "title": "Franse politie beukt man omver tijdens demonstraties",
+    "subtitle": "Video",
+    "published_at": "2023-03-29T08:44:16+02:00",
+    "updated_at": "2023-03-29T08:44:18+02:00",
+    "media_id": "so9xzatab966",
+    "duration": "0:41",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6257255/franse-politie-beukt-man-omver-tijdens-demonstraties.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6257247,
     "slug": "zeker-38-doden-bij-brand-in-mexicaanse-cel-ophef-over-bewakingsbeelden",
     "type": "article",
     "title": "Zeker 38 doden bij brand in Mexicaanse cel, ophef over bewakingsbeelden",
     "subtitle": null,
     "published_at": "2023-03-29T08:24:33+02:00",
-    "updated_at": "2023-03-29T08:24:35+02:00",
+    "updated_at": "2023-03-29T08:45:16+02:00",
     "media_id": "qf0x4bhaz619",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Topman Ralph Hamers vertrekt bij Zwitserse bank UBS",
     "subtitle": null,
     "published_at": "2023-03-29T07:38:21+02:00",
-    "updated_at": "2023-03-29T08:24:20+02:00",
+    "updated_at": "2023-03-29T08:30:01+02:00",
     "media_id": "78yxdbnauyqn",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6257233/gehaktbal-van-gekweekt-mammoetvlees-gepresenteerd-in-amsterdam.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257232,
-    "slug": "belgie-wint-dankzij-bliksemstart-voor-het-eerst-sinds-1954-van-duitsland",
-    "type": "article",
-    "title": "België wint dankzij bliksemstart voor het eerst sinds 1954 van Duitsland",
-    "subtitle": null,
-    "published_at": "2023-03-28T22:40:55+02:00",
-    "updated_at": "2023-03-28T23:49:56+02:00",
-    "media_id": "1puxpyoau0jg",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6257232/belgie-wint-dankzij-bliksemstart-voor-het-eerst-sinds-1954-van-duitsland.html",
     "open_new_window": false,
     "partner": null
   }
