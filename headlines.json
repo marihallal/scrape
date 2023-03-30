@@ -1,5 +1,51 @@
 [
   {
+    "id": 6257463,
+    "slug": "brandweer-reanimeert-kat-na-friese-woningbrand",
+    "type": "video",
+    "title": "Brandweer reanimeert kat na Friese woningbrand",
+    "subtitle": "Video",
+    "published_at": "2023-03-30T13:29:53+02:00",
+    "updated_at": "2023-03-30T13:29:54+02:00",
+    "media_id": "lr4xm3za3sbn",
+    "duration": "0:44",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6257463/brandweer-reanimeert-kat-na-friese-woningbrand.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6257455,
+    "slug": "rtl-directie-wil-in-gesprek-met-slachtoffers-na-rapport-the-voice",
+    "type": "article",
+    "title": "RTL-directie wil in gesprek met slachtoffers na rapport The Voice",
+    "subtitle": null,
+    "published_at": "2023-03-30T13:19:11+02:00",
+    "updated_at": "2023-03-30T13:28:00+02:00",
+    "media_id": "mklxgpca9d0u",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6257455/rtl-directie-wil-in-gesprek-met-slachtoffers-na-rapport-the-voice.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6257451,
     "slug": "hoogste-racismebestrijder-stond-zelf-ook-op-illegale-fraudelijst-belastingdienst",
     "type": "article",
@@ -52,7 +98,7 @@
     "title": "Jutta Leerdam na dagenlange geruchten zoenend gezien met YouTuber Jake Paul",
     "subtitle": null,
     "published_at": "2023-03-30T12:49:11+02:00",
-    "updated_at": "2023-03-30T12:49:12+02:00",
+    "updated_at": "2023-03-30T13:27:40+02:00",
     "media_id": "anyx89faza2p",
     "duration": null,
     "canonical_section": {
@@ -167,7 +213,7 @@
     "title": "Huismerk of A-merk? Praat mee over boodschappen doen",
     "subtitle": null,
     "published_at": "2023-03-30T12:13:06+02:00",
-    "updated_at": "2023-03-30T12:13:07+02:00",
+    "updated_at": "2023-03-30T13:17:11+02:00",
     "media_id": "a3fxeoaa1q5t",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/videos/6257418/amsterdamse-straat-afgezet-na-dodelijke-schietpartij.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257415,
-    "slug": "oud-president-bolsonaro-is-terug-in-brazilie-maar-gaat-oppositie-niet-leiden",
-    "type": "article",
-    "title": "Oud-president Bolsonaro is terug in Brazilië, maar gaat oppositie niet leiden",
-    "subtitle": null,
-    "published_at": "2023-03-30T09:48:08+02:00",
-    "updated_at": "2023-03-30T11:59:37+02:00",
-    "media_id": "p4axpaaasqsi",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6257415/oud-president-bolsonaro-is-terug-in-brazilie-maar-gaat-oppositie-niet-leiden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257412,
-    "slug": "de-vries-voelt-ondanks-harde-woorden-teambaas-goede-sfeer-binnen-alphatauri",
-    "type": "article",
-    "title": "De Vries voelt ondanks harde woorden teambaas goede sfeer binnen AlphaTauri",
-    "subtitle": null,
-    "published_at": "2023-03-30T09:39:41+02:00",
-    "updated_at": "2023-03-30T12:01:54+02:00",
-    "media_id": "53mxtmaau5np",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "GP Australië",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6257412/de-vries-voelt-ondanks-harde-woorden-teambaas-goede-sfeer-binnen-alphatauri.html",
     "open_new_window": false,
     "partner": null
   }
