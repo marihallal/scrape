@@ -1,5 +1,51 @@
 [
   {
+    "id": 6257407,
+    "slug": "we-betalen-gemiddeld-minder-hondenbelasting-in-ons-land",
+    "type": "article",
+    "title": "We betalen gemiddeld minder hondenbelasting in ons land",
+    "subtitle": null,
+    "published_at": "2023-03-30T09:28:35+02:00",
+    "updated_at": "2023-03-30T09:28:36+02:00",
+    "media_id": "bhgxcr9aggct",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6257407/we-betalen-gemiddeld-minder-hondenbelasting-in-ons-land.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6257381,
+    "slug": "perez-gaat-de-strijd-bij-red-bull-nooit-winnen",
+    "type": "audio",
+    "title": "'Pérez gaat de strijd bij Red Bull nooit winnen'",
+    "subtitle": "Podcast De Boordradio",
+    "published_at": "2023-03-30T09:28:19+02:00",
+    "updated_at": "2023-03-30T09:28:23+02:00",
+    "media_id": "d7txn41aiq2x",
+    "duration": null,
+    "canonical_section": {
+      "id": 1776659,
+      "slug": "de-boordradio",
+      "type": "default",
+      "name": "De Boordradio",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/de-boordradio/6257381/perez-gaat-de-strijd-bij-red-bull-nooit-winnen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6257401,
     "slug": "procol-harum-songwriter-keith-reid-op-76-jarige-leeftijd-overleden",
     "type": "article",
@@ -75,7 +121,7 @@
     "title": "Vrouw doodgeschoten in portiek in Amsterdam, verdachte gevlucht",
     "subtitle": null,
     "published_at": "2023-03-30T08:54:19+02:00",
-    "updated_at": "2023-03-30T09:17:10+02:00",
+    "updated_at": "2023-03-30T09:25:13+02:00",
     "media_id": "30mx85hazb8g",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/economie/6257287/tijdelijke-bonus-om-parttimers-meer-uren-te-laten-werken-boekt-eerste-succes.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257269,
-    "slug": "napoli-telt-af-en-spanning-in-duitsland-topcompetities-naderen-finish",
-    "type": "article",
-    "title": "Napoli telt af en spanning in Duitsland: topcompetities naderen finish",
-    "subtitle": "NU+",
-    "published_at": "2023-03-30T05:03:51+02:00",
-    "updated_at": "2023-03-30T07:09:24+02:00",
-    "media_id": "04fxmo8ahy22",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6257269/napoli-telt-af-en-spanning-in-duitsland-topcompetities-naderen-finish.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257173,
-    "slug": "een-derde-meiland-biografie-van-jan-dijkgraaf-maxime-is-opmerkelijk-volwassen",
-    "type": "article",
-    "title": "Een derde Meiland-biografie van Jan Dijkgraaf: 'Maxime is opmerkelijk volwassen'",
-    "subtitle": null,
-    "published_at": "2023-03-30T05:02:14+02:00",
-    "updated_at": "2023-03-30T05:02:15+02:00",
-    "media_id": "ztixrh2amtnm",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6257173/een-derde-meiland-biografie-van-jan-dijkgraaf-maxime-is-opmerkelijk-volwassen.html",
     "open_new_window": false,
     "partner": null
   }
