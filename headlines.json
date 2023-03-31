@@ -1,5 +1,51 @@
 [
   {
+    "id": 6257681,
+    "slug": "kabinet-heeft-tijdelijke-oplossing-gevonden-voor-stikstofimpasse",
+    "type": "article",
+    "title": "Kabinet heeft tijdelijke oplossing gevonden voor stikstofimpasse",
+    "subtitle": null,
+    "published_at": "2023-03-31T19:47:34+02:00",
+    "updated_at": "2023-03-31T19:47:35+02:00",
+    "media_id": "gbrxbv6a0tfz",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779224,
+      "slug": "provinciale-statenverkiezingen",
+      "type": "default",
+      "name": "Provinciale Statenverkiezingen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/provinciale-statenverkiezingen/6257681/kabinet-heeft-tijdelijke-oplossing-gevonden-voor-stikstofimpasse.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6257695,
+    "slug": "loket-voor-wie-blokaansluiting-heeft-gaat-eind-april-open",
+    "type": "article",
+    "title": "Loket voor wie blokaansluiting heeft gaat eind april open",
+    "subtitle": null,
+    "published_at": "2023-03-31T19:30:02+02:00",
+    "updated_at": "2023-03-31T19:40:18+02:00",
+    "media_id": "bdtxnr9aeg91",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6257695/loket-voor-wie-blokaansluiting-heeft-gaat-eind-april-open.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6257696,
     "slug": "bodycambeelden-tonen-hoe-agent-op-alligator-springt-in-vs",
     "type": "video",
@@ -70,12 +116,12 @@
   },
   {
     "id": 6257688,
-    "slug": "nederlandse-vrouw-door-bartender-neergestoken-tijdens-vakantie-in-india",
+    "slug": "nederlandse-vrouw-neergestoken-door-barman-tijdens-vakantie-in-india",
     "type": "article",
-    "title": "Nederlandse vrouw door bartender neergestoken tijdens vakantie in India",
+    "title": "Nederlandse vrouw neergestoken door barman tijdens vakantie in India",
     "subtitle": null,
     "published_at": "2023-03-31T18:18:37+02:00",
-    "updated_at": "2023-03-31T18:18:38+02:00",
+    "updated_at": "2023-03-31T19:46:54+02:00",
     "media_id": "ychxdn9axzfd",
     "duration": null,
     "canonical_section": {
@@ -87,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6257688/nederlandse-vrouw-door-bartender-neergestoken-tijdens-vakantie-in-india.html",
+    "url": "/buitenland/6257688/nederlandse-vrouw-neergestoken-door-barman-tijdens-vakantie-in-india.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/media/6257668/media-willen-bemiddeling-over-ontvangen-van-meldingen-hulpdiensten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257667,
-    "slug": "yesilgoz-licht-excuses-van-kabinet-aan-familie-de-vries-toe",
-    "type": "video",
-    "title": "Yesilgöz licht excuses van kabinet aan familie De Vries toe",
-    "subtitle": "Video",
-    "published_at": "2023-03-31T16:05:06+02:00",
-    "updated_at": "2023-03-31T16:05:07+02:00",
-    "media_id": "76cxasda2zef",
-    "duration": "0:58",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6257667/yesilgoz-licht-excuses-van-kabinet-aan-familie-de-vries-toe.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257664,
-    "slug": "voor-moord-veroordeelde-oud-paralympier-pistorius-komt-niet-voorwaardelijk-vrij",
-    "type": "article",
-    "title": "Voor moord veroordeelde oud-paralympiër Pistorius komt niet voorwaardelijk vrij",
-    "subtitle": null,
-    "published_at": "2023-03-31T15:56:42+02:00",
-    "updated_at": "2023-03-31T16:05:00+02:00",
-    "media_id": "ph5xqa3ax9pg",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6257664/voor-moord-veroordeelde-oud-paralympier-pistorius-komt-niet-voorwaardelijk-vrij.html",
     "open_new_window": false,
     "partner": null
   }
