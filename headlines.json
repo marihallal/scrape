@@ -1,12 +1,58 @@
 [
   {
+    "id": 6257614,
+    "slug": "klapmutspup-op-vlieland-is-nu-moederziel-alleen-blijf-op-afstand",
+    "type": "article",
+    "title": "Klapmutspup op Vlieland is nu moederziel alleen: 'Blijf op afstand'",
+    "subtitle": null,
+    "published_at": "2023-03-31T15:49:57+02:00",
+    "updated_at": "2023-03-31T15:49:58+02:00",
+    "media_id": "80vx6o2ascv5",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772536,
+      "slug": "dieren",
+      "type": "default",
+      "name": "Dieren",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/dieren/6257614/klapmutspup-op-vlieland-is-nu-moederziel-alleen-blijf-op-afstand.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6257662,
+    "slug": "auto-rijdt-in-lichterlaaie-en-zonder-bestuurder-door-mexico",
+    "type": "video",
+    "title": "Auto rijdt in lichterlaaie en zonder bestuurder door Mexico",
+    "subtitle": "Video",
+    "published_at": "2023-03-31T15:40:54+02:00",
+    "updated_at": "2023-03-31T15:40:55+02:00",
+    "media_id": "x8bx655a1x2a",
+    "duration": "0:38",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6257662/auto-rijdt-in-lichterlaaie-en-zonder-bestuurder-door-mexico.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6257652,
     "slug": "overlijden-thijs-slegers-kwam-hard-aan-bij-spelers-en-staf-psv-is-snel-gegaan",
     "type": "article",
     "title": "Overlijden Thijs Slegers kwam hard aan bij spelers en staf PSV: 'Is snel gegaan'",
     "subtitle": null,
     "published_at": "2023-03-31T15:30:23+02:00",
-    "updated_at": "2023-03-31T15:30:24+02:00",
+    "updated_at": "2023-03-31T15:43:24+02:00",
     "media_id": "104xsfzanb31",
     "duration": null,
     "canonical_section": {
@@ -75,7 +121,7 @@
     "title": "Kabinet biedt nabestaanden Peter R. de Vries excuses aan voor falende beveiliging",
     "subtitle": null,
     "published_at": "2023-03-31T14:59:12+02:00",
-    "updated_at": "2023-03-31T15:34:28+02:00",
+    "updated_at": "2023-03-31T15:40:09+02:00",
     "media_id": "u91xeqga6iou",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/gaswinning-groningen/6257620/groningen-eist-30-miljard-euro-extra-voor-inlossen-ereschuld-vanwege-gaswinning.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257617,
-    "slug": "the-american-acteur-johan-leysen-73-onverwachts-overleden",
-    "type": "article",
-    "title": "The American-acteur Johan Leysen (73) onverwachts overleden",
-    "subtitle": null,
-    "published_at": "2023-03-31T12:25:07+02:00",
-    "updated_at": "2023-03-31T13:02:29+02:00",
-    "media_id": "aryx9piat7u9",
-    "duration": null,
-    "canonical_section": {
-      "id": 127,
-      "slug": "film",
-      "type": "default",
-      "name": "Films & Series",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/film/6257617/the-american-acteur-johan-leysen-73-onverwachts-overleden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257613,
-    "slug": "talentvolle-megan-de-cler-ervoer-jarenlang-onveilig-sportklimaat-binnen-boksbond",
-    "type": "article",
-    "title": "Talentvolle Megan de Cler ervoer jarenlang onveilig sportklimaat binnen boksbond",
-    "subtitle": null,
-    "published_at": "2023-03-31T12:19:19+02:00",
-    "updated_at": "2023-03-31T12:19:20+02:00",
-    "media_id": "buxxygra60ma",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6257613/talentvolle-megan-de-cler-ervoer-jarenlang-onveilig-sportklimaat-binnen-boksbond.html",
     "open_new_window": false,
     "partner": null
   }
