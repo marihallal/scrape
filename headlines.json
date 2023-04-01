@@ -1,12 +1,35 @@
 [
   {
+    "id": 6257793,
+    "slug": "paniek-in-amerikaanse-theaterzaal-na-instorten-plafond-door-tornado",
+    "type": "video",
+    "title": "Paniek in Amerikaanse theaterzaal na instorten plafond door tornado",
+    "subtitle": "Video",
+    "published_at": "2023-04-01T17:33:20+02:00",
+    "updated_at": "2023-04-01T17:33:20+02:00",
+    "media_id": "5y6x8vhaw3ka",
+    "duration": "0:37",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6257793/paniek-in-amerikaanse-theaterzaal-na-instorten-plafond-door-tornado.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6257792,
     "slug": "meer-aanbieders-op-het-spoor-een-goed-idee-in-het-vk-ging-het-mis",
     "type": "video",
     "title": "Meer aanbieders op het spoor een goed idee? In het VK ging het mis",
     "subtitle": "Explainer",
     "published_at": "2023-04-01T17:29:46+02:00",
-    "updated_at": "2023-04-01T17:30:02+02:00",
+    "updated_at": "2023-04-01T17:32:09+02:00",
     "media_id": "tyoxmtca8767",
     "duration": "2:44",
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Becker houdt Union in spoor van Bayern en Dortmund, Frimpong scoort opnieuw",
     "subtitle": null,
     "published_at": "2023-04-01T17:29:25+02:00",
-    "updated_at": "2023-04-01T17:29:26+02:00",
+    "updated_at": "2023-04-01T17:32:01+02:00",
     "media_id": "dpixacsaci7r",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "De Roon scoort opnieuw en leidt zege Atalanta op hekkensluiter in",
     "subtitle": null,
     "published_at": "2023-04-01T17:00:59+02:00",
-    "updated_at": "2023-04-01T17:01:00+02:00",
+    "updated_at": "2023-04-01T17:31:53+02:00",
     "media_id": "yvgxp1earz7z",
     "duration": null,
     "canonical_section": {
@@ -185,13 +208,13 @@
   },
   {
     "id": 6257781,
-    "slug": "az-is-beter-dan-heerenveen-maar-staat-wel-op-achterstand",
+    "slug": "karlsson-mist-strafschop-az-nog-altijd-op-achterstand",
     "type": "article",
-    "title": "AZ is beter dan Heerenveen maar staat wel op achterstand",
+    "title": "Karlsson mist strafschop, AZ nog altijd op achterstand",
     "subtitle": "Liveblog",
     "published_at": "2023-04-01T16:08:24+02:00",
-    "updated_at": "2023-04-01T17:29:05+02:00",
-    "media_id": "1bpx2ysad5qh",
+    "updated_at": "2023-04-01T17:49:29+02:00",
+    "media_id": "q0tx4aoa5g6a",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -202,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6257781/az-is-beter-dan-heerenveen-maar-staat-wel-op-achterstand.html",
+    "url": "/voetbal/6257781/karlsson-mist-strafschop-az-nog-altijd-op-achterstand.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/stelling/6257756/mentale-gezondheid-hoe-ga-jij-hiermee-om-praat-mee.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257763,
-    "slug": "ioc-kritisch-oekraine-schaadt-eigen-sporters-door-ze-aan-de-kant-te-houden",
-    "type": "article",
-    "title": "IOC kritisch: 'Oekraïne schaadt eigen sporters door ze aan de kant te houden'",
-    "subtitle": null,
-    "published_at": "2023-04-01T11:58:33+02:00",
-    "updated_at": "2023-04-01T12:25:24+02:00",
-    "media_id": "ojwxj96acows",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6257763/ioc-kritisch-oekraine-schaadt-eigen-sporters-door-ze-aan-de-kant-te-houden.html",
     "open_new_window": false,
     "partner": null
   }
