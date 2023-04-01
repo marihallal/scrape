@@ -1,5 +1,28 @@
 [
   {
+    "id": 6257785,
+    "slug": "boscagli-maakt-na-jaar-basisrentree-bij-psv-in-uitduel-met-nec-sangare-op-de-bank",
+    "type": "article",
+    "title": "Boscagli maakt na jaar basisrentree bij PSV in uitduel met NEC, Sangaré op de bank",
+    "subtitle": null,
+    "published_at": "2023-04-01T18:47:44+02:00",
+    "updated_at": "2023-04-01T18:47:46+02:00",
+    "media_id": "xoqx7qga1gba",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6257785/boscagli-maakt-na-jaar-basisrentree-bij-psv-in-uitduel-met-nec-sangare-op-de-bank.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6257782,
     "slug": "dit-vinden-jullie-van-de-nipt-test-die-vanaf-vandaag-voor-elke-zwangere-gratis-is",
     "type": "article",
@@ -277,13 +300,13 @@
   },
   {
     "id": 6257781,
-    "slug": "az-na-bijzondere-goal-op-gelijke-hoogte-tegen-heerenveen",
+    "slug": "twente-kan-tegen-excelsior-inlopen-op-az",
     "type": "article",
-    "title": "AZ na bijzondere goal op gelijke hoogte tegen Heerenveen",
+    "title": "Twente kan tegen Excelsior inlopen op AZ",
     "subtitle": "Liveblog",
     "published_at": "2023-04-01T16:08:24+02:00",
-    "updated_at": "2023-04-01T18:25:39+02:00",
-    "media_id": "qccxl6sazbqj",
+    "updated_at": "2023-04-01T18:38:08+02:00",
+    "media_id": "o5fxabfa8pam",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -294,7 +317,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6257781/az-na-bijzondere-goal-op-gelijke-hoogte-tegen-heerenveen.html",
+    "url": "/voetbal/6257781/twente-kan-tegen-excelsior-inlopen-op-az.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6257772/ancelotti-wordt-enthousiast-van-belangstelling-braziliaanse-bond.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257771,
-    "slug": "auto-in-de-prak-gereden-door-dronken-bredanaar-zonder-rijbewijs",
-    "type": "video",
-    "title": "Auto in de prak gereden door dronken Bredanaar zonder rijbewijs",
-    "subtitle": "Video",
-    "published_at": "2023-04-01T13:24:01+02:00",
-    "updated_at": "2023-04-01T13:31:06+02:00",
-    "media_id": "qg2x89razzl4",
-    "duration": "0:41",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6257771/auto-in-de-prak-gereden-door-dronken-bredanaar-zonder-rijbewijs.html",
     "open_new_window": false,
     "partner": null
   }
