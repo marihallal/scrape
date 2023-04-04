@@ -1,12 +1,58 @@
 [
   {
+    "id": 6258184,
+    "slug": "schelling-boekt-fenomenale-ritzege-en-grijpt-leiderstrui-in-ronde-van-baskenland",
+    "type": "article",
+    "title": "Schelling boekt fenomenale ritzege en grijpt leiderstrui in Ronde van Baskenland",
+    "subtitle": null,
+    "published_at": "2023-04-04T17:38:04+02:00",
+    "updated_at": "2023-04-04T17:49:39+02:00",
+    "media_id": "c3qxp0iajewg",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6258184/schelling-boekt-fenomenale-ritzege-en-grijpt-leiderstrui-in-ronde-van-baskenland.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6258182,
+    "slug": "dua-lipa-speelt-een-zeemeermin-in-nieuwe-barbie-film",
+    "type": "article",
+    "title": "Dua Lipa speelt een zeemeermin in nieuwe Barbie-film",
+    "subtitle": null,
+    "published_at": "2023-04-04T17:33:54+02:00",
+    "updated_at": "2023-04-04T17:33:55+02:00",
+    "media_id": "1fbx7poamcbl",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6258182/dua-lipa-speelt-een-zeemeermin-in-nieuwe-barbie-film.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6258181,
     "slug": "spakenburg-telt-af-naar-historische-bekeravond-tegen-psv",
     "type": "article",
     "title": "Spakenburg telt af naar historische bekeravond tegen PSV",
     "subtitle": "Liveblog",
     "published_at": "2023-04-04T17:21:24+02:00",
-    "updated_at": "2023-04-04T17:21:40+02:00",
+    "updated_at": "2023-04-04T17:25:15+02:00",
     "media_id": "xj2x5sva6dkw",
     "duration": null,
     "canonical_section": {
@@ -29,7 +75,7 @@
     "title": "Waarom de NAVO zich in de handen mag wrijven met Finland als lid",
     "subtitle": "Explainer",
     "published_at": "2023-04-04T17:20:53+02:00",
-    "updated_at": "2023-04-04T17:20:55+02:00",
+    "updated_at": "2023-04-04T17:27:57+02:00",
     "media_id": "2wuxaiuayier",
     "duration": "2:19",
     "canonical_section": {
@@ -52,7 +98,7 @@
     "title": "UEFA hakt knoop door: Zwitserland organiseert EK voetbal voor vrouwen 2025",
     "subtitle": null,
     "published_at": "2023-04-04T17:07:22+02:00",
-    "updated_at": "2023-04-04T17:12:19+02:00",
+    "updated_at": "2023-04-04T17:24:59+02:00",
     "media_id": "6p8x0uyakzwo",
     "duration": null,
     "canonical_section": {
@@ -144,7 +190,7 @@
     "title": "Rusland klaagt vrouw aan voor terreur na bomaanslag op Russische blogger",
     "subtitle": null,
     "published_at": "2023-04-04T16:23:36+02:00",
-    "updated_at": "2023-04-04T16:50:52+02:00",
+    "updated_at": "2023-04-04T17:34:16+02:00",
     "media_id": "eb0xmfbak3te",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6258146/brandweer-redt-glazenwasser-die-vastzit-op-30-meter-hoogte.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6258147,
-    "slug": "hugh-jackman-laat-opnieuw-verdachte-cellen-van-neus-halen",
-    "type": "article",
-    "title": "Hugh Jackman laat opnieuw verdachte cellen van neus halen",
-    "subtitle": null,
-    "published_at": "2023-04-04T14:47:38+02:00",
-    "updated_at": "2023-04-04T15:29:24+02:00",
-    "media_id": "ko7xtj4a6klw",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6258147/hugh-jackman-laat-opnieuw-verdachte-cellen-van-neus-halen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6258150,
-    "slug": "energietarieven-onder-prijsplafond-steeds-vaker-beschikbaar",
-    "type": "article",
-    "title": "Energietarieven onder prijsplafond steeds vaker beschikbaar",
-    "subtitle": null,
-    "published_at": "2023-04-04T14:45:32+02:00",
-    "updated_at": "2023-04-04T16:42:38+02:00",
-    "media_id": "v36xlrxacmzx",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6258150/energietarieven-onder-prijsplafond-steeds-vaker-beschikbaar.html",
     "open_new_window": false,
     "partner": null
   }
