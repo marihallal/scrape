@@ -1,5 +1,28 @@
 [
   {
+    "id": 6258271,
+    "slug": "verenigde-oppositie-vernietigend-over-kabinet-in-debat-over-verkiezingsuitslag",
+    "type": "article",
+    "title": "Verenigde oppositie vernietigend over kabinet in debat over verkiezingsuitslag",
+    "subtitle": null,
+    "published_at": "2023-04-05T12:29:35+02:00",
+    "updated_at": "2023-04-05T12:42:21+02:00",
+    "media_id": "l11x44fakgn1",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779224,
+      "slug": "provinciale-statenverkiezingen",
+      "type": "default",
+      "name": "Provinciale Statenverkiezingen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/provinciale-statenverkiezingen/6258271/verenigde-oppositie-vernietigend-over-kabinet-in-debat-over-verkiezingsuitslag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6257149,
     "slug": "het-hooikoortsseizoen-begint-zo-verminder-je-de-klachten",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Na Infantino ook UEFA-voorzitter Ceferin zonder tegenkandidaat herkozen",
     "subtitle": null,
     "published_at": "2023-04-05T12:12:50+02:00",
-    "updated_at": "2023-04-05T12:22:49+02:00",
+    "updated_at": "2023-04-05T12:43:16+02:00",
     "media_id": "ofrx4hxauao0",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Nog drie mensen op ic na treinongeval Voorschoten, herstel spoor 'immense klus'",
     "subtitle": null,
     "published_at": "2023-04-05T11:53:47+02:00",
-    "updated_at": "2023-04-05T12:03:18+02:00",
+    "updated_at": "2023-04-05T12:33:25+02:00",
     "media_id": "1fux9m7ab0zc",
     "duration": null,
     "canonical_section": {
@@ -144,7 +167,7 @@
     "title": "Finse premier Sanna Marin stopt als partijleider na verkiezingsnederlaag",
     "subtitle": null,
     "published_at": "2023-04-05T11:46:23+02:00",
-    "updated_at": "2023-04-05T11:46:25+02:00",
+    "updated_at": "2023-04-05T12:49:39+02:00",
     "media_id": "267xu6oarxyy",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6258236/weer-spreekkoren-over-hillsborough-ramp-chelsea-zegt-sorry-voor-gedrag-fans.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6258237,
-    "slug": "ruud-de-wild-en-olcay-gulsen-gevolgd-voor-docuserie-van-powned",
-    "type": "article",
-    "title": "Ruud de Wild en Olcay Gulsen gevolgd voor docuserie van PowNed",
-    "subtitle": null,
-    "published_at": "2023-04-05T09:44:40+02:00",
-    "updated_at": "2023-04-05T11:11:49+02:00",
-    "media_id": "uwixeb9ay940",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6258237/ruud-de-wild-en-olcay-gulsen-gevolgd-voor-docuserie-van-powned.html",
     "open_new_window": false,
     "partner": null
   }
