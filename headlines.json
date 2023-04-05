@@ -1,12 +1,58 @@
 [
   {
+    "id": 6258263,
+    "slug": "inspectie-boa-in-speciale-asielopvang-hoogeveen-mag-geen-geweld-gebruiken",
+    "type": "article",
+    "title": "Inspectie: Boa in speciale asielopvang Hoogeveen mag geen geweld gebruiken",
+    "subtitle": null,
+    "published_at": "2023-04-05T11:17:27+02:00",
+    "updated_at": "2023-04-05T11:17:28+02:00",
+    "media_id": "m02x5ovact0u",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6258263/inspectie-boa-in-speciale-asielopvang-hoogeveen-mag-geen-geweld-gebruiken.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6258260,
+    "slug": "skiers-in-india-worden-verrast-door-lawine",
+    "type": "video",
+    "title": "Skiërs in India worden verrast door lawine",
+    "subtitle": "Video",
+    "published_at": "2023-04-05T10:55:55+02:00",
+    "updated_at": "2023-04-05T10:55:56+02:00",
+    "media_id": "mvpxchbaoodi",
+    "duration": "0:34",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6258260/skiers-in-india-worden-verrast-door-lawine.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6258245,
     "slug": "manager-lukaku-wijst-naar-juventus-fans-na-rode-kaart-racistisch-wangedrag",
     "type": "article",
     "title": "Manager Lukaku wijst naar Juventus-fans na rode kaart: 'Racistisch wangedrag'",
     "subtitle": null,
     "published_at": "2023-04-05T10:51:10+02:00",
-    "updated_at": "2023-04-05T10:51:11+02:00",
+    "updated_at": "2023-04-05T11:18:03+02:00",
     "media_id": "qwvxza1aeqvn",
     "duration": null,
     "canonical_section": {
@@ -52,7 +98,7 @@
     "title": "Willem-Alexander praat in podcastserie met Edwin Evers over 10 jaar koningschap",
     "subtitle": null,
     "published_at": "2023-04-05T10:37:33+02:00",
-    "updated_at": "2023-04-05T10:37:34+02:00",
+    "updated_at": "2023-04-05T11:18:32+02:00",
     "media_id": "zv7xku6aphg8",
     "duration": null,
     "canonical_section": {
@@ -75,7 +121,7 @@
     "title": "Nieuwe klap blijft bouw bespaard: rekenmethode stikstof niet aangescherpt",
     "subtitle": null,
     "published_at": "2023-04-05T10:31:28+02:00",
-    "updated_at": "2023-04-05T10:39:39+02:00",
+    "updated_at": "2023-04-05T11:18:52+02:00",
     "media_id": "t4uxzv0aznxw",
     "duration": null,
     "canonical_section": {
@@ -190,8 +236,8 @@
     "title": "Ruud de Wild en Olcay Gulsen gevolgd voor docuserie van PowNed",
     "subtitle": null,
     "published_at": "2023-04-05T09:44:40+02:00",
-    "updated_at": "2023-04-05T09:44:40+02:00",
-    "media_id": "ozexmqlana52",
+    "updated_at": "2023-04-05T11:11:49+02:00",
+    "media_id": "uwixeb9ay940",
     "duration": null,
     "canonical_section": {
       "id": 1771675,
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/stelling/6258129/stelling-ik-ga-vaker-met-het-ov-omdat-benzine-duurder-blijft-worden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6258225,
-    "slug": "voetbalshow-veronica-offside-niet-meer-op-vrijdag-door-langere-vandaag-inside",
-    "type": "article",
-    "title": "Voetbalshow Veronica Offside niet meer op vrijdag door langere Vandaag Inside",
-    "subtitle": null,
-    "published_at": "2023-04-05T06:53:27+02:00",
-    "updated_at": "2023-04-05T09:16:05+02:00",
-    "media_id": "ksuxwohawlmw",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6258225/voetbalshow-veronica-offside-niet-meer-op-vrijdag-door-langere-vandaag-inside.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6258224,
-    "slug": "we-betaalden-vorig-jaar-1-miljard-euro-belasting-per-dag",
-    "type": "article",
-    "title": "We betaalden vorig jaar 1 miljard euro belasting per dag",
-    "subtitle": null,
-    "published_at": "2023-04-05T06:43:18+02:00",
-    "updated_at": "2023-04-05T08:33:40+02:00",
-    "media_id": "dhrxb6saroz6",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6258224/we-betaalden-vorig-jaar-1-miljard-euro-belasting-per-dag.html",
     "open_new_window": false,
     "partner": null
   }
