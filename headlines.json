@@ -1,12 +1,35 @@
 [
   {
+    "id": 6258491,
+    "slug": "top-oss-doet-aangifte-wegens-bewerkte-afbeelding-die-holocaust-bagatelliseert",
+    "type": "article",
+    "title": "TOP Oss doet aangifte wegens bewerkte afbeelding die 'Holocaust bagatelliseert'",
+    "subtitle": null,
+    "published_at": "2023-04-06T17:30:20+02:00",
+    "updated_at": "2023-04-06T17:30:27+02:00",
+    "media_id": "79oxrz1amdjv",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6258491/top-oss-doet-aangifte-wegens-bewerkte-afbeelding-die-holocaust-bagatelliseert.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6258489,
     "slug": "monique-smit-in-verwachting-van-derde-kind",
     "type": "article",
     "title": "Monique Smit in verwachting van derde kind",
     "subtitle": null,
     "published_at": "2023-04-06T17:14:23+02:00",
-    "updated_at": "2023-04-06T17:14:25+02:00",
+    "updated_at": "2023-04-06T17:30:07+02:00",
     "media_id": "h8xxsapam44o",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Avondspits tot dusver de drukste van 2023, vooral rond Rotterdam staat alles muurvast",
     "subtitle": null,
     "published_at": "2023-04-06T16:54:51+02:00",
-    "updated_at": "2023-04-06T17:15:12+02:00",
+    "updated_at": "2023-04-06T17:28:45+02:00",
     "media_id": "8plx75yakg7y",
     "duration": null,
     "canonical_section": {
@@ -277,12 +300,12 @@
   },
   {
     "id": 6258466,
-    "slug": "fvder-van-houwelingen-beboet-voor-nepfoto-waarop-ministers-hakenkruisvlag-hijsen",
+    "slug": "fvder-van-houwelingen-beboet-voor-nepfoto-van-ministers-met-hakenkruisvlag",
     "type": "article",
-    "title": "FVD'er Van Houwelingen beboet voor nepfoto waarop ministers 'hakenkruisvlag hijsen'",
+    "title": "FVD'er Van Houwelingen beboet voor nepfoto van ministers met hakenkruisvlag",
     "subtitle": null,
     "published_at": "2023-04-06T15:16:38+02:00",
-    "updated_at": "2023-04-06T16:15:46+02:00",
+    "updated_at": "2023-04-06T17:22:10+02:00",
     "media_id": "w7rxsota5vls",
     "duration": null,
     "canonical_section": {
@@ -294,7 +317,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/politiek/6258466/fvder-van-houwelingen-beboet-voor-nepfoto-waarop-ministers-hakenkruisvlag-hijsen.html",
+    "url": "/politiek/6258466/fvder-van-houwelingen-beboet-voor-nepfoto-van-ministers-met-hakenkruisvlag.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6258454/overgestapte-golfers-verliezen-rechtszaak-tegen-dp-world-tour-over-boetes.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6258455,
-    "slug": "gorilla-bokito-stierf-aan-hartfalen-achterliggende-oorzaak-wordt-achterhaald",
-    "type": "article",
-    "title": "Gorilla Bokito stierf aan hartfalen, achterliggende oorzaak wordt achterhaald",
-    "subtitle": null,
-    "published_at": "2023-04-06T14:18:06+02:00",
-    "updated_at": "2023-04-06T14:37:24+02:00",
-    "media_id": "myjxlhuawtbl",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6258455/gorilla-bokito-stierf-aan-hartfalen-achterliggende-oorzaak-wordt-achterhaald.html",
     "open_new_window": false,
     "partner": null
   }
