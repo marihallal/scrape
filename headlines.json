@@ -1,12 +1,35 @@
 [
   {
-    "id": 6258593,
-    "slug": "fc-den-bosch-biedt-met-ludiek-cadeau-excuses-aan-voor-13-0-nederlaag-in-zwolle",
+    "id": 6258442,
+    "slug": "vacature-nunl-zoekt-een-fulltime-entertainmentredacteur",
     "type": "article",
-    "title": "FC Den Bosch biedt met ludiek cadeau excuses aan voor 13-0-nederlaag in Zwolle",
+    "title": "Vacature: NU.nl zoekt een fulltime entertainmentredacteur",
+    "subtitle": null,
+    "published_at": "2023-04-07T13:25:08+02:00",
+    "updated_at": "2023-04-07T13:25:08+02:00",
+    "media_id": "6gexa2xajg4z",
+    "duration": null,
+    "canonical_section": {
+      "id": 1774574,
+      "slug": "vacatures",
+      "type": "default",
+      "name": "Vacatures bij NU.nl",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/vacatures/6258442/vacature-nunl-zoekt-een-fulltime-entertainmentredacteur.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6258593,
+    "slug": "fc-den-bosch-biedt-met-ludiek-cadeau-excuses-aan-voor-13-0-verlies-in-zwolle",
+    "type": "article",
+    "title": "FC Den Bosch biedt met ludiek cadeau excuses aan voor 13-0-verlies in Zwolle",
     "subtitle": null,
     "published_at": "2023-04-07T13:14:12+02:00",
-    "updated_at": "2023-04-07T13:14:13+02:00",
+    "updated_at": "2023-04-07T13:25:53+02:00",
     "media_id": "33bx792akw3i",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6258593/fc-den-bosch-biedt-met-ludiek-cadeau-excuses-aan-voor-13-0-nederlaag-in-zwolle.html",
+    "url": "/voetbal/6258593/fc-den-bosch-biedt-met-ludiek-cadeau-excuses-aan-voor-13-0-verlies-in-zwolle.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6258563/steenbergen-etaleert-topvorm-met-nederlands-record-op-400-meter-wisselslag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6258562,
-    "slug": "tesla-verlaagt-opnieuw-prijzen-in-de-vs",
-    "type": "article",
-    "title": "Tesla verlaagt opnieuw prijzen in de VS",
-    "subtitle": null,
-    "published_at": "2023-04-07T10:18:06+02:00",
-    "updated_at": "2023-04-07T11:13:54+02:00",
-    "media_id": "55jxcoraujcb",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6258562/tesla-verlaagt-opnieuw-prijzen-in-de-vs.html",
     "open_new_window": false,
     "partner": null
   }
