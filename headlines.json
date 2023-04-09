@@ -1,5 +1,28 @@
 [
   {
+    "id": 6258844,
+    "slug": "koploper-arsenal-geeft-voorsprong-in-slotfase-uit-handen-bij-liverpool",
+    "type": "article",
+    "title": "Koploper Arsenal geeft voorsprong in slotfase uit handen bij Liverpool",
+    "subtitle": null,
+    "published_at": "2023-04-09T19:30:31+02:00",
+    "updated_at": "2023-04-09T19:30:33+02:00",
+    "media_id": "ey4xa9aah0lv",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6258844/koploper-arsenal-geeft-voorsprong-in-slotfase-uit-handen-bij-liverpool.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6258843,
     "slug": "steenbergen-sluit-kwalificatiewedstrijden-in-stijl-af-met-olympische-limiet-op-50-vrij",
     "type": "article",
@@ -75,8 +98,8 @@
     "title": "Dit vinden jullie van het raketgeweld van Israël richting Syrië",
     "subtitle": null,
     "published_at": "2023-04-09T18:34:09+02:00",
-    "updated_at": "2023-04-09T18:34:10+02:00",
-    "media_id": "gb6xidjaxlzw",
+    "updated_at": "2023-04-09T19:30:49+02:00",
+    "media_id": "1abxwhca5dyc",
     "duration": null,
     "canonical_section": {
       "id": 1779134,
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6258823/politie-arresteert-verdachte-van-doodschieten-rapper-boechi-op-curacao.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6258828,
-    "slug": "pec-zwolle-neemt-afstand-van-fans-die-kinderen-sloegen-na-duel-in-eindhoven",
-    "type": "article",
-    "title": "PEC Zwolle neemt afstand van fans die kinderen sloegen na duel in Eindhoven",
-    "subtitle": null,
-    "published_at": "2023-04-09T15:11:07+02:00",
-    "updated_at": "2023-04-09T15:18:57+02:00",
-    "media_id": "d1oxgp5aymwe",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6258828/pec-zwolle-neemt-afstand-van-fans-die-kinderen-sloegen-na-duel-in-eindhoven.html",
     "open_new_window": false,
     "partner": null
   }
