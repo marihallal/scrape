@@ -1,5 +1,28 @@
 [
   {
+    "id": 6258918,
+    "slug": "guardiola-pareert-kritiek-op-uitblijven-cl-titel-kijk-eens-naar-michael-jordan",
+    "type": "article",
+    "title": "Guardiola pareert kritiek op uitblijven CL-titel: 'Kijk eens naar Michael Jordan'",
+    "subtitle": null,
+    "published_at": "2023-04-10T15:48:15+02:00",
+    "updated_at": "2023-04-10T15:50:01+02:00",
+    "media_id": "f6fxbtha2ph6",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6258918/guardiola-pareert-kritiek-op-uitblijven-cl-titel-kijk-eens-naar-michael-jordan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6258915,
     "slug": "reacties-op-overlijden-huub-oosterhuis-89-vertalingen-waren-op-het-geniale-af",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Wegtakelen van na botsing ontspoorde passagierstrein in Voorschoten begonnen",
     "subtitle": null,
     "published_at": "2023-04-10T15:12:29+02:00",
-    "updated_at": "2023-04-10T15:31:18+02:00",
+    "updated_at": "2023-04-10T15:43:12+02:00",
     "media_id": "4z3xcl3a28ps",
     "duration": null,
     "canonical_section": {
@@ -277,12 +300,12 @@
   },
   {
     "id": 6258900,
-    "slug": "espn-ontvangt-klachten-van-kijkers-die-zich-ergeren-aan-netten-in-de-kuip",
+    "slug": "espn-krijgt-klachten-van-kijkers-die-zich-ergeren-aan-netten-in-de-kuip",
     "type": "article",
-    "title": "ESPN ontvangt klachten van kijkers die zich ergeren aan netten in De Kuip",
+    "title": "ESPN krijgt klachten van kijkers die zich ergeren aan netten in De Kuip",
     "subtitle": null,
     "published_at": "2023-04-10T12:59:45+02:00",
-    "updated_at": "2023-04-10T14:14:05+02:00",
+    "updated_at": "2023-04-10T15:37:11+02:00",
     "media_id": "9u3xczfa7rxg",
     "duration": null,
     "canonical_section": {
@@ -294,7 +317,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/media/6258900/espn-ontvangt-klachten-van-kijkers-die-zich-ergeren-aan-netten-in-de-kuip.html",
+    "url": "/media/6258900/espn-krijgt-klachten-van-kijkers-die-zich-ergeren-aan-netten-in-de-kuip.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6258883/tesla-bouwt-in-china-een-fabriek-voor-grote-batterijen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6258884,
-    "slug": "duitse-vrouw-die-twee-dagen-vermist-was-op-texel-in-goede-gezondheid-gevonden",
-    "type": "article",
-    "title": "Duitse vrouw die twee dagen vermist was op Texel in goede gezondheid gevonden",
-    "subtitle": null,
-    "published_at": "2023-04-10T10:41:41+02:00",
-    "updated_at": "2023-04-10T14:28:22+02:00",
-    "media_id": "apixhjra3rv1",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6258884/duitse-vrouw-die-twee-dagen-vermist-was-op-texel-in-goede-gezondheid-gevonden.html",
     "open_new_window": false,
     "partner": null
   }
