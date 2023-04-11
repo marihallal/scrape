@@ -1,12 +1,35 @@
 [
   {
+    "id": 6258956,
+    "slug": "aanvoerder-tadic-hoopt-dat-clubman-heitinga-aanblijft-als-trainer-van-ajax",
+    "type": "article",
+    "title": "Aanvoerder Tadic hoopt dat 'clubman' Heitinga aanblijft als trainer van Ajax",
+    "subtitle": null,
+    "published_at": "2023-04-11T07:25:00+02:00",
+    "updated_at": "2023-04-11T07:27:58+02:00",
+    "media_id": "gbex78va1zum",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6258956/aanvoerder-tadic-hoopt-dat-clubman-heitinga-aanblijft-als-trainer-van-ajax.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6258955,
     "slug": "moeder-aangeklaagd-omdat-haar-zesjarige-zoon-zijn-lerares-neerschoot-in-de-vs",
     "type": "article",
     "title": "Moeder aangeklaagd omdat haar zesjarige zoon zijn lerares neerschoot in de VS",
     "subtitle": null,
     "published_at": "2023-04-11T07:16:13+02:00",
-    "updated_at": "2023-04-11T07:16:14+02:00",
+    "updated_at": "2023-04-11T07:26:15+02:00",
     "media_id": "c28x7pnag83l",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6258940/de-ligt-treft-ontketende-haaland-voor-het-eerst-moeten-hem-samen-afstoppen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6258939,
-    "slug": "twee-treinstellen-van-ongeluk-in-voorschoten-via-spoor-afgevoerd",
-    "type": "article",
-    "title": "Twee treinstellen van ongeluk in Voorschoten via spoor afgevoerd",
-    "subtitle": null,
-    "published_at": "2023-04-10T21:28:11+02:00",
-    "updated_at": "2023-04-10T21:46:37+02:00",
-    "media_id": "3awxiiwaz6ux",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6258939/twee-treinstellen-van-ongeluk-in-voorschoten-via-spoor-afgevoerd.html",
     "open_new_window": false,
     "partner": null
   }
