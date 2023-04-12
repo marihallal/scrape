@@ -1,5 +1,28 @@
 [
   {
+    "id": 6259163,
+    "slug": "wietze-en-klaas-stoppen-met-ochtendshow-op-radio-538",
+    "type": "video",
+    "title": "Wietze en Klaas stoppen met ochtendshow op Radio 538",
+    "subtitle": "Video",
+    "published_at": "2023-04-12T13:09:16+02:00",
+    "updated_at": "2023-04-12T13:11:07+02:00",
+    "media_id": "ykmxuotauj1g",
+    "duration": "2:35",
+    "canonical_section": {
+      "id": 1772242,
+      "slug": "entertainment",
+      "type": "default",
+      "name": "Media en Cultuur",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/entertainment/6259163/wietze-en-klaas-stoppen-met-ochtendshow-op-radio-538.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6259159,
     "slug": "college-voor-de-rechten-van-de-mens-postnl-schuldig-aan-seksuele-intimidatie",
     "type": "article",
@@ -236,7 +259,7 @@
     "title": "Politie arresteert betogers die op Franse president afrenden bij bezoek aan UvA",
     "subtitle": null,
     "published_at": "2023-04-12T11:16:31+02:00",
-    "updated_at": "2023-04-12T11:54:52+02:00",
+    "updated_at": "2023-04-12T12:59:36+02:00",
     "media_id": "u4qx9oha6fiv",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6259127/biden-stapt-uit-air-force-one-voor-bezoek-aan-noord-ierland.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259120,
-    "slug": "lebron-james-met-los-angeles-lakers-in-overtime-naar-play-offs-nba",
-    "type": "article",
-    "title": "LeBron James met Los Angeles Lakers in overtime naar play-offs NBA",
-    "subtitle": null,
-    "published_at": "2023-04-12T09:59:38+02:00",
-    "updated_at": "2023-04-12T10:06:39+02:00",
-    "media_id": "o0xxbksa0rdj",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6259120/lebron-james-met-los-angeles-lakers-in-overtime-naar-play-offs-nba.html",
     "open_new_window": false,
     "partner": null
   }
