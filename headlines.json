@@ -1,5 +1,51 @@
 [
   {
+    "id": 6259135,
+    "slug": "az-heeft-karlsson-terug-in-jacht-op-zeldzame-europese-halve-finale",
+    "type": "article",
+    "title": "AZ heeft Karlsson terug in jacht op zeldzame Europese halve finale",
+    "subtitle": null,
+    "published_at": "2023-04-12T10:50:43+02:00",
+    "updated_at": "2023-04-12T10:50:45+02:00",
+    "media_id": "8k4xujfakifb",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6259135/az-heeft-karlsson-terug-in-jacht-op-zeldzame-europese-halve-finale.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6259133,
+    "slug": "eerste-serieuze-glimp-van-de-lente-terrasweer-met-mogelijk-20-graden-op-komst",
+    "type": "article",
+    "title": "Eerste serieuze glimp van de lente: terrasweer met mogelijk 20 graden op komst",
+    "subtitle": null,
+    "published_at": "2023-04-12T10:44:26+02:00",
+    "updated_at": "2023-04-12T10:44:28+02:00",
+    "media_id": "vlvx28na8tph",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6259133/eerste-serieuze-glimp-van-de-lente-terrasweer-met-mogelijk-20-graden-op-komst.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6259132,
     "slug": "zeldzame-sneeuwpanters-verkennen-nieuw-verblijf-in-nieuw-zeeland",
     "type": "video",
@@ -29,7 +75,7 @@
     "title": "Ajax ziet hoofdscout Veldmate terugkeren naar oude liefde FC Groningen",
     "subtitle": null,
     "published_at": "2023-04-12T10:26:07+02:00",
-    "updated_at": "2023-04-12T10:26:08+02:00",
+    "updated_at": "2023-04-12T10:49:27+02:00",
     "media_id": "it6xmf0ant4j",
     "duration": null,
     "canonical_section": {
@@ -52,7 +98,7 @@
     "title": "Oosting volgt Jans op bij FC Twente: 'Hij heeft uitstekend werk geleverd bij RKC'",
     "subtitle": null,
     "published_at": "2023-04-12T10:22:11+02:00",
-    "updated_at": "2023-04-12T10:33:06+02:00",
+    "updated_at": "2023-04-12T10:48:02+02:00",
     "media_id": "unkx8qhanvoh",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6259094/tuchel-is-ondanks-forse-nederlaag-verliefd-geworden-op-bayern-munchen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259003,
-    "slug": "stelling-noord-ierland-moet-een-onafhankelijke-republiek-worden",
-    "type": "article",
-    "title": "Stelling: Noord-Ierland moet een onafhankelijke republiek worden",
-    "subtitle": null,
-    "published_at": "2023-04-12T06:55:32+02:00",
-    "updated_at": "2023-04-12T06:55:33+02:00",
-    "media_id": "q5fx5fsav67u",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6259003/stelling-noord-ierland-moet-een-onafhankelijke-republiek-worden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259092,
-    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
-    "type": "article",
-    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
-    "subtitle": null,
-    "published_at": "2023-04-12T06:13:36+02:00",
-    "updated_at": "2023-04-12T06:13:38+02:00",
-    "media_id": "5orxtf5awygy",
-    "duration": null,
-    "canonical_section": {
-      "id": 1773179,
-      "slug": "uitgelicht",
-      "type": "default",
-      "name": "Uitgelicht",
-      "style": "mediapartner-external",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/uitgelicht/6259092/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
     "open_new_window": false,
     "partner": null
   }
