@@ -1,5 +1,51 @@
 [
   {
+    "id": 6259296,
+    "slug": "van-ferraris-tot-maseratis-dit-is-de-geheime-oldtimercollectie-in-dordrecht",
+    "type": "video",
+    "title": "Van Ferrari's tot Maserati's: dit is de 'geheime' oldtimercollectie in Dordrecht",
+    "subtitle": "Video",
+    "published_at": "2023-04-13T11:49:30+02:00",
+    "updated_at": "2023-04-13T11:49:31+02:00",
+    "media_id": "w4nxv6oaoz03",
+    "duration": "1:02",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6259296/van-ferraris-tot-maseratis-dit-is-de-geheime-oldtimercollectie-in-dordrecht.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6259292,
+    "slug": "verdachte-mcdonalds-moorden-zwolle-gaat-aangifte-doen-tegen-zoon-slachtoffer",
+    "type": "article",
+    "title": "Verdachte McDonald's-moorden Zwolle gaat aangifte doen tegen zoon slachtoffer",
+    "subtitle": null,
+    "published_at": "2023-04-13T11:42:05+02:00",
+    "updated_at": "2023-04-13T11:42:06+02:00",
+    "media_id": "smzxhbma0s3n",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6259292/verdachte-mcdonalds-moorden-zwolle-gaat-aangifte-doen-tegen-zoon-slachtoffer.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6259173,
     "slug": "wat-doet-en-verdient-een-hijskraanmachinist",
     "type": "article",
@@ -29,7 +75,7 @@
     "title": "Sociale Verzekeringsbank krijgt boete voor gebrekkige identiteitscontrole",
     "subtitle": null,
     "published_at": "2023-04-13T11:28:25+02:00",
-    "updated_at": "2023-04-13T11:28:26+02:00",
+    "updated_at": "2023-04-13T11:32:14+02:00",
     "media_id": "gkyx6n0aaoub",
     "duration": null,
     "canonical_section": {
@@ -236,8 +282,8 @@
     "title": "Kinderen kunnen alleen nog in Groningen en Rotterdam terecht voor hartoperatie",
     "subtitle": null,
     "published_at": "2023-04-13T10:39:34+02:00",
-    "updated_at": "2023-04-13T10:39:36+02:00",
-    "media_id": "p48xzdra77ps",
+    "updated_at": "2023-04-13T11:39:01+02:00",
+    "media_id": "qonxq6fadexx",
     "duration": null,
     "canonical_section": {
       "id": 1771437,
@@ -351,7 +397,7 @@
     "title": "Topman van TotalEnergies waarschuwt dat gascrisis in Europa nog niet voorbij is",
     "subtitle": null,
     "published_at": "2023-04-13T09:58:26+02:00",
-    "updated_at": "2023-04-13T09:58:27+02:00",
+    "updated_at": "2023-04-13T11:40:37+02:00",
     "media_id": "16vxb1layc6l",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/media/6259262/bijna-miljoen-kijkers-voor-nieuwe-medische-dramaserie-dag-nacht.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259258,
-    "slug": "vattenfall-waarschuwt-30000-klanten-voor-gevolgen-van-mogelijk-datalek",
-    "type": "article",
-    "title": "Vattenfall waarschuwt 30.000 klanten voor gevolgen van mogelijk datalek",
-    "subtitle": null,
-    "published_at": "2023-04-13T09:31:09+02:00",
-    "updated_at": "2023-04-13T09:31:10+02:00",
-    "media_id": "epdx5miadxj3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6259258/vattenfall-waarschuwt-30000-klanten-voor-gevolgen-van-mogelijk-datalek.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259256,
-    "slug": "amerikaan-rent-snelweg-over-tijdens-politieachtervolging",
-    "type": "video",
-    "title": "Amerikaan rent snelweg over tijdens politieachtervolging",
-    "subtitle": "Video",
-    "published_at": "2023-04-13T09:07:15+02:00",
-    "updated_at": "2023-04-13T09:07:16+02:00",
-    "media_id": "qv8xv6havxgs",
-    "duration": "0:39",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6259256/amerikaan-rent-snelweg-over-tijdens-politieachtervolging.html",
     "open_new_window": false,
     "partner": null
   }
