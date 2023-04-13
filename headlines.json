@@ -1,5 +1,28 @@
 [
   {
+    "id": 6259248,
+    "slug": "flitsbezorger-gorillas-blijft-bestaan-na-overname-door-turkse-branchegenoot-getir",
+    "type": "article",
+    "title": "Flitsbezorger Gorillas blijft bestaan na overname door Turkse branchegenoot Getir",
+    "subtitle": null,
+    "published_at": "2023-04-13T08:49:25+02:00",
+    "updated_at": "2023-04-13T08:49:28+02:00",
+    "media_id": "yhyxwn0a3nmp",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6259248/flitsbezorger-gorillas-blijft-bestaan-na-overname-door-turkse-branchegenoot-getir.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6259251,
     "slug": "theo-maassen-is-de-nieuwe-presentator-van-zomergasten",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Hond herenigd met baasje na tocht van 240 kilometer over zee-ijs in Alaska",
     "subtitle": null,
     "published_at": "2023-04-13T07:58:23+02:00",
-    "updated_at": "2023-04-13T08:09:31+02:00",
+    "updated_at": "2023-04-13T08:48:40+02:00",
     "media_id": "k3wx3tzacy31",
     "duration": null,
     "canonical_section": {
@@ -420,7 +443,7 @@
     "title": "Statushouders vinden in Nederland sneller een baan",
     "subtitle": null,
     "published_at": "2023-04-13T00:02:17+02:00",
-    "updated_at": "2023-04-13T08:21:11+02:00",
+    "updated_at": "2023-04-13T08:48:34+02:00",
     "media_id": "ykmx57tafro3",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6259232/statushouders-vinden-in-nederland-sneller-een-baan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259236,
-    "slug": "fantasyserie-game-of-thrones-krijgt-nog-een-spin-off",
-    "type": "article",
-    "title": "Fantasyserie Game of Thrones krijgt nog een spin-off",
-    "subtitle": null,
-    "published_at": "2023-04-12T23:42:50+02:00",
-    "updated_at": "2023-04-13T07:43:29+02:00",
-    "media_id": "38dx5bma2nor",
-    "duration": null,
-    "canonical_section": {
-      "id": 127,
-      "slug": "film",
-      "type": "default",
-      "name": "Films & Series",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/film/6259236/fantasyserie-game-of-thrones-krijgt-nog-een-spin-off.html",
     "open_new_window": false,
     "partner": null
   }
