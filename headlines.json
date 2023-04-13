@@ -1,12 +1,58 @@
 [
   {
+    "id": 6259299,
+    "slug": "eurokoers-stijgt-voor-het-eerst-in-een-jaar-boven-de-110-dollar",
+    "type": "article",
+    "title": "Eurokoers stijgt voor het eerst in een jaar boven de 1,10 dollar",
+    "subtitle": null,
+    "published_at": "2023-04-13T12:16:01+02:00",
+    "updated_at": "2023-04-13T12:16:02+02:00",
+    "media_id": "xf9xt9rab916",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6259299/eurokoers-stijgt-voor-het-eerst-in-een-jaar-boven-de-110-dollar.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6259293,
+    "slug": "advies-raak-niet-zwanger-in-eerste-maanden-na-stoppen-met-pil",
+    "type": "article",
+    "title": "Advies: raak niet zwanger in eerste maanden na stoppen met pil",
+    "subtitle": null,
+    "published_at": "2023-04-13T12:07:10+02:00",
+    "updated_at": "2023-04-13T12:07:12+02:00",
+    "media_id": "3c0x1igab3o2",
+    "duration": null,
+    "canonical_section": {
+      "id": 1146768,
+      "slug": "gezondheid",
+      "type": "default",
+      "name": "Gezondheid",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/gezondheid/6259293/advies-raak-niet-zwanger-in-eerste-maanden-na-stoppen-met-pil.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6259296,
-    "slug": "van-ferraris-tot-maseratis-dit-is-de-geheime-oldtimercollectie-in-dordrecht",
+    "slug": "dit-is-de-geheime-verzameling-van-230-oldtimers-in-dordrecht",
     "type": "video",
-    "title": "Van Ferrari's tot Maserati's: dit is de 'geheime' oldtimercollectie in Dordrecht",
+    "title": "Dit is de 'geheime' verzameling van 230 oldtimers in Dordrecht",
     "subtitle": "Video",
     "published_at": "2023-04-13T11:49:30+02:00",
-    "updated_at": "2023-04-13T11:49:31+02:00",
+    "updated_at": "2023-04-13T12:01:26+02:00",
     "media_id": "w4nxv6oaoz03",
     "duration": "1:02",
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/videos/6259296/van-ferraris-tot-maseratis-dit-is-de-geheime-oldtimercollectie-in-dordrecht.html",
+    "url": "/videos/6259296/dit-is-de-geheime-verzameling-van-230-oldtimers-in-dordrecht.html",
     "open_new_window": false,
     "partner": null
   },
@@ -98,7 +144,7 @@
     "title": "Van Rijthoven verwacht binnen vier tot zes weken terug te keren op tennisbaan",
     "subtitle": null,
     "published_at": "2023-04-13T11:28:18+02:00",
-    "updated_at": "2023-04-13T11:28:20+02:00",
+    "updated_at": "2023-04-13T12:14:33+02:00",
     "media_id": "cq9xo98a59w5",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/economie/6259267/topman-van-totalenergies-waarschuwt-dat-gascrisis-in-europa-nog-niet-voorbij-is.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259257,
-    "slug": "napoli-coach-spalletti-woest-op-arbitrage-welk-signaal-geef-je-aan-kinderen",
-    "type": "article",
-    "title": "Napoli-coach Spalletti woest op arbitrage: 'Welk signaal geef je aan kinderen?'",
-    "subtitle": null,
-    "published_at": "2023-04-13T09:42:28+02:00",
-    "updated_at": "2023-04-13T09:42:29+02:00",
-    "media_id": "nxixvrnazs2q",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6259257/napoli-coach-spalletti-woest-op-arbitrage-welk-signaal-geef-je-aan-kinderen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259262,
-    "slug": "bijna-miljoen-kijkers-voor-nieuwe-medische-dramaserie-dag-nacht",
-    "type": "article",
-    "title": "Bijna miljoen kijkers voor nieuwe medische dramaserie Dag & nacht",
-    "subtitle": null,
-    "published_at": "2023-04-13T09:33:10+02:00",
-    "updated_at": "2023-04-13T09:33:11+02:00",
-    "media_id": "4ocx8gda85c3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6259262/bijna-miljoen-kijkers-voor-nieuwe-medische-dramaserie-dag-nacht.html",
     "open_new_window": false,
     "partner": null
   }
