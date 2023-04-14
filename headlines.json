@@ -1,5 +1,28 @@
 [
   {
+    "id": 6259410,
+    "slug": "politie-houdt-vishandelaren-aan-bij-grote-actie-om-ondermaatse-vis",
+    "type": "article",
+    "title": "Politie houdt vishandelaren aan bij grote actie om ondermaatse vis",
+    "subtitle": null,
+    "published_at": "2023-04-14T05:45:34+02:00",
+    "updated_at": "2023-04-14T05:45:36+02:00",
+    "media_id": "o3nx4kzahsxh",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6259410/politie-houdt-vishandelaren-aan-bij-grote-actie-om-ondermaatse-vis.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6259409,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -98,7 +121,7 @@
     "title": "Op zoek naar eerherstel zorgen Feyenoord-fans nu wél voor 'geweldige sfeer'",
     "subtitle": null,
     "published_at": "2023-04-14T05:11:49+02:00",
-    "updated_at": "2023-04-14T05:11:51+02:00",
+    "updated_at": "2023-04-14T05:48:05+02:00",
     "media_id": "u40xicja81xt",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6259295/vlissingen-stemt-met-krappe-meerderheid-voor-excuses-slavernijverleden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259397,
-    "slug": "grensrechter-niet-bestraft-voor-elleboogstoot-aan-liverpool-speler-robertson",
-    "type": "article",
-    "title": "Grensrechter niet bestraft voor elleboogstoot aan Liverpool-speler Robertson",
-    "subtitle": null,
-    "published_at": "2023-04-13T21:55:55+02:00",
-    "updated_at": "2023-04-14T01:50:00+02:00",
-    "media_id": "zyoxrloa0g3u",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6259397/grensrechter-niet-bestraft-voor-elleboogstoot-aan-liverpool-speler-robertson.html",
     "open_new_window": false,
     "partner": null
   }
