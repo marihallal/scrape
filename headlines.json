@@ -1,5 +1,28 @@
 [
   {
+    "id": 6259567,
+    "slug": "marathonmaatjes-abdi-en-abdi-even-geen-vrienden-ik-wil-winnen-in-rotterdam",
+    "type": "article",
+    "title": "Marathonmaatjes 'Abdi en Abdi' even geen vrienden: 'Ik wil winnen in Rotterdam'",
+    "subtitle": null,
+    "published_at": "2023-04-15T08:48:05+02:00",
+    "updated_at": "2023-04-15T08:48:06+02:00",
+    "media_id": "8voxwyma4tv4",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6259567/marathonmaatjes-abdi-en-abdi-even-geen-vrienden-ik-wil-winnen-in-rotterdam.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6259565,
     "slug": "man-gooit-rookbom-naar-japanse-premier",
     "type": "video",
@@ -305,7 +328,7 @@
     "title": "Take That, Katy Perry en Lionel Richie bij kroningsshow Britse koning Charles",
     "subtitle": null,
     "published_at": "2023-04-14T23:40:55+02:00",
-    "updated_at": "2023-04-14T23:40:56+02:00",
+    "updated_at": "2023-04-15T08:46:28+02:00",
     "media_id": "6p2xez2a3wsr",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/spanningen-oekraine/6259487/pessimisme-over-oekraiens-tegenoffensief-na-documentenlek.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259554,
-    "slug": "excelsior-doet-goede-zaken-in-degradatiestrijd-met-winst-op-go-ahead-eagles",
-    "type": "article",
-    "title": "Excelsior doet goede zaken in degradatiestrijd met winst op Go Ahead Eagles",
-    "subtitle": null,
-    "published_at": "2023-04-14T22:06:05+02:00",
-    "updated_at": "2023-04-15T01:47:29+02:00",
-    "media_id": "d36xgu2a3w9p",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6259554/excelsior-doet-goede-zaken-in-degradatiestrijd-met-winst-op-go-ahead-eagles.html",
     "open_new_window": false,
     "partner": null
   }
