@@ -1,5 +1,28 @@
 [
   {
+    "id": 6259649,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-04-16T05:20:48+02:00",
+    "updated_at": "2023-04-16T05:20:50+02:00",
+    "media_id": "5orxtf5awygy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6259649/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6259497,
     "slug": "dragqueen-leest-ondanks-protest-gewoon-voor-wil-kinderen-niet-teleurstellen",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Defensie-expert Colijn over munitietekorten en het Pentagon-lek",
     "subtitle": "NU+",
     "published_at": "2023-04-16T05:03:49+02:00",
-    "updated_at": "2023-04-16T05:03:50+02:00",
+    "updated_at": "2023-04-16T05:31:15+02:00",
     "media_id": "j3xxewfaoxsz",
     "duration": null,
     "canonical_section": {
@@ -167,7 +190,7 @@
     "title": "Parcours Gold Race ook voor Van Vleuten langer: 'We willen haar op die erelijst'",
     "subtitle": null,
     "published_at": "2023-04-15T23:23:00+02:00",
-    "updated_at": "2023-04-16T05:01:42+02:00",
+    "updated_at": "2023-04-16T05:25:54+02:00",
     "media_id": "txdxv04aa8uq",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6259633/auto-staat-rechtovereind-in-sloot-na-ongeval-in-bunschoten-spakenburg.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259630,
-    "slug": "reacties-na-klinkende-zege-sparta-tegen-heerenveen",
-    "type": "article",
-    "title": "Reacties na klinkende zege Sparta tegen Heerenveen",
-    "subtitle": "Liveblog",
-    "published_at": "2023-04-15T18:38:04+02:00",
-    "updated_at": "2023-04-15T22:53:38+02:00",
-    "media_id": "qunx6sza4h9n",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6259630/reacties-na-klinkende-zege-sparta-tegen-heerenveen.html",
     "open_new_window": false,
     "partner": null
   }
