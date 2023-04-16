@@ -1,12 +1,35 @@
 [
   {
+    "id": 6259688,
+    "slug": "musical-the-phantom-of-the-opera-neemt-zondag-na-35-jaar-afscheid-van-broadway",
+    "type": "article",
+    "title": "Musical The Phantom of the Opera neemt zondag na 35 jaar afscheid van Broadway",
+    "subtitle": null,
+    "published_at": "2023-04-16T13:28:57+02:00",
+    "updated_at": "2023-04-16T13:28:58+02:00",
+    "media_id": "y0kxl56adv4g",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772075,
+      "slug": "cultuur-overig",
+      "type": "default",
+      "name": "Boek & Cultuur",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/cultuur-overig/6259688/musical-the-phantom-of-the-opera-neemt-zondag-na-35-jaar-afscheid-van-broadway.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6259666,
     "slug": "psv-met-til-branthwaite-en-fitte-de-jong-tegen-volendam",
     "type": "article",
     "title": "PSV met Til, Branthwaite en fitte De Jong tegen Volendam",
     "subtitle": null,
     "published_at": "2023-04-16T13:15:03+02:00",
-    "updated_at": "2023-04-16T13:15:04+02:00",
+    "updated_at": "2023-04-16T13:29:15+02:00",
     "media_id": "ihaxrktadeqk",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Rusland en Oekraïne ruilen gevangenen uit ter ere van orthodox Pasen",
     "subtitle": null,
     "published_at": "2023-04-16T12:59:52+02:00",
-    "updated_at": "2023-04-16T13:13:56+02:00",
+    "updated_at": "2023-04-16T13:16:43+02:00",
     "media_id": "9guxbvha4zhm",
     "duration": null,
     "canonical_section": {
@@ -277,13 +300,13 @@
   },
   {
     "id": 6259674,
-    "slug": "vitesse-halverwege-comfortabel-op-voorsprong-door-blunderende-cillessen",
+    "slug": "nec-na-rust-op-zoek-naar-doelpunten-in-gelderse-derby",
     "type": "article",
-    "title": "Vitesse halverwege comfortabel op voorsprong door blunderende Cillessen",
+    "title": "NEC na rust op zoek naar doelpunten in Gelderse derby",
     "subtitle": "Liveblog",
     "published_at": "2023-04-16T11:38:38+02:00",
-    "updated_at": "2023-04-16T13:07:57+02:00",
-    "media_id": "gsdxszqa7log",
+    "updated_at": "2023-04-16T13:23:41+02:00",
+    "media_id": "ercxl7pazjqu",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -294,7 +317,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6259674/vitesse-halverwege-comfortabel-op-voorsprong-door-blunderende-cillessen.html",
+    "url": "/voetbal/6259674/nec-na-rust-op-zoek-naar-doelpunten-in-gelderse-derby.html",
     "open_new_window": false,
     "partner": null
   },
@@ -392,12 +415,12 @@
   },
   {
     "id": 6259663,
-    "slug": "brand-en-stultiens-pakken-minuut-voorsprong-in-amstel-gold-race",
+    "slug": "voorsprong-brand-en-stultiens-loopt-snel-terug-in-amstel-gold-race",
     "type": "article",
-    "title": "Brand en Stultiens pakken minuut voorsprong in Amstel Gold Race",
+    "title": "Voorsprong Brand en Stultiens loopt snel terug in Amstel Gold Race",
     "subtitle": "Liveblog",
     "published_at": "2023-04-16T10:01:13+02:00",
-    "updated_at": "2023-04-16T13:06:22+02:00",
+    "updated_at": "2023-04-16T13:24:14+02:00",
     "media_id": "ntbxyz6ago3d",
     "duration": null,
     "canonical_section": {
@@ -409,7 +432,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/wielrennen/6259663/brand-en-stultiens-pakken-minuut-voorsprong-in-amstel-gold-race.html",
+    "url": "/wielrennen/6259663/voorsprong-brand-en-stultiens-loopt-snel-terug-in-amstel-gold-race.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/songfestival/6259661/optreden-songfestival-duo-in-nederland-wederom-vals-we-werken-er-hard-aan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259658,
-    "slug": "geweldsuitbarsting-in-soedan-56-doden-en-600-gewonden-klm-mijdt-luchtruim",
-    "type": "article",
-    "title": "Geweldsuitbarsting in Soedan: 56 doden en 600 gewonden, KLM mijdt luchtruim",
-    "subtitle": null,
-    "published_at": "2023-04-16T09:30:36+02:00",
-    "updated_at": "2023-04-16T11:06:58+02:00",
-    "media_id": "tj6x0nkajf3f",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6259658/geweldsuitbarsting-in-soedan-56-doden-en-600-gewonden-klm-mijdt-luchtruim.html",
     "open_new_window": false,
     "partner": null
   }
