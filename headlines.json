@@ -1,12 +1,35 @@
 [
   {
-    "id": 6259957,
-    "slug": "gestaakt-duel-nac-willem-ii-wordt-volgende-week-dinsdag-uitgespeeld",
+    "id": 6259959,
+    "slug": "rechter-asielzoekers-hebben-het-recht-om-meer-dan-24-weken-per-jaar-te-werken",
     "type": "article",
-    "title": "Gestaakt duel NAC-Willem II wordt volgende week dinsdag uitgespeeld",
+    "title": "Rechter: Asielzoekers hebben het recht om meer dan 24 weken per jaar te werken",
+    "subtitle": null,
+    "published_at": "2023-04-18T13:49:09+02:00",
+    "updated_at": "2023-04-18T13:49:22+02:00",
+    "media_id": "c7axqkua8vb3",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6259959/rechter-asielzoekers-hebben-het-recht-om-meer-dan-24-weken-per-jaar-te-werken.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6259957,
+    "slug": "gestaakt-duel-nac-willem-ii-wordt-volgende-week-dinsdag-overdag-uitgespeeld",
+    "type": "article",
+    "title": "Gestaakt duel NAC-Willem II wordt volgende week dinsdag overdag uitgespeeld",
     "subtitle": null,
     "published_at": "2023-04-18T13:30:20+02:00",
-    "updated_at": "2023-04-18T13:30:21+02:00",
+    "updated_at": "2023-04-18T13:44:33+02:00",
     "media_id": "jf9xh07aichc",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6259957/gestaakt-duel-nac-willem-ii-wordt-volgende-week-dinsdag-uitgespeeld.html",
+    "url": "/voetbal/6259957/gestaakt-duel-nac-willem-ii-wordt-volgende-week-dinsdag-overdag-uitgespeeld.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6259922/thaise-feestgangers-opgeschrikt-door-schoten-in-nachtclub.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259920,
-    "slug": "jumbo-visma-verlengt-contract-van-tour-winnaar-vingegaard-tot-en-met-2027",
-    "type": "article",
-    "title": "Jumbo-Visma verlengt contract van Tour-winnaar Vingegaard tot en met 2027",
-    "subtitle": null,
-    "published_at": "2023-04-18T10:34:25+02:00",
-    "updated_at": "2023-04-18T11:01:15+02:00",
-    "media_id": "yoxxn0ia6j4s",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6259920/jumbo-visma-verlengt-contract-van-tour-winnaar-vingegaard-tot-en-met-2027.html",
     "open_new_window": false,
     "partner": null
   }
