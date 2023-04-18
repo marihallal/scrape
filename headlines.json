@@ -1,5 +1,51 @@
 [
   {
+    "id": 6260032,
+    "slug": "fox-news-treft-schikking-en-betaalt-stemmachinefabrikant-bijna-800-miljoen-dollar",
+    "type": "article",
+    "title": "Fox News treft schikking en betaalt stemmachinefabrikant bijna 800 miljoen dollar",
+    "subtitle": null,
+    "published_at": "2023-04-18T22:50:17+02:00",
+    "updated_at": "2023-04-18T22:51:13+02:00",
+    "media_id": "sthxtcua2gbl",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6260032/fox-news-treft-schikking-en-betaalt-stemmachinefabrikant-bijna-800-miljoen-dollar.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6260031,
+    "slug": "onderzeeer-filmt-groot-nieuw-koraalrif-in-stille-oceaan",
+    "type": "video",
+    "title": "Onderzeeër filmt groot 'nieuw' koraalrif in Stille Oceaan",
+    "subtitle": "Video",
+    "published_at": "2023-04-18T22:35:20+02:00",
+    "updated_at": "2023-04-18T22:35:21+02:00",
+    "media_id": "yaux05wasdd4",
+    "duration": "0:40",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6260031/onderzeeer-filmt-groot-nieuw-koraalrif-in-stille-oceaan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6260018,
     "slug": "darters-staan-nog-niet-te-springen-voor-de-klapschaats-onder-de-pijlen",
     "type": "article",
@@ -47,12 +93,12 @@
   },
   {
     "id": 6260025,
-    "slug": "vier-mannen-zwaargewond-na-steekpartij-in-sportschool-in-duitse-duisburg",
+    "slug": "vier-mannen-zwaargewond-door-steekpartij-in-sportschool-in-duisburg",
     "type": "article",
-    "title": "Vier mannen zwaargewond na steekpartij in sportschool in Duitse Duisburg",
+    "title": "Vier mannen zwaargewond door steekpartij in sportschool in Duisburg",
     "subtitle": null,
     "published_at": "2023-04-18T22:09:23+02:00",
-    "updated_at": "2023-04-18T22:14:12+02:00",
+    "updated_at": "2023-04-18T22:36:10+02:00",
     "media_id": "axvxrkjaz03s",
     "duration": null,
     "canonical_section": {
@@ -64,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6260025/vier-mannen-zwaargewond-na-steekpartij-in-sportschool-in-duitse-duisburg.html",
+    "url": "/buitenland/6260025/vier-mannen-zwaargewond-door-steekpartij-in-sportschool-in-duisburg.html",
     "open_new_window": false,
     "partner": null
   },
@@ -185,13 +231,13 @@
   },
   {
     "id": 6260007,
-    "slug": "napoli-hoopt-op-wonder-tegen-milan-real-dicht-bij-halve-finales",
+    "slug": "milan-keeper-maignan-goud-waard-bij-penalty-real-op-rozen-in-londen",
     "type": "article",
-    "title": "Napoli hoopt op wonder tegen Milan, Real dicht bij halve finales",
+    "title": "Milan-keeper Maignan goud waard bij penalty, Real op rozen in Londen",
     "subtitle": "Liveblog",
     "published_at": "2023-04-18T20:38:47+02:00",
-    "updated_at": "2023-04-18T22:29:27+02:00",
-    "media_id": "4djxp8waq7z6",
+    "updated_at": "2023-04-18T22:48:12+02:00",
+    "media_id": "ynsx3zqaqv8j",
     "duration": null,
     "canonical_section": {
       "id": 1772488,
@@ -202,7 +248,7 @@
       "media_id": "fkdxrdfanwfa",
       "partner": null
     },
-    "url": "/champions-league/6260007/napoli-hoopt-op-wonder-tegen-milan-real-dicht-bij-halve-finales.html",
+    "url": "/champions-league/6260007/milan-keeper-maignan-goud-waard-bij-penalty-real-op-rozen-in-londen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/videos/6260008/zelensky-bezoekt-troepen-aan-frontlinie-in-oost-oekraine.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260003,
-    "slug": "nfl-speler-hamlin-mag-ruim-vier-maanden-na-hartstilstand-terugkeren-op-het-veld",
-    "type": "article",
-    "title": "NFL-speler Hamlin mag ruim vier maanden na hartstilstand terugkeren op het veld",
-    "subtitle": null,
-    "published_at": "2023-04-18T18:51:50+02:00",
-    "updated_at": "2023-04-18T18:51:51+02:00",
-    "media_id": "d9fxfkqaniwf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6260003/nfl-speler-hamlin-mag-ruim-vier-maanden-na-hartstilstand-terugkeren-op-het-veld.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259983,
-    "slug": "jullie-reacties-op-de-jeugdzorgonderhandelingen-dit-is-onbegrijpelijk",
-    "type": "article",
-    "title": "Jullie reacties op de jeugdzorgonderhandelingen: 'Dit is onbegrijpelijk'",
-    "subtitle": null,
-    "published_at": "2023-04-18T18:32:36+02:00",
-    "updated_at": "2023-04-18T18:32:38+02:00",
-    "media_id": "gfxx96vax0bg",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6259983/jullie-reacties-op-de-jeugdzorgonderhandelingen-dit-is-onbegrijpelijk.html",
     "open_new_window": false,
     "partner": null
   }
