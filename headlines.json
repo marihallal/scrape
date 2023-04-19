@@ -1,5 +1,51 @@
 [
   {
+    "id": 6260098,
+    "slug": "claudia-de-breij-komt-met-nieuwe-theatervoorstelling",
+    "type": "article",
+    "title": "Claudia de Breij komt met nieuwe theatervoorstelling",
+    "subtitle": null,
+    "published_at": "2023-04-19T12:49:54+02:00",
+    "updated_at": "2023-04-19T12:49:56+02:00",
+    "media_id": "m6sx4qlak44w",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772075,
+      "slug": "cultuur-overig",
+      "type": "default",
+      "name": "Boek & Cultuur",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/cultuur-overig/6260098/claudia-de-breij-komt-met-nieuwe-theatervoorstelling.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6260096,
+    "slug": "vollering-drie-dagen-na-winst-amstel-gold-race-ook-oppermachtig-in-waalse-pijl",
+    "type": "article",
+    "title": "Vollering drie dagen na winst Amstel Gold Race ook oppermachtig in Waalse Pijl",
+    "subtitle": null,
+    "published_at": "2023-04-19T12:29:57+02:00",
+    "updated_at": "2023-04-19T12:47:02+02:00",
+    "media_id": "ucjxb3ja4fht",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6260096/vollering-drie-dagen-na-winst-amstel-gold-race-ook-oppermachtig-in-waalse-pijl.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6260095,
     "slug": "vissers-na-zes-dagen-gered-van-onbewoond-australisch-eiland",
     "type": "video",
@@ -75,7 +121,7 @@
     "title": "Verenigd Koninkrijk heeft mede door Brexit hoogste inflatie van West-Europa",
     "subtitle": null,
     "published_at": "2023-04-19T12:01:29+02:00",
-    "updated_at": "2023-04-19T12:17:55+02:00",
+    "updated_at": "2023-04-19T12:26:52+02:00",
     "media_id": "7nwx2feae7n4",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/film/6260052/charlie-sheen-te-zien-in-nieuwe-serie-van-two-and-a-half-men-bedenker.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260053,
-    "slug": "panamakanaal-heeft-last-van-droogte-schepen-moeten-lichter-zijn",
-    "type": "article",
-    "title": "Panamakanaal heeft last van droogte: schepen moeten lichter zijn",
-    "subtitle": null,
-    "published_at": "2023-04-19T08:23:03+02:00",
-    "updated_at": "2023-04-19T08:23:05+02:00",
-    "media_id": "azgxp9vaehlt",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6260053/panamakanaal-heeft-last-van-droogte-schepen-moeten-lichter-zijn.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260050,
-    "slug": "parkeergarage-van-drie-verdiepingen-ingestort-in-new-york",
-    "type": "video",
-    "title": "Parkeergarage van drie verdiepingen ingestort in New York",
-    "subtitle": "Video",
-    "published_at": "2023-04-19T07:54:05+02:00",
-    "updated_at": "2023-04-19T08:37:16+02:00",
-    "media_id": "xtzxkvtabny4",
-    "duration": "0:44",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6260050/parkeergarage-van-drie-verdiepingen-ingestort-in-new-york.html",
     "open_new_window": false,
     "partner": null
   }
