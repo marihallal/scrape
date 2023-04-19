@@ -1,5 +1,28 @@
 [
   {
+    "id": 6260036,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-04-19T05:23:54+02:00",
+    "updated_at": "2023-04-19T05:23:56+02:00",
+    "media_id": "5orxtf5awygy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6260036/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6259898,
     "slug": "leuk-die-foto-van-je-kind-op-instagram-heb-je-daar-ook-toestemming-voor",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6260022/dashcam-filmt-fietser-die-over-antwerpse-snelweg-rijdt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260019,
-    "slug": "taakstraffen-voor-feyenoord-fans-vanwege-walgelijke-spandoeken-in-tirana",
-    "type": "article",
-    "title": "Taakstraffen voor Feyenoord-fans vanwege 'walgelijke' spandoeken in Tirana",
-    "subtitle": null,
-    "published_at": "2023-04-18T20:57:14+02:00",
-    "updated_at": "2023-04-19T05:15:04+02:00",
-    "media_id": "jz6xo7dau4yl",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6260019/taakstraffen-voor-feyenoord-fans-vanwege-walgelijke-spandoeken-in-tirana.html",
     "open_new_window": false,
     "partner": null
   }
