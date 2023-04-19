@@ -1,12 +1,58 @@
 [
   {
+    "id": 6260053,
+    "slug": "panamakanaal-heeft-last-van-droogte-schepen-moeten-lichter-zijn",
+    "type": "article",
+    "title": "Panamakanaal heeft last van droogte: schepen moeten lichter zijn",
+    "subtitle": null,
+    "published_at": "2023-04-19T08:23:03+02:00",
+    "updated_at": "2023-04-19T08:23:05+02:00",
+    "media_id": "azgxp9vaehlt",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6260053/panamakanaal-heeft-last-van-droogte-schepen-moeten-lichter-zijn.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6260050,
+    "slug": "parkeergarage-van-drie-verdiepingen-ingestort-in-new-york",
+    "type": "video",
+    "title": "Parkeergarage van drie verdiepingen ingestort in New York",
+    "subtitle": "Video",
+    "published_at": "2023-04-19T07:54:05+02:00",
+    "updated_at": "2023-04-19T07:54:06+02:00",
+    "media_id": "xtzxkvtabny4",
+    "duration": "0:44",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6260050/parkeergarage-van-drie-verdiepingen-ingestort-in-new-york.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6260048,
     "slug": "leao-neemt-ac-milan-a-la-gullit-bij-de-hand-in-napels-we-blijven-dromen",
     "type": "article",
     "title": "Leão neemt AC Milan à la Gullit bij de hand in Napels: 'We blijven dromen'",
     "subtitle": null,
     "published_at": "2023-04-19T07:40:58+02:00",
-    "updated_at": "2023-04-19T07:49:06+02:00",
+    "updated_at": "2023-04-19T08:14:18+02:00",
     "media_id": "5r4x03ea0g6p",
     "duration": null,
     "canonical_section": {
@@ -29,7 +75,7 @@
     "title": "Ultramarathonrenner gediskwalificeerd omdat ze deel parcours met auto aflegde",
     "subtitle": null,
     "published_at": "2023-04-19T07:36:56+02:00",
-    "updated_at": "2023-04-19T07:36:58+02:00",
+    "updated_at": "2023-04-19T07:56:57+02:00",
     "media_id": "3emxfq0a9e99",
     "duration": null,
     "canonical_section": {
@@ -75,7 +121,7 @@
     "title": "Supermarktklanten geven het meest uit aan sigaretten, cola en bier",
     "subtitle": null,
     "published_at": "2023-04-19T07:20:12+02:00",
-    "updated_at": "2023-04-19T07:30:36+02:00",
+    "updated_at": "2023-04-19T08:01:08+02:00",
     "media_id": "2xyxawyabm6d",
     "duration": null,
     "canonical_section": {
@@ -328,7 +374,7 @@
     "title": "Discussie over 2030 zet stikstofmiljarden op de tocht: 'Wij stemmen niet voor die wet'",
     "subtitle": null,
     "published_at": "2023-04-19T05:05:29+02:00",
-    "updated_at": "2023-04-19T07:20:11+02:00",
+    "updated_at": "2023-04-19T08:23:57+02:00",
     "media_id": "rg4xjrsaon3e",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6260035/groot-gat-tussen-de-wensen-van-groningen-en-de-plannen-van-het-kabinet.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260030,
-    "slug": "ac-milan-voor-het-eerst-in-zestien-jaar-naar-laatste-vier-champions-league",
-    "type": "article",
-    "title": "AC Milan voor het eerst in zestien jaar naar laatste vier Champions League",
-    "subtitle": null,
-    "published_at": "2023-04-18T22:59:18+02:00",
-    "updated_at": "2023-04-19T07:09:12+02:00",
-    "media_id": "dahxie5avyc6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6260030/ac-milan-voor-het-eerst-in-zestien-jaar-naar-laatste-vier-champions-league.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260033,
-    "slug": "real-madrid-haalt-simpel-halve-finales-en-maakt-rampseizoen-chelsea-compleet",
-    "type": "article",
-    "title": "Real Madrid haalt simpel halve finales en maakt rampseizoen Chelsea compleet",
-    "subtitle": null,
-    "published_at": "2023-04-18T22:53:46+02:00",
-    "updated_at": "2023-04-19T00:00:42+02:00",
-    "media_id": "q8nxsotag31v",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6260033/real-madrid-haalt-simpel-halve-finales-en-maakt-rampseizoen-chelsea-compleet.html",
     "open_new_window": false,
     "partner": null
   }
