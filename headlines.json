@@ -1,5 +1,28 @@
 [
   {
+    "id": 6260188,
+    "slug": "zo-recyclet-deze-unieke-slooprobot-iphones-op-milieubewuste-manier",
+    "type": "video",
+    "title": "Zo recyclet deze unieke 'slooprobot' iPhones op milieubewuste manier",
+    "subtitle": "Explainer",
+    "published_at": "2023-04-20T06:35:11+02:00",
+    "updated_at": "2023-04-20T06:35:31+02:00",
+    "media_id": "m1uxxumazkbd",
+    "duration": "2:40",
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6260188/zo-recyclet-deze-unieke-slooprobot-iphones-op-milieubewuste-manier.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6260193,
     "slug": "weerbericht-wolken-en-regen-maar-tussendoor-schijnt-de-zon",
     "type": "article",
@@ -282,7 +305,7 @@
     "title": "City houdt door hoofdrol Haaland simpel stand bij Bayern en bereikt laatste vier CL",
     "subtitle": null,
     "published_at": "2023-04-19T22:59:03+02:00",
-    "updated_at": "2023-04-20T05:44:48+02:00",
+    "updated_at": "2023-04-20T06:28:52+02:00",
     "media_id": "aq4xp5haliup",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6260177/inlichtingendienst-waarschuwt-china-aast-op-onze-ruimtevaarttechnologie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260178,
-    "slug": "rkc-verliest-ondanks-wereldgoal-kramer-op-valreep-bij-go-ahead-in-spektakelstuk",
-    "type": "article",
-    "title": "RKC verliest ondanks wereldgoal Kramer op valreep bij Go Ahead in spektakelstuk",
-    "subtitle": null,
-    "published_at": "2023-04-19T20:49:18+02:00",
-    "updated_at": "2023-04-19T21:45:14+02:00",
-    "media_id": "rrjxcl3aexs2",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6260178/rkc-verliest-ondanks-wereldgoal-kramer-op-valreep-bij-go-ahead-in-spektakelstuk.html",
     "open_new_window": false,
     "partner": null
   }
