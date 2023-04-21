@@ -1,5 +1,28 @@
 [
   {
+    "id": 6260371,
+    "slug": "rob-de-nijs-opgenomen-in-het-ziekenhuis",
+    "type": "article",
+    "title": "Rob de Nijs opgenomen in het ziekenhuis",
+    "subtitle": null,
+    "published_at": "2023-04-21T08:53:00+02:00",
+    "updated_at": "2023-04-21T08:53:01+02:00",
+    "media_id": "ssgximnal5wv",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6260371/rob-de-nijs-opgenomen-in-het-ziekenhuis.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6260368,
     "slug": "ten-hag-keihard-over-blunders-en-gebrek-aan-passie-dit-is-onaanvaardbaar",
     "type": "article",
@@ -75,7 +98,7 @@
     "title": "Mourinho looft Feyenoord, maar deelt toch sneer uit met speciale sleutelhanger",
     "subtitle": null,
     "published_at": "2023-04-21T07:56:14+02:00",
-    "updated_at": "2023-04-21T08:35:22+02:00",
+    "updated_at": "2023-04-21T08:52:42+02:00",
     "media_id": "2m0xvgpag0yj",
     "duration": null,
     "canonical_section": {
@@ -98,8 +121,8 @@
     "title": "Russische bewakingscamera filmt hoe eigen vliegtuig explosie veroorzaakt",
     "subtitle": "Video",
     "published_at": "2023-04-21T07:37:34+02:00",
-    "updated_at": "2023-04-21T07:37:35+02:00",
-    "media_id": "qibx5xqat5ti",
+    "updated_at": "2023-04-21T09:00:54+02:00",
+    "media_id": "u2hxqqja6mhd",
     "duration": "0:45",
     "canonical_section": {
       "id": 1772431,
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/provinciale-statenverkiezingen/6260078/bbb-in-alle-provincies-nog-aan-zet-d66-vooralsnog-nergens-aan-tafel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260354,
-    "slug": "aspinall-ziet-van-gerwen-bezwijken-onder-druk-hij-kon-niet-stoppen-met-ingooien",
-    "type": "article",
-    "title": "Aspinall ziet Van Gerwen bezwijken onder druk: 'Hij kon niet stoppen met ingooien'",
-    "subtitle": null,
-    "published_at": "2023-04-21T02:43:16+02:00",
-    "updated_at": "2023-04-21T07:57:13+02:00",
-    "media_id": "i4fx9hlan0ei",
-    "duration": null,
-    "canonical_section": {
-      "id": 1777376,
-      "slug": "darts",
-      "type": "default",
-      "name": "Darts",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/darts/6260354/aspinall-ziet-van-gerwen-bezwijken-onder-druk-hij-kon-niet-stoppen-met-ingooien.html",
     "open_new_window": false,
     "partner": null
   }
