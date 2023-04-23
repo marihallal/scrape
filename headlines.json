@@ -1,12 +1,35 @@
 [
   {
+    "id": 6260583,
+    "slug": "lezers-over-verkeersveiligheid-helmplicht-elektrische-fietsers-een-goed-idee",
+    "type": "article",
+    "title": "Lezers over verkeersveiligheid: 'Helmplicht elektrische fietsers een goed idee'",
+    "subtitle": null,
+    "published_at": "2023-04-23T12:27:08+02:00",
+    "updated_at": "2023-04-23T12:27:09+02:00",
+    "media_id": "pbcxrdya2rgr",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773185,
+      "slug": "nujij",
+      "type": "default",
+      "name": "Praat mee op NUjij",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/nujij/6260583/lezers-over-verkeersveiligheid-helmplicht-elektrische-fietsers-een-goed-idee.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6260117,
     "slug": "bijna-gratis-kinderopvang-trekt-investeerders-tijd-voor-een-prijsplafond",
     "type": "article",
-    "title": "Bijna gratis kinderopvang trekt investeerders, tijd voor een prijsplafond?",
+    "title": "Bijna gratis kinderopvang trekt investeerders: tijd voor een prijsplafond?",
     "subtitle": "NU+",
     "published_at": "2023-04-23T12:06:50+02:00",
-    "updated_at": "2023-04-23T12:20:26+02:00",
+    "updated_at": "2023-04-23T12:27:02+02:00",
     "media_id": "82dx57uaber7",
     "duration": null,
     "canonical_section": {
@@ -231,12 +254,12 @@
   },
   {
     "id": 6260652,
-    "slug": "ijzersterke-vollering-strijdt-om-winst-in-slotfase-luik-bastenaken-luik",
+    "slug": "reacties-op-zege-van-oppermachtige-vollering-in-luik-bastenaken-luik",
     "type": "article",
-    "title": "IJzersterke Vollering strijdt om winst in slotfase Luik-Bastenaken-Luik",
+    "title": "Reacties op zege van oppermachtige Vollering in Luik-Bastenaken-Luik",
     "subtitle": "Liveblog",
     "published_at": "2023-04-23T09:52:07+02:00",
-    "updated_at": "2023-04-23T12:20:04+02:00",
+    "updated_at": "2023-04-23T12:31:55+02:00",
     "media_id": "3wdxjcra12qg",
     "duration": null,
     "canonical_section": {
@@ -248,7 +271,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/wielrennen/6260652/ijzersterke-vollering-strijdt-om-winst-in-slotfase-luik-bastenaken-luik.html",
+    "url": "/wielrennen/6260652/reacties-op-zege-van-oppermachtige-vollering-in-luik-bastenaken-luik.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6260116/wat-doet-en-verdient-een-meteoroloog.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260641,
-    "slug": "amerikaans-ambassadepersoneel-ondanks-gevechten-geevacueerd-uit-soedan",
-    "type": "article",
-    "title": "Amerikaans ambassadepersoneel ondanks gevechten geëvacueerd uit Soedan",
-    "subtitle": null,
-    "published_at": "2023-04-23T06:28:47+02:00",
-    "updated_at": "2023-04-23T09:37:55+02:00",
-    "media_id": "jpnx3klauaia",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6260641/amerikaans-ambassadepersoneel-ondanks-gevechten-geevacueerd-uit-soedan.html",
     "open_new_window": false,
     "partner": null
   }
