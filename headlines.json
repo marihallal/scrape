@@ -1,5 +1,28 @@
 [
   {
+    "id": 6260774,
+    "slug": "philips-blijft-ondanks-problemen-belangrijke-speler-mensen-kijken-echt-naar-ons",
+    "type": "article",
+    "title": "Philips blijft ondanks problemen belangrijke speler: 'Mensen kijken echt naar ons'",
+    "subtitle": null,
+    "published_at": "2023-04-24T11:30:18+02:00",
+    "updated_at": "2023-04-24T11:30:19+02:00",
+    "media_id": "lsfxwmoau104",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6260774/philips-blijft-ondanks-problemen-belangrijke-speler-mensen-kijken-echt-naar-ons.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6260768,
     "slug": "ing-heeft-opnieuw-storing-rond-salarisdag-klanten-kunnen-geen-geld-overmaken",
     "type": "article",
@@ -116,12 +139,12 @@
   },
   {
     "id": 6260750,
-    "slug": "lege-schappen-dreigen-bij-albert-heijn-naarmate-stakingen-uitbreiden",
+    "slug": "albert-heijn-klanten-kunnen-misgrijpen-door-stakingen-in-distributiecentra",
     "type": "article",
-    "title": "Lege schappen dreigen bij Albert Heijn naarmate stakingen uitbreiden",
+    "title": "Albert Heijn-klanten kunnen misgrijpen door stakingen in distributiecentra",
     "subtitle": null,
     "published_at": "2023-04-24T08:27:27+02:00",
-    "updated_at": "2023-04-24T09:33:37+02:00",
+    "updated_at": "2023-04-24T11:26:34+02:00",
     "media_id": "mzgxcxmadpbu",
     "duration": null,
     "canonical_section": {
@@ -133,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6260750/lege-schappen-dreigen-bij-albert-heijn-naarmate-stakingen-uitbreiden.html",
+    "url": "/economie/6260750/albert-heijn-klanten-kunnen-misgrijpen-door-stakingen-in-distributiecentra.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6260735/ruim-twintig-mensen-moeten-hun-huis-verlaten-na-explosie-in-rotterdamse-portiek.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260734,
-    "slug": "nederlands-windpark-op-zee-direct-gekoppeld-aan-nieuwe-stroomkabel-richting-vk",
-    "type": "article",
-    "title": "Nederlands windpark op zee direct gekoppeld aan nieuwe stroomkabel richting VK",
-    "subtitle": null,
-    "published_at": "2023-04-24T06:01:53+02:00",
-    "updated_at": "2023-04-24T10:06:54+02:00",
-    "media_id": "bs0xfx2ammoo",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6260734/nederlands-windpark-op-zee-direct-gekoppeld-aan-nieuwe-stroomkabel-richting-vk.html",
     "open_new_window": false,
     "partner": null
   }
