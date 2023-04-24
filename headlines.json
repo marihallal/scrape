@@ -1,5 +1,28 @@
 [
   {
+    "id": 6260872,
+    "slug": "bogarde-zolang-van-der-sar-er-zit-hoeft-ajax-mij-niet-te-bellen",
+    "type": "article",
+    "title": "Bogarde: 'Zolang Van der Sar er zit, hoeft Ajax mij niet te bellen'",
+    "subtitle": null,
+    "published_at": "2023-04-24T22:37:35+02:00",
+    "updated_at": "2023-04-24T22:49:49+02:00",
+    "media_id": "mahxhcra5l3y",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6260872/bogarde-zolang-van-der-sar-er-zit-hoeft-ajax-mij-niet-te-bellen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6260868,
     "slug": "apen-kunnen-voor-en-nadelen-afwegen-bij-het-nemen-van-moeilijke-beslissingen",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Van Bommel doet Jong PSV pijn, Jong Ajax verliest door goal in 97e minuut",
     "subtitle": null,
     "published_at": "2023-04-24T22:03:12+02:00",
-    "updated_at": "2023-04-24T22:23:44+02:00",
+    "updated_at": "2023-04-24T22:39:08+02:00",
     "media_id": "nsox8gdaquch",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6260852/noordzee-wordt-de-grootste-groene-energiecentrale-ter-wereld.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260849,
-    "slug": "kandidaten-organisatie-wk-vrouwen-2027-bekend-nederland-heeft-drie-rivalen",
-    "type": "article",
-    "title": "Kandidaten organisatie WK vrouwen 2027 bekend: Nederland heeft drie rivalen",
-    "subtitle": null,
-    "published_at": "2023-04-24T18:41:52+02:00",
-    "updated_at": "2023-04-24T18:55:08+02:00",
-    "media_id": "gmgxay9ayou5",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6260849/kandidaten-organisatie-wk-vrouwen-2027-bekend-nederland-heeft-drie-rivalen.html",
     "open_new_window": false,
     "partner": null
   }
