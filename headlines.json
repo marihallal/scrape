@@ -1,5 +1,28 @@
 [
   {
+    "id": 6260946,
+    "slug": "linda-de-mol-presenteert-in-het-najaar-weer-ik-hou-van-holland",
+    "type": "article",
+    "title": "Linda de Mol presenteert in het najaar weer Ik hou van Holland",
+    "subtitle": null,
+    "published_at": "2023-04-25T14:42:26+02:00",
+    "updated_at": "2023-04-25T14:42:28+02:00",
+    "media_id": "86fxle2aoe1g",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6260946/linda-de-mol-presenteert-in-het-najaar-weer-ik-hou-van-holland.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6260947,
     "slug": "verlenging-graandeal-oekraine-en-rusland-weer-op-losse-schroeven",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Ongehoord Nederland blijft uitzenden tot zijn licentie (mogelijk) verdwijnt",
     "subtitle": null,
     "published_at": "2023-04-25T14:07:24+02:00",
-    "updated_at": "2023-04-25T14:12:27+02:00",
+    "updated_at": "2023-04-25T14:41:24+02:00",
     "media_id": "460xlsha228m",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Groningen krijgt 22 miljard euro compensatie voor gevolgen van gaswinning",
     "subtitle": null,
     "published_at": "2023-04-25T14:01:24+02:00",
-    "updated_at": "2023-04-25T14:33:21+02:00",
+    "updated_at": "2023-04-25T14:48:18+02:00",
     "media_id": "jd6x2z0atekd",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6260921/ook-jeugdtrainer-vanenburg-vertrekt-bij-ajax-club-is-verkeerde-weg-ingeslagen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260918,
-    "slug": "dierenpark-amersfoort-krijgt-tientallen-zakjes-poep-opgestuurd-voor-onderzoek",
-    "type": "article",
-    "title": "DierenPark Amersfoort krijgt tientallen zakjes poep opgestuurd voor onderzoek",
-    "subtitle": null,
-    "published_at": "2023-04-25T11:12:37+02:00",
-    "updated_at": "2023-04-25T12:01:10+02:00",
-    "media_id": "ypmxdx5aqve1",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6260918/dierenpark-amersfoort-krijgt-tientallen-zakjes-poep-opgestuurd-voor-onderzoek.html",
     "open_new_window": false,
     "partner": null
   }
