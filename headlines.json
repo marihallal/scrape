@@ -1,5 +1,28 @@
 [
   {
+    "id": 6261413,
+    "slug": "tweeduizend-gedupeerde-transavia-reizigers-dienen-claim-in-voor-compensatie",
+    "type": "article",
+    "title": "Tweeduizend gedupeerde Transavia-reizigers dienen claim in voor compensatie",
+    "subtitle": null,
+    "published_at": "2023-04-28T15:19:51+02:00",
+    "updated_at": "2023-04-28T15:19:52+02:00",
+    "media_id": "r4fxmxeatr2x",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6261413/tweeduizend-gedupeerde-transavia-reizigers-dienen-claim-in-voor-compensatie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6261408,
     "slug": "katy-perry-verliest-van-katie-perry-merchandise-schond-copyright-van-modemerk",
     "type": "article",
@@ -24,24 +47,24 @@
   },
   {
     "id": 6261409,
-    "slug": "zorgmedewerkers-die-door-postcovid-arbeidsongeschikt-werden-krijgen-vergoeding",
+    "slug": "vergoeding-voor-zorgpersoneel-dat-door-postcovidsyndroom-niet-meer-kan-werken",
     "type": "article",
-    "title": "Zorgmedewerkers die door postcovid arbeidsongeschikt werden, krijgen vergoeding",
+    "title": "Vergoeding voor zorgpersoneel dat door postcovidsyndroom niet meer kan werken",
     "subtitle": null,
     "published_at": "2023-04-28T14:49:58+02:00",
-    "updated_at": "2023-04-28T14:54:48+02:00",
+    "updated_at": "2023-04-28T15:13:26+02:00",
     "media_id": "v8txow2aipyi",
     "duration": null,
     "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
+      "id": 99,
+      "slug": "economie",
       "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
+      "name": "Economie",
+      "style": "nuzakelijk",
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6261409/zorgmedewerkers-die-door-postcovid-arbeidsongeschikt-werden-krijgen-vergoeding.html",
+    "url": "/economie/6261409/vergoeding-voor-zorgpersoneel-dat-door-postcovidsyndroom-niet-meer-kan-werken.html",
     "open_new_window": false,
     "partner": null
   },
@@ -75,7 +98,7 @@
     "title": "Ajax neemt zaterdag besluit over meespelen Kudus en Rensch in bekerfinale",
     "subtitle": null,
     "published_at": "2023-04-28T14:25:04+02:00",
-    "updated_at": "2023-04-28T14:28:49+02:00",
+    "updated_at": "2023-04-28T15:18:35+02:00",
     "media_id": "7q4xeuzap3lc",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Agent vervolgd voor schieten op tractor die door jongen (16) werd bestuurd",
     "subtitle": null,
     "published_at": "2023-04-28T14:15:25+02:00",
-    "updated_at": "2023-04-28T14:57:40+02:00",
+    "updated_at": "2023-04-28T15:09:02+02:00",
     "media_id": "f6zxsp5ayr3e",
     "duration": null,
     "canonical_section": {
@@ -121,7 +144,7 @@
     "title": "Jonathan Majors krijgt contactverbod opgelegd in mishandelingszaak",
     "subtitle": null,
     "published_at": "2023-04-28T14:12:48+02:00",
-    "updated_at": "2023-04-28T14:12:50+02:00",
+    "updated_at": "2023-04-28T15:15:09+02:00",
     "media_id": "pa3xrbgafasl",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/formule-1/6261383/verstappen-nipt-sneller-dan-leclerc-in-training-gp-bakoe-de-vries-maakt-indruk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6261373,
-    "slug": "ook-verbrand-door-de-zon-op-koude-koningsdag-dat-komt-hierdoor",
-    "type": "article",
-    "title": "Ook verbrand door de zon op 'koude' Koningsdag? Dat komt hierdoor",
-    "subtitle": null,
-    "published_at": "2023-04-28T12:17:57+02:00",
-    "updated_at": "2023-04-28T14:03:06+02:00",
-    "media_id": "t03xidbaoqv5",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6261373/ook-verbrand-door-de-zon-op-koude-koningsdag-dat-komt-hierdoor.html",
     "open_new_window": false,
     "partner": null
   }
