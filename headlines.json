@@ -1,12 +1,35 @@
 [
   {
+    "id": 6261423,
+    "slug": "recensieoverzicht-metallica-in-johan-cruijff-arena-vlijmscherp-en-vlammend",
+    "type": "article",
+    "title": "Recensieoverzicht Metallica in Johan Cruijff Arena: 'Vlijmscherp en vlammend'",
+    "subtitle": null,
+    "published_at": "2023-04-28T16:10:37+02:00",
+    "updated_at": "2023-04-28T16:10:39+02:00",
+    "media_id": "e7lxfh5agyo5",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6261423/recensieoverzicht-metallica-in-johan-cruijff-arena-vlijmscherp-en-vlammend.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6261412,
     "slug": "corona-lijkt-terug-in-peloton-opnieuw-twee-renners-niet-van-start-na-positieve-test",
     "type": "article",
     "title": "Corona lijkt terug in peloton: opnieuw twee renners niet van start na positieve test",
     "subtitle": null,
     "published_at": "2023-04-28T15:48:37+02:00",
-    "updated_at": "2023-04-28T15:48:38+02:00",
+    "updated_at": "2023-04-28T15:58:02+02:00",
     "media_id": "u5xxv96ar890",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Heitinga keek eerste kwartier PSV-Ajax vijf keer terug: 'Ik wil zondag een reactie'",
     "subtitle": null,
     "published_at": "2023-04-28T15:23:23+02:00",
-    "updated_at": "2023-04-28T15:40:56+02:00",
+    "updated_at": "2023-04-28T15:55:29+02:00",
     "media_id": "y4lxwpbanzh2",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6261391/modric-raakt-ruim-een-week-voor-bekerfinale-en-cl-kraker-geblesseerd-bij-real.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6261389,
-    "slug": "knvb-beker-wordt-uitgereikt-door-berry-van-aerle-of-simon-tahamata",
-    "type": "article",
-    "title": "KNVB-beker wordt uitgereikt door Berry van Aerle of Simon Tahamata",
-    "subtitle": null,
-    "published_at": "2023-04-28T13:08:03+02:00",
-    "updated_at": "2023-04-28T13:42:38+02:00",
-    "media_id": "8dlx7j0aru2d",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6261389/knvb-beker-wordt-uitgereikt-door-berry-van-aerle-of-simon-tahamata.html",
     "open_new_window": false,
     "partner": null
   }
