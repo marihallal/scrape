@@ -1,5 +1,51 @@
 [
   {
+    "id": 6261452,
+    "slug": "chatgpt-weer-beschikbaar-in-italie-na-verbod-door-toezichthouder",
+    "type": "article",
+    "title": "ChatGPT weer beschikbaar in Italië na verbod door toezichthouder",
+    "subtitle": null,
+    "published_at": "2023-04-28T18:48:55+02:00",
+    "updated_at": "2023-04-28T18:48:57+02:00",
+    "media_id": "m8fx55taotvj",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6261452/chatgpt-weer-beschikbaar-in-italie-na-verbod-door-toezichthouder.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6261451,
+    "slug": "opnieuw-zit-een-amerikaanse-bank-diep-in-de-problemen",
+    "type": "article",
+    "title": "Opnieuw zit een Amerikaanse bank diep in de problemen",
+    "subtitle": null,
+    "published_at": "2023-04-28T18:45:01+02:00",
+    "updated_at": "2023-04-28T18:45:03+02:00",
+    "media_id": "qvhxmfza5q4o",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6261451/opnieuw-zit-een-amerikaanse-bank-diep-in-de-problemen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6261440,
     "slug": "leclerc-zelf-ook-verrast-met-pole-maar-in-de-race-is-red-bull-sneller",
     "type": "article",
@@ -27,9 +73,9 @@
     "slug": "analyse-verrassende-pole-leclerc-zegt-iets-over-zijn-magere-winstkansen",
     "type": "article",
     "title": "Analyse: Verrassende pole Leclerc zegt iets over zijn magere winstkansen",
-    "subtitle": null,
+    "subtitle": "NU+",
     "published_at": "2023-04-28T18:33:22+02:00",
-    "updated_at": "2023-04-28T18:33:23+02:00",
+    "updated_at": "2023-04-28T18:44:47+02:00",
     "media_id": "7rlxthna5rh3",
     "duration": null,
     "canonical_section": {
@@ -121,7 +167,7 @@
     "title": "Transavia schrapt ook vluchten in mei en juni door problemen met toestellen",
     "subtitle": null,
     "published_at": "2023-04-28T17:52:48+02:00",
-    "updated_at": "2023-04-28T18:28:25+02:00",
+    "updated_at": "2023-04-28T18:46:16+02:00",
     "media_id": "vnoxj99amxj9",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/videos/6261419/kinderen-zoeken-dekking-als-geweerschoten-klinken-tijdens-honkbalwedstrijd.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6261416,
-    "slug": "weekendweerbericht-na-regen-komt-zonneschijn-en-rustig-lenteweer",
-    "type": "article",
-    "title": "Weekendweerbericht: Na regen komt zonneschijn en rustig lenteweer",
-    "subtitle": null,
-    "published_at": "2023-04-28T15:39:21+02:00",
-    "updated_at": "2023-04-28T15:39:23+02:00",
-    "media_id": "cpmx51walwmh",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6261416/weekendweerbericht-na-regen-komt-zonneschijn-en-rustig-lenteweer.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6261414,
-    "slug": "heitinga-keek-eerste-kwartier-psv-ajax-vijf-keer-terug-ik-wil-zondag-een-reactie",
-    "type": "article",
-    "title": "Heitinga keek eerste kwartier PSV-Ajax vijf keer terug: 'Ik wil zondag een reactie'",
-    "subtitle": null,
-    "published_at": "2023-04-28T15:23:23+02:00",
-    "updated_at": "2023-04-28T15:55:29+02:00",
-    "media_id": "y4lxwpbanzh2",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6261414/heitinga-keek-eerste-kwartier-psv-ajax-vijf-keer-terug-ik-wil-zondag-een-reactie.html",
     "open_new_window": false,
     "partner": null
   }
