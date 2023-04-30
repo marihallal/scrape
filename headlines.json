@@ -1,12 +1,35 @@
 [
   {
+    "id": 6261595,
+    "slug": "zorgen-mourinho-door-blessures-misschien-kan-iemand-van-vrouwenteam-spelen",
+    "type": "article",
+    "title": "Zorgen Mourinho door blessures: 'Misschien kan iemand van vrouwenteam spelen?'",
+    "subtitle": null,
+    "published_at": "2023-04-30T09:50:34+02:00",
+    "updated_at": "2023-04-30T09:50:36+02:00",
+    "media_id": "d1mxxccal49h",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6261595/zorgen-mourinho-door-blessures-misschien-kan-iemand-van-vrouwenteam-spelen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6261593,
     "slug": "vooruitblik-gp-azerbeidzjan-stelt-gefrustreerde-verstappen-orde-op-zaken",
     "type": "article",
     "title": "Vooruitblik GP Azerbeidzjan: Stelt gefrustreerde Verstappen orde op zaken?",
     "subtitle": null,
     "published_at": "2023-04-30T09:06:40+02:00",
-    "updated_at": "2023-04-30T09:18:45+02:00",
+    "updated_at": "2023-04-30T09:30:24+02:00",
     "media_id": "4lhx3y9a6zea",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "De mooiste foto's van de bekerwinst van Nederlands getint Toulouse",
     "subtitle": "In beeld",
     "published_at": "2023-04-30T09:04:26+02:00",
-    "updated_at": "2023-04-30T09:24:16+02:00",
+    "updated_at": "2023-04-30T09:30:57+02:00",
     "media_id": "x8mxryhaaoob",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Barcelona-coach Xavi onder de indruk van vijftienjarige Yamal: 'Enorme potentie'",
     "subtitle": null,
     "published_at": "2023-04-30T08:37:36+02:00",
-    "updated_at": "2023-04-30T09:23:04+02:00",
+    "updated_at": "2023-04-30T09:33:17+02:00",
     "media_id": "m1hxdwzamfre",
     "duration": null,
     "canonical_section": {
@@ -167,7 +190,7 @@
     "title": "Opnieuw explosie in onrustige Rotterdamse straat, vierde incident in week",
     "subtitle": null,
     "published_at": "2023-04-30T06:26:12+02:00",
-    "updated_at": "2023-04-30T09:28:28+02:00",
+    "updated_at": "2023-04-30T09:38:50+02:00",
     "media_id": "iutxxlgae8nd",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6261573/opnieuw-problemen-bij-aanleg-maasdeltatunnel-afzinken-tweede-deel-mislukt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6261571,
-    "slug": "nac-zet-in-doelpuntenfestijn-tegen-roda-jc-reuzenstap-richting-play-offs",
-    "type": "article",
-    "title": "NAC zet in doelpuntenfestijn tegen Roda JC reuzenstap richting play-offs",
-    "subtitle": null,
-    "published_at": "2023-04-29T20:59:07+02:00",
-    "updated_at": "2023-04-30T08:03:28+02:00",
-    "media_id": "vw1xaa4a2dfi",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6261571/nac-zet-in-doelpuntenfestijn-tegen-roda-jc-reuzenstap-richting-play-offs.html",
     "open_new_window": false,
     "partner": null
   }
