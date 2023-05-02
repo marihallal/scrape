@@ -1,5 +1,51 @@
 [
   {
+    "id": 6261864,
+    "slug": "honderden-dode-meeuwen-gevonden-mogelijk-zijn-ze-aan-vogelgriep-bezweken",
+    "type": "article",
+    "title": "Honderden dode meeuwen gevonden, mogelijk zijn ze aan vogelgriep bezweken",
+    "subtitle": null,
+    "published_at": "2023-05-02T11:47:08+02:00",
+    "updated_at": "2023-05-02T11:47:09+02:00",
+    "media_id": "j1kxv1vafaz0",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6261864/honderden-dode-meeuwen-gevonden-mogelijk-zijn-ze-aan-vogelgriep-bezweken.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6261829,
+    "slug": "kattenkoppen-en-zwart-wit-de-opvallendste-outfits-van-het-met-gala",
+    "type": "article",
+    "title": "Kattenkoppen en zwart-wit: de opvallendste outfits van het Met Gala",
+    "subtitle": "In beeld",
+    "published_at": "2023-05-02T11:45:13+02:00",
+    "updated_at": "2023-05-02T11:45:14+02:00",
+    "media_id": "0ylxwh9aivo4",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6261829/kattenkoppen-en-zwart-wit-de-opvallendste-outfits-van-het-met-gala.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6261867,
     "slug": "drone-filmt-door-tornado-verwoeste-huizen-in-vs",
     "type": "video",
@@ -29,8 +75,8 @@
     "title": "Jutta Leerdam en Caroline van der Plas in nieuw seizoen College Tour",
     "subtitle": null,
     "published_at": "2023-05-02T11:27:37+02:00",
-    "updated_at": "2023-05-02T11:27:39+02:00",
-    "media_id": "cn3xck7agbgq",
+    "updated_at": "2023-05-02T11:48:39+02:00",
+    "media_id": "oalxeyhao6lg",
     "duration": null,
     "canonical_section": {
       "id": 1771675,
@@ -75,7 +121,7 @@
     "title": "Boze Infantino dreigt televisierechten WK vrouwen niet aan toplanden te verkopen",
     "subtitle": null,
     "published_at": "2023-05-02T11:10:48+02:00",
-    "updated_at": "2023-05-02T11:16:28+02:00",
+    "updated_at": "2023-05-02T11:39:15+02:00",
     "media_id": "0qgx9koarjzd",
     "duration": null,
     "canonical_section": {
@@ -98,7 +144,7 @@
     "title": "Europese Commissie geeft groen licht voor uitkoopplannen van boeren",
     "subtitle": null,
     "published_at": "2023-05-02T11:09:58+02:00",
-    "updated_at": "2023-05-02T11:25:30+02:00",
+    "updated_at": "2023-05-02T11:32:21+02:00",
     "media_id": "cgjxjzpatmmy",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/spanningen-oekraine/6261827/russische-raketaanvallen-houden-aan-zelensky-belooft-een-antwoord.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6261826,
-    "slug": "voordeur-aan-diggelen-na-explosie-in-hellevoetsluis",
-    "type": "video",
-    "title": "Voordeur aan diggelen na explosie in Hellevoetsluis",
-    "subtitle": "Video",
-    "published_at": "2023-05-02T08:08:44+02:00",
-    "updated_at": "2023-05-02T08:08:50+02:00",
-    "media_id": "8yjx2qna0ojf",
-    "duration": "0:38",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6261826/voordeur-aan-diggelen-na-explosie-in-hellevoetsluis.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6261825,
-    "slug": "aandeel-starters-met-een-hypotheek-neemt-toe",
-    "type": "article",
-    "title": "Aandeel starters met een hypotheek neemt toe",
-    "subtitle": null,
-    "published_at": "2023-05-02T08:00:11+02:00",
-    "updated_at": "2023-05-02T10:24:36+02:00",
-    "media_id": "yhmxwp6altfp",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6261825/aandeel-starters-met-een-hypotheek-neemt-toe.html",
     "open_new_window": false,
     "partner": null
   }
