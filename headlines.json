@@ -1,5 +1,51 @@
 [
   {
+    "id": 6262070,
+    "slug": "familie-vrienden-en-collegas-nemen-afscheid-van-paul-van-vliet",
+    "type": "article",
+    "title": "Familie, vrienden en collega's nemen afscheid van Paul van Vliet",
+    "subtitle": null,
+    "published_at": "2023-05-03T16:27:10+02:00",
+    "updated_at": "2023-05-03T16:27:11+02:00",
+    "media_id": "vswxvj6aml4f",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772075,
+      "slug": "cultuur-overig",
+      "type": "default",
+      "name": "Boek & Cultuur",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/cultuur-overig/6262070/familie-vrienden-en-collegas-nemen-afscheid-van-paul-van-vliet.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6262072,
+    "slug": "ten-hag-eist-in-beslissende-weken-het-maximale-goed-is-niet-goed-genoeg",
+    "type": "article",
+    "title": "Ten Hag eist in beslissende weken het maximale: 'Goed is niet goed genoeg'",
+    "subtitle": null,
+    "published_at": "2023-05-03T16:19:53+02:00",
+    "updated_at": "2023-05-03T16:19:54+02:00",
+    "media_id": "2zqxu8pal4vd",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6262072/ten-hag-eist-in-beslissende-weken-het-maximale-goed-is-niet-goed-genoeg.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6262065,
     "slug": "pringles-bus-verliest-metalen-bodem-en-kan-straks-bij-oud-papier",
     "type": "article",
@@ -75,7 +121,7 @@
     "title": "Politie gebruikt speciale TikTok-telefoons om spionage te voorkomen",
     "subtitle": null,
     "published_at": "2023-05-03T15:47:28+02:00",
-    "updated_at": "2023-05-03T15:59:23+02:00",
+    "updated_at": "2023-05-03T16:31:19+02:00",
     "media_id": "6mixkhnakxzj",
     "duration": null,
     "canonical_section": {
@@ -144,7 +190,7 @@
     "title": "Topsprintster en voormalig wereldkampioene Tori Bowie (32) overleden",
     "subtitle": null,
     "published_at": "2023-05-03T15:16:17+02:00",
-    "updated_at": "2023-05-03T16:06:36+02:00",
+    "updated_at": "2023-05-03T16:30:54+02:00",
     "media_id": "2xvx0lvavaam",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6262019/acht-jaar-cel-voor-belarussische-journalist-die-van-ryanair-vlucht-is-gehaald.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6262033,
-    "slug": "olympisch-kampioen-van-avermaet-37-stopt-na-dit-seizoen-met-wielrennen",
-    "type": "article",
-    "title": "Olympisch kampioen Van Avermaet (37) stopt na dit seizoen met wielrennen",
-    "subtitle": null,
-    "published_at": "2023-05-03T12:35:51+02:00",
-    "updated_at": "2023-05-03T12:55:00+02:00",
-    "media_id": "hakx816az0ki",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6262033/olympisch-kampioen-van-avermaet-37-stopt-na-dit-seizoen-met-wielrennen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6262032,
-    "slug": "hulpdiensten-op-de-been-na-schietpartij-op-servische-basisschool",
-    "type": "video",
-    "title": "Hulpdiensten op de been na schietpartij op Servische basisschool",
-    "subtitle": "Video",
-    "published_at": "2023-05-03T12:27:11+02:00",
-    "updated_at": "2023-05-03T12:40:35+02:00",
-    "media_id": "o82xda4avhv3",
-    "duration": "0:39",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6262032/hulpdiensten-op-de-been-na-schietpartij-op-servische-basisschool.html",
     "open_new_window": false,
     "partner": null
   }
