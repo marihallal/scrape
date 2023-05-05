@@ -1,5 +1,28 @@
 [
   {
+    "id": 6261831,
+    "slug": "ai-kan-revolutie-in-de-kankerzorg-ontketenen-maar-in-hoeverre-willen-we-dat",
+    "type": "article",
+    "title": "AI kan revolutie in de kankerzorg ontketenen, maar in hoeverre willen we dat?",
+    "subtitle": "NU+",
+    "published_at": "2023-05-05T12:30:32+02:00",
+    "updated_at": "2023-05-05T12:30:34+02:00",
+    "media_id": "mauxx0ra2559",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779219,
+      "slug": "tech-wetenschap",
+      "type": "default",
+      "name": "Tech & Wetenschap",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech-wetenschap/6261831/ai-kan-revolutie-in-de-kankerzorg-ontketenen-maar-in-hoeverre-willen-we-dat.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6262171,
     "slug": "een-nunl-nieuwsredacteur-staat-constant-aan-je-belandt-in-een-hyperfocus",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6262293/feest-barst-los-in-napels-na-veroveren-eerste-landstitel-sinds-1990.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6262290,
-    "slug": "hier-vond-de-tweede-dodelijke-schietpartij-in-korte-tijd-in-servie-plaats",
-    "type": "video",
-    "title": "Hier vond de tweede dodelijke schietpartij in korte tijd in Servië plaats",
-    "subtitle": "Video",
-    "published_at": "2023-05-05T07:51:56+02:00",
-    "updated_at": "2023-05-05T07:51:58+02:00",
-    "media_id": "zicx5ciah65n",
-    "duration": "0:44",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6262290/hier-vond-de-tweede-dodelijke-schietpartij-in-korte-tijd-in-servie-plaats.html",
     "open_new_window": false,
     "partner": null
   }
