@@ -1,5 +1,28 @@
 [
   {
+    "id": 6263100,
+    "slug": "drone-filmt-grote-brand-in-caravanstelling-bleiswijk",
+    "type": "video",
+    "title": "Drone filmt grote brand in caravanstelling Bleiswijk",
+    "subtitle": "Video",
+    "published_at": "2023-05-10T21:50:57+02:00",
+    "updated_at": "2023-05-10T21:50:58+02:00",
+    "media_id": "r43xr1zavyuh",
+    "duration": "0:42",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6263100/drone-filmt-grote-brand-in-caravanstelling-bleiswijk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6263062,
     "slug": "starter-wint-terrein-op-huizenmarkt-doordat-belegger-zich-terugtrekt",
     "type": "article",
@@ -144,7 +167,7 @@
     "title": "Evenepoel heeft veel pijn na valpartijen, maar stapt donderdag wel weer op in Giro",
     "subtitle": null,
     "published_at": "2023-05-10T20:43:28+02:00",
-    "updated_at": "2023-05-10T21:26:10+02:00",
+    "updated_at": "2023-05-10T21:38:35+02:00",
     "media_id": "1glxpaxa00cq",
     "duration": null,
     "canonical_section": {
@@ -162,12 +185,12 @@
   },
   {
     "id": 6263083,
-    "slug": "inter-door-flitsende-start-al-vroeg-op-rozen-in-cl-kraker-tegen-milan",
+    "slug": "inter-door-flitsende-start-halverwege-op-rozen-in-cl-kraker-tegen-milan",
     "type": "article",
-    "title": "Inter door flitsende start al vroeg op rozen in CL-kraker tegen Milan",
+    "title": "Inter door flitsende start halverwege op rozen in CL-kraker tegen Milan",
     "subtitle": "Liveblog",
     "published_at": "2023-05-10T20:30:38+02:00",
-    "updated_at": "2023-05-10T21:33:24+02:00",
+    "updated_at": "2023-05-10T21:51:24+02:00",
     "media_id": "bd5xh0saozar",
     "duration": null,
     "canonical_section": {
@@ -179,7 +202,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6263083/inter-door-flitsende-start-al-vroeg-op-rozen-in-cl-kraker-tegen-milan.html",
+    "url": "/voetbal/6263083/inter-door-flitsende-start-halverwege-op-rozen-in-cl-kraker-tegen-milan.html",
     "open_new_window": false,
     "partner": null
   },
@@ -420,7 +443,7 @@
     "title": "Israël en Palestijnen bestoken elkaar weer met raketten: doden en gewonden",
     "subtitle": null,
     "published_at": "2023-05-10T19:02:02+02:00",
-    "updated_at": "2023-05-10T19:11:31+02:00",
+    "updated_at": "2023-05-10T21:43:28+02:00",
     "media_id": "6ghxhrva7wih",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6263081/israel-en-palestijnen-bestoken-elkaar-weer-met-raketten-doden-en-gewonden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6263023,
-    "slug": "stapje-dichter-bij-europese-ai-wet-akkoord-komt-pas-in-2024",
-    "type": "article",
-    "title": "Stapje dichter bij Europese AI-wet, akkoord komt pas in 2024",
-    "subtitle": null,
-    "published_at": "2023-05-10T18:42:50+02:00",
-    "updated_at": "2023-05-10T18:42:52+02:00",
-    "media_id": "m8fx55taotvj",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6263023/stapje-dichter-bij-europese-ai-wet-akkoord-komt-pas-in-2024.html",
     "open_new_window": false,
     "partner": null
   }
