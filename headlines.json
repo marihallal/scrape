@@ -1,5 +1,28 @@
 [
   {
+    "id": 6263176,
+    "slug": "huurprijzen-in-de-vrije-sector-opnieuw-een-beetje-gezakt",
+    "type": "article",
+    "title": "Huurprijzen in de vrije sector opnieuw een beetje gezakt",
+    "subtitle": null,
+    "published_at": "2023-05-11T12:33:06+02:00",
+    "updated_at": "2023-05-11T12:33:07+02:00",
+    "media_id": "9dkxataapocg",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6263176/huurprijzen-in-de-vrije-sector-opnieuw-een-beetje-gezakt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6263173,
     "slug": "afschotplan-oostvaardersplassen-volledig-uitgevoerd-aantal-grazers-nu-op-peil",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/algemeen/6263127/wat-wil-jij-weten-over-het-stikstofbeleid-stel-hier-je-vragen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6263129,
-    "slug": "willem-alexander-over-vakantie-tijdens-pandemie-grootste-inschattingsfout-ooit",
-    "type": "article",
-    "title": "Willem-Alexander over vakantie tijdens pandemie: 'Grootste inschattingsfout ooit'",
-    "subtitle": null,
-    "published_at": "2023-05-11T08:55:48+02:00",
-    "updated_at": "2023-05-11T08:58:20+02:00",
-    "media_id": "mz4xtzza3nhc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778775,
-      "slug": "koningshuis",
-      "type": "default",
-      "name": "Koningshuis",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/koningshuis/6263129/willem-alexander-over-vakantie-tijdens-pandemie-grootste-inschattingsfout-ooit.html",
     "open_new_window": false,
     "partner": null
   }
