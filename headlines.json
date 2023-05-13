@@ -6,7 +6,7 @@
     "title": "Newcastle speelt gelijk en verzuimt voorsprong op United en Ten Hag te vergroten",
     "subtitle": null,
     "published_at": "2023-05-13T15:27:55+02:00",
-    "updated_at": "2023-05-13T15:27:56+02:00",
+    "updated_at": "2023-05-13T15:35:19+02:00",
     "media_id": "g1oxudbaojop",
     "duration": null,
     "canonical_section": {
@@ -144,19 +144,19 @@
     "title": "Laag sneeuw bedekt noorden van Spanje na extreme hitte",
     "subtitle": "Video",
     "published_at": "2023-05-13T13:35:24+02:00",
-    "updated_at": "2023-05-13T13:35:26+02:00",
+    "updated_at": "2023-05-13T15:50:20+02:00",
     "media_id": "0svxwnwai9hc",
     "duration": "0:35",
     "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
+      "id": 100,
+      "slug": "algemeen",
       "type": "default",
-      "name": "Video's",
-      "style": null,
+      "name": "Algemeen",
+      "style": "nu",
       "media_id": null,
       "partner": null
     },
-    "url": "/videos/6263501/laag-sneeuw-bedekt-noorden-van-spanje-na-extreme-hitte.html",
+    "url": "/algemeen/6263501/laag-sneeuw-bedekt-noorden-van-spanje-na-extreme-hitte.html",
     "open_new_window": false,
     "partner": null
   },
@@ -323,13 +323,13 @@
   },
   {
     "id": 6263491,
-    "slug": "riesebeek-in-kopgroep-van-dertien-team-dsm-controleert-voorsprong",
+    "slug": "healy-demarreert-op-eerste-klim-uit-kopgroep-peloton-blijft-rustig",
     "type": "article",
-    "title": "Riesebeek in kopgroep van dertien, Team DSM controleert voorsprong",
+    "title": "Healy demarreert op eerste klim uit kopgroep, peloton blijft rustig",
     "subtitle": "Liveblog Giro",
     "published_at": "2023-05-13T12:02:02+02:00",
-    "updated_at": "2023-05-13T15:07:39+02:00",
-    "media_id": "ymhxj97aq909",
+    "updated_at": "2023-05-13T15:49:18+02:00",
+    "media_id": "gegx3ica0cn6",
     "duration": null,
     "canonical_section": {
       "id": 1772339,
@@ -340,7 +340,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/wielrennen/6263491/riesebeek-in-kopgroep-van-dertien-team-dsm-controleert-voorsprong.html",
+    "url": "/wielrennen/6263491/healy-demarreert-op-eerste-klim-uit-kopgroep-peloton-blijft-rustig.html",
     "open_new_window": false,
     "partner": null
   },
