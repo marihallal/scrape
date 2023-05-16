@@ -1,12 +1,58 @@
 [
   {
+    "id": 6263937,
+    "slug": "ggz-personeel-krijgt-flinke-extra-loonsverhoging-vanwege-inflatie",
+    "type": "article",
+    "title": "Ggz-personeel krijgt flinke extra loonsverhoging vanwege inflatie",
+    "subtitle": null,
+    "published_at": "2023-05-16T17:51:14+02:00",
+    "updated_at": "2023-05-16T17:51:15+02:00",
+    "media_id": "f54xl8nah1s3",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6263937/ggz-personeel-krijgt-flinke-extra-loonsverhoging-vanwege-inflatie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6263928,
+    "slug": "korte-huurcontracten-voor-studentenwoningen-verleden-tijd",
+    "type": "article",
+    "title": "Korte huurcontracten voor studentenwoningen verleden tijd",
+    "subtitle": null,
+    "published_at": "2023-05-16T17:49:15+02:00",
+    "updated_at": "2023-05-16T17:51:04+02:00",
+    "media_id": "y8ext1sav9yr",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771437,
+      "slug": "politiek",
+      "type": "default",
+      "name": "Politiek",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/politiek/6263928/korte-huurcontracten-voor-studentenwoningen-verleden-tijd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6263934,
     "slug": "vluchter-cort-heeft-na-zeges-in-tour-en-vuelta-ook-ritwinst-in-giro-te-pakken",
     "type": "article",
     "title": "Vluchter Cort heeft na zeges in Tour en Vuelta ook ritwinst in Giro te pakken",
     "subtitle": null,
     "published_at": "2023-05-16T17:22:56+02:00",
-    "updated_at": "2023-05-16T17:28:09+02:00",
+    "updated_at": "2023-05-16T17:41:47+02:00",
     "media_id": "v5sxul6a8jbk",
     "duration": null,
     "canonical_section": {
@@ -98,7 +144,7 @@
     "title": "Giro-peloton gevloerd door corona: 'Doorfietsen is roofbouw op het hart'",
     "subtitle": null,
     "published_at": "2023-05-16T16:53:16+02:00",
-    "updated_at": "2023-05-16T16:53:18+02:00",
+    "updated_at": "2023-05-16T17:34:02+02:00",
     "media_id": "8tyx35dazxjj",
     "duration": null,
     "canonical_section": {
@@ -236,7 +282,7 @@
     "title": "Sportief directeur Jordi Cruijff vertrekt na twee jaar bij FC Barcelona",
     "subtitle": null,
     "published_at": "2023-05-16T15:41:52+02:00",
-    "updated_at": "2023-05-16T16:42:03+02:00",
+    "updated_at": "2023-05-16T17:35:07+02:00",
     "media_id": "ai2x4byacwj8",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/opmerkelijk/6263902/dronken-bestuurder-vs-probeert-voor-arrestatie-van-plaats-te-wisselen-met-hond.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6263897,
-    "slug": "staaroperatie-aan-beide-ogen-tegelijk-is-beter-en-goedkoper-dan-huidige-methode",
-    "type": "article",
-    "title": "Staaroperatie aan beide ogen tegelijk is beter en goedkoper dan huidige methode",
-    "subtitle": null,
-    "published_at": "2023-05-16T14:17:03+02:00",
-    "updated_at": "2023-05-16T14:17:04+02:00",
-    "media_id": "c0sxr87aq8r9",
-    "duration": null,
-    "canonical_section": {
-      "id": 478878,
-      "slug": "wetenschap",
-      "type": "default",
-      "name": "Wetenschap",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wetenschap/6263897/staaroperatie-aan-beide-ogen-tegelijk-is-beter-en-goedkoper-dan-huidige-methode.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6263903,
-    "slug": "reacties-op-zege-ajax-voor-lege-tribunes-in-groningen",
-    "type": "article",
-    "title": "Reacties op zege Ajax voor lege tribunes in Groningen",
-    "subtitle": "Liveblog",
-    "published_at": "2023-05-16T14:14:39+02:00",
-    "updated_at": "2023-05-16T16:44:18+02:00",
-    "media_id": "5shx3qzafhrb",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6263903/reacties-op-zege-ajax-voor-lege-tribunes-in-groningen.html",
     "open_new_window": false,
     "partner": null
   }
