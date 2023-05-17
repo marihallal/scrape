@@ -1,5 +1,28 @@
 [
   {
+    "id": 6264047,
+    "slug": "defensie-beveiligt-zwaar-militair-materieel-amper-konden-over-hek-klimmen",
+    "type": "article",
+    "title": "Defensie beveiligt zwaar militair materieel amper: 'Konden over hek klimmen'",
+    "subtitle": null,
+    "published_at": "2023-05-17T12:49:21+02:00",
+    "updated_at": "2023-05-17T12:49:22+02:00",
+    "media_id": "6kyx2nhay4fz",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771437,
+      "slug": "politiek",
+      "type": "default",
+      "name": "Politiek",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/politiek/6264047/defensie-beveiligt-zwaar-militair-materieel-amper-konden-over-hek-klimmen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6264050,
     "slug": "militairen-zoeken-in-colombia-naar-vermiste-kinderen-na-crash",
     "type": "video",
@@ -167,7 +190,7 @@
     "title": "San Antonio Spurs wint loterij en mag basketbalsensatie Wembanyama kiezen",
     "subtitle": null,
     "published_at": "2023-05-17T11:19:27+02:00",
-    "updated_at": "2023-05-17T11:20:16+02:00",
+    "updated_at": "2023-05-17T12:36:34+02:00",
     "media_id": "bfmxu26awcff",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/marengo-proces/6264013/arrestatie-inez-weski-laat-rechtbank-niet-onberoerd-taghi-nog-zonder-advocaat.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6264011,
-    "slug": "franse-oud-president-sarkozy-verliest-hoger-beroep-in-corruptiezaak",
-    "type": "article",
-    "title": "Franse oud-president Sarkozy verliest hoger beroep in corruptiezaak",
-    "subtitle": null,
-    "published_at": "2023-05-17T10:16:32+02:00",
-    "updated_at": "2023-05-17T10:16:33+02:00",
-    "media_id": "tvbxarxa1k2u",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6264011/franse-oud-president-sarkozy-verliest-hoger-beroep-in-corruptiezaak.html",
     "open_new_window": false,
     "partner": null
   }
