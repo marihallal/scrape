@@ -1,5 +1,28 @@
 [
   {
+    "id": 6264256,
+    "slug": "van-gerwen-klopt-dobey-en-houdt-ondanks-schouderpijn-zicht-op-dagzege-in-aberdeen",
+    "type": "article",
+    "title": "Van Gerwen klopt Dobey en houdt ondanks schouderpijn zicht op dagzege in Aberdeen",
+    "subtitle": null,
+    "published_at": "2023-05-18T22:17:25+02:00",
+    "updated_at": "2023-05-18T22:18:23+02:00",
+    "media_id": "gb4x8c1adgfm",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6264256/van-gerwen-klopt-dobey-en-houdt-ondanks-schouderpijn-zicht-op-dagzege-in-aberdeen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6264252,
     "slug": "toerist-valt-in-put-en-raakt-verdwaald-in-riool-in-thailand",
     "type": "video",
@@ -29,7 +52,7 @@
     "title": "Bekerwinst 'pleister op de wond' voor FC Twente Vrouwen na mislopen landstitel",
     "subtitle": null,
     "published_at": "2023-05-18T21:38:41+02:00",
-    "updated_at": "2023-05-18T21:51:35+02:00",
+    "updated_at": "2023-05-18T21:53:37+02:00",
     "media_id": "x8ex4wra0yl0",
     "duration": null,
     "canonical_section": {
@@ -162,12 +185,12 @@
   },
   {
     "id": 6264239,
-    "slug": "az-heeft-halverwege-tegen-west-ham-nog-zicht-op-finale",
+    "slug": "az-heeft-doelpunt-nodig-om-verlenging-af-te-dwingen-tegen-west-ham",
     "type": "article",
-    "title": "AZ heeft halverwege tegen West Ham nog zicht op finale",
+    "title": "AZ heeft doelpunt nodig om verlenging af te dwingen tegen West Ham",
     "subtitle": "Liveblog",
     "published_at": "2023-05-18T19:31:41+02:00",
-    "updated_at": "2023-05-18T21:49:41+02:00",
+    "updated_at": "2023-05-18T22:02:44+02:00",
     "media_id": "xrqxmzla4jpp",
     "duration": null,
     "canonical_section": {
@@ -179,7 +202,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6264239/az-heeft-halverwege-tegen-west-ham-nog-zicht-op-finale.html",
+    "url": "/voetbal/6264239/az-heeft-doelpunt-nodig-om-verlenging-af-te-dwingen-tegen-west-ham.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tech-wetenschap/6264222/verbazing-in-de-wetenschap-hondenhersenen-worden-tegen-verwachting-in-groter.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6264226,
-    "slug": "duitse-avonturier-denz-verrast-in-giro-met-eerste-zege-in-grote-ronde",
-    "type": "article",
-    "title": "Duitse avonturier Denz verrast in Giro met eerste zege in grote ronde",
-    "subtitle": null,
-    "published_at": "2023-05-18T17:12:17+02:00",
-    "updated_at": "2023-05-18T17:52:04+02:00",
-    "media_id": "eshxu1naij8r",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6264226/duitse-avonturier-denz-verrast-in-giro-met-eerste-zege-in-grote-ronde.html",
     "open_new_window": false,
     "partner": null
   }
