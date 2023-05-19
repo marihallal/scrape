@@ -1,12 +1,35 @@
 [
   {
+    "id": 6264335,
+    "slug": "ruim-honderd-verwaarloosde-honden-weggehaald-bij-hardleerse-fokker-in-deurne",
+    "type": "article",
+    "title": "Ruim honderd verwaarloosde honden weggehaald bij hardleerse fokker in Deurne",
+    "subtitle": null,
+    "published_at": "2023-05-19T12:27:39+02:00",
+    "updated_at": "2023-05-19T12:32:57+02:00",
+    "media_id": "0q1xsfta52hi",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772536,
+      "slug": "dieren",
+      "type": "default",
+      "name": "Dieren",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/dieren/6264335/ruim-honderd-verwaarloosde-honden-weggehaald-bij-hardleerse-fokker-in-deurne.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6264331,
     "slug": "verplichting-of-fijne-vrije-dag-praat-mee-over-de-vrijdag-na-hemelvaart",
     "type": "article",
     "title": "Verplichting of fijne vrije dag? Praat mee over de vrijdag na Hemelvaart",
     "subtitle": null,
     "published_at": "2023-05-19T12:02:51+02:00",
-    "updated_at": "2023-05-19T12:02:52+02:00",
+    "updated_at": "2023-05-19T12:17:58+02:00",
     "media_id": "bqix9aja1g5t",
     "duration": null,
     "canonical_section": {
@@ -98,8 +121,8 @@
     "title": "AZ kan nog niet trots zijn op Europees jaar: 'Wat was ik graag naar Praag gegaan'",
     "subtitle": null,
     "published_at": "2023-05-19T11:31:31+02:00",
-    "updated_at": "2023-05-19T11:49:53+02:00",
-    "media_id": "o35xu0bahny9",
+    "updated_at": "2023-05-19T12:18:52+02:00",
+    "media_id": "5voxqbta595u",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -236,7 +259,7 @@
     "title": "Jongen en meisje krijgen boete voor fotograferen zonsopgang op schooldak",
     "subtitle": null,
     "published_at": "2023-05-19T10:26:18+02:00",
-    "updated_at": "2023-05-19T10:26:19+02:00",
+    "updated_at": "2023-05-19T12:19:11+02:00",
     "media_id": "tfpxm7uahvd2",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/media/6264289/hemelvaart-editie-van-the-passion-trekt-een-miljoen-kijkers.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6264290,
-    "slug": "25-opvarenden-gered-van-zeilschip-dat-dreigde-te-zinken-bij-vlieland",
-    "type": "article",
-    "title": "25 opvarenden gered van zeilschip dat dreigde te zinken bij Vlieland",
-    "subtitle": null,
-    "published_at": "2023-05-19T09:12:13+02:00",
-    "updated_at": "2023-05-19T09:38:38+02:00",
-    "media_id": "3tex2w4a1kmi",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6264290/25-opvarenden-gered-van-zeilschip-dat-dreigde-te-zinken-bij-vlieland.html",
     "open_new_window": false,
     "partner": null
   }
