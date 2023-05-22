@@ -1,12 +1,35 @@
 [
   {
+    "id": 6264549,
+    "slug": "stelling-het-aantal-verplichte-studiepunten-omlaag-halen-is-een-goed-idee",
+    "type": "article",
+    "title": "Stelling: Het aantal verplichte studiepunten omlaag halen is een goed idee",
+    "subtitle": null,
+    "published_at": "2023-05-22T07:23:15+02:00",
+    "updated_at": "2023-05-22T07:23:16+02:00",
+    "media_id": "1acxthqa92n7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6264549/stelling-het-aantal-verplichte-studiepunten-omlaag-halen-is-een-goed-idee.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6264474,
     "slug": "noodweer-in-noord-italie-deze-factoren-leidden-tot-de-perfect-storm",
     "type": "article",
-    "title": "Noodweer in Noord-Italië: deze factoren leidden tot de 'perfect storm'",
+    "title": "Noodweer in Noord-Italië: deze factoren leidden tot de perfect storm",
     "subtitle": null,
     "published_at": "2023-05-22T07:15:53+02:00",
-    "updated_at": "2023-05-22T07:15:55+02:00",
+    "updated_at": "2023-05-22T07:31:39+02:00",
     "media_id": "8tpxbdxa3afw",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Weerbericht: Thermometer zegt langs de kust iets heel anders dan in binnenland",
     "subtitle": null,
     "published_at": "2023-05-22T05:45:07+02:00",
-    "updated_at": "2023-05-22T06:10:27+02:00",
+    "updated_at": "2023-05-22T07:29:46+02:00",
     "media_id": "71nxp1labiom",
     "duration": null,
     "canonical_section": {
@@ -142,9 +165,9 @@
     "slug": "keukenapparatuur-steeds-slimmer-maar-vaatwasser-ruimt-zichzelf-niet-in",
     "type": "article",
     "title": "Keukenapparatuur steeds slimmer, maar vaatwasser ruimt zichzelf niet in",
-    "subtitle": "NU+",
+    "subtitle": null,
     "published_at": "2023-05-22T05:07:58+02:00",
-    "updated_at": "2023-05-22T05:07:59+02:00",
+    "updated_at": "2023-05-22T07:24:30+02:00",
     "media_id": "gqyxy4ya9mcb",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6264582/vinicius-wordt-weer-racistisch-bejegend-en-krijgt-in-slotfase-rood-bij-verlies-real.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6263918,
-    "slug": "mpanzu-bracht-zaak-tegen-marechaussee-aan-het-rollen-voelde-me-vernederd",
-    "type": "article",
-    "title": "Mpanzu bracht zaak tegen marechaussee aan het rollen: 'Voelde me vernederd'",
-    "subtitle": null,
-    "published_at": "2023-05-21T20:06:40+02:00",
-    "updated_at": "2023-05-22T05:09:52+02:00",
-    "media_id": "c2sxsylay4rc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6263918/mpanzu-bracht-zaak-tegen-marechaussee-aan-het-rollen-voelde-me-vernederd.html",
     "open_new_window": false,
     "partner": null
   }
