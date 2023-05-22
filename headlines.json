@@ -1,12 +1,35 @@
 [
   {
+    "id": 6264624,
+    "slug": "ryanair-waarschuwt-voor-hogere-ticketprijzen-nu-meer-mensen-willen-vliegen",
+    "type": "article",
+    "title": "Ryanair waarschuwt voor hogere ticketprijzen nu meer mensen willen vliegen",
+    "subtitle": null,
+    "published_at": "2023-05-22T10:24:41+02:00",
+    "updated_at": "2023-05-22T10:24:43+02:00",
+    "media_id": "crhx10caic8u",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6264624/ryanair-waarschuwt-voor-hogere-ticketprijzen-nu-meer-mensen-willen-vliegen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6264627,
     "slug": "vlammen-slaan-uit-historisch-postkantoor-in-manilla",
     "type": "video",
     "title": "Vlammen slaan uit historisch postkantoor in Manilla",
     "subtitle": "Video",
     "published_at": "2023-05-22T10:20:20+02:00",
-    "updated_at": "2023-05-22T10:20:22+02:00",
+    "updated_at": "2023-05-22T10:25:27+02:00",
     "media_id": "ixoxkkpaq71h",
     "duration": "0:32",
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tech/6263919/keukenapparatuur-steeds-slimmer-maar-vaatwasser-ruimt-zichzelf-niet-in.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6264099,
-    "slug": "380-nieuwe-planten-en-diersoorten-ontdekt-in-zuidoost-azie",
-    "type": "article",
-    "title": "380 nieuwe planten- en diersoorten ontdekt in Zuidoost-Azië",
-    "subtitle": null,
-    "published_at": "2023-05-22T00:02:08+02:00",
-    "updated_at": "2023-05-22T00:02:09+02:00",
-    "media_id": "ub6xcy8a2yfk",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772536,
-      "slug": "dieren",
-      "type": "default",
-      "name": "Dieren",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/dieren/6264099/380-nieuwe-planten-en-diersoorten-ontdekt-in-zuidoost-azie.html",
     "open_new_window": false,
     "partner": null
   }
