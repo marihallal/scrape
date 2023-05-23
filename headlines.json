@@ -1,5 +1,28 @@
 [
   {
+    "id": 6264751,
+    "slug": "christusbeeld-in-rio-uur-donker-uit-solidariteit-met-racistisch-bejegende-vinicius",
+    "type": "article",
+    "title": "Christusbeeld in Rio uur donker uit solidariteit met racistisch bejegende Vinícius",
+    "subtitle": null,
+    "published_at": "2023-05-23T09:02:30+02:00",
+    "updated_at": "2023-05-23T09:02:31+02:00",
+    "media_id": "vowxj0xa28jc",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6264751/christusbeeld-in-rio-uur-donker-uit-solidariteit-met-racistisch-bejegende-vinicius.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6264749,
     "slug": "cowboy-te-paard-vangt-ontsnapte-stier-met-lasso-op-snelweg-in-vs",
     "type": "video",
@@ -29,7 +52,7 @@
     "title": "Streep door overname van Amsterdamse afvalverwerker AEB",
     "subtitle": null,
     "published_at": "2023-05-23T08:02:09+02:00",
-    "updated_at": "2023-05-23T08:51:53+02:00",
+    "updated_at": "2023-05-23T08:54:52+02:00",
     "media_id": "bouxxwoabzbk",
     "duration": null,
     "canonical_section": {
@@ -52,8 +75,8 @@
     "title": "Geen NBA-finale voor LeBron James na nieuw verlies tegen Nuggets van Jokic",
     "subtitle": null,
     "published_at": "2023-05-23T07:55:30+02:00",
-    "updated_at": "2023-05-23T08:49:07+02:00",
-    "media_id": "p8mxv9bajuho",
+    "updated_at": "2023-05-23T09:01:08+02:00",
+    "media_id": "mepx4bca85o3",
     "duration": null,
     "canonical_section": {
       "id": 1772456,
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tech/6264736/tiktok-sleept-amerikaanse-staat-montana-voor-de-rechter-wegens-verbod-op-app.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6264679,
-    "slug": "175000-werknemers-erbij-in-de-zorg-maar-tekort-is-nog-steeds-niet-weg",
-    "type": "article",
-    "title": "175.000 werknemers erbij in de zorg, maar tekort is nog steeds niet weg",
-    "subtitle": null,
-    "published_at": "2023-05-23T00:15:54+02:00",
-    "updated_at": "2023-05-23T00:15:55+02:00",
-    "media_id": "wdnxa4ka8eae",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6264679/175000-werknemers-erbij-in-de-zorg-maar-tekort-is-nog-steeds-niet-weg.html",
     "open_new_window": false,
     "partner": null
   }
