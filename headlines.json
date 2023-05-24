@@ -1,5 +1,51 @@
 [
   {
+    "id": 6265010,
+    "slug": "waarom-de-volgende-pandemie-waarschijnlijk-uit-deze-landen-komt",
+    "type": "video",
+    "title": "Waarom de volgende pandemie waarschijnlijk uit deze landen komt",
+    "subtitle": "Explainer",
+    "published_at": "2023-05-24T17:20:59+02:00",
+    "updated_at": "2023-05-24T17:21:00+02:00",
+    "media_id": "c9lxpzuaf9ie",
+    "duration": "2:17",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6265010/waarom-de-volgende-pandemie-waarschijnlijk-uit-deze-landen-komt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6264963,
+    "slug": "dwarslaesiepatient-kan-als-eerste-benen-bewegen-met-hersenen-door-implantaten",
+    "type": "article",
+    "title": "Dwarslaesiepatiënt kan als eerste benen bewegen met hersenen door implantaten",
+    "subtitle": null,
+    "published_at": "2023-05-24T17:20:02+02:00",
+    "updated_at": "2023-05-24T17:20:03+02:00",
+    "media_id": "atuxyozaguy9",
+    "duration": null,
+    "canonical_section": {
+      "id": 478878,
+      "slug": "wetenschap",
+      "type": "default",
+      "name": "Wetenschap",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wetenschap/6264963/dwarslaesiepatient-kan-als-eerste-benen-bewegen-met-hersenen-door-implantaten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6265001,
     "slug": "tennissters-loten-uit-tegen-oekraine-voor-play-offs-billie-jean-king-cup",
     "type": "article",
@@ -29,7 +75,7 @@
     "title": "Nick Schilder brengt vrijdag zijn eerste single zonder Simon uit",
     "subtitle": null,
     "published_at": "2023-05-24T16:43:56+02:00",
-    "updated_at": "2023-05-24T16:43:57+02:00",
+    "updated_at": "2023-05-24T17:20:08+02:00",
     "media_id": "rwbxwu1aov9e",
     "duration": null,
     "canonical_section": {
@@ -52,7 +98,7 @@
     "title": "Leegloop bij PSV gaat door: ook assistent Fred Rutten stopt na dit seizoen",
     "subtitle": null,
     "published_at": "2023-05-24T16:41:23+02:00",
-    "updated_at": "2023-05-24T17:15:27+02:00",
+    "updated_at": "2023-05-24T17:30:09+02:00",
     "media_id": "kaxx13eaqk0i",
     "duration": null,
     "canonical_section": {
@@ -98,7 +144,7 @@
     "title": "Leiding PSV zag vertrek Van Nistelrooij niet aankomen: 'Maar hij was vastberaden'",
     "subtitle": null,
     "published_at": "2023-05-24T16:20:54+02:00",
-    "updated_at": "2023-05-24T17:03:29+02:00",
+    "updated_at": "2023-05-24T17:30:26+02:00",
     "media_id": "u53x6agaeaaj",
     "duration": null,
     "canonical_section": {
@@ -397,7 +443,7 @@
     "title": "Van Nistelrooij vertrekt per direct als trainer PSV wegens gebrek aan steun",
     "subtitle": null,
     "published_at": "2023-05-24T13:20:01+02:00",
-    "updated_at": "2023-05-24T16:21:42+02:00",
+    "updated_at": "2023-05-24T17:30:59+02:00",
     "media_id": "0o6xi61aedke",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6264961/van-nistelrooij-vertrekt-per-direct-als-trainer-psv-wegens-gebrek-aan-steun.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6264959,
-    "slug": "tsjech-plankt-ruim-9-uur-lang-en-breekt-wereldrecord",
-    "type": "video",
-    "title": "Tsjech 'plankt' ruim 9 uur lang en breekt wereldrecord",
-    "subtitle": "Video",
-    "published_at": "2023-05-24T13:13:09+02:00",
-    "updated_at": "2023-05-24T13:13:10+02:00",
-    "media_id": "nj0x3xcaxlfo",
-    "duration": "0:39",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6264959/tsjech-plankt-ruim-9-uur-lang-en-breekt-wereldrecord.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6264954,
-    "slug": "klagend-facebook-moet-alle-documenten-geven-die-brussel-opvraagt",
-    "type": "article",
-    "title": "Klagend Facebook moet alle documenten geven die Brussel opvraagt",
-    "subtitle": null,
-    "published_at": "2023-05-24T12:57:28+02:00",
-    "updated_at": "2023-05-24T12:57:29+02:00",
-    "media_id": "660xqvoajq6f",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6264954/klagend-facebook-moet-alle-documenten-geven-die-brussel-opvraagt.html",
     "open_new_window": false,
     "partner": null
   }
