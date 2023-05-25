@@ -1,5 +1,28 @@
 [
   {
+    "id": 6265155,
+    "slug": "tweevoudig-winnaar-luiten-begint-met-goede-eerste-ronde-aan-klm-open",
+    "type": "article",
+    "title": "Tweevoudig winnaar Luiten begint met goede eerste ronde aan KLM Open",
+    "subtitle": null,
+    "published_at": "2023-05-25T16:28:00+02:00",
+    "updated_at": "2023-05-25T16:28:01+02:00",
+    "media_id": "9m1xb4uaa9hy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6265155/tweevoudig-winnaar-luiten-begint-met-goede-eerste-ronde-aan-klm-open.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6265153,
     "slug": "oscar-kazan-en-vriendin-bregje-verwachten-hun-vijfde-kind-oops-we-did-it-again",
     "type": "article",
@@ -144,7 +167,7 @@
     "title": "Energierekening ietsje lager door daling transportkosten",
     "subtitle": null,
     "published_at": "2023-05-25T15:19:55+02:00",
-    "updated_at": "2023-05-25T15:19:56+02:00",
+    "updated_at": "2023-05-25T16:24:14+02:00",
     "media_id": "j8gxzhga8blw",
     "duration": null,
     "canonical_section": {
@@ -167,7 +190,7 @@
     "title": "Van de Zandschulp en Griekspoor treffen qualifier in eerste ronde Roland Garros",
     "subtitle": null,
     "published_at": "2023-05-25T15:03:49+02:00",
-    "updated_at": "2023-05-25T15:37:18+02:00",
+    "updated_at": "2023-05-25T16:28:04+02:00",
     "media_id": "ts8xydsawh01",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/formule-1/6265119/nyck-de-vries-voelt-geen-extra-druk-voor-gp-monaco-ik-lees-alle-verhalen-niet.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6265116,
-    "slug": "wagner-huurlingen-trekken-zich-terug-uit-bakhmut-rusland-zet-bloedige-strijd-voort",
-    "type": "article",
-    "title": "Wagner-huurlingen trekken zich terug uit Bakhmut, Rusland zet bloedige strijd voort",
-    "subtitle": null,
-    "published_at": "2023-05-25T12:47:32+02:00",
-    "updated_at": "2023-05-25T13:08:11+02:00",
-    "media_id": "q3xxq8yav207",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6265116/wagner-huurlingen-trekken-zich-terug-uit-bakhmut-rusland-zet-bloedige-strijd-voort.html",
     "open_new_window": false,
     "partner": null
   }
