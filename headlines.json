@@ -1,5 +1,28 @@
 [
   {
+    "id": 6265366,
+    "slug": "om-eist-195-jaar-cel-tegen-vrouw-voor-moordcomplot-tegen-haar-man-in-oud-ade",
+    "type": "article",
+    "title": "OM eist 19,5 jaar cel tegen vrouw voor moordcomplot tegen haar man in Oud Ade",
+    "subtitle": null,
+    "published_at": "2023-05-26T17:28:22+02:00",
+    "updated_at": "2023-05-26T17:28:23+02:00",
+    "media_id": "mxuxggpa14fn",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6265366/om-eist-195-jaar-cel-tegen-vrouw-voor-moordcomplot-tegen-haar-man-in-oud-ade.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6265361,
     "slug": "noppert-maakt-drie-weken-voor-nations-league-rentree-bij-heerenveen",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/muziek/6265323/celine-dion-annuleert-tour-met-ziggo-dome-concerten-wegens-gezondheid.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6265327,
-    "slug": "passagiers-filmen-vliegtuig-met-open-nooddeur-in-zuid-korea",
-    "type": "video",
-    "title": "Passagiers filmen vliegtuig met open nooddeur in Zuid-Korea",
-    "subtitle": "Video",
-    "published_at": "2023-05-26T14:15:03+02:00",
-    "updated_at": "2023-05-26T14:24:08+02:00",
-    "media_id": "h4jx0fzauoiu",
-    "duration": "0:40",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6265327/passagiers-filmen-vliegtuig-met-open-nooddeur-in-zuid-korea.html",
     "open_new_window": false,
     "partner": null
   }
