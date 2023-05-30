@@ -1,12 +1,35 @@
 [
   {
-    "id": 6265859,
-    "slug": "vormer-blijft-gedegradeerd-zulte-waregem-ondanks-degradatie-trouw",
+    "id": 6265862,
+    "slug": "vvv-en-almere-strijden-om-finaleplek-in-play-offs-om-promotie",
     "type": "article",
-    "title": "Vormer blijft gedegradeerd Zulte Waregem ondanks degradatie trouw",
+    "title": "VVV en Almere strijden om finaleplek in play-offs om promotie",
+    "subtitle": "Liveblog",
+    "published_at": "2023-05-30T19:46:09+02:00",
+    "updated_at": "2023-05-30T19:47:40+02:00",
+    "media_id": "njpxk70atse6",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6265862/vvv-en-almere-strijden-om-finaleplek-in-play-offs-om-promotie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6265859,
+    "slug": "vormer-blijft-bij-gedegradeerd-zulte-waregem-voelt-als-onafgesloten-hoofdstuk",
+    "type": "article",
+    "title": "Vormer blijft bij gedegradeerd Zulte Waregem: 'Voelt als onafgesloten hoofdstuk'",
     "subtitle": null,
     "published_at": "2023-05-30T19:27:52+02:00",
-    "updated_at": "2023-05-30T19:27:54+02:00",
+    "updated_at": "2023-05-30T19:46:02+02:00",
     "media_id": "l38x542auld9",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6265859/vormer-blijft-gedegradeerd-zulte-waregem-ondanks-degradatie-trouw.html",
+    "url": "/voetbal/6265859/vormer-blijft-bij-gedegradeerd-zulte-waregem-voelt-als-onafgesloten-hoofdstuk.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tennis/6265827/arantxa-rus-verliest-voor-zesde-keer-op-rij-in-eerste-ronde-roland-garros.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6265822,
-    "slug": "helikopter-filmt-auto-op-amerikaans-strand-na-roekeloze-actie",
-    "type": "video",
-    "title": "Helikopter filmt auto op Amerikaans strand na roekeloze actie",
-    "subtitle": "Video",
-    "published_at": "2023-05-30T15:34:13+02:00",
-    "updated_at": "2023-05-30T15:46:07+02:00",
-    "media_id": "ea0x47ya3wxp",
-    "duration": "0:41",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6265822/helikopter-filmt-auto-op-amerikaans-strand-na-roekeloze-actie.html",
     "open_new_window": false,
     "partner": null
   }
