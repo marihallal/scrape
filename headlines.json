@@ -1,12 +1,35 @@
 [
   {
+    "id": 6266043,
+    "slug": "ravage-bij-amsterdams-geldwisselkantoor-na-nieuwe-explosie",
+    "type": "video",
+    "title": "Ravage bij Amsterdams geldwisselkantoor na nieuwe explosie",
+    "subtitle": "Video",
+    "published_at": "2023-06-01T07:30:21+02:00",
+    "updated_at": "2023-06-01T07:30:23+02:00",
+    "media_id": "sllxo8ramuoz",
+    "duration": "0:44",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6266043/ravage-bij-amsterdams-geldwisselkantoor-na-nieuwe-explosie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6266042,
     "slug": "acteur-armie-hammer-niet-vervolgd-wegens-gebrek-aan-bewijs-in-misbruikzaak",
     "type": "article",
     "title": "Acteur Armie Hammer niet vervolgd wegens gebrek aan bewijs in misbruikzaak",
     "subtitle": null,
     "published_at": "2023-06-01T07:17:30+02:00",
-    "updated_at": "2023-06-01T07:17:33+02:00",
+    "updated_at": "2023-06-01T07:21:29+02:00",
     "media_id": "lppxmw5a3knh",
     "duration": null,
     "canonical_section": {
@@ -144,7 +167,7 @@
     "title": "Inflatie blijkt hardnekkig, prijzen in mei harder gestegen dan in april",
     "subtitle": null,
     "published_at": "2023-06-01T06:34:56+02:00",
-    "updated_at": "2023-06-01T06:59:53+02:00",
+    "updated_at": "2023-06-01T07:24:57+02:00",
     "media_id": "i92x4p1a7vu9",
     "duration": null,
     "canonical_section": {
@@ -213,7 +236,7 @@
     "title": "VS-parlement keurt deal schuldenplafond goed en stemt voor verhoging",
     "subtitle": null,
     "published_at": "2023-06-01T05:30:57+02:00",
-    "updated_at": "2023-06-01T06:03:10+02:00",
+    "updated_at": "2023-06-01T07:26:30+02:00",
     "media_id": "691xh0fapfus",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6266028/sevilla-wint-europa-league-voor-7e-keer-na-penaltys-tegen-roma-van-mourinho.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6266026,
-    "slug": "griekspoor-doodziek-van-nederlaag-na-slijtageslag-van-bijna-vijf-uur-in-parijs",
-    "type": "article",
-    "title": "Griekspoor 'doodziek' van nederlaag na slijtageslag van bijna vijf uur in Parijs",
-    "subtitle": null,
-    "published_at": "2023-05-31T23:38:16+02:00",
-    "updated_at": "2023-06-01T06:28:06+02:00",
-    "media_id": "xpaxntja3dl9",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6266026/griekspoor-doodziek-van-nederlaag-na-slijtageslag-van-bijna-vijf-uur-in-parijs.html",
     "open_new_window": false,
     "partner": null
   }
