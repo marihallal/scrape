@@ -1,12 +1,35 @@
 [
   {
+    "id": 6266086,
+    "slug": "thomas-berge-gaat-naast-zingen-ook-fotograferen-grote-passie",
+    "type": "article",
+    "title": "Thomas Berge gaat naast zingen ook fotograferen: 'Grote passie'",
+    "subtitle": null,
+    "published_at": "2023-06-01T11:34:58+02:00",
+    "updated_at": "2023-06-01T11:35:00+02:00",
+    "media_id": "k2cxvl7a4t50",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6266086/thomas-berge-gaat-naast-zingen-ook-fotograferen-grote-passie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6266084,
     "slug": "ajax-veroordeeld-tot-voorronde-europa-league-na-verlies-as-roma-in-el-finale",
     "type": "article",
     "title": "Ajax veroordeeld tot voorronde Europa League na verlies AS Roma in EL-finale",
     "subtitle": null,
     "published_at": "2023-06-01T11:16:38+02:00",
-    "updated_at": "2023-06-01T11:28:59+02:00",
+    "updated_at": "2023-06-01T11:38:19+02:00",
     "media_id": "y1ox80tawe2m",
     "duration": null,
     "canonical_section": {
@@ -93,12 +116,12 @@
   },
   {
     "id": 6266078,
-    "slug": "chinezen-proberen-lading-piepschuim-te-redden-van-vlammenzee",
+    "slug": "chinezen-duwen-brandend-piepschuim-van-vrachtwagen",
     "type": "video",
-    "title": "Chinezen proberen lading piepschuim te redden van vlammenzee",
+    "title": "Chinezen duwen brandend piepschuim van vrachtwagen",
     "subtitle": "Video",
     "published_at": "2023-06-01T10:35:14+02:00",
-    "updated_at": "2023-06-01T10:49:21+02:00",
+    "updated_at": "2023-06-01T11:50:11+02:00",
     "media_id": "5m9x2hwafjdw",
     "duration": "0:36",
     "canonical_section": {
@@ -110,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/videos/6266078/chinezen-proberen-lading-piepschuim-te-redden-van-vlammenzee.html",
+    "url": "/videos/6266078/chinezen-duwen-brandend-piepschuim-van-vrachtwagen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/goed-nieuws/6266045/australische-wetenschappers-bereiken-doorbraak-in-behandeling-endometriose.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6266044,
-    "slug": "valerio-zeno-en-zijn-vriendin-manon-gaan-trouwen",
-    "type": "article",
-    "title": "Valerio Zeno en zijn vriendin Manon gaan trouwen",
-    "subtitle": null,
-    "published_at": "2023-06-01T07:36:04+02:00",
-    "updated_at": "2023-06-01T07:40:17+02:00",
-    "media_id": "xagxon6alax5",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6266044/valerio-zeno-en-zijn-vriendin-manon-gaan-trouwen.html",
     "open_new_window": false,
     "partner": null
   }
