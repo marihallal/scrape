@@ -1,12 +1,35 @@
 [
   {
+    "id": 6266252,
+    "slug": "stelling-kinderen-mogen-op-school-alleen-nog-maar-op-fruit-of-groente-trakteren",
+    "type": "article",
+    "title": "Stelling: Kinderen mogen op school alleen nog maar op fruit of groente trakteren",
+    "subtitle": null,
+    "published_at": "2023-06-03T08:30:55+02:00",
+    "updated_at": "2023-06-03T08:30:57+02:00",
+    "media_id": "tl9xyidafpku",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6266252/stelling-kinderen-mogen-op-school-alleen-nog-maar-op-fruit-of-groente-trakteren.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6266367,
     "slug": "intouchables-inspiratiebron-philippe-pozzo-di-borgo-72-overleden",
     "type": "article",
     "title": "Intouchables-inspiratiebron Philippe Pozzo di Borgo (72) overleden",
     "subtitle": null,
     "published_at": "2023-06-03T08:06:26+02:00",
-    "updated_at": "2023-06-03T08:15:04+02:00",
+    "updated_at": "2023-06-03T08:23:07+02:00",
     "media_id": "yhrxbk4avxti",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/nu-formule-1/6266344/is-er-dit-seizoen-nog-iets-te-doen-aan-de-dominantie-van-red-bull.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6266342,
-    "slug": "uitgever-stopt-deal-met-rammstein-zanger-om-pornofilm-en-vermeend-wangedrag",
-    "type": "article",
-    "title": "Uitgever stopt deal met Rammstein-zanger om pornofilm en vermeend wangedrag",
-    "subtitle": null,
-    "published_at": "2023-06-02T20:50:19+02:00",
-    "updated_at": "2023-06-03T06:30:20+02:00",
-    "media_id": "kofx6otai5c8",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6266342/uitgever-stopt-deal-met-rammstein-zanger-om-pornofilm-en-vermeend-wangedrag.html",
     "open_new_window": false,
     "partner": null
   }
