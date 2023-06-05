@@ -1,5 +1,28 @@
 [
   {
+    "id": 6266614,
+    "slug": "gemiddelde-hypotheekrente-blijft-al-maanden-ongeveer-gelijk",
+    "type": "article",
+    "title": "Gemiddelde hypotheekrente blijft al maanden ongeveer gelijk",
+    "subtitle": null,
+    "published_at": "2023-06-05T09:19:58+02:00",
+    "updated_at": "2023-06-05T09:21:58+02:00",
+    "media_id": "4guxdx2a52p5",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6266614/gemiddelde-hypotheekrente-blijft-al-maanden-ongeveer-gelijk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6266616,
     "slug": "tientallen-afghaanse-meisjes-vergiftigd-op-school",
     "type": "article",
@@ -93,12 +116,12 @@
   },
   {
     "id": 6266612,
-    "slug": "storing-rond-amsterdam-verholpen-treinen-gaan-vanaf-900-uur-weer-rijden",
+    "slug": "storing-rond-amsterdam-verholpen-treinen-rijden-weer",
     "type": "article",
-    "title": "Storing rond Amsterdam verholpen, treinen gaan vanaf 9.00 uur weer rijden",
+    "title": "Storing rond Amsterdam verholpen, treinen rijden weer",
     "subtitle": null,
     "published_at": "2023-06-05T08:37:23+02:00",
-    "updated_at": "2023-06-05T09:01:06+02:00",
+    "updated_at": "2023-06-05T09:30:15+02:00",
     "media_id": "falxa5pa5icp",
     "duration": null,
     "canonical_section": {
@@ -110,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6266612/storing-rond-amsterdam-verholpen-treinen-gaan-vanaf-900-uur-weer-rijden.html",
+    "url": "/binnenland/6266612/storing-rond-amsterdam-verholpen-treinen-rijden-weer.html",
     "open_new_window": false,
     "partner": null
   },
@@ -328,7 +351,7 @@
     "title": "Zo zijn smokkelaars van Russische olie de radar te slim af",
     "subtitle": "Explainer",
     "published_at": "2023-06-05T06:45:09+02:00",
-    "updated_at": "2023-06-05T06:45:10+02:00",
+    "updated_at": "2023-06-05T09:21:01+02:00",
     "media_id": "duoxko9af26b",
     "duration": "1:45",
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6266594/overstromingen-teisteren-haiti-zeker-15-doden-en-13000-mensen-op-de-vlucht.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6266591,
-    "slug": "weerbericht-zonnig-en-warm-maar-wel-af-en-toe-stapelwolken",
-    "type": "article",
-    "title": "Weerbericht: Zonnig en warm, maar wel af en toe stapelwolken",
-    "subtitle": null,
-    "published_at": "2023-06-05T05:54:26+02:00",
-    "updated_at": "2023-06-05T06:48:27+02:00",
-    "media_id": "wyhxarpa1a6q",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6266591/weerbericht-zonnig-en-warm-maar-wel-af-en-toe-stapelwolken.html",
     "open_new_window": false,
     "partner": null
   }
