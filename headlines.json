@@ -1,5 +1,28 @@
 [
   {
+    "id": 6266774,
+    "slug": "taylor-swift-en-matt-healy-zouden-na-maand-alweer-uit-elkaar-zijn",
+    "type": "article",
+    "title": "Taylor Swift en Matt Healy zouden na maand alweer uit elkaar zijn",
+    "subtitle": null,
+    "published_at": "2023-06-06T07:32:15+02:00",
+    "updated_at": "2023-06-06T07:32:17+02:00",
+    "media_id": "wycxo9bad111",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6266774/taylor-swift-en-matt-healy-zouden-na-maand-alweer-uit-elkaar-zijn.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6266763,
     "slug": "terwijl-de-hele-wereld-over-ai-praat-komt-apple-met-een-bril",
     "type": "article",
@@ -47,12 +70,12 @@
   },
   {
     "id": 6266772,
-    "slug": "zaakwaarnemer-heitinga-mislintat-heeft-hem-schofterig-behandeld",
+    "slug": "zaakwaarnemer-mislintat-heeft-heitinga-schofterig-behandeld",
     "type": "article",
-    "title": "Zaakwaarnemer Heitinga: 'Mislintat heeft hem schofterig behandeld'",
+    "title": "Zaakwaarnemer: 'Mislintat heeft Heitinga schofterig behandeld'",
     "subtitle": "Transferupdates",
     "published_at": "2023-06-06T07:00:11+02:00",
-    "updated_at": "2023-06-06T07:00:12+02:00",
+    "updated_at": "2023-06-06T07:22:36+02:00",
     "media_id": "51mxtrsa4pdc",
     "duration": null,
     "canonical_section": {
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6266772/zaakwaarnemer-heitinga-mislintat-heeft-hem-schofterig-behandeld.html",
+    "url": "/voetbal/6266772/zaakwaarnemer-mislintat-heeft-heitinga-schofterig-behandeld.html",
     "open_new_window": false,
     "partner": null
   },
@@ -98,7 +121,7 @@
     "title": "Inflatie weer omhoog omdat energieprijzen minder hard dalen",
     "subtitle": null,
     "published_at": "2023-06-06T06:52:22+02:00",
-    "updated_at": "2023-06-06T07:18:54+02:00",
+    "updated_at": "2023-06-06T07:28:54+02:00",
     "media_id": "x0exlmaahpf2",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6266748/nederlander-in-camper-komt-om-het-leven-doordat-duitse-trucker-file-te-laat-ziet.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6266753,
-    "slug": "robot-maakt-zelfstandig-gerechten-van-kookvideos-na",
-    "type": "video",
-    "title": "Robot maakt zelfstandig gerechten van kookvideo's na",
-    "subtitle": "Video",
-    "published_at": "2023-06-05T22:03:19+02:00",
-    "updated_at": "2023-06-05T22:03:21+02:00",
-    "media_id": "lbgxdk5at1o0",
-    "duration": "0:43",
-    "canonical_section": {
-      "id": 1779219,
-      "slug": "tech-wetenschap",
-      "type": "default",
-      "name": "Tech & Wetenschap",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech-wetenschap/6266753/robot-maakt-zelfstandig-gerechten-van-kookvideos-na.html",
     "open_new_window": false,
     "partner": null
   }
