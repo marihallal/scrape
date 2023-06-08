@@ -1,12 +1,35 @@
 [
   {
+    "id": 6267105,
+    "slug": "zus-tupac-houdt-emotionele-toespraak-bij-onthulling-ster-op-walk-of-fame",
+    "type": "video",
+    "title": "Zus Tupac houdt emotionele toespraak bij onthulling ster op Walk of Fame",
+    "subtitle": "Video",
+    "published_at": "2023-06-08T10:20:40+02:00",
+    "updated_at": "2023-06-08T10:20:42+02:00",
+    "media_id": "s0kx592a1z7h",
+    "duration": "1:20",
+    "canonical_section": {
+      "id": 1772242,
+      "slug": "entertainment",
+      "type": "default",
+      "name": "Media en Cultuur",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/entertainment/6267105/zus-tupac-houdt-emotionele-toespraak-bij-onthulling-ster-op-walk-of-fame.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6267094,
     "slug": "nederlanders-16-en-19-verdacht-van-voorbereiden-terroristisch-misdrijf-in-belgie",
     "type": "article",
     "title": "Nederlanders (16 en 19) verdacht van voorbereiden terroristisch misdrijf in België",
     "subtitle": null,
     "published_at": "2023-06-08T09:46:57+02:00",
-    "updated_at": "2023-06-08T09:50:26+02:00",
+    "updated_at": "2023-06-08T09:55:51+02:00",
     "media_id": "86rx783a0jgu",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Waarom 24 uur van Le Mans (mét Ferrari en Porsche) kraker kan worden",
     "subtitle": "NU+ ",
     "published_at": "2023-06-08T09:06:23+02:00",
-    "updated_at": "2023-06-08T09:12:35+02:00",
+    "updated_at": "2023-06-08T10:14:20+02:00",
     "media_id": "fd1xpqgarkei",
     "duration": null,
     "canonical_section": {
@@ -420,7 +443,7 @@
     "title": "Gravin Eloise verjongt het koningshuis: 'We kennen haar beter dan Amalia'",
     "subtitle": "NU+",
     "published_at": "2023-06-08T05:03:29+02:00",
-    "updated_at": "2023-06-08T08:56:43+02:00",
+    "updated_at": "2023-06-08T10:14:53+02:00",
     "media_id": "gvtxqpoauqli",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/koningshuis/6266857/gravin-eloise-verjongt-het-koningshuis-we-kennen-haar-beter-dan-amalia.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6267008,
-    "slug": "zorgen-over-bezuiniging-op-mensen-met-beperking-overheid-zet-ons-goed-klem",
-    "type": "article",
-    "title": "Zorgen over bezuiniging op mensen met beperking: 'Overheid zet ons goed klem'",
-    "subtitle": null,
-    "published_at": "2023-06-08T05:02:20+02:00",
-    "updated_at": "2023-06-08T09:03:03+02:00",
-    "media_id": "uxvx1aja4n0u",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6267008/zorgen-over-bezuiniging-op-mensen-met-beperking-overheid-zet-ons-goed-klem.html",
     "open_new_window": false,
     "partner": null
   }
