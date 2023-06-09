@@ -1,5 +1,51 @@
 [
   {
+    "id": 6267250,
+    "slug": "al-ittihad-presenteert-grootverdiener-benzema-in-vol-stadion",
+    "type": "video",
+    "title": "Al Ittihad presenteert grootverdiener Benzema in vol stadion",
+    "subtitle": "Video",
+    "published_at": "2023-06-09T08:49:26+02:00",
+    "updated_at": "2023-06-09T08:49:27+02:00",
+    "media_id": "zttxj90alxqx",
+    "duration": "0:29",
+    "canonical_section": {
+      "id": 149,
+      "slug": "sport",
+      "type": "default",
+      "name": "Sport",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport/6267250/al-ittihad-presenteert-grootverdiener-benzema-in-vol-stadion.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6267247,
+    "slug": "haringvlietbrug-acht-weken-dicht-extra-reistijd-loopt-op-tot-meer-dan-een-uur",
+    "type": "article",
+    "title": "Haringvlietbrug acht weken dicht, extra reistijd loopt op tot meer dan een uur",
+    "subtitle": null,
+    "published_at": "2023-06-09T08:46:34+02:00",
+    "updated_at": "2023-06-09T08:49:13+02:00",
+    "media_id": "dsfxnr4ad4cm",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6267247/haringvlietbrug-acht-weken-dicht-extra-reistijd-loopt-op-tot-meer-dan-een-uur.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6267245,
     "slug": "lidl-legt-vegetarische-producten-direct-naast-vlees-om-vleeseter-te-verleiden",
     "type": "article",
@@ -29,7 +75,7 @@
     "title": "Dag na aantreffen verdachte pakketjes explosies in Arnhems winkelcentrum",
     "subtitle": null,
     "published_at": "2023-06-09T07:10:38+02:00",
-    "updated_at": "2023-06-09T07:45:40+02:00",
+    "updated_at": "2023-06-09T08:49:31+02:00",
     "media_id": "nv6xzdoaqsmd",
     "duration": null,
     "canonical_section": {
@@ -52,7 +98,7 @@
     "title": "Groot deel Curaçao heeft weer stroom na urenlange storing",
     "subtitle": null,
     "published_at": "2023-06-09T07:06:54+02:00",
-    "updated_at": "2023-06-09T07:45:47+02:00",
+    "updated_at": "2023-06-09T08:49:47+02:00",
     "media_id": "buexqvka3m6k",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/wetenschap/6267228/mensen-met-slaapproblemen-hebben-meer-kans-op-een-beroerte.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6267229,
-    "slug": "gemaskerde-held-zerrouki-redt-fc-twente-ik-hou-dat-ding-komende-tijd-maar-op",
-    "type": "article",
-    "title": "Gemaskerde held Zerrouki redt FC Twente: 'Ik hou dat ding komende tijd maar op'",
-    "subtitle": null,
-    "published_at": "2023-06-08T23:33:30+02:00",
-    "updated_at": "2023-06-09T07:51:49+02:00",
-    "media_id": "8pexxggat8an",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6267229/gemaskerde-held-zerrouki-redt-fc-twente-ik-hou-dat-ding-komende-tijd-maar-op.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6267224,
-    "slug": "heel-curacao-zit-zonder-stroom-door-extreme-hitte",
-    "type": "article",
-    "title": "Heel Curaçao zit zonder stroom door extreme hitte",
-    "subtitle": null,
-    "published_at": "2023-06-08T22:43:06+02:00",
-    "updated_at": "2023-06-08T23:09:23+02:00",
-    "media_id": "i33x4vqa59ip",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6267224/heel-curacao-zit-zonder-stroom-door-extreme-hitte.html",
     "open_new_window": false,
     "partner": null
   }
