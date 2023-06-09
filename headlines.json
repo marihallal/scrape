@@ -1,5 +1,28 @@
 [
   {
+    "id": 6267365,
+    "slug": "voorzitter-mensenrechtencollege-legt-werk-tijdelijk-neer-vanwege-bestuurscrisis",
+    "type": "article",
+    "title": "Voorzitter mensenrechtencollege legt werk tijdelijk neer vanwege bestuurscrisis",
+    "subtitle": null,
+    "published_at": "2023-06-09T18:44:47+02:00",
+    "updated_at": "2023-06-09T18:44:48+02:00",
+    "media_id": "9ioxbdma6j78",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6267365/voorzitter-mensenrechtencollege-legt-werk-tijdelijk-neer-vanwege-bestuurscrisis.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6267366,
     "slug": "regeer-verlaat-ajax-en-zet-loopbaan-voort-bij-fc-twente-trots-op-deze-stap",
     "type": "article",
@@ -52,8 +75,8 @@
     "title": "Djokovic profiteert in kraker van kramp bij Alcaraz en is finalist op Roland Garros",
     "subtitle": null,
     "published_at": "2023-06-09T18:27:00+02:00",
-    "updated_at": "2023-06-09T18:34:00+02:00",
-    "media_id": "itixpy0a49zz",
+    "updated_at": "2023-06-09T18:42:46+02:00",
+    "media_id": "02vxh8caw6rn",
     "duration": null,
     "canonical_section": {
       "id": 1772432,
@@ -167,7 +190,7 @@
     "title": "Mars en Kitkat terug in Jumbo-schappen na lange ruzie over prijzen",
     "subtitle": null,
     "published_at": "2023-06-09T17:36:40+02:00",
-    "updated_at": "2023-06-09T17:36:41+02:00",
+    "updated_at": "2023-06-09T18:48:22+02:00",
     "media_id": "l8pxnjhagcq1",
     "duration": null,
     "canonical_section": {
@@ -236,7 +259,7 @@
     "title": "Borstkankerbehandeling kan prettiger en goedkoper met minder medicijn",
     "subtitle": null,
     "published_at": "2023-06-09T17:14:16+02:00",
-    "updated_at": "2023-06-09T18:34:05+02:00",
+    "updated_at": "2023-06-09T18:40:54+02:00",
     "media_id": "9fyxbs6axpub",
     "duration": null,
     "canonical_section": {
@@ -259,7 +282,7 @@
     "title": "Nederlands slachtoffer van steekpartij blijkt meisje: 'Ze gaat de goede kant op'",
     "subtitle": null,
     "published_at": "2023-06-09T17:13:57+02:00",
-    "updated_at": "2023-06-09T17:50:34+02:00",
+    "updated_at": "2023-06-09T18:39:46+02:00",
     "media_id": "zd0xamrave4q",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/media/6267322/doet-ie-t-of-doet-ie-t-niet-keert-terug-op-tv-met-ruben-nicolai.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6267321,
-    "slug": "in-utrecht-is-het-een-jaar-lang-verboden-om-tabakswinkel-te-openen",
-    "type": "article",
-    "title": "In Utrecht is het een jaar lang verboden om tabakswinkel te openen",
-    "subtitle": null,
-    "published_at": "2023-06-09T14:57:04+02:00",
-    "updated_at": "2023-06-09T17:26:11+02:00",
-    "media_id": "8zpxw7bapcva",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6267321/in-utrecht-is-het-een-jaar-lang-verboden-om-tabakswinkel-te-openen.html",
     "open_new_window": false,
     "partner": null
   }
