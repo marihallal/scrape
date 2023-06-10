@@ -1,12 +1,35 @@
 [
   {
+    "id": 6267120,
+    "slug": "kokcu-verlaat-jeugdliefde-feyenoord-voor-recordbedrag-en-tekent-bij-benfica",
+    "type": "article",
+    "title": "Kökçü verlaat jeugdliefde Feyenoord voor recordbedrag en tekent bij Benfica",
+    "subtitle": null,
+    "published_at": "2023-06-10T18:46:33+02:00",
+    "updated_at": "2023-06-10T18:46:38+02:00",
+    "media_id": "hxdx8gqafln7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6267120/kokcu-verlaat-jeugdliefde-feyenoord-voor-recordbedrag-en-tekent-bij-benfica.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6267492,
     "slug": "hulpdiensten-in-actie-bij-plas-in-alblasserdam-waar-meisje-verdronk",
     "type": "video",
     "title": "Hulpdiensten in actie bij plas in Alblasserdam waar meisje verdronk",
     "subtitle": "Video",
     "published_at": "2023-06-10T18:35:34+02:00",
-    "updated_at": "2023-06-10T18:35:35+02:00",
+    "updated_at": "2023-06-10T18:38:48+02:00",
     "media_id": "05bx979an75v",
     "duration": "0:36",
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Brand in Ter Aar kon zo groot worden door twee brandhaarden",
     "subtitle": null,
     "published_at": "2023-06-10T18:32:59+02:00",
-    "updated_at": "2023-06-10T18:33:00+02:00",
+    "updated_at": "2023-06-10T18:38:27+02:00",
     "media_id": "wenxe9galg14",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wielrennen/6267465/vingegaard-toont-topvorm-voor-tour-met-fraaie-zege-in-koninginnenrit-dauphine.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6267462,
-    "slug": "bondscoach-koeman-blikt-vooruit-op-halve-finale-nations-league",
-    "type": "video",
-    "title": "Bondscoach Koeman blikt vooruit op halve finale Nations League",
-    "subtitle": "Livestream",
-    "published_at": "2023-06-10T14:57:51+02:00",
-    "updated_at": "2023-06-10T15:26:50+02:00",
-    "media_id": "e7nx5bdaetax",
-    "duration": "0:01",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6267462/bondscoach-koeman-blikt-vooruit-op-halve-finale-nations-league.html",
     "open_new_window": false,
     "partner": null
   }
