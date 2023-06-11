@@ -1,12 +1,35 @@
 [
   {
+    "id": 6267584,
+    "slug": "almere-city-in-extase-na-historische-promotie-mijn-jongensdroom-is-uitgekomen",
+    "type": "article",
+    "title": "Almere City in extase na historische promotie: 'Mijn jongensdroom is uitgekomen'",
+    "subtitle": null,
+    "published_at": "2023-06-11T22:19:48+02:00",
+    "updated_at": "2023-06-11T22:19:49+02:00",
+    "media_id": "wyyx6nyazh9c",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6267584/almere-city-in-extase-na-historische-promotie-mijn-jongensdroom-is-uitgekomen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6267583,
     "slug": "nederlandse-man-71-schiet-in-frankrijk-elfjarig-buurmeisje-dood",
     "type": "article",
     "title": "Nederlandse man (71) schiet in Frankrijk elfjarig buurmeisje dood",
     "subtitle": null,
     "published_at": "2023-06-11T21:52:18+02:00",
-    "updated_at": "2023-06-11T22:16:54+02:00",
+    "updated_at": "2023-06-11T22:31:08+02:00",
     "media_id": "mzexoznamvzk",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "FC Emmen-coach Lukkien na degradatie: 'Doet enorm veel pijn dat het zo afloopt'",
     "subtitle": null,
     "published_at": "2023-06-11T21:49:25+02:00",
-    "updated_at": "2023-06-11T21:49:27+02:00",
+    "updated_at": "2023-06-11T22:29:56+02:00",
     "media_id": "pgfx8jha948r",
     "duration": null,
     "canonical_section": {
@@ -236,7 +259,7 @@
     "title": "Djokovic geniet van 23e Grand Slam-titel: 'Maar wil mezelf niet de GOAT noemen'",
     "subtitle": null,
     "published_at": "2023-06-11T19:25:37+02:00",
-    "updated_at": "2023-06-11T21:41:28+02:00",
+    "updated_at": "2023-06-11T22:24:10+02:00",
     "media_id": "u1lx6utanm94",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6267564/zeldzame-kwal-voor-tweede-keer-ooit-gespot-door-onderzoekers.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6267563,
-    "slug": "toptalent-kooij-sluit-zlm-tour-in-stijl-af-met-etappewinst-en-eindzege",
-    "type": "article",
-    "title": "Toptalent Kooij sluit ZLM Tour in stijl af met etappewinst en eindzege",
-    "subtitle": null,
-    "published_at": "2023-06-11T17:18:29+02:00",
-    "updated_at": "2023-06-11T17:38:01+02:00",
-    "media_id": "6roxc7gay4bv",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6267563/toptalent-kooij-sluit-zlm-tour-in-stijl-af-met-etappewinst-en-eindzege.html",
     "open_new_window": false,
     "partner": null
   }
