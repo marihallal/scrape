@@ -1,5 +1,28 @@
 [
   {
+    "id": 6267649,
+    "slug": "plotseling-noodweer-zet-straten-in-parijs-blank",
+    "type": "video",
+    "title": "Plotseling noodweer zet straten in Parijs blank",
+    "subtitle": "Video",
+    "published_at": "2023-06-12T12:26:34+02:00",
+    "updated_at": "2023-06-12T12:26:36+02:00",
+    "media_id": "c4txp64azpak",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6267649/plotseling-noodweer-zet-straten-in-parijs-blank.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6267637,
     "slug": "intens-verdriet-geuit-in-zaak-rond-zorgboerderij-alblasserdam-nu-is-je-bed-leeg",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Berlusconi zag zichzelf als de Jezus Christus van de Italiaanse politiek",
     "subtitle": "Profiel",
     "published_at": "2023-06-12T12:03:40+02:00",
-    "updated_at": "2023-06-12T12:24:07+02:00",
+    "updated_at": "2023-06-12T12:32:51+02:00",
     "media_id": "28hxkmfaa6m7",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6267610/x-men-acteur-fassbender-crasht-met-porsche-tijdens-24-uur-van-le-mans.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6267606,
-    "slug": "vrije-val-van-rijthoven-op-wereldranglijst-rosmalen-sensatie-zakt-233-plekken",
-    "type": "article",
-    "title": "Vrije val Van Rijthoven op wereldranglijst: Rosmalen-sensatie zakt 233 plekken",
-    "subtitle": null,
-    "published_at": "2023-06-12T08:50:38+02:00",
-    "updated_at": "2023-06-12T09:15:12+02:00",
-    "media_id": "7uox2trap2ct",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6267606/vrije-val-van-rijthoven-op-wereldranglijst-rosmalen-sensatie-zakt-233-plekken.html",
     "open_new_window": false,
     "partner": null
   }
