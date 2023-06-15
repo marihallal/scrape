@@ -1,5 +1,51 @@
 [
   {
+    "id": 6268101,
+    "slug": "tweevoudig-oscarwinnaar-en-politicus-glenda-jackson-87-overleden",
+    "type": "article",
+    "title": "Tweevoudig Oscarwinnaar en politicus Glenda Jackson (87) overleden",
+    "subtitle": null,
+    "published_at": "2023-06-15T13:31:15+02:00",
+    "updated_at": "2023-06-15T13:31:16+02:00",
+    "media_id": "wlnxumfagboe",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6268101/tweevoudig-oscarwinnaar-en-politicus-glenda-jackson-87-overleden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6268100,
+    "slug": "bitcoinkoers-daalt-hard-na-rentebesluit-van-amerikaanse-centrale-bank",
+    "type": "article",
+    "title": "Bitcoinkoers daalt hard na rentebesluit van Amerikaanse centrale bank",
+    "subtitle": null,
+    "published_at": "2023-06-15T13:19:47+02:00",
+    "updated_at": "2023-06-15T13:19:51+02:00",
+    "media_id": "m5gx5p6arn64",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6268100/bitcoinkoers-daalt-hard-na-rentebesluit-van-amerikaanse-centrale-bank.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6268102,
     "slug": "politie-vindt-lichaam-zesjarige-jongen-in-lith-kind-is-waarschijnlijk-verdronken",
     "type": "article",
@@ -121,8 +167,8 @@
     "title": "Britse pubketen lost personeelstekort op met vijftigplussers",
     "subtitle": null,
     "published_at": "2023-06-15T12:33:21+02:00",
-    "updated_at": "2023-06-15T12:33:23+02:00",
-    "media_id": "wocxs2ma955y",
+    "updated_at": "2023-06-15T13:19:01+02:00",
+    "media_id": "jlfx4r5ag4rs",
     "duration": null,
     "canonical_section": {
       "id": 99,
@@ -305,7 +351,7 @@
     "title": "Jury zet 24 renners uit beloften-Giro die op klim aan auto's en motoren hingen",
     "subtitle": null,
     "published_at": "2023-06-15T11:03:47+02:00",
-    "updated_at": "2023-06-15T13:05:16+02:00",
+    "updated_at": "2023-06-15T13:15:14+02:00",
     "media_id": "h5hx7y6aw3db",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/klimaat/6268070/wat-wil-jij-weten-over-de-aanhoudende-droogte-stel-hier-al-je-vragen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6268068,
-    "slug": "beer-rent-door-italiaans-dorp-bij-gardameer",
-    "type": "video",
-    "title": "Beer rent door Italiaans dorp bij Gardameer",
-    "subtitle": "Video",
-    "published_at": "2023-06-15T09:53:07+02:00",
-    "updated_at": "2023-06-15T10:17:25+02:00",
-    "media_id": "h5gx37lau76d",
-    "duration": "0:46",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6268068/beer-rent-door-italiaans-dorp-bij-gardameer.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6268061,
-    "slug": "icoon-gesink-37-sluit-zijn-wielerloopbaan-eind-2024-af-bij-jumbo-visma",
-    "type": "article",
-    "title": "'Icoon' Gesink (37) sluit zijn wielerloopbaan eind 2024 af bij Jumbo-Visma",
-    "subtitle": null,
-    "published_at": "2023-06-15T09:24:09+02:00",
-    "updated_at": "2023-06-15T11:18:56+02:00",
-    "media_id": "j82x369armmp",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6268061/icoon-gesink-37-sluit-zijn-wielerloopbaan-eind-2024-af-bij-jumbo-visma.html",
     "open_new_window": false,
     "partner": null
   }
