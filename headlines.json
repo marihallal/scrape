@@ -1,12 +1,35 @@
 [
   {
+    "id": 6268149,
+    "slug": "messi-leidt-met-snelste-goal-uit-zijn-carriere-oefenzege-argentinie-in",
+    "type": "article",
+    "title": "Messi leidt met snelste goal uit zijn carrière oefenzege Argentinië in",
+    "subtitle": null,
+    "published_at": "2023-06-15T17:21:50+02:00",
+    "updated_at": "2023-06-15T17:21:51+02:00",
+    "media_id": "bmbx4zrav81p",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6268149/messi-leidt-met-snelste-goal-uit-zijn-carriere-oefenzege-argentinie-in.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6268122,
     "slug": "natte-lente-zorgt-voor-hooikoortspiek-in-vijf-jaar-niet-zoveel-pollen-als-nu",
     "type": "article",
     "title": "Natte lente zorgt voor hooikoortspiek: 'In vijf jaar niet zoveel pollen als nu'",
-    "subtitle": "NU+",
+    "subtitle": null,
     "published_at": "2023-06-15T17:18:39+02:00",
-    "updated_at": "2023-06-15T17:18:40+02:00",
+    "updated_at": "2023-06-15T17:31:24+02:00",
     "media_id": "pj1xx4sa1o9z",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Hoop op meer overlevenden bootramp Griekenland opgegeven, vrees voor honderden doden",
     "subtitle": null,
     "published_at": "2023-06-15T17:12:50+02:00",
-    "updated_at": "2023-06-15T17:18:54+02:00",
+    "updated_at": "2023-06-15T17:22:48+02:00",
     "media_id": "v3rxd5yayjtm",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Van imperium naar 40.000 ontslagen: zo ging het mis bij Philips",
     "subtitle": "Video",
     "published_at": "2023-06-15T17:08:18+02:00",
-    "updated_at": "2023-06-15T17:08:19+02:00",
+    "updated_at": "2023-06-15T17:22:14+02:00",
     "media_id": "htpx7s8asfgk",
     "duration": "0:01",
     "canonical_section": {
@@ -116,12 +139,12 @@
   },
   {
     "id": 6268141,
-    "slug": "azarkan-tekent-na-twee-goede-seizoenen-als-excelsior-huurling-bij-fc-utrecht",
+    "slug": "azarkan-van-feyenoord-naar-utrecht-na-twee-goede-jaren-als-excelsior-huurling",
     "type": "article",
-    "title": "Azarkan tekent na twee goede seizoenen als Excelsior-huurling bij FC Utrecht",
+    "title": "Azarkan van Feyenoord naar Utrecht na twee goede jaren als Excelsior-huurling",
     "subtitle": null,
     "published_at": "2023-06-15T16:58:54+02:00",
-    "updated_at": "2023-06-15T16:58:55+02:00",
+    "updated_at": "2023-06-15T17:22:28+02:00",
     "media_id": "5orxyyzaj4lt",
     "duration": null,
     "canonical_section": {
@@ -133,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6268141/azarkan-tekent-na-twee-goede-seizoenen-als-excelsior-huurling-bij-fc-utrecht.html",
+    "url": "/voetbal/6268141/azarkan-van-feyenoord-naar-utrecht-na-twee-goede-jaren-als-excelsior-huurling.html",
     "open_new_window": false,
     "partner": null
   },
@@ -282,7 +305,7 @@
     "title": "Jakobsen klopt Van der Poel in België, Groenewegen weer de snelste in Slovenië",
     "subtitle": null,
     "published_at": "2023-06-15T15:41:53+02:00",
-    "updated_at": "2023-06-15T17:11:01+02:00",
+    "updated_at": "2023-06-15T17:25:51+02:00",
     "media_id": "5gex6bja954u",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6268119/toeschouwer-betrapt-valsspelers-in-giro-voor-beloften.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6268114,
-    "slug": "amerikaan-lost-rubiks-kubus-in-recordtijd-op",
-    "type": "video",
-    "title": "Amerikaan lost Rubiks kubus in recordtijd op",
-    "subtitle": "Video",
-    "published_at": "2023-06-15T14:18:01+02:00",
-    "updated_at": "2023-06-15T14:18:07+02:00",
-    "media_id": "bokxhn0aed8k",
-    "duration": "0:51",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6268114/amerikaan-lost-rubiks-kubus-in-recordtijd-op.html",
     "open_new_window": false,
     "partner": null
   }
