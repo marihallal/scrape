@@ -1,5 +1,28 @@
 [
   {
+    "id": 6268394,
+    "slug": "ondanks-boze-media-en-boycots-moet-pers-tien-euro-betalen-voor-lowlands",
+    "type": "article",
+    "title": "Ondanks boze media en boycots moet pers tien euro betalen voor Lowlands",
+    "subtitle": null,
+    "published_at": "2023-06-17T08:31:49+02:00",
+    "updated_at": "2023-06-17T08:31:50+02:00",
+    "media_id": "1omxgw6a3ukb",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6268394/ondanks-boze-media-en-boycots-moet-pers-tien-euro-betalen-voor-lowlands.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6267832,
     "slug": "wat-doet-en-verdient-een-piekbelaster-nu",
     "type": "article",
@@ -24,12 +47,12 @@
   },
   {
     "id": 6268390,
-    "slug": "liam-wil-best-oasis-reunie-maar-alleen-als-broer-noel-gallagher-hem-belt",
+    "slug": "liam-gallagher-wil-best-oasis-reunie-maar-alleen-als-broer-noel-hem-belt",
     "type": "article",
-    "title": "Liam wil best Oasis-reünie, maar alleen als broer Noel Gallagher hem belt",
+    "title": "Liam Gallagher wil best Oasis-reünie, maar alleen als broer Noel hem belt",
     "subtitle": null,
     "published_at": "2023-06-17T08:05:44+02:00",
-    "updated_at": "2023-06-17T08:16:47+02:00",
+    "updated_at": "2023-06-17T08:24:30+02:00",
     "media_id": "849xafoaunbh",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/muziek/6268390/liam-wil-best-oasis-reunie-maar-alleen-als-broer-noel-gallagher-hem-belt.html",
+    "url": "/muziek/6268390/liam-gallagher-wil-best-oasis-reunie-maar-alleen-als-broer-noel-hem-belt.html",
     "open_new_window": false,
     "partner": null
   },
@@ -167,7 +190,7 @@
     "title": "Overblijfselen van onbekende dinosaurussoort met snavel gevonden in Chili",
     "subtitle": null,
     "published_at": "2023-06-17T06:44:43+02:00",
-    "updated_at": "2023-06-17T08:22:37+02:00",
+    "updated_at": "2023-06-17T08:27:50+02:00",
     "media_id": "az1xwcbakn0k",
     "duration": null,
     "canonical_section": {
@@ -282,7 +305,7 @@
     "title": "Weg met de vaste energiecontracten? 'Ze bieden alleen nepzekerheid'",
     "subtitle": "NU+",
     "published_at": "2023-06-17T05:02:21+02:00",
-    "updated_at": "2023-06-17T05:25:43+02:00",
+    "updated_at": "2023-06-17T08:29:32+02:00",
     "media_id": "abrxp2oadtmo",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6268378/defensie-pakt-door-en-koopt-voor-ruim-550-miljoen-euro-aan-reaper-drones-in-vs.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6268377,
-    "slug": "michael-jordan-verkoopt-aandelen-in-nba-club-voor-ruim-27-miljard-euro",
-    "type": "article",
-    "title": "Michael Jordan verkoopt aandelen in NBA-club voor ruim 2,7 miljard euro",
-    "subtitle": null,
-    "published_at": "2023-06-16T22:49:37+02:00",
-    "updated_at": "2023-06-16T22:51:36+02:00",
-    "media_id": "7shxhxhahylr",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6268377/michael-jordan-verkoopt-aandelen-in-nba-club-voor-ruim-27-miljard-euro.html",
     "open_new_window": false,
     "partner": null
   }
