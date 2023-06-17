@@ -1,12 +1,35 @@
 [
   {
-    "id": 6268394,
-    "slug": "ondanks-boze-media-en-boycots-moet-pers-tien-euro-betalen-voor-lowlands",
+    "id": 6268395,
+    "slug": "ploeg-van-overleden-gino-mader-trekt-zich-terug-uit-ronde-van-zwitserland",
     "type": "article",
-    "title": "Ondanks boze media en boycots moet pers tien euro betalen voor Lowlands",
+    "title": "Ploeg van overleden Gino Mäder trekt zich terug uit Ronde van Zwitserland",
+    "subtitle": null,
+    "published_at": "2023-06-17T08:38:30+02:00",
+    "updated_at": "2023-06-17T08:38:32+02:00",
+    "media_id": "4guxjvdapyb9",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6268395/ploeg-van-overleden-gino-mader-trekt-zich-terug-uit-ronde-van-zwitserland.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6268394,
+    "slug": "ondanks-boze-media-en-boycots-moeten-journalisten-10-euro-betalen-voor-lowlands",
+    "type": "article",
+    "title": "Ondanks boze media en boycots moeten journalisten 10 euro betalen voor Lowlands",
     "subtitle": null,
     "published_at": "2023-06-17T08:31:49+02:00",
-    "updated_at": "2023-06-17T08:31:50+02:00",
+    "updated_at": "2023-06-17T08:37:43+02:00",
     "media_id": "1omxgw6a3ukb",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/media/6268394/ondanks-boze-media-en-boycots-moet-pers-tien-euro-betalen-voor-lowlands.html",
+    "url": "/media/6268394/ondanks-boze-media-en-boycots-moeten-journalisten-10-euro-betalen-voor-lowlands.html",
     "open_new_window": false,
     "partner": null
   },
@@ -162,12 +185,12 @@
   },
   {
     "id": 6268385,
-    "slug": "drukte-op-spoor-amsterdam-verwacht-door-concerten-beyonce-en-onderhoud",
+    "slug": "drukte-op-spoor-amsterdam-verwacht-vanwege-concerten-beyonce-en-onderhoud",
     "type": "article",
-    "title": "Drukte op spoor Amsterdam verwacht door concerten Beyoncé en onderhoud",
+    "title": "Drukte op spoor Amsterdam verwacht vanwege concerten Beyoncé en onderhoud",
     "subtitle": null,
     "published_at": "2023-06-17T07:05:47+02:00",
-    "updated_at": "2023-06-17T07:05:49+02:00",
+    "updated_at": "2023-06-17T08:46:11+02:00",
     "media_id": "4g4xohxahjhb",
     "duration": null,
     "canonical_section": {
@@ -179,7 +202,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6268385/drukte-op-spoor-amsterdam-verwacht-door-concerten-beyonce-en-onderhoud.html",
+    "url": "/binnenland/6268385/drukte-op-spoor-amsterdam-verwacht-vanwege-concerten-beyonce-en-onderhoud.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/formule-1/6268379/verstappen-zesde-achter-mercedes-en-ferrari-in-lange-tweede-training-in-canada.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6268378,
-    "slug": "defensie-pakt-door-en-koopt-voor-ruim-550-miljoen-euro-aan-reaper-drones-in-vs",
-    "type": "article",
-    "title": "Defensie pakt door en koopt voor ruim 550 miljoen euro aan Reaper-drones in VS",
-    "subtitle": null,
-    "published_at": "2023-06-16T23:27:24+02:00",
-    "updated_at": "2023-06-17T08:00:09+02:00",
-    "media_id": "ex6x335a0rkv",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6268378/defensie-pakt-door-en-koopt-voor-ruim-550-miljoen-euro-aan-reaper-drones-in-vs.html",
     "open_new_window": false,
     "partner": null
   }
