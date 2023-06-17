@@ -1,12 +1,35 @@
 [
   {
-    "id": 6268435,
-    "slug": "de-term-rijdende-rechter-krijgt-plek-in-woordenboek-van-dale",
+    "id": 6268436,
+    "slug": "van-lymfeklierkanker-herstelde-seuntjens-maakt-na-409-dagen-rentree-in-japan",
     "type": "article",
-    "title": "De term 'Rijdende rechter' krijgt plek in woordenboek Van Dale",
+    "title": "Van lymfeklierkanker herstelde Seuntjens maakt na 409 dagen rentree in Japan",
+    "subtitle": null,
+    "published_at": "2023-06-17T12:41:14+02:00",
+    "updated_at": "2023-06-17T12:41:16+02:00",
+    "media_id": "cvaxymia3ibr",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6268436/van-lymfeklierkanker-herstelde-seuntjens-maakt-na-409-dagen-rentree-in-japan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6268435,
+    "slug": "rijdende-rechter-krijgt-plek-in-dikke-van-dale-een-begrip-geworden",
+    "type": "article",
+    "title": "'Rijdende rechter' krijgt plek in Dikke Van Dale: 'Een begrip geworden'",
     "subtitle": null,
     "published_at": "2023-06-17T12:29:58+02:00",
-    "updated_at": "2023-06-17T12:32:58+02:00",
+    "updated_at": "2023-06-17T12:51:04+02:00",
     "media_id": "utlxtmxalida",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/film/6268435/de-term-rijdende-rechter-krijgt-plek-in-woordenboek-van-dale.html",
+    "url": "/film/6268435/rijdende-rechter-krijgt-plek-in-dikke-van-dale-een-begrip-geworden.html",
     "open_new_window": false,
     "partner": null
   },
@@ -190,7 +213,7 @@
     "title": "Vrouw treft dronken 18-jarige man in onderbroek aan in wieg van dochter",
     "subtitle": null,
     "published_at": "2023-06-17T09:51:38+02:00",
-    "updated_at": "2023-06-17T10:19:10+02:00",
+    "updated_at": "2023-06-17T12:35:55+02:00",
     "media_id": "d7zxtk9ar80r",
     "duration": null,
     "canonical_section": {
@@ -236,7 +259,7 @@
     "title": "Zeker 38 leerlingen omgekomen bij aanval op middelbare school in Oeganda",
     "subtitle": null,
     "published_at": "2023-06-17T09:01:50+02:00",
-    "updated_at": "2023-06-17T11:59:15+02:00",
+    "updated_at": "2023-06-17T12:35:08+02:00",
     "media_id": "f5uxs4qa0966",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6268389/luchtvaartsector-wijst-op-noodzaak-meer-subsidie-voor-schonere-brandstof.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6268388,
-    "slug": "recordaantal-bouwplaatsen-biedt-een-kijkje-achter-de-schermen",
-    "type": "article",
-    "title": "Recordaantal bouwplaatsen biedt een kijkje achter de schermen",
-    "subtitle": null,
-    "published_at": "2023-06-17T07:28:39+02:00",
-    "updated_at": "2023-06-17T09:35:36+02:00",
-    "media_id": "ic2xfryajdu1",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6268388/recordaantal-bouwplaatsen-biedt-een-kijkje-achter-de-schermen.html",
     "open_new_window": false,
     "partner": null
   }
