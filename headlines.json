@@ -1,5 +1,28 @@
 [
   {
+    "id": 6268598,
+    "slug": "spanje-verslaat-kroatie-via-penaltys-en-grijpt-eindzege-in-nations-league",
+    "type": "article",
+    "title": "Spanje verslaat Kroatië via penalty's en grijpt eindzege in Nations League",
+    "subtitle": null,
+    "published_at": "2023-06-18T23:29:56+02:00",
+    "updated_at": "2023-06-18T23:29:59+02:00",
+    "media_id": "vm0xk9far3j2",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6268598/spanje-verslaat-kroatie-via-penaltys-en-grijpt-eindzege-in-nations-league.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6268597,
     "slug": "verstappen-trots-op-aandeel-in-100-red-bull-zeges-nieuwe-doel-is-200",
     "type": "article",
@@ -277,12 +300,12 @@
   },
   {
     "id": 6268580,
-    "slug": "spanje-en-kroatie-bezig-aan-verlenging-in-nations-league-finale",
+    "slug": "reactie-na-eindzege-spanje-in-nations-league",
     "type": "article",
-    "title": "Spanje en Kroatië bezig aan verlenging in Nations League-finale",
+    "title": "Reactie na eindzege Spanje in Nations League",
     "subtitle": "Liveblog",
     "published_at": "2023-06-18T19:56:41+02:00",
-    "updated_at": "2023-06-18T22:41:08+02:00",
+    "updated_at": "2023-06-18T23:30:02+02:00",
     "media_id": "xlvx9x1at5rh",
     "duration": null,
     "canonical_section": {
@@ -294,7 +317,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6268580/spanje-en-kroatie-bezig-aan-verlenging-in-nations-league-finale.html",
+    "url": "/voetbal/6268580/reactie-na-eindzege-spanje-in-nations-league.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6268574/wijnaldum-ziet-terugkeer-naar-nederland-deze-zomer-niet-als-eerste-optie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6268573,
-    "slug": "clubicoon-heitinga-vertrekt-definitief-bij-ajax-contract-ontbonden",
-    "type": "article",
-    "title": "Clubicoon Heitinga vertrekt definitief bij Ajax: contract ontbonden",
-    "subtitle": null,
-    "published_at": "2023-06-18T18:05:55+02:00",
-    "updated_at": "2023-06-18T18:36:09+02:00",
-    "media_id": "sraxf0vanhe8",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6268573/clubicoon-heitinga-vertrekt-definitief-bij-ajax-contract-ontbonden.html",
     "open_new_window": false,
     "partner": null
   }
