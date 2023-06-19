@@ -1,12 +1,35 @@
 [
   {
+    "id": 6268664,
+    "slug": "amsterdams-studentencorps-krijgt-ook-dit-jaar-geen-geld-van-onderwijsinstellingen",
+    "type": "article",
+    "title": "Amsterdams studentencorps krijgt ook dit jaar geen geld van onderwijsinstellingen",
+    "subtitle": null,
+    "published_at": "2023-06-19T12:29:40+02:00",
+    "updated_at": "2023-06-19T12:29:41+02:00",
+    "media_id": "9paxn9aajdul",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6268664/amsterdams-studentencorps-krijgt-ook-dit-jaar-geen-geld-van-onderwijsinstellingen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6268658,
     "slug": "kpn-koopt-glasvezelnetwerk-dat-investeerder-voor-t-mobile-heeft-aangelegd",
     "type": "article",
     "title": "KPN koopt glasvezelnetwerk dat investeerder voor T-Mobile heeft aangelegd",
     "subtitle": null,
     "published_at": "2023-06-19T12:08:51+02:00",
-    "updated_at": "2023-06-19T12:08:52+02:00",
+    "updated_at": "2023-06-19T12:25:11+02:00",
     "media_id": "vgtx08iawv9r",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Nederlandse economie koelt flink af, inflatie blijft hardnekkig probleem",
     "subtitle": null,
     "published_at": "2023-06-19T12:03:37+02:00",
-    "updated_at": "2023-06-19T12:18:45+02:00",
+    "updated_at": "2023-06-19T12:33:16+02:00",
     "media_id": "0tzx7o0amoqf",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Friese windmolen brandt uit, omgeving uit voorzorg afgezet",
     "subtitle": "Video",
     "published_at": "2023-06-19T11:58:13+02:00",
-    "updated_at": "2023-06-19T12:22:38+02:00",
+    "updated_at": "2023-06-19T12:26:12+02:00",
     "media_id": "msyxl8ma63en",
     "duration": "0:31",
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Spits Joselu (33) voltooit succesjaar met terugkeer naar Real Madrid",
     "subtitle": null,
     "published_at": "2023-06-19T11:55:44+02:00",
-    "updated_at": "2023-06-19T11:55:46+02:00",
+    "updated_at": "2023-06-19T12:32:43+02:00",
     "media_id": "ybvx0dyanbzx",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6268620/modric-37-zwijgt-over-interlandtoekomst-heb-de-beslissing-al-wel-genomen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6268605,
-    "slug": "griekspoor-bekroont-opmars-met-nieuwe-status-maar-ik-heb-grotere-doelen",
-    "type": "article",
-    "title": "Griekspoor bekroont opmars met nieuwe status: 'Maar ik heb grotere doelen'",
-    "subtitle": null,
-    "published_at": "2023-06-19T07:20:39+02:00",
-    "updated_at": "2023-06-19T09:21:35+02:00",
-    "media_id": "bvzxxshau2tx",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6268605/griekspoor-bekroont-opmars-met-nieuwe-status-maar-ik-heb-grotere-doelen.html",
     "open_new_window": false,
     "partner": null
   }
