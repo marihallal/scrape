@@ -1,12 +1,35 @@
 [
   {
-    "id": 6269306,
-    "slug": "pvdaer-vos-wil-voorzittershamer-senaat-bbb-steunt-in-opspraak-gekomen-vvder",
+    "id": 6269308,
+    "slug": "duitsland-maakt-arbeidsmarkt-toegankelijker-voor-hogeropgeleide-migranten",
     "type": "article",
-    "title": "PvdA'er Vos wil voorzittershamer senaat, BBB steunt in opspraak gekomen VVD'er",
+    "title": "Duitsland maakt arbeidsmarkt toegankelijker voor hogeropgeleide migranten",
+    "subtitle": null,
+    "published_at": "2023-06-23T13:30:58+02:00",
+    "updated_at": "2023-06-23T13:30:59+02:00",
+    "media_id": "l96x8ysa5gdw",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6269308/duitsland-maakt-arbeidsmarkt-toegankelijker-voor-hogeropgeleide-migranten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6269306,
+    "slug": "pvdaer-vos-wil-eerste-kamer-leiden-bbb-steunt-in-opspraak-gekomen-vvder",
+    "type": "article",
+    "title": "PvdA'er Vos wil Eerste Kamer leiden, BBB steunt in opspraak gekomen VVD'er",
     "subtitle": null,
     "published_at": "2023-06-23T13:14:18+02:00",
-    "updated_at": "2023-06-23T13:14:20+02:00",
+    "updated_at": "2023-06-23T13:29:48+02:00",
     "media_id": "fxzxdzma1j6q",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/politiek/6269306/pvdaer-vos-wil-voorzittershamer-senaat-bbb-steunt-in-opspraak-gekomen-vvder.html",
+    "url": "/politiek/6269306/pvdaer-vos-wil-eerste-kamer-leiden-bbb-steunt-in-opspraak-gekomen-vvder.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6269276/keeper-reina-40-verlengt-bij-villarreal-en-kan-bijzondere-reeks-neerzetten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6269274,
-    "slug": "wat-wil-jij-nog-weten-over-het-onderzeeerdrama",
-    "type": "article",
-    "title": "Wat wil jij nog weten over het onderzeeërdrama?",
-    "subtitle": null,
-    "published_at": "2023-06-23T10:09:15+02:00",
-    "updated_at": "2023-06-23T10:31:22+02:00",
-    "media_id": "1u3xyima4vuw",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6269274/wat-wil-jij-nog-weten-over-het-onderzeeerdrama.html",
     "open_new_window": false,
     "partner": null
   }
