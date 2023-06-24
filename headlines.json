@@ -1,5 +1,28 @@
 [
   {
+    "id": 6269476,
+    "slug": "voormalig-belgisch-international-roussel-45-overleden",
+    "type": "article",
+    "title": "Voormalig Belgisch international Roussel (45) overleden",
+    "subtitle": null,
+    "published_at": "2023-06-24T16:32:17+02:00",
+    "updated_at": "2023-06-24T16:32:18+02:00",
+    "media_id": "x94xne6ai2mg",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6269476/voormalig-belgisch-international-roussel-45-overleden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6269471,
     "slug": "bezzecchi-troeft-wk-leider-bagnaia-af-en-wint-sprintrace-tt-assen",
     "type": "article",
@@ -351,7 +374,7 @@
     "title": "Dit is wat we weten over de Wagner-opstand in Rusland",
     "subtitle": null,
     "published_at": "2023-06-24T11:46:32+02:00",
-    "updated_at": "2023-06-24T15:37:58+02:00",
+    "updated_at": "2023-06-24T16:22:48+02:00",
     "media_id": "5w4x1u1a1kl9",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/spanningen-oekraine/6269444/poetin-in-toespraak-na-wagner-opstand-we-zullen-hard-optreden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6269442,
-    "slug": "titanic-hit-my-heart-will-go-on-half-miljoen-keer-gestreamd-na-onderzeeerdrama",
-    "type": "article",
-    "title": "Titanic-hit My Heart Will Go On half miljoen keer gestreamd na onderzeeërdrama",
-    "subtitle": null,
-    "published_at": "2023-06-24T10:52:40+02:00",
-    "updated_at": "2023-06-24T11:27:19+02:00",
-    "media_id": "lr3xihnast36",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772242,
-      "slug": "entertainment",
-      "type": "default",
-      "name": "Media en Cultuur",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/entertainment/6269442/titanic-hit-my-heart-will-go-on-half-miljoen-keer-gestreamd-na-onderzeeerdrama.html",
     "open_new_window": false,
     "partner": null
   }
