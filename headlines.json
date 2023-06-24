@@ -1,12 +1,35 @@
 [
   {
-    "id": 6269476,
-    "slug": "voormalig-belgisch-international-roussel-45-overleden",
+    "id": 6269478,
+    "slug": "recordgoal-matla-leidt-ruime-overwinning-hockeysters-in-pro-league-in",
     "type": "article",
-    "title": "Voormalig Belgisch international Roussel (45) overleden",
+    "title": "Recordgoal Matla leidt ruime overwinning hockeysters in Pro League in",
+    "subtitle": null,
+    "published_at": "2023-06-24T16:43:44+02:00",
+    "updated_at": "2023-06-24T16:46:58+02:00",
+    "media_id": "z1kx0jha4zvs",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6269478/recordgoal-matla-leidt-ruime-overwinning-hockeysters-in-pro-league-in.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6269476,
+    "slug": "voormalig-belgisch-voetbal-international-roussel-45-overleden",
+    "type": "article",
+    "title": "Voormalig Belgisch voetbal-international Roussel (45) overleden",
     "subtitle": null,
     "published_at": "2023-06-24T16:32:17+02:00",
-    "updated_at": "2023-06-24T16:32:18+02:00",
+    "updated_at": "2023-06-24T16:36:42+02:00",
     "media_id": "x94xne6ai2mg",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6269476/voormalig-belgisch-international-roussel-45-overleden.html",
+    "url": "/voetbal/6269476/voormalig-belgisch-voetbal-international-roussel-45-overleden.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6269445/motorcoureur-quartararo-breekt-teen-tijdens-hardlopen-maar-rijdt-wel-tt-assen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6269444,
-    "slug": "poetin-in-toespraak-na-wagner-opstand-we-zullen-hard-optreden",
-    "type": "video",
-    "title": "Poetin in toespraak na Wagner-opstand: 'We zullen hard optreden'",
-    "subtitle": "Video",
-    "published_at": "2023-06-24T10:58:25+02:00",
-    "updated_at": "2023-06-24T12:59:44+02:00",
-    "media_id": "ei4xm9tal2qz",
-    "duration": "1:19",
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6269444/poetin-in-toespraak-na-wagner-opstand-we-zullen-hard-optreden.html",
     "open_new_window": false,
     "partner": null
   }
