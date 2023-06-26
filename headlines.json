@@ -1,5 +1,28 @@
 [
   {
+    "id": 6269749,
+    "slug": "actrice-angela-bassett-krijgt-oscar-voor-haar-oeuvre",
+    "type": "article",
+    "title": "Actrice Angela Bassett krijgt Oscar voor haar oeuvre",
+    "subtitle": null,
+    "published_at": "2023-06-26T23:50:09+02:00",
+    "updated_at": "2023-06-26T23:50:10+02:00",
+    "media_id": "wuuxc5aaxzz5",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6269749/actrice-angela-bassett-krijgt-oscar-voor-haar-oeuvre.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6269748,
     "slug": "farmers-defence-force-wil-donderdag-weer-met-trekkers-naar-den-haag",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6269724/vier-nederlanders-opgepakt-vanwege-plofkraak-in-frankfurt-vijfde-voortvluchtig.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6269719,
-    "slug": "dit-zeggen-de-russische-media-en-propagandisten-over-de-muiterij",
-    "type": "video",
-    "title": "Dit zeggen de Russische media en propagandisten over de muiterij",
-    "subtitle": "Explainer",
-    "published_at": "2023-06-26T18:00:13+02:00",
-    "updated_at": "2023-06-26T18:00:47+02:00",
-    "media_id": "slgxwm5ahv2f",
-    "duration": "2:42",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6269719/dit-zeggen-de-russische-media-en-propagandisten-over-de-muiterij.html",
     "open_new_window": false,
     "partner": null
   }
