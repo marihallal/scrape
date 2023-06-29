@@ -1,5 +1,28 @@
 [
   {
+    "id": 6270206,
+    "slug": "eerste-betalende-klanten-vliegen-naar-rand-van-ruimte-met-virgin-galactic",
+    "type": "video",
+    "title": "Eerste betalende klanten vliegen naar rand van ruimte met Virgin Galactic",
+    "subtitle": "Video",
+    "published_at": "2023-06-29T19:30:35+02:00",
+    "updated_at": "2023-06-29T19:30:39+02:00",
+    "media_id": "faoxvrda1gc0",
+    "duration": "0:55",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6270206/eerste-betalende-klanten-vliegen-naar-rand-van-ruimte-met-virgin-galactic.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6270205,
     "slug": "tour-de-france-past-gevaarlijke-afdalingen-niet-aan-maar-neemt-wel-maatregelen",
     "type": "article",
@@ -167,7 +190,7 @@
     "title": "Verstappen ziet niets in idee van Hamilton om dominantie tegen te gaan",
     "subtitle": "NU+",
     "published_at": "2023-06-29T18:18:39+02:00",
-    "updated_at": "2023-06-29T18:53:29+02:00",
+    "updated_at": "2023-06-29T19:28:20+02:00",
     "media_id": "18dx8faa8ko9",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tech/6270117/meer-storingen-bij-ing-dan-bij-andere-banken-klanten-ervaren-veel-ongemak.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270170,
-    "slug": "erdogan-boos-over-koranverbranding-in-zweden-protest-bij-ambassade-irak",
-    "type": "article",
-    "title": "Erdogan boos over koranverbranding in Zweden, protest bij ambassade Irak",
-    "subtitle": null,
-    "published_at": "2023-06-29T16:24:31+02:00",
-    "updated_at": "2023-06-29T19:05:38+02:00",
-    "media_id": "5cxxtbya8u00",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6270170/erdogan-boos-over-koranverbranding-in-zweden-protest-bij-ambassade-irak.html",
     "open_new_window": false,
     "partner": null
   }
