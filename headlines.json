@@ -1,5 +1,28 @@
 [
   {
+    "id": 6270245,
+    "slug": "ook-rellen-in-brussel-na-dood-franse-tiener",
+    "type": "video",
+    "title": "Ook rellen in Brussel na dood Franse tiener",
+    "subtitle": "Video",
+    "published_at": "2023-06-30T09:36:33+02:00",
+    "updated_at": "2023-06-30T09:46:28+02:00",
+    "media_id": "s8nxa05a0k5g",
+    "duration": "0:43",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6270245/ook-rellen-in-brussel-na-dood-franse-tiener.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6270244,
     "slug": "knor-draait-al-een-jaar-in-de-bioscoop-waar-zie-je-dat-nog-in-deze-tijden",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6270229/welke-oranjevrouwen-gaan-naar-het-wk-spanning-erger-dan-bij-eindexamen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270219,
-    "slug": "van-vleuten-verbaasd-over-extreme-motivatie-in-afscheidsjaar-bijna-hilarisch",
-    "type": "article",
-    "title": "Van Vleuten verbaasd over extreme motivatie in afscheidsjaar: 'Bijna hilarisch'",
-    "subtitle": null,
-    "published_at": "2023-06-30T05:06:12+02:00",
-    "updated_at": "2023-06-30T09:31:46+02:00",
-    "media_id": "zwtxtczathdo",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6270219/van-vleuten-verbaasd-over-extreme-motivatie-in-afscheidsjaar-bijna-hilarisch.html",
     "open_new_window": false,
     "partner": null
   }
