@@ -1,12 +1,35 @@
 [
   {
+    "id": 6270527,
+    "slug": "van-barneveld-wint-thriller-en-is-kwartfinalist-na-eerdere-stunt-tegen-van-gerwen",
+    "type": "article",
+    "title": "Van Barneveld wint thriller en is kwartfinalist na eerdere stunt tegen Van Gerwen",
+    "subtitle": null,
+    "published_at": "2023-07-02T13:49:47+02:00",
+    "updated_at": "2023-07-02T13:49:49+02:00",
+    "media_id": "pqnxjgnagyfz",
+    "duration": null,
+    "canonical_section": {
+      "id": 1777376,
+      "slug": "darts",
+      "type": "default",
+      "name": "Darts",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/darts/6270527/van-barneveld-wint-thriller-en-is-kwartfinalist-na-eerdere-stunt-tegen-van-gerwen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6270525,
     "slug": "oostenrijkse-grand-prix-blijft-zeker-tot-en-met-2030-op-f1-kalender",
     "type": "article",
     "title": "Oostenrijkse Grand Prix blijft zeker tot en met 2030 op F1-kalender",
     "subtitle": null,
     "published_at": "2023-07-02T13:12:58+02:00",
-    "updated_at": "2023-07-02T13:25:59+02:00",
+    "updated_at": "2023-07-02T13:33:12+02:00",
     "media_id": "5yxxthsaqnsw",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/uitgelicht/6270499/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270497,
-    "slug": "bekijk-de-startopstelling-voor-de-gp-van-oostenrijk-met-de-vries-in-de-pits",
-    "type": "article",
-    "title": "Bekijk de startopstelling voor de GP van Oostenrijk met De Vries in de pits",
-    "subtitle": null,
-    "published_at": "2023-07-02T05:08:24+02:00",
-    "updated_at": "2023-07-02T13:14:41+02:00",
-    "media_id": "815xb9hah6ae",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "GP Oostenrijk",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6270497/bekijk-de-startopstelling-voor-de-gp-van-oostenrijk-met-de-vries-in-de-pits.html",
     "open_new_window": false,
     "partner": null
   }
