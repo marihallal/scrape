@@ -1,12 +1,58 @@
 [
   {
+    "id": 6270573,
+    "slug": "oma-van-doodgeschoten-franse-tiener-nahel-wil-dat-rellen-stoppen",
+    "type": "article",
+    "title": "Oma van doodgeschoten Franse tiener Nahel wil dat rellen stoppen",
+    "subtitle": null,
+    "published_at": "2023-07-02T20:51:03+02:00",
+    "updated_at": "2023-07-02T20:51:05+02:00",
+    "media_id": "mtwxm5sa8akt",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6270573/oma-van-doodgeschoten-franse-tiener-nahel-wil-dat-rellen-stoppen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6270571,
+    "slug": "explosie-bij-woning-in-flatgebouw-in-schiedam",
+    "type": "article",
+    "title": "Explosie bij woning in flatgebouw in Schiedam",
+    "subtitle": null,
+    "published_at": "2023-07-02T20:40:36+02:00",
+    "updated_at": "2023-07-02T20:40:37+02:00",
+    "media_id": "ysxxo13ag0y1",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6270571/explosie-bij-woning-in-flatgebouw-in-schiedam.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6270567,
     "slug": "vingegaard-veegt-kritiek-van-tafel-na-tweede-plek-van-aert-ik-vind-het-onterecht",
     "type": "article",
     "title": "Vingegaard veegt kritiek van tafel na tweede plek Van Aert: 'Ik vind het onterecht'",
     "subtitle": null,
     "published_at": "2023-07-02T20:15:36+02:00",
-    "updated_at": "2023-07-02T20:26:41+02:00",
+    "updated_at": "2023-07-02T20:49:22+02:00",
     "media_id": "crvx2lwa5dau",
     "duration": null,
     "canonical_section": {
@@ -29,7 +75,7 @@
     "title": "Frenkie de Jong en vriendin Mikky Kiemeney maken zwangerschap bekend",
     "subtitle": "Video",
     "published_at": "2023-07-02T20:05:54+02:00",
-    "updated_at": "2023-07-02T20:05:55+02:00",
+    "updated_at": "2023-07-02T20:46:10+02:00",
     "media_id": "cywx2t0ad4jq",
     "duration": "0:30",
     "canonical_section": {
@@ -52,7 +98,7 @@
     "title": "Van Barneveld mist halve finales in Duitsland, Van Duijvenbode klopt Smith",
     "subtitle": null,
     "published_at": "2023-07-02T20:00:56+02:00",
-    "updated_at": "2023-07-02T20:31:32+02:00",
+    "updated_at": "2023-07-02T20:44:54+02:00",
     "media_id": "fyaxjtraq13c",
     "duration": null,
     "canonical_section": {
@@ -70,12 +116,12 @@
   },
   {
     "id": 6270563,
-    "slug": "oranjevrouwen-treffen-belgie-in-laatste-test-voor-wk",
+    "slug": "oranjevrouwen-razendsnel-op-voorsprong-in-uitzwaaiwedstrijd",
     "type": "article",
-    "title": "Oranjevrouwen treffen België in laatste test voor WK",
+    "title": "Oranjevrouwen razendsnel op voorsprong in uitzwaaiwedstrijd",
     "subtitle": "Liveblog",
     "published_at": "2023-07-02T19:57:39+02:00",
-    "updated_at": "2023-07-02T20:36:19+02:00",
+    "updated_at": "2023-07-02T20:51:11+02:00",
     "media_id": "jj6xvayaa0s8",
     "duration": null,
     "canonical_section": {
@@ -87,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6270563/oranjevrouwen-treffen-belgie-in-laatste-test-voor-wk.html",
+    "url": "/voetbal/6270563/oranjevrouwen-razendsnel-op-voorsprong-in-uitzwaaiwedstrijd.html",
     "open_new_window": false,
     "partner": null
   },
@@ -121,8 +167,8 @@
     "title": "Frenkie de Jong en zijn vriendin Mikky Kiemeney verwachten eerste kind",
     "subtitle": null,
     "published_at": "2023-07-02T19:17:43+02:00",
-    "updated_at": "2023-07-02T20:29:16+02:00",
-    "media_id": "o88xbywa6eik",
+    "updated_at": "2023-07-02T20:50:06+02:00",
+    "media_id": "6huxjhxaj4kw",
     "duration": null,
     "canonical_section": {
       "id": 125,
@@ -213,7 +259,7 @@
     "title": "Leclerc krijgt met podiumplaats bevestiging dat Ferrari beter is geworden",
     "subtitle": null,
     "published_at": "2023-07-02T18:12:32+02:00",
-    "updated_at": "2023-07-02T18:52:22+02:00",
+    "updated_at": "2023-07-02T20:43:24+02:00",
     "media_id": "6ugxz6mapcxw",
     "duration": null,
     "canonical_section": {
@@ -236,7 +282,7 @@
     "title": "De Vries: 'Iedereen mag dromen, maar realistisch gezien is dit onze positie'",
     "subtitle": null,
     "published_at": "2023-07-02T18:12:07+02:00",
-    "updated_at": "2023-07-02T18:38:20+02:00",
+    "updated_at": "2023-07-02T20:49:51+02:00",
     "media_id": "dnbxykdasuwj",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/stelling/6270528/ver-van-je-bed-of-belangrijke-ontwikkeling-praat-mee-over-het-nieuwe-pensioen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270547,
-    "slug": "perez-beleefde-zwaar-weekend-in-oostenrijk-hoge-koorts-en-weinig-slaap",
-    "type": "article",
-    "title": "Pérez beleefde zwaar weekend in Oostenrijk: 'Hoge koorts en weinig slaap'",
-    "subtitle": null,
-    "published_at": "2023-07-02T17:00:26+02:00",
-    "updated_at": "2023-07-02T18:13:49+02:00",
-    "media_id": "4vnxrvza3rax",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "GP Oostenrijk",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6270547/perez-beleefde-zwaar-weekend-in-oostenrijk-hoge-koorts-en-weinig-slaap.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270544,
-    "slug": "verstappen-ook-in-oostenrijk-superieur-maar-wil-nog-niet-aan-de-titel-denken",
-    "type": "article",
-    "title": "Verstappen ook in Oostenrijk superieur: 'Maar wil nog niet aan de titel denken'",
-    "subtitle": null,
-    "published_at": "2023-07-02T16:49:04+02:00",
-    "updated_at": "2023-07-02T17:40:33+02:00",
-    "media_id": "t22x6ikavlnk",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "GP Oostenrijk",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6270544/verstappen-ook-in-oostenrijk-superieur-maar-wil-nog-niet-aan-de-titel-denken.html",
     "open_new_window": false,
     "partner": null
   }
