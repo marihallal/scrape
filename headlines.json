@@ -1,5 +1,28 @@
 [
   {
+    "id": 6270577,
+    "slug": "ook-the-white-lotus-is-op-pauze-gezet-wegens-staking-schrijvers-in-hollywood",
+    "type": "article",
+    "title": "Ook The White Lotus is op pauze gezet wegens staking schrijvers in Hollywood",
+    "subtitle": null,
+    "published_at": "2023-07-02T21:47:05+02:00",
+    "updated_at": "2023-07-02T21:47:06+02:00",
+    "media_id": "vs2xetoax8gc",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6270577/ook-the-white-lotus-is-op-pauze-gezet-wegens-staking-schrijvers-in-hollywood.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6270576,
     "slug": "calmejane-woest-om-punaises-op-tour-parcours-je-kan-gewond-raken-idioten",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "FC Twente-icoon en dertienvoudig international Theo Pahlplatz (76) overleden",
     "subtitle": null,
     "published_at": "2023-07-02T21:20:08+02:00",
-    "updated_at": "2023-07-02T21:20:14+02:00",
+    "updated_at": "2023-07-02T21:32:03+02:00",
     "media_id": "5trx2ona77ye",
     "duration": null,
     "canonical_section": {
@@ -162,13 +185,13 @@
   },
   {
     "id": 6270565,
-    "slug": "van-barneveld-mist-halve-finales-in-duitsland-van-duijvenbode-klopt-smith",
+    "slug": "van-duijvenbode-in-thriller-naar-finale-in-duitsland-van-barneveld-strandt",
     "type": "article",
-    "title": "Van Barneveld mist halve finales in Duitsland, Van Duijvenbode klopt Smith",
+    "title": "Van Duijvenbode in thriller naar finale in Duitsland, Van Barneveld strandt",
     "subtitle": null,
     "published_at": "2023-07-02T20:00:56+02:00",
-    "updated_at": "2023-07-02T20:44:54+02:00",
-    "media_id": "fyaxjtraq13c",
+    "updated_at": "2023-07-02T21:44:00+02:00",
+    "media_id": "c88xcoea7hxi",
     "duration": null,
     "canonical_section": {
       "id": 1777376,
@@ -179,18 +202,18 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/darts/6270565/van-barneveld-mist-halve-finales-in-duitsland-van-duijvenbode-klopt-smith.html",
+    "url": "/darts/6270565/van-duijvenbode-in-thriller-naar-finale-in-duitsland-van-barneveld-strandt.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6270563,
-    "slug": "oranjevrouwen-op-stoom-in-uitzwaaiwedstrijd-tegen-belgie",
+    "slug": "oranjevrouwen-gaan-na-rust-voor-meer-goals-in-laatste-test-voor-wk",
     "type": "article",
-    "title": "Oranjevrouwen op stoom in uitzwaaiwedstrijd tegen België",
+    "title": "Oranjevrouwen gaan na rust voor meer goals in laatste test voor WK",
     "subtitle": "Liveblog",
     "published_at": "2023-07-02T19:57:39+02:00",
-    "updated_at": "2023-07-02T21:26:48+02:00",
+    "updated_at": "2023-07-02T21:50:42+02:00",
     "media_id": "j3fxs88a9d45",
     "duration": null,
     "canonical_section": {
@@ -202,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6270563/oranjevrouwen-op-stoom-in-uitzwaaiwedstrijd-tegen-belgie.html",
+    "url": "/voetbal/6270563/oranjevrouwen-gaan-na-rust-voor-meer-goals-in-laatste-test-voor-wk.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tour-de-france/6270550/lafay-verrast-favorieten-in-spectaculaire-tour-rit-pogacar-loopt-uit-op-vingegaard.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270549,
-    "slug": "piloten-stellen-verkeerde-radiofrequentie-in-f-16s-schieten-te-hulp",
-    "type": "article",
-    "title": "Piloten stellen verkeerde radiofrequentie in, F-16's schieten te hulp",
-    "subtitle": null,
-    "published_at": "2023-07-02T17:09:28+02:00",
-    "updated_at": "2023-07-02T17:11:28+02:00",
-    "media_id": "npvx1uta7hyo",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6270549/piloten-stellen-verkeerde-radiofrequentie-in-f-16s-schieten-te-hulp.html",
     "open_new_window": false,
     "partner": null
   }
