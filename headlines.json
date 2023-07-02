@@ -1,5 +1,28 @@
 [
   {
+    "id": 6270550,
+    "slug": "lafay-verrast-favorieten-in-spectaculaire-tour-rit-pogacar-loopt-uit-op-vingegaard",
+    "type": "article",
+    "title": "Lafay verrast favorieten in spectaculaire Tour-rit, Pogacar loopt uit op Vingegaard",
+    "subtitle": null,
+    "published_at": "2023-07-02T17:23:55+02:00",
+    "updated_at": "2023-07-02T17:28:05+02:00",
+    "media_id": "68mx2vda0fa9",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772173,
+      "slug": "tour-de-france",
+      "type": "default",
+      "name": "Tour de France",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tour-de-france/6270550/lafay-verrast-favorieten-in-spectaculaire-tour-rit-pogacar-loopt-uit-op-vingegaard.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6270549,
     "slug": "piloten-stellen-verkeerde-radiofrequentie-in-f-16s-schieten-te-hulp",
     "type": "article",
@@ -98,7 +121,7 @@
     "title": "Pérez beleefde zwaar weekend in Oostenrijk: 'Hoge koorts en weinig slaap'",
     "subtitle": null,
     "published_at": "2023-07-02T17:00:26+02:00",
-    "updated_at": "2023-07-02T17:05:48+02:00",
+    "updated_at": "2023-07-02T17:19:48+02:00",
     "media_id": "4vnxrvza3rax",
     "duration": null,
     "canonical_section": {
@@ -121,7 +144,7 @@
     "title": "Verstappen ook in Oostenrijk superieur: 'Maar wil nog niet aan de titel denken'",
     "subtitle": null,
     "published_at": "2023-07-02T16:49:04+02:00",
-    "updated_at": "2023-07-02T17:17:16+02:00",
+    "updated_at": "2023-07-02T17:20:11+02:00",
     "media_id": "t22x6ikavlnk",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6270309/asml-in-de-verdrukking-door-geopolitieke-strijd-tussen-grootmachten-china-en-vs.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270134,
-    "slug": "wat-betekent-de-verkoop-van-bijna-7000-huurwoningen-voor-nederland",
-    "type": "article",
-    "title": "Wat betekent de verkoop van bijna 7.000 huurwoningen voor Nederland?",
-    "subtitle": "NU+",
-    "published_at": "2023-07-02T13:00:10+02:00",
-    "updated_at": "2023-07-02T13:22:44+02:00",
-    "media_id": "b6ax1ewavhoy",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6270134/wat-betekent-de-verkoop-van-bijna-7000-huurwoningen-voor-nederland.html",
     "open_new_window": false,
     "partner": null
   }
