@@ -1,5 +1,28 @@
 [
   {
+    "id": 6270586,
+    "slug": "kamer-ondervraagt-oud-verkenners-en-oud-voorzitter-over-functie-elders-omtzigt",
+    "type": "article",
+    "title": "Kamer ondervraagt oud-verkenners en oud-voorzitter over ‘functie-elders’ Omtzigt",
+    "subtitle": null,
+    "published_at": "2023-07-03T05:52:40+02:00",
+    "updated_at": "2023-07-03T05:52:40+02:00",
+    "media_id": "uxex0ofa6hdc",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771437,
+      "slug": "politiek",
+      "type": "default",
+      "name": "Politiek",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/politiek/6270586/kamer-ondervraagt-oud-verkenners-en-oud-voorzitter-over-functie-elders-omtzigt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6270510,
     "slug": "achter-de-oorlog-inwoners-kramatorsk-zijn-kapot-van-zoveelste-tragedie",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6270571/explosie-bij-woning-in-flatgebouw-in-schiedam.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270567,
-    "slug": "vingegaard-veegt-kritiek-van-tafel-na-tweede-plek-van-aert-ik-vind-het-onterecht",
-    "type": "article",
-    "title": "Vingegaard veegt kritiek van tafel na tweede plek Van Aert: 'Ik vind het onterecht'",
-    "subtitle": null,
-    "published_at": "2023-07-02T20:15:36+02:00",
-    "updated_at": "2023-07-02T21:01:15+02:00",
-    "media_id": "crvx2lwa5dau",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772173,
-      "slug": "tour-de-france",
-      "type": "default",
-      "name": "Tour de France",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tour-de-france/6270567/vingegaard-veegt-kritiek-van-tafel-na-tweede-plek-van-aert-ik-vind-het-onterecht.html",
     "open_new_window": false,
     "partner": null
   }
