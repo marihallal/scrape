@@ -1,12 +1,35 @@
 [
   {
+    "id": 6270910,
+    "slug": "bomen-langs-a9-waaien-om-door-storm-poly",
+    "type": "video",
+    "title": "Bomen langs A9 waaien om door storm Poly",
+    "subtitle": "Video",
+    "published_at": "2023-07-05T09:36:55+02:00",
+    "updated_at": "2023-07-05T09:36:56+02:00",
+    "media_id": "6qgxzzea1uh0",
+    "duration": "0:46",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6270910/bomen-langs-a9-waaien-om-door-storm-poly.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6270909,
-    "slug": "heel-noord-holland-krijgt-nl-alert-en-moet-binnen-blijven-vanwege-storm-poly",
+    "slug": "heel-noord-holland-krijgt-nl-alert-en-moet-binnenblijven-vanwege-storm-poly",
     "type": "article",
-    "title": "Heel Noord-Holland krijgt NL-Alert en moet binnen blijven vanwege storm Poly",
+    "title": "Heel Noord-Holland krijgt NL-Alert en moet binnenblijven vanwege storm Poly",
     "subtitle": null,
     "published_at": "2023-07-05T09:33:17+02:00",
-    "updated_at": "2023-07-05T09:33:18+02:00",
+    "updated_at": "2023-07-05T09:43:39+02:00",
     "media_id": "b9wxi48at64y",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/storm-eunice/6270909/heel-noord-holland-krijgt-nl-alert-en-moet-binnen-blijven-vanwege-storm-poly.html",
+    "url": "/storm-eunice/6270909/heel-noord-holland-krijgt-nl-alert-en-moet-binnenblijven-vanwege-storm-poly.html",
     "open_new_window": false,
     "partner": null
   },
@@ -144,7 +167,7 @@
     "title": "Wat wil jij weten over zomerstorm Poly?",
     "subtitle": null,
     "published_at": "2023-07-05T08:39:55+02:00",
-    "updated_at": "2023-07-05T09:11:50+02:00",
+    "updated_at": "2023-07-05T09:40:03+02:00",
     "media_id": "fqaxbxoad3w1",
     "duration": null,
     "canonical_section": {
@@ -190,7 +213,7 @@
     "title": "Rusland meldt dode en gewonden na Oekraïense aanval op bezette stad Makiivka",
     "subtitle": null,
     "published_at": "2023-07-05T08:07:41+02:00",
-    "updated_at": "2023-07-05T08:07:42+02:00",
+    "updated_at": "2023-07-05T09:44:02+02:00",
     "media_id": "vvdxug3akxn5",
     "duration": null,
     "canonical_section": {
@@ -213,7 +236,7 @@
     "title": "KNMI schaalt verder op: code rood in noordwesten wegens zeer zware windstoten",
     "subtitle": null,
     "published_at": "2023-07-05T07:56:01+02:00",
-    "updated_at": "2023-07-05T09:22:35+02:00",
+    "updated_at": "2023-07-05T09:42:30+02:00",
     "media_id": "2npxhn6ar3oh",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tour-de-france/6270861/ook-op-een-circuit-is-sprinten-in-de-tour-chaotisch-het-was-supergevaarlijk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270839,
-    "slug": "duur-gas-zorgde-in-2022-voor-laagste-energieverbruik-in-dertig-jaar",
-    "type": "article",
-    "title": "Duur gas zorgde in 2022 voor laagste energieverbruik in dertig jaar",
-    "subtitle": null,
-    "published_at": "2023-07-05T05:04:39+02:00",
-    "updated_at": "2023-07-05T05:04:41+02:00",
-    "media_id": "nk7x310aajuv",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6270839/duur-gas-zorgde-in-2022-voor-laagste-energieverbruik-in-dertig-jaar.html",
     "open_new_window": false,
     "partner": null
   }
