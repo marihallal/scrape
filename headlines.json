@@ -1,13 +1,36 @@
 [
   {
+    "id": 6271031,
+    "slug": "dassen-gelokt-en-vervolgens-gedood-in-het-gelderse-loo",
+    "type": "article",
+    "title": "Dassen gelokt en vervolgens gedood in het Gelderse Loo",
+    "subtitle": null,
+    "published_at": "2023-07-05T17:30:20+02:00",
+    "updated_at": "2023-07-05T17:30:21+02:00",
+    "media_id": "84gxqj8amgja",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6271031/dassen-gelokt-en-vervolgens-gedood-in-het-gelderse-loo.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6271018,
     "slug": "tour-de-france-op-zn-kop-vingegaard-kraakt-pogacar-hindley-in-geel-na-ritwinst",
     "type": "article",
     "title": "Tour de France op z'n kop: Vingegaard kraakt Pogacar, Hindley in geel na ritwinst",
     "subtitle": null,
     "published_at": "2023-07-05T17:22:15+02:00",
-    "updated_at": "2023-07-05T17:22:22+02:00",
-    "media_id": "6s2xzx2a6k41",
+    "updated_at": "2023-07-05T17:33:19+02:00",
+    "media_id": "l2sx80haexu7",
     "duration": null,
     "canonical_section": {
       "id": 1772173,
@@ -29,7 +52,7 @@
     "title": "Waarom het KNMI pas zo laat met weercodes oranje en rood kwam",
     "subtitle": null,
     "published_at": "2023-07-05T17:16:15+02:00",
-    "updated_at": "2023-07-05T17:16:17+02:00",
+    "updated_at": "2023-07-05T17:31:21+02:00",
     "media_id": "88yxf9jap0lz",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/storm-eunice/6270977/poly-officieel-geen-storm-meer-nog-wel-problemen-op-de-weg-en-het-spoor.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270973,
-    "slug": "stormachtige-landing-op-schiphol-iedereen-ging-over-zijn-nek",
-    "type": "video",
-    "title": "Stormachtige landing op Schiphol: 'Iedereen ging over zijn nek'",
-    "subtitle": "Video",
-    "published_at": "2023-07-05T13:46:57+02:00",
-    "updated_at": "2023-07-05T15:59:25+02:00",
-    "media_id": "4g9xgdkauw09",
-    "duration": "1:13",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6270973/stormachtige-landing-op-schiphol-iedereen-ging-over-zijn-nek.html",
     "open_new_window": false,
     "partner": null
   }
