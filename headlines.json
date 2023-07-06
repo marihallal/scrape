@@ -1,5 +1,28 @@
 [
   {
+    "id": 6271094,
+    "slug": "binnen-zeven-uur-al-tien-miljoen-aanmeldingen-voor-twitter-concurrent-threads",
+    "type": "article",
+    "title": "Binnen zeven uur al tien miljoen aanmeldingen voor Twitter-concurrent Threads",
+    "subtitle": null,
+    "published_at": "2023-07-06T09:28:31+02:00",
+    "updated_at": "2023-07-06T09:30:56+02:00",
+    "media_id": "0zfxgkgad91r",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6271094/binnen-zeven-uur-al-tien-miljoen-aanmeldingen-voor-twitter-concurrent-threads.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6271092,
     "slug": "politiechef-tel-aviv-stapt-op-regering-vroeg-hem-hard-in-te-grijpen-bij-protesten",
     "type": "article",
@@ -24,12 +47,12 @@
   },
   {
     "id": 6271090,
-    "slug": "echtpaar-aangehouden-op-verdenking-van-terrorisme-en-lidmaatschap-is",
+    "slug": "echtpaar-in-brabant-aangehouden-op-verdenking-van-plannen-terroristisch-misdrijf",
     "type": "article",
-    "title": "Echtpaar aangehouden op verdenking van terrorisme en lidmaatschap IS",
+    "title": "Echtpaar in Brabant aangehouden op verdenking van plannen terroristisch misdrijf",
     "subtitle": null,
     "published_at": "2023-07-06T08:35:56+02:00",
-    "updated_at": "2023-07-06T08:47:18+02:00",
+    "updated_at": "2023-07-06T09:25:10+02:00",
     "media_id": "m1oxf34accfm",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6271090/echtpaar-aangehouden-op-verdenking-van-terrorisme-en-lidmaatschap-is.html",
+    "url": "/binnenland/6271090/echtpaar-in-brabant-aangehouden-op-verdenking-van-plannen-terroristisch-misdrijf.html",
     "open_new_window": false,
     "partner": null
   },
@@ -98,7 +121,7 @@
     "title": "Di María (35) kiest in herfst van zijn carrière voor terugkeer naar Benfica",
     "subtitle": null,
     "published_at": "2023-07-06T07:21:54+02:00",
-    "updated_at": "2023-07-06T07:37:28+02:00",
+    "updated_at": "2023-07-06T09:23:36+02:00",
     "media_id": "wd4x74pah28v",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6271074/beveiligers-vinden-cocaine-in-het-witte-huis-biden-wil-weten-hoe-dat-kan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271016,
-    "slug": "onze-afvalberg-is-geslonken-tot-laagste-niveau-in-bijna-dertig-jaar",
-    "type": "article",
-    "title": "Onze afvalberg is geslonken tot laagste niveau in bijna dertig jaar",
-    "subtitle": null,
-    "published_at": "2023-07-06T00:01:29+02:00",
-    "updated_at": "2023-07-06T00:01:30+02:00",
-    "media_id": "ovyxrm0a5nia",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6271016/onze-afvalberg-is-geslonken-tot-laagste-niveau-in-bijna-dertig-jaar.html",
     "open_new_window": false,
     "partner": null
   }
