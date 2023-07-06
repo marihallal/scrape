@@ -1,5 +1,28 @@
 [
   {
+    "id": 6271100,
+    "slug": "nog-steeds-grote-personeelstekorten-vooral-in-winkels",
+    "type": "article",
+    "title": "Nog steeds grote personeelstekorten, vooral in winkels",
+    "subtitle": null,
+    "published_at": "2023-07-06T09:39:33+02:00",
+    "updated_at": "2023-07-06T09:39:34+02:00",
+    "media_id": "lgwxstaaxby0",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6271100/nog-steeds-grote-personeelstekorten-vooral-in-winkels.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6271094,
     "slug": "binnen-zeven-uur-al-tien-miljoen-aanmeldingen-voor-twitter-concurrent-threads",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Echtpaar in Brabant aangehouden op verdenking van plannen terroristisch misdrijf",
     "subtitle": null,
     "published_at": "2023-07-06T08:35:56+02:00",
-    "updated_at": "2023-07-06T09:25:10+02:00",
+    "updated_at": "2023-07-06T09:43:20+02:00",
     "media_id": "m1oxf34accfm",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tour-de-france/6271073/jumbo-visma-sloopt-pogacar-al-in-eerste-bergrit-we-lieten-uae-eerst-uitrazen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271074,
-    "slug": "beveiligers-vinden-cocaine-in-het-witte-huis-biden-wil-weten-hoe-dat-kan",
-    "type": "article",
-    "title": "Beveiligers vinden cocaïne in het Witte Huis, Biden wil weten hoe dat kan",
-    "subtitle": null,
-    "published_at": "2023-07-06T00:37:37+02:00",
-    "updated_at": "2023-07-06T08:15:29+02:00",
-    "media_id": "hrcx2rxa5ilk",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6271074/beveiligers-vinden-cocaine-in-het-witte-huis-biden-wil-weten-hoe-dat-kan.html",
     "open_new_window": false,
     "partner": null
   }
