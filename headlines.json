@@ -1,5 +1,28 @@
 [
   {
+    "id": 6271193,
+    "slug": "turkije-en-zweden-komen-er-nog-niet-uit-over-zweeds-navo-lidmaatschap",
+    "type": "article",
+    "title": "Turkije en Zweden komen er nog niet uit over Zweeds NAVO-lidmaatschap",
+    "subtitle": null,
+    "published_at": "2023-07-06T16:43:16+02:00",
+    "updated_at": "2023-07-06T16:43:17+02:00",
+    "media_id": "10nxrnlay2ti",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6271193/turkije-en-zweden-komen-er-nog-niet-uit-over-zweeds-navo-lidmaatschap.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6271202,
     "slug": "slot-gaat-ervan-uit-dat-geertruida-en-bijlow-bij-feyenoord-blijven",
     "type": "article",
@@ -70,12 +93,12 @@
   },
   {
     "id": 6271201,
-    "slug": "van-de-zandschulp-eindelijk-wint-weer-en-gaat-na-vijfsetter-door-op-wimbledon",
+    "slug": "van-de-zandschulp-wint-eindelijk-weer-en-gaat-na-vijfsetter-door-op-wimbledon",
     "type": "article",
-    "title": "Van de Zandschulp eindelijk wint weer en gaat na vijfsetter door op Wimbledon",
+    "title": "Van de Zandschulp wint eindelijk weer en gaat na vijfsetter door op Wimbledon",
     "subtitle": null,
     "published_at": "2023-07-06T16:12:48+02:00",
-    "updated_at": "2023-07-06T16:38:05+02:00",
+    "updated_at": "2023-07-06T16:49:25+02:00",
     "media_id": "uyixh57a2unz",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": "m1oxohpan0gq",
       "partner": null
     },
-    "url": "/tennis/6271201/van-de-zandschulp-eindelijk-wint-weer-en-gaat-na-vijfsetter-door-op-wimbledon.html",
+    "url": "/tennis/6271201/van-de-zandschulp-wint-eindelijk-weer-en-gaat-na-vijfsetter-door-op-wimbledon.html",
     "open_new_window": false,
     "partner": null
   },
@@ -231,12 +254,12 @@
   },
   {
     "id": 6271186,
-    "slug": "oppermachtige-van-vleuten-maakt-hattrick-in-giro-donne-met-nieuwe-ritwinst-compleet",
+    "slug": "ijzersterke-van-vleuten-maakt-hattrick-in-giro-donne-met-nieuwe-ritwinst-compleet",
     "type": "article",
-    "title": "Oppermachtige Van Vleuten maakt hattrick in Giro Donne met nieuwe ritwinst compleet",
+    "title": "Ijzersterke Van Vleuten maakt hattrick in Giro Donne met nieuwe ritwinst compleet",
     "subtitle": null,
     "published_at": "2023-07-06T15:15:37+02:00",
-    "updated_at": "2023-07-06T15:50:47+02:00",
+    "updated_at": "2023-07-06T16:39:46+02:00",
     "media_id": "crrxm8kag4fw",
     "duration": null,
     "canonical_section": {
@@ -248,7 +271,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/wielrennen/6271186/oppermachtige-van-vleuten-maakt-hattrick-in-giro-donne-met-nieuwe-ritwinst-compleet.html",
+    "url": "/wielrennen/6271186/ijzersterke-van-vleuten-maakt-hattrick-in-giro-donne-met-nieuwe-ritwinst-compleet.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6271167/hulpdiensten-rukken-uit-nadat-auto-school-ramt-in-wimbledon.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271165,
-    "slug": "dode-en-gewonden-doordat-auto-inrijdt-op-basisschool-in-wimbledon",
-    "type": "article",
-    "title": "Dode en gewonden doordat auto inrijdt op basisschool in Wimbledon",
-    "subtitle": null,
-    "published_at": "2023-07-06T14:26:23+02:00",
-    "updated_at": "2023-07-06T16:34:31+02:00",
-    "media_id": "5nwxek7aokex",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6271165/dode-en-gewonden-doordat-auto-inrijdt-op-basisschool-in-wimbledon.html",
     "open_new_window": false,
     "partner": null
   }
