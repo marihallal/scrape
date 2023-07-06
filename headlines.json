@@ -1,5 +1,28 @@
 [
   {
+    "id": 6271206,
+    "slug": "kabinet-wil-zonnepanelen-niet-meer-in-weilanden-maar-wel-op-parkeerplaatsen",
+    "type": "article",
+    "title": "Kabinet wil zonnepanelen niet meer in weilanden, maar wél op parkeerplaatsen",
+    "subtitle": null,
+    "published_at": "2023-07-06T17:25:05+02:00",
+    "updated_at": "2023-07-06T17:25:07+02:00",
+    "media_id": "0xpxmjbakj9w",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772754,
+      "slug": "klimaat",
+      "type": "default",
+      "name": "Klimaat",
+      "style": "nuzakelijk",
+      "media_id": "kf4x3b2agsxg",
+      "partner": null
+    },
+    "url": "/klimaat/6271206/kabinet-wil-zonnepanelen-niet-meer-in-weilanden-maar-wel-op-parkeerplaatsen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6271173,
     "slug": "wat-storm-poly-wel-en-niet-te-maken-heeft-met-klimaatverandering",
     "type": "article",
@@ -24,13 +47,13 @@
   },
   {
     "id": 6271209,
-    "slug": "pogacar-verslaat-vingegaard-in-titanengevecht-en-wint-bergrit-in-tour",
+    "slug": "pogacar-zet-tour-weer-op-zijn-kop-met-revanche-op-nieuwe-geletruidrager-vingegaard",
     "type": "article",
-    "title": "Pogacar verslaat Vingegaard in titanengevecht en wint bergrit in Tour",
+    "title": "Pogacar zet Tour wéér op zijn kop met revanche op nieuwe geletruidrager Vingegaard",
     "subtitle": null,
     "published_at": "2023-07-06T17:21:55+02:00",
-    "updated_at": "2023-07-06T17:22:12+02:00",
-    "media_id": "cmtxtthafnf2",
+    "updated_at": "2023-07-06T17:36:07+02:00",
+    "media_id": "ns7xxfhaicfy",
     "duration": null,
     "canonical_section": {
       "id": 1772173,
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/tour-de-france/6271209/pogacar-verslaat-vingegaard-in-titanengevecht-en-wint-bergrit-in-tour.html",
+    "url": "/tour-de-france/6271209/pogacar-zet-tour-weer-op-zijn-kop-met-revanche-op-nieuwe-geletruidrager-vingegaard.html",
     "open_new_window": false,
     "partner": null
   },
@@ -144,7 +167,7 @@
     "title": "Valt kabinet-Rutte IV om migratie? 'VVD speelt het hard'",
     "subtitle": "Explainer",
     "published_at": "2023-07-06T17:04:33+02:00",
-    "updated_at": "2023-07-06T17:10:06+02:00",
+    "updated_at": "2023-07-06T17:25:56+02:00",
     "media_id": "09wxvkhahb5q",
     "duration": "3:06",
     "canonical_section": {
@@ -259,7 +282,7 @@
     "title": "Debutant Brouwer kan op Wimbledon niet stunten tegen topspeler Zverev",
     "subtitle": null,
     "published_at": "2023-07-06T16:26:10+02:00",
-    "updated_at": "2023-07-06T17:02:57+02:00",
+    "updated_at": "2023-07-06T17:31:47+02:00",
     "media_id": "gb3xacbarwp6",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6271182/bitcoinkoers-stijgt-naar-hoogste-punt-in-ruim-een-jaar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271186,
-    "slug": "oppermachtige-van-vleuten-voltooit-hattrick-in-giro-donne-met-nieuwe-ritwinst",
-    "type": "article",
-    "title": "Oppermachtige Van Vleuten voltooit hattrick in Giro Donne met nieuwe ritwinst",
-    "subtitle": null,
-    "published_at": "2023-07-06T15:15:37+02:00",
-    "updated_at": "2023-07-06T17:15:18+02:00",
-    "media_id": "crrxm8kag4fw",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6271186/oppermachtige-van-vleuten-voltooit-hattrick-in-giro-donne-met-nieuwe-ritwinst.html",
     "open_new_window": false,
     "partner": null
   }
