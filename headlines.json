@@ -1,5 +1,28 @@
 [
   {
+    "id": 6271154,
+    "slug": "weekendweerbericht-van-wegwaaien-naar-puffen-en-smeren",
+    "type": "article",
+    "title": "Weekendweerbericht: Van wegwaaien naar puffen en smeren",
+    "subtitle": null,
+    "published_at": "2023-07-07T07:33:18+02:00",
+    "updated_at": "2023-07-07T07:33:19+02:00",
+    "media_id": "ki1x8bvakheu",
+    "duration": null,
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6271154/weekendweerbericht-van-wegwaaien-naar-puffen-en-smeren.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6271132,
     "slug": "stelling-ik-hoef-dit-jaar-niet-naar-het-buitenland-op-vakantie",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Zeker zes doden en tientallen gewonden door brand in verzorgingshuis in Milaan",
     "subtitle": null,
     "published_at": "2023-07-07T06:51:44+02:00",
-    "updated_at": "2023-07-07T06:55:09+02:00",
+    "updated_at": "2023-07-07T07:28:25+02:00",
     "media_id": "jgoxrieaonud",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/politiek/6271250/cruciaal-asieloverleg-al-uren-aan-de-gang-spanning-over-mogelijke-kabinetsval-stijgt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271248,
-    "slug": "gehavende-jakobsen-ziet-af-in-de-tour-ik-had-een-deja-vu-naar-vorig-jaar",
-    "type": "article",
-    "title": "Gehavende Jakobsen ziet af in de Tour: 'Ik had een déjà vu naar vorig jaar'",
-    "subtitle": null,
-    "published_at": "2023-07-06T21:25:51+02:00",
-    "updated_at": "2023-07-07T06:52:51+02:00",
-    "media_id": "0puxb4wahqh8",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772173,
-      "slug": "tour-de-france",
-      "type": "default",
-      "name": "Tour de France",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tour-de-france/6271248/gehavende-jakobsen-ziet-af-in-de-tour-ik-had-een-deja-vu-naar-vorig-jaar.html",
     "open_new_window": false,
     "partner": null
   }
