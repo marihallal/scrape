@@ -1,5 +1,51 @@
 [
   {
+    "id": 6271436,
+    "slug": "man-die-23-mensen-doodschoot-in-el-paso-in-2019-krijgt-90-keer-levenslang",
+    "type": "article",
+    "title": "Man die 23 mensen doodschoot in El Paso in 2019 krijgt 90 keer levenslang",
+    "subtitle": null,
+    "published_at": "2023-07-07T19:31:39+02:00",
+    "updated_at": "2023-07-07T19:31:40+02:00",
+    "media_id": "1wzxhstakdri",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6271436/man-die-23-mensen-doodschoot-in-el-paso-in-2019-krijgt-90-keer-levenslang.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6271435,
+    "slug": "marieke-elsinga-na-ruim-een-dag-herenigd-met-haar-verdwenen-kat",
+    "type": "article",
+    "title": "Marieke Elsinga na ruim een dag herenigd met haar verdwenen kat",
+    "subtitle": null,
+    "published_at": "2023-07-07T19:24:24+02:00",
+    "updated_at": "2023-07-07T19:24:25+02:00",
+    "media_id": "66qxe9ea4bbl",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6271435/marieke-elsinga-na-ruim-een-dag-herenigd-met-haar-verdwenen-kat.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6271434,
     "slug": "geen-wielerhistorie-voor-cavendish-na-schakelprobleem-ben-heel-teleurgesteld",
     "type": "article",
@@ -351,7 +397,7 @@
     "title": "Politie zoekt ex-militair die Belgische premier online met dood bedreigde",
     "subtitle": null,
     "published_at": "2023-07-07T16:43:28+02:00",
-    "updated_at": "2023-07-07T18:25:45+02:00",
+    "updated_at": "2023-07-07T19:33:53+02:00",
     "media_id": "f9exda6anmo2",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/muziek/6271392/toppers-keren-in-2024-terug-op-podium-feestformatie-in-mei-in-de-arena.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271196,
-    "slug": "zo-slecht-is-het-om-alcohol-te-drinken-in-de-zon",
-    "type": "article",
-    "title": "Zo slecht is het om alcohol te drinken in de zon",
-    "subtitle": "NU+",
-    "published_at": "2023-07-07T15:42:32+02:00",
-    "updated_at": "2023-07-07T16:06:20+02:00",
-    "media_id": "fdwx1neak5kl",
-    "duration": null,
-    "canonical_section": {
-      "id": 1146768,
-      "slug": "gezondheid",
-      "type": "default",
-      "name": "Gezondheid",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/gezondheid/6271196/zo-slecht-is-het-om-alcohol-te-drinken-in-de-zon.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271383,
-    "slug": "spanjaarden-klimmen-op-autos-in-overstroomde-straten",
-    "type": "video",
-    "title": "Spanjaarden klimmen op auto’s in overstroomde straten",
-    "subtitle": "Video",
-    "published_at": "2023-07-07T15:30:49+02:00",
-    "updated_at": "2023-07-07T17:34:52+02:00",
-    "media_id": "yefxlulale9r",
-    "duration": "0:42",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6271383/spanjaarden-klimmen-op-autos-in-overstroomde-straten.html",
     "open_new_window": false,
     "partner": null
   }
