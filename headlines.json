@@ -1,12 +1,35 @@
 [
   {
+    "id": 6271487,
+    "slug": "miljoenen-kijkers-voor-journaals-rondom-val-van-kabinet-rutte-iv",
+    "type": "article",
+    "title": "Miljoenen kijkers voor journaals rondom val van kabinet Rutte IV",
+    "subtitle": null,
+    "published_at": "2023-07-08T09:29:39+02:00",
+    "updated_at": "2023-07-08T09:29:40+02:00",
+    "media_id": "6yjx2iiaaga1",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6271487/miljoenen-kijkers-voor-journaals-rondom-val-van-kabinet-rutte-iv.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6271486,
     "slug": "vicepremiers-noemen-val-kabinet-betreurenswaardig-en-onnodig",
     "type": "video",
     "title": "Vicepremiers noemen val kabinet 'betreurenswaardig' en 'onnodig'",
     "subtitle": "Video",
     "published_at": "2023-07-08T09:12:33+02:00",
-    "updated_at": "2023-07-08T09:12:34+02:00",
+    "updated_at": "2023-07-08T09:18:02+02:00",
     "media_id": "jh7x8mva10vi",
     "duration": "1:10",
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/algemeen/6271472/in-geen-100000-jaar-werd-het-zo-warm-op-aarde-als-afgelopen-week.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271463,
-    "slug": "het-zoveelste-struikelblok-wordt-kabinet-rutte-iv-nu-fataal",
-    "type": "article",
-    "title": "Het zoveelste struikelblok wordt kabinet-Rutte IV nu fataal",
-    "subtitle": null,
-    "published_at": "2023-07-07T23:45:26+02:00",
-    "updated_at": "2023-07-08T05:54:12+02:00",
-    "media_id": "mmexwhradfsp",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779274,
-      "slug": "val-kabinet",
-      "type": "default",
-      "name": "Val kabinet",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/val-kabinet/6271463/het-zoveelste-struikelblok-wordt-kabinet-rutte-iv-nu-fataal.html",
     "open_new_window": false,
     "partner": null
   }
