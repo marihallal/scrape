@@ -1,12 +1,35 @@
 [
   {
-    "id": 6271660,
-    "slug": "woods-dacht-niet-aan-ritzege-bij-jacht-op-jorgenson-in-tour-wilde-tijdrit-rijden",
+    "id": 6271661,
+    "slug": "brandweer-twente-redt-volwassene-en-twee-kinderen-uit-drijvende-auto",
     "type": "article",
-    "title": "Woods dacht niet aan ritzege bij jacht op Jorgenson in Tour: 'Wilde tijdrit rijden'",
+    "title": "Brandweer Twente redt volwassene en twee kinderen uit drijvende auto",
+    "subtitle": null,
+    "published_at": "2023-07-09T19:31:18+02:00",
+    "updated_at": "2023-07-09T19:31:20+02:00",
+    "media_id": "9w1xnngaemhk",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6271661/brandweer-twente-redt-volwassene-en-twee-kinderen-uit-drijvende-auto.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6271660,
+    "slug": "woods-dacht-niet-aan-winst-bij-jacht-op-jorgenson-in-tour-wilde-tijdrit-rijden",
+    "type": "article",
+    "title": "Woods dacht niet aan winst bij jacht op Jorgenson in Tour: 'Wilde tijdrit rijden'",
     "subtitle": null,
     "published_at": "2023-07-09T19:10:52+02:00",
-    "updated_at": "2023-07-09T19:10:53+02:00",
+    "updated_at": "2023-07-09T19:30:32+02:00",
     "media_id": "9caxpt4afyed",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/tour-de-france/6271660/woods-dacht-niet-aan-ritzege-bij-jacht-op-jorgenson-in-tour-wilde-tijdrit-rijden.html",
+    "url": "/tour-de-france/6271660/woods-dacht-niet-aan-winst-bij-jacht-op-jorgenson-in-tour-wilde-tijdrit-rijden.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +75,7 @@
     "title": "Stelling: Alle partijen moeten kabinet met Rutte als premier uitsluiten",
     "subtitle": null,
     "published_at": "2023-07-09T19:00:35+02:00",
-    "updated_at": "2023-07-09T19:07:21+02:00",
+    "updated_at": "2023-07-09T19:24:01+02:00",
     "media_id": "rz4x1s3a8ecz",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Vooruitblik etappe 10 Tour de France: Helft van peloton heeft deze dag omcirkeld",
     "subtitle": null,
     "published_at": "2023-07-09T18:19:22+02:00",
-    "updated_at": "2023-07-09T18:21:37+02:00",
+    "updated_at": "2023-07-09T19:21:20+02:00",
     "media_id": "eenxs06akykl",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tennis/6271633/zestienjarige-andreeva-blijft-verrassen-en-staat-in-achtste-finales-wimbledon.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271629,
-    "slug": "reacties-na-bijzondere-zege-verstappen-in-silverstone",
-    "type": "article",
-    "title": "Reacties na bijzondere zege Verstappen in Silverstone",
-    "subtitle": "Liveblog",
-    "published_at": "2023-07-09T15:25:15+02:00",
-    "updated_at": "2023-07-09T17:28:41+02:00",
-    "media_id": "y3cxivha3wdf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "GP Groot-Brittannië",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6271629/reacties-na-bijzondere-zege-verstappen-in-silverstone.html",
     "open_new_window": false,
     "partner": null
   }
