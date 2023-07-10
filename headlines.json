@@ -1,12 +1,35 @@
 [
   {
+    "id": 6271827,
+    "slug": "turkije-verzet-zich-niet-langer-tegen-navo-lidmaatschap-zweden",
+    "type": "article",
+    "title": "Turkije verzet zich niet langer tegen NAVO-lidmaatschap Zweden",
+    "subtitle": null,
+    "published_at": "2023-07-10T21:31:42+02:00",
+    "updated_at": "2023-07-10T21:31:53+02:00",
+    "media_id": "gvzxkn9akexw",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6271827/turkije-verzet-zich-niet-langer-tegen-navo-lidmaatschap-zweden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6271825,
     "slug": "bouwmeester-kent-moeizame-dag-op-olympisch-testevent-wel-superleerzaam",
     "type": "article",
     "title": "Bouwmeester kent moeizame dag op olympisch testevent: 'Wel superleerzaam'",
     "subtitle": null,
     "published_at": "2023-07-10T21:12:07+02:00",
-    "updated_at": "2023-07-10T21:12:46+02:00",
+    "updated_at": "2023-07-10T21:16:13+02:00",
     "media_id": "b2ixanza0swh",
     "duration": null,
     "canonical_section": {
@@ -351,7 +374,7 @@
     "title": "Djokovic houdt zicht op echte Grand Slam, ook Wimbledon-sensatie Eubanks door",
     "subtitle": null,
     "published_at": "2023-07-10T17:02:59+02:00",
-    "updated_at": "2023-07-10T18:02:18+02:00",
+    "updated_at": "2023-07-10T21:23:46+02:00",
     "media_id": "hesx2e5a5iqq",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6271789/man-doodgeschoten-op-woonwagenkamp-in-eindhoven-verdachte-voortvluchtig.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271769,
-    "slug": "om-eist-in-hoger-beroep-weer-vijftien-jaar-voor-doden-zwangere-sumanta-bansi",
-    "type": "article",
-    "title": "OM eist in hoger beroep weer vijftien jaar voor doden zwangere Sumanta Bansi",
-    "subtitle": null,
-    "published_at": "2023-07-10T16:24:57+02:00",
-    "updated_at": "2023-07-10T16:29:23+02:00",
-    "media_id": "6whxq6xavwsq",
-    "duration": null,
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6271769/om-eist-in-hoger-beroep-weer-vijftien-jaar-voor-doden-zwangere-sumanta-bansi.html",
     "open_new_window": false,
     "partner": null
   }
