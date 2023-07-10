@@ -1,5 +1,28 @@
 [
   {
+    "id": 6271747,
+    "slug": "nepkorting-in-winkels-nog-steeds-doorn-in-het-oog-van-consumentenbond",
+    "type": "article",
+    "title": "Nepkorting in winkels nog steeds doorn in het oog van Consumentenbond",
+    "subtitle": null,
+    "published_at": "2023-07-10T12:53:58+02:00",
+    "updated_at": "2023-07-10T12:54:00+02:00",
+    "media_id": "mn2xklmaucmp",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6271747/nepkorting-in-winkels-nog-steeds-doorn-in-het-oog-van-consumentenbond.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6271746,
     "slug": "klaver-kruiste-vaak-degens-met-rutte-nooit-persoonlijk-altijd-inhoudelijk",
     "type": "video",
@@ -75,7 +98,7 @@
     "title": "Stroom van zonnepanelen kan nog vaak niet worden gebruikt",
     "subtitle": null,
     "published_at": "2023-07-10T12:34:52+02:00",
-    "updated_at": "2023-07-10T12:34:53+02:00",
+    "updated_at": "2023-07-10T12:57:26+02:00",
     "media_id": "z6xxgrtarr38",
     "duration": null,
     "canonical_section": {
@@ -139,12 +162,12 @@
   },
   {
     "id": 6271739,
-    "slug": "bezoekers-van-door-noodweer-afgelaste-festivals-krijgen-geld-deels-terug",
+    "slug": "bezoekers-van-door-noodweer-afgelaste-festivals-krijgen-geld-terug",
     "type": "article",
-    "title": "Bezoekers van door noodweer afgelaste festivals krijgen geld (deels) terug",
+    "title": "Bezoekers van door noodweer afgelaste festivals krijgen geld terug",
     "subtitle": null,
     "published_at": "2023-07-10T12:25:05+02:00",
-    "updated_at": "2023-07-10T12:44:10+02:00",
+    "updated_at": "2023-07-10T13:01:27+02:00",
     "media_id": "vk9xk2jaxuui",
     "duration": null,
     "canonical_section": {
@@ -156,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/muziek/6271739/bezoekers-van-door-noodweer-afgelaste-festivals-krijgen-geld-deels-terug.html",
+    "url": "/muziek/6271739/bezoekers-van-door-noodweer-afgelaste-festivals-krijgen-geld-terug.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/politiek/6271718/bekijk-het-moment-waarop-rutte-bekendmaakt-dat-hij-de-politiek-verlaat.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271717,
-    "slug": "schrijvers-klagen-chatgpt-maker-open-ai-aan-voor-schending-auteursrecht",
-    "type": "article",
-    "title": "Schrijvers klagen ChatGPT-maker Open AI aan voor schending auteursrecht",
-    "subtitle": null,
-    "published_at": "2023-07-10T10:39:07+02:00",
-    "updated_at": "2023-07-10T10:50:27+02:00",
-    "media_id": "m8fx55taotvj",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6271717/schrijvers-klagen-chatgpt-maker-open-ai-aan-voor-schending-auteursrecht.html",
     "open_new_window": false,
     "partner": null
   }
