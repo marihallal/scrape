@@ -1,12 +1,35 @@
 [
   {
-    "id": 6271929,
-    "slug": "transfervrije-sinkgraven-zet-carriere-voort-bij-gepromoveerd-las-palmas",
+    "id": 6271928,
+    "slug": "tom-holland-was-geobsedeerd-door-alcohol-voordat-hij-stopte-met-drinken",
     "type": "article",
-    "title": "Transfervrije Sinkgraven zet carrière voort bij gepromoveerd Las Palmas",
+    "title": "Tom Holland was 'geobsedeerd' door alcohol voordat hij stopte met drinken",
+    "subtitle": null,
+    "published_at": "2023-07-11T16:03:16+02:00",
+    "updated_at": "2023-07-11T16:03:18+02:00",
+    "media_id": "ymkxtata6s0u",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6271928/tom-holland-was-geobsedeerd-door-alcohol-voordat-hij-stopte-met-drinken.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6271929,
+    "slug": "transfervrije-sinkgraven-zet-carriere-voort-bij-spaanse-promovendus",
+    "type": "article",
+    "title": "Transfervrije Sinkgraven zet carrière voort bij Spaanse promovendus",
     "subtitle": null,
     "published_at": "2023-07-11T15:50:47+02:00",
-    "updated_at": "2023-07-11T15:50:49+02:00",
+    "updated_at": "2023-07-11T16:06:26+02:00",
     "media_id": "74oxuzya8fx3",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6271929/transfervrije-sinkgraven-zet-carriere-voort-bij-gepromoveerd-las-palmas.html",
+    "url": "/voetbal/6271929/transfervrije-sinkgraven-zet-carriere-voort-bij-spaanse-promovendus.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +52,7 @@
     "title": "Nyck de Vries al na tien Grands Prix weggestuurd bij AlphaTauri",
     "subtitle": null,
     "published_at": "2023-07-11T15:50:39+02:00",
-    "updated_at": "2023-07-11T15:50:47+02:00",
+    "updated_at": "2023-07-11T16:03:57+02:00",
     "media_id": "0fnxjvjajuee",
     "duration": null,
     "canonical_section": {
@@ -167,7 +190,7 @@
     "title": "Bekritiseerde fabrikant VanMoof legt verkoop van nieuwe fietsen tijdelijk stil",
     "subtitle": null,
     "published_at": "2023-07-11T14:56:58+02:00",
-    "updated_at": "2023-07-11T15:50:24+02:00",
+    "updated_at": "2023-07-11T15:55:41+02:00",
     "media_id": "bfxxnplacswy",
     "duration": null,
     "canonical_section": {
@@ -420,7 +443,7 @@
     "title": "De bouwvak is nog populair, al is het maar om tijdig de camping te boeken",
     "subtitle": "NU+",
     "published_at": "2023-07-11T12:23:04+02:00",
-    "updated_at": "2023-07-11T12:40:15+02:00",
+    "updated_at": "2023-07-11T15:56:56+02:00",
     "media_id": "davxwhgavqba",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6271754/de-bouwvak-is-nog-populair-al-is-het-maar-om-tijdig-de-camping-te-boeken.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271889,
-    "slug": "hakafilmpje-oranje-leidt-tot-ophef-in-nieuw-zeeland-knvb-haalt-beelden-offline",
-    "type": "article",
-    "title": "'Hakafilmpje' Oranje leidt tot ophef in Nieuw-Zeeland, KNVB haalt beelden offline",
-    "subtitle": null,
-    "published_at": "2023-07-11T12:18:24+02:00",
-    "updated_at": "2023-07-11T12:51:14+02:00",
-    "media_id": "weixhofal0yj",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779272,
-      "slug": "wk-voetbal-2023",
-      "type": "default",
-      "name": "WK voetbal 2023",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wk-voetbal-2023/6271889/hakafilmpje-oranje-leidt-tot-ophef-in-nieuw-zeeland-knvb-haalt-beelden-offline.html",
     "open_new_window": false,
     "partner": null
   }
