@@ -1,5 +1,28 @@
 [
   {
+    "id": 6272105,
+    "slug": "superieure-philipsen-verslaat-groenewegen-en-boekt-vierde-sprintzege-in-tour",
+    "type": "article",
+    "title": "Superieure Philipsen verslaat Groenewegen en boekt vierde sprintzege in Tour",
+    "subtitle": null,
+    "published_at": "2023-07-12T17:33:41+02:00",
+    "updated_at": "2023-07-12T17:33:54+02:00",
+    "media_id": "g0fx21aambnq",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772173,
+      "slug": "tour-de-france",
+      "type": "default",
+      "name": "Tour de France",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tour-de-france/6272105/superieure-philipsen-verslaat-groenewegen-en-boekt-vierde-sprintzege-in-tour.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6271138,
     "slug": "zo-gezond-is-vette-vis-sommige-vissoorten-bevatten-erg-veel-zout",
     "type": "article",
@@ -369,12 +392,12 @@
   },
   {
     "id": 6272072,
-    "slug": "oekraine-nog-niet-bij-navo-maar-zelensky-wel-blij-met-veiligheidsgaranties",
+    "slug": "oekraine-nog-niet-bij-navo-maar-zelensky-is-wel-blij-met-veiligheidsgaranties",
     "type": "article",
-    "title": "Oekraïne (nog) niet bij NAVO, maar Zelensky wel blij met veiligheidsgaranties",
+    "title": "Oekraïne (nog) niet bij NAVO, maar Zelensky is wel blij met veiligheidsgaranties",
     "subtitle": null,
     "published_at": "2023-07-12T14:53:32+02:00",
-    "updated_at": "2023-07-12T15:18:03+02:00",
+    "updated_at": "2023-07-12T17:21:22+02:00",
     "media_id": "f7axqyvapmfg",
     "duration": null,
     "canonical_section": {
@@ -386,7 +409,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/spanningen-oekraine/6272072/oekraine-nog-niet-bij-navo-maar-zelensky-wel-blij-met-veiligheidsgaranties.html",
+    "url": "/spanningen-oekraine/6272072/oekraine-nog-niet-bij-navo-maar-zelensky-is-wel-blij-met-veiligheidsgaranties.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/dieren/6272080/terugkeer-van-uitgestorven-cheeta-in-india-verloopt-allesbehalve-vlekkeloos.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272070,
-    "slug": "voormalig-rijkste-persoon-van-azie-verloor-30-miljard-dollar-na-een-toespraak",
-    "type": "article",
-    "title": "Voormalig rijkste persoon van Azië verloor 30 miljard dollar na één toespraak",
-    "subtitle": null,
-    "published_at": "2023-07-12T14:04:14+02:00",
-    "updated_at": "2023-07-12T15:27:15+02:00",
-    "media_id": "oxwx4w1apt0f",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6272070/voormalig-rijkste-persoon-van-azie-verloor-30-miljard-dollar-na-een-toespraak.html",
     "open_new_window": false,
     "partner": null
   }
