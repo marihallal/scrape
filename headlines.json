@@ -1,12 +1,35 @@
 [
   {
+    "id": 6272433,
+    "slug": "brutale-aap-steelt-drie-keer-achter-elkaar-uit-winkel-in-china",
+    "type": "video",
+    "title": "Brutale aap steelt drie keer achter elkaar uit winkel in China",
+    "subtitle": "Video",
+    "published_at": "2023-07-14T20:49:17+02:00",
+    "updated_at": "2023-07-14T20:49:19+02:00",
+    "media_id": "dxxxkvkaq6qz",
+    "duration": "0:40",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6272433/brutale-aap-steelt-drie-keer-achter-elkaar-uit-winkel-in-china.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6272432,
-    "slug": "minimaal-tijdverlies-op-grand-colombier-voelt-bijna-als-winst-voor-vingegaard",
+    "slug": "minimaal-verlies-op-grand-colombier-voelt-bijna-als-winst-voor-vingegaard-in-tour",
     "type": "article",
-    "title": "Minimaal tijdverlies op Grand Colombier voelt bijna als winst voor Vingegaard",
+    "title": "Minimaal verlies op Grand Colombier voelt bijna als winst voor Vingegaard in Tour",
     "subtitle": null,
     "published_at": "2023-07-14T20:22:55+02:00",
-    "updated_at": "2023-07-14T20:22:57+02:00",
+    "updated_at": "2023-07-14T20:40:25+02:00",
     "media_id": "i9yxl1la3yai",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/tour-de-france/6272432/minimaal-tijdverlies-op-grand-colombier-voelt-bijna-als-winst-voor-vingegaard.html",
+    "url": "/tour-de-france/6272432/minimaal-verlies-op-grand-colombier-voelt-bijna-als-winst-voor-vingegaard-in-tour.html",
     "open_new_window": false,
     "partner": null
   },
@@ -420,7 +443,7 @@
     "title": "Man opgepakt in verband met dodelijke steekpartij in Leiden",
     "subtitle": null,
     "published_at": "2023-07-14T17:08:21+02:00",
-    "updated_at": "2023-07-14T17:27:15+02:00",
+    "updated_at": "2023-07-14T20:50:18+02:00",
     "media_id": "y28xbexar9ev",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6272400/man-opgepakt-in-verband-met-dodelijke-steekpartij-in-leiden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272399,
-    "slug": "marengo-advocaat-wil-kroongetuige-horen-over-verdwijnen-hugo-charles",
-    "type": "article",
-    "title": "Marengo-advocaat wil kroongetuige horen over verdwijnen Hugo Charles",
-    "subtitle": null,
-    "published_at": "2023-07-14T16:59:26+02:00",
-    "updated_at": "2023-07-14T18:36:50+02:00",
-    "media_id": "usixoa0ap02d",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778794,
-      "slug": "marengo-proces",
-      "type": "default",
-      "name": "Marengo-proces",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/marengo-proces/6272399/marengo-advocaat-wil-kroongetuige-horen-over-verdwijnen-hugo-charles.html",
     "open_new_window": false,
     "partner": null
   }
