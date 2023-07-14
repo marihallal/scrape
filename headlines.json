@@ -1,12 +1,35 @@
 [
   {
+    "id": 6272435,
+    "slug": "colombiaanse-junglekinderen-maken-het-goed-en-zijn-ontslagen-uit-ziekenhuis",
+    "type": "article",
+    "title": "Colombiaanse 'junglekinderen' maken het goed en zijn ontslagen uit ziekenhuis",
+    "subtitle": null,
+    "published_at": "2023-07-14T21:09:32+02:00",
+    "updated_at": "2023-07-14T21:09:33+02:00",
+    "media_id": "8b5xg3hasn1a",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779220,
+      "slug": "goed-nieuws",
+      "type": "default",
+      "name": "Goed nieuws",
+      "style": "nuoverig",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/goed-nieuws/6272435/colombiaanse-junglekinderen-maken-het-goed-en-zijn-ontslagen-uit-ziekenhuis.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6272433,
-    "slug": "brutale-aap-steelt-drie-keer-achter-elkaar-uit-winkel-in-china",
+    "slug": "aap-steelt-tot-drie-keer-toe-uit-een-winkel-in-china",
     "type": "video",
-    "title": "Brutale aap steelt drie keer achter elkaar uit winkel in China",
+    "title": "Aap steelt tot drie keer toe uit een winkel in China",
     "subtitle": "Video",
     "published_at": "2023-07-14T20:49:17+02:00",
-    "updated_at": "2023-07-14T20:49:19+02:00",
+    "updated_at": "2023-07-14T21:09:18+02:00",
     "media_id": "dxxxkvkaq6qz",
     "duration": "0:40",
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/videos/6272433/brutale-aap-steelt-drie-keer-achter-elkaar-uit-winkel-in-china.html",
+    "url": "/videos/6272433/aap-steelt-tot-drie-keer-toe-uit-een-winkel-in-china.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +52,7 @@
     "title": "Minimaal verlies op Grand Colombier voelt bijna als winst voor Vingegaard in Tour",
     "subtitle": null,
     "published_at": "2023-07-14T20:22:55+02:00",
-    "updated_at": "2023-07-14T20:40:25+02:00",
+    "updated_at": "2023-07-14T21:14:19+02:00",
     "media_id": "i9yxl1la3yai",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Holocaust ontkennen nu echt strafbaar: maximaal 1 jaar cel bij overtreding",
     "subtitle": null,
     "published_at": "2023-07-14T19:57:20+02:00",
-    "updated_at": "2023-07-14T19:57:21+02:00",
+    "updated_at": "2023-07-14T20:53:14+02:00",
     "media_id": "2hwxe00abbfw",
     "duration": null,
     "canonical_section": {
@@ -374,8 +397,8 @@
     "title": "Wimbledon krijgt droomfinale: Djokovic en Alcaraz gaan strijden om titel",
     "subtitle": null,
     "published_at": "2023-07-14T17:27:27+02:00",
-    "updated_at": "2023-07-14T20:20:55+02:00",
-    "media_id": "d36xpqxapkij",
+    "updated_at": "2023-07-14T21:14:22+02:00",
+    "media_id": "dprxll7a41un",
     "duration": null,
     "canonical_section": {
       "id": 1772432,
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6272380/weekendweerbericht-broeierig-en-buiig-weekend-sluit-af-met-veel-wind.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272400,
-    "slug": "man-opgepakt-in-verband-met-dodelijke-steekpartij-in-leiden",
-    "type": "article",
-    "title": "Man opgepakt in verband met dodelijke steekpartij in Leiden",
-    "subtitle": null,
-    "published_at": "2023-07-14T17:08:21+02:00",
-    "updated_at": "2023-07-14T20:50:18+02:00",
-    "media_id": "y28xbexar9ev",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6272400/man-opgepakt-in-verband-met-dodelijke-steekpartij-in-leiden.html",
     "open_new_window": false,
     "partner": null
   }
