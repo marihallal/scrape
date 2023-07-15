@@ -1,12 +1,35 @@
 [
   {
+    "id": 6272559,
+    "slug": "john-s-kreeg-levenslang-is-dat-in-nederland-ook-echt-levenslang",
+    "type": "article",
+    "title": "John S. kreeg levenslang: is dat in Nederland ook écht levenslang?",
+    "subtitle": "NU+",
+    "published_at": "2023-07-16T00:53:19+02:00",
+    "updated_at": "2023-07-16T00:53:41+02:00",
+    "media_id": "mawxi3hayhf7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6272559/john-s-kreeg-levenslang-is-dat-in-nederland-ook-echt-levenslang.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6272562,
     "slug": "tadic-is-dag-na-vertrek-bij-ajax-op-weg-naar-fenerbahce",
     "type": "article",
     "title": "Tadic is dag na vertrek bij Ajax op weg naar Fenerbahçe",
     "subtitle": null,
     "published_at": "2023-07-16T00:50:32+02:00",
-    "updated_at": "2023-07-16T00:50:33+02:00",
+    "updated_at": "2023-07-16T01:13:35+02:00",
     "media_id": "bbrxqlea29t9",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wielrennen/6272538/vingegaard-weerstaat-aanval-pogacar-en-blijft-leider-in-ongekend-spannende-tour.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272537,
-    "slug": "curacao-begint-met-voorbereidingen-op-bouw-van-windmolens-op-zee",
-    "type": "article",
-    "title": "Curaçao begint met voorbereidingen op bouw van windmolens op zee",
-    "subtitle": null,
-    "published_at": "2023-07-15T17:49:00+02:00",
-    "updated_at": "2023-07-15T18:01:16+02:00",
-    "media_id": "iq1xraxa7uig",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772754,
-      "slug": "klimaat",
-      "type": "default",
-      "name": "Klimaat",
-      "style": "nuzakelijk",
-      "media_id": "kf4x3b2agsxg",
-      "partner": null
-    },
-    "url": "/klimaat/6272537/curacao-begint-met-voorbereidingen-op-bouw-van-windmolens-op-zee.html",
     "open_new_window": false,
     "partner": null
   }
