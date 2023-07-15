@@ -1,5 +1,28 @@
 [
   {
+    "id": 6272537,
+    "slug": "curacao-begint-met-voorbereidingen-voor-bouw-windmolens-op-zee",
+    "type": "article",
+    "title": "Curaçao begint met voorbereidingen voor bouw windmolens op zee",
+    "subtitle": null,
+    "published_at": "2023-07-15T17:49:00+02:00",
+    "updated_at": "2023-07-15T17:49:01+02:00",
+    "media_id": "iq1xraxa7uig",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772754,
+      "slug": "klimaat",
+      "type": "default",
+      "name": "Klimaat",
+      "style": "nuzakelijk",
+      "media_id": "kf4x3b2agsxg",
+      "partner": null
+    },
+    "url": "/klimaat/6272537/curacao-begint-met-voorbereidingen-voor-bouw-windmolens-op-zee.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6272535,
     "slug": "mensen-in-dinopak-leggen-hindernisbaan-af-in-enschede-voor-goed-doel",
     "type": "video",
@@ -93,12 +116,12 @@
   },
   {
     "id": 6272531,
-    "slug": "vondrousova-klopt-jabeur-en-wint-als-eerste-ongeplaatste-speelster-wimbledon",
+    "slug": "vondrousova-schrijft-historie-en-wint-als-eerste-ongeplaatste-speelster-wimbledon",
     "type": "article",
-    "title": "Vondrousová klopt Jabeur en wint als eerste ongeplaatste speelster Wimbledon",
+    "title": "Vondrousová schrijft historie en wint als eerste ongeplaatste speelster Wimbledon",
     "subtitle": null,
     "published_at": "2023-07-15T16:30:11+02:00",
-    "updated_at": "2023-07-15T17:32:17+02:00",
+    "updated_at": "2023-07-15T17:48:37+02:00",
     "media_id": "m9xxoknaonh9",
     "duration": null,
     "canonical_section": {
@@ -110,18 +133,18 @@
       "media_id": "m1oxohpan0gq",
       "partner": null
     },
-    "url": "/tennis/6272531/vondrousova-klopt-jabeur-en-wint-als-eerste-ongeplaatste-speelster-wimbledon.html",
+    "url": "/tennis/6272531/vondrousova-schrijft-historie-en-wint-als-eerste-ongeplaatste-speelster-wimbledon.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6272528,
-    "slug": "feyenoord-blijft-steken-op-gelijkspel-in-oefenduel-met-union-van-nieuwkoop",
+    "slug": "feyenoord-speelt-gelijk-tegen-union-az-simpel-langs-lech-van-van-den-brom",
     "type": "article",
-    "title": "Feyenoord blijft steken op gelijkspel in oefenduel met Union van Nieuwkoop",
+    "title": "Feyenoord speelt gelijk tegen Union, AZ simpel langs Lech van Van den Brom",
     "subtitle": null,
     "published_at": "2023-07-15T15:53:18+02:00",
-    "updated_at": "2023-07-15T16:09:44+02:00",
+    "updated_at": "2023-07-15T17:44:24+02:00",
     "media_id": "2oyx3heaopye",
     "duration": null,
     "canonical_section": {
@@ -133,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6272528/feyenoord-blijft-steken-op-gelijkspel-in-oefenduel-met-union-van-nieuwkoop.html",
+    "url": "/voetbal/6272528/feyenoord-speelt-gelijk-tegen-union-az-simpel-langs-lech-van-van-den-brom.html",
     "open_new_window": false,
     "partner": null
   },
@@ -236,7 +259,7 @@
     "title": "Reacties na historische Wimbledon-titel Vondrousová",
     "subtitle": "Liveblog Wimbledon",
     "published_at": "2023-07-15T14:38:24+02:00",
-    "updated_at": "2023-07-15T16:47:21+02:00",
+    "updated_at": "2023-07-15T17:37:29+02:00",
     "media_id": "yrgxwtya6rgp",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6272508/duizenden-reizigers-in-italie-en-belgie-gestrand-door-stakingen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272507,
-    "slug": "tesla-start-productie-cybertruck-maar-ligt-wel-twee-jaar-achter-op-schema",
-    "type": "article",
-    "title": "Tesla start productie Cybertruck, maar ligt wel twee jaar achter op schema",
-    "subtitle": null,
-    "published_at": "2023-07-15T13:23:11+02:00",
-    "updated_at": "2023-07-15T13:52:49+02:00",
-    "media_id": "p6jxx17a81l4",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6272507/tesla-start-productie-cybertruck-maar-ligt-wel-twee-jaar-achter-op-schema.html",
     "open_new_window": false,
     "partner": null
   }
