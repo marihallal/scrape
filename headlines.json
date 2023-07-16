@@ -1,5 +1,28 @@
 [
   {
+    "id": 6272626,
+    "slug": "man-aangehouden-voor-bevestigen-handgranaat-aan-hek-in-park-purmerend",
+    "type": "article",
+    "title": "Man aangehouden voor bevestigen handgranaat aan hek in park Purmerend",
+    "subtitle": null,
+    "published_at": "2023-07-16T17:48:50+02:00",
+    "updated_at": "2023-07-16T17:49:02+02:00",
+    "media_id": "r1gxv0eapoaq",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6272626/man-aangehouden-voor-bevestigen-handgranaat-aan-hek-in-park-purmerend.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6272376,
     "slug": "zo-groot-is-de-kans-dat-je-een-wolf-tegenkomt-en-dit-moet-je-dan-doen",
     "type": "article",
@@ -208,12 +231,12 @@
   },
   {
     "id": 6272608,
-    "slug": "alcaraz-pakt-vroege-break-in-derde-set-finale-tegen-djokovic",
+    "slug": "alcaraz-pakt-vroege-break-in-derde-set-tegen-djokovic",
     "type": "article",
-    "title": "Alcaraz pakt vroege break in derde set finale tegen Djokovic",
+    "title": "Alcaraz pakt vroege break in derde set tegen Djokovic",
     "subtitle": "Liveblog Wimbledon",
     "published_at": "2023-07-16T14:30:27+02:00",
-    "updated_at": "2023-07-16T17:20:37+02:00",
+    "updated_at": "2023-07-16T17:37:15+02:00",
     "media_id": "00kxyn5ad7i4",
     "duration": null,
     "canonical_section": {
@@ -225,7 +248,7 @@
       "media_id": "m1oxohpan0gq",
       "partner": null
     },
-    "url": "/tennis/6272608/alcaraz-pakt-vroege-break-in-derde-set-finale-tegen-djokovic.html",
+    "url": "/tennis/6272608/alcaraz-pakt-vroege-break-in-derde-set-tegen-djokovic.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6272590/bosbrand-op-spaans-eiland-la-palma-breidt-uit-al-4000-mensen-geevacueerd.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272415,
-    "slug": "dit-was-het-positieve-en-vrolijke-nieuws-van-deze-week",
-    "type": "article",
-    "title": "Dit was het positieve en vrolijke nieuws van deze week",
-    "subtitle": null,
-    "published_at": "2023-07-16T12:06:13+02:00",
-    "updated_at": "2023-07-16T12:06:15+02:00",
-    "media_id": "d65xyc5a9dfy",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779220,
-      "slug": "goed-nieuws",
-      "type": "default",
-      "name": "Goed nieuws",
-      "style": "nuoverig",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/goed-nieuws/6272415/dit-was-het-positieve-en-vrolijke-nieuws-van-deze-week.html",
     "open_new_window": false,
     "partner": null
   }
