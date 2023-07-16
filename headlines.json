@@ -1,12 +1,35 @@
 [
   {
+    "id": 6272637,
+    "slug": "ten-hag-neemt-teleurgestelde-maguire-aanvoerdersband-af-bij-manchester-united",
+    "type": "article",
+    "title": "Ten Hag neemt teleurgestelde Maguire aanvoerdersband af bij Manchester United",
+    "subtitle": null,
+    "published_at": "2023-07-16T19:31:00+02:00",
+    "updated_at": "2023-07-16T19:31:01+02:00",
+    "media_id": "m9qx0ptakvje",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6272637/ten-hag-neemt-teleurgestelde-maguire-aanvoerdersband-af-bij-manchester-united.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6272630,
     "slug": "microsoft-belooft-dat-call-of-duty-ook-op-playstation-blijft-verschijnen",
     "type": "article",
     "title": "Microsoft belooft dat Call of Duty ook op PlayStation blijft verschijnen",
     "subtitle": null,
     "published_at": "2023-07-16T19:10:43+02:00",
-    "updated_at": "2023-07-16T19:10:44+02:00",
+    "updated_at": "2023-07-16T19:24:51+02:00",
     "media_id": "1c9xpm3afiz0",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Wout Poels in tranen na schitterende zege in Tour: 'Heb hier altijd van gedroomd'",
     "subtitle": null,
     "published_at": "2023-07-16T18:37:48+02:00",
-    "updated_at": "2023-07-16T19:16:42+02:00",
+    "updated_at": "2023-07-16T19:19:20+02:00",
     "media_id": "ksuxrclarjij",
     "duration": null,
     "canonical_section": {
@@ -415,13 +438,13 @@
   },
   {
     "id": 6272608,
-    "slug": "djokovic-vecht-zich-terug-en-dwingt-vijfde-set-af-in-finale",
+    "slug": "alcaraz-breekt-djokovic-in-beslissende-set-finale",
     "type": "article",
-    "title": "Djokovic vecht zich terug en dwingt vijfde set af in finale",
+    "title": "Alcaraz breekt Djokovic in beslissende set finale",
     "subtitle": "Liveblog Wimbledon",
     "published_at": "2023-07-16T14:30:27+02:00",
-    "updated_at": "2023-07-16T19:08:14+02:00",
-    "media_id": "f5wxza2a3bt0",
+    "updated_at": "2023-07-16T19:30:20+02:00",
+    "media_id": "5tfx57xa2ntw",
     "duration": null,
     "canonical_section": {
       "id": 1772432,
@@ -432,30 +455,7 @@
       "media_id": "m1oxohpan0gq",
       "partner": null
     },
-    "url": "/tennis/6272608/djokovic-vecht-zich-terug-en-dwingt-vijfde-set-af-in-finale.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272604,
-    "slug": "zangeres-en-actrice-jane-birkin-overleden-op-76-jarige-leeftijd",
-    "type": "article",
-    "title": "Zangeres en actrice Jane Birkin overleden op 76-jarige leeftijd",
-    "subtitle": null,
-    "published_at": "2023-07-16T14:07:22+02:00",
-    "updated_at": "2023-07-16T14:46:57+02:00",
-    "media_id": "6ulxykea4qgc",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6272604/zangeres-en-actrice-jane-birkin-overleden-op-76-jarige-leeftijd.html",
+    "url": "/tennis/6272608/alcaraz-breekt-djokovic-in-beslissende-set-finale.html",
     "open_new_window": false,
     "partner": null
   }
