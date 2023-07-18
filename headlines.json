@@ -1,5 +1,51 @@
 [
   {
+    "id": 6272810,
+    "slug": "weerbericht-de-warmste-dag-van-de-werkweek-daarna-wisselvallig",
+    "type": "article",
+    "title": "Weerbericht: De warmste dag van de werkweek, daarna wisselvallig",
+    "subtitle": null,
+    "published_at": "2023-07-18T05:42:35+02:00",
+    "updated_at": "2023-07-18T05:42:36+02:00",
+    "media_id": "qxpx86qa2mfl",
+    "duration": null,
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6272810/weerbericht-de-warmste-dag-van-de-werkweek-daarna-wisselvallig.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6272809,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-07-18T05:21:21+02:00",
+    "updated_at": "2023-07-18T05:21:23+02:00",
+    "media_id": "ngsxpv6ahbiv",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6272809/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6272621,
     "slug": "deze-nederlandse-coach-werkt-in-oekraine-mensen-gaan-door-met-hun-leven",
     "type": "article",
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6272790/psv-trainer-bosz-zag-vertrek-simons-al-aankomen-maar-het-blijft-erg-jammer.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272789,
-    "slug": "duiker-maakt-zeldzame-beelden-van-koning-der-zalmen-bij-taiwan",
-    "type": "video",
-    "title": "Duiker maakt zeldzame beelden van 'koning der zalmen' bij Taiwan",
-    "subtitle": "Video",
-    "published_at": "2023-07-17T19:09:28+02:00",
-    "updated_at": "2023-07-17T21:02:29+02:00",
-    "media_id": "q6jx6qga8uqo",
-    "duration": "0:50",
-    "canonical_section": {
-      "id": 1772536,
-      "slug": "dieren",
-      "type": "default",
-      "name": "Dieren",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/dieren/6272789/duiker-maakt-zeldzame-beelden-van-koning-der-zalmen-bij-taiwan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272786,
-    "slug": "poels-kreeg-veel-berichten-na-zege-in-tour-geraint-had-m-aardig-hangen",
-    "type": "article",
-    "title": "Poels kreeg veel berichten na zege in Tour: 'Geraint had 'm aardig hangen'",
-    "subtitle": "NU+",
-    "published_at": "2023-07-17T19:04:11+02:00",
-    "updated_at": "2023-07-17T21:09:18+02:00",
-    "media_id": "pzux4slax5bt",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772173,
-      "slug": "tour-de-france",
-      "type": "default",
-      "name": "Tour de France",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tour-de-france/6272786/poels-kreeg-veel-berichten-na-zege-in-tour-geraint-had-m-aardig-hangen.html",
     "open_new_window": false,
     "partner": null
   }
