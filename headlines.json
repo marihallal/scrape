@@ -1,5 +1,51 @@
 [
   {
+    "id": 6273145,
+    "slug": "omstander-filmt-loslopende-leeuw-in-berlijn",
+    "type": "video",
+    "title": "Omstander filmt loslopende leeuw in Berlijn",
+    "subtitle": "Video",
+    "published_at": "2023-07-20T09:31:24+02:00",
+    "updated_at": "2023-07-20T09:31:25+02:00",
+    "media_id": "chwxe5ta0ufi",
+    "duration": "0:26",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6273145/omstander-filmt-loslopende-leeuw-in-berlijn.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6273141,
+    "slug": "leeuwin-loopt-los-rond-in-berlijn-inwoners-opgeroepen-binnen-te-blijven",
+    "type": "article",
+    "title": "Leeuwin loopt los rond in Berlijn, inwoners opgeroepen binnen te blijven",
+    "subtitle": null,
+    "published_at": "2023-07-20T09:21:43+02:00",
+    "updated_at": "2023-07-20T09:30:52+02:00",
+    "media_id": "6bkxwymav0fe",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772536,
+      "slug": "dieren",
+      "type": "default",
+      "name": "Dieren",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/dieren/6273141/leeuwin-loopt-los-rond-in-berlijn-inwoners-opgeroepen-binnen-te-blijven.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6273015,
     "slug": "az-incasseert-weer-miljoenen-revelatie-kerkez-gaat-naar-bournemouth",
     "type": "article",
@@ -52,8 +98,8 @@
     "title": "Van Aert verlaat Tour de France om bij bevalling van zijn vrouw te kunnen zijn",
     "subtitle": null,
     "published_at": "2023-07-20T09:06:07+02:00",
-    "updated_at": "2023-07-20T09:11:20+02:00",
-    "media_id": "csxx479azauq",
+    "updated_at": "2023-07-20T09:28:20+02:00",
+    "media_id": "5kbx3gua32me",
     "duration": null,
     "canonical_section": {
       "id": 1772173,
@@ -139,12 +185,12 @@
   },
   {
     "id": 6273132,
-    "slug": "nieuw-zeeland-en-noorwegen-begonnen-aan-wk-voetbal",
+    "slug": "noorwegen-overtuigt-nog-niet-tegen-gastland-nieuw-zeeland",
     "type": "article",
-    "title": "Nieuw-Zeeland en Noorwegen begonnen aan WK voetbal",
+    "title": "Noorwegen overtuigt nog niet tegen gastland Nieuw-Zeeland",
     "subtitle": "Liveblog",
     "published_at": "2023-07-20T08:25:37+02:00",
-    "updated_at": "2023-07-20T09:08:31+02:00",
+    "updated_at": "2023-07-20T09:31:03+02:00",
     "media_id": "qwtxczpa5eyz",
     "duration": null,
     "canonical_section": {
@@ -156,7 +202,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6273132/nieuw-zeeland-en-noorwegen-begonnen-aan-wk-voetbal.html",
+    "url": "/voetbal/6273132/noorwegen-overtuigt-nog-niet-tegen-gastland-nieuw-zeeland.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/muziek/6273120/keanu-reeves-maakt-weer-muziek-met-band-dogstar-en-komt-met-nieuw-album.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273119,
-    "slug": "barbie-regisseur-greta-gerwig-heeft-een-tweede-kind-gekregen",
-    "type": "article",
-    "title": "Barbie-regisseur Greta Gerwig heeft een tweede kind gekregen",
-    "subtitle": null,
-    "published_at": "2023-07-20T06:33:16+02:00",
-    "updated_at": "2023-07-20T07:47:08+02:00",
-    "media_id": "4zexz3farlt8",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6273119/barbie-regisseur-greta-gerwig-heeft-een-tweede-kind-gekregen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273118,
-    "slug": "onnatuurlijke-belgische-koning-filip-krijgt-na-tien-jaar-op-de-troon-rapportcijfer-59",
-    "type": "article",
-    "title": "'Onnatuurlijke' Belgische koning Filip krijgt na tien jaar op de troon rapportcijfer 5,9",
-    "subtitle": null,
-    "published_at": "2023-07-20T06:23:15+02:00",
-    "updated_at": "2023-07-20T07:10:29+02:00",
-    "media_id": "b4uxrwua7aa2",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778775,
-      "slug": "koningshuis",
-      "type": "default",
-      "name": "Koningshuis",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/koningshuis/6273118/onnatuurlijke-belgische-koning-filip-krijgt-na-tien-jaar-op-de-troon-rapportcijfer-59.html",
     "open_new_window": false,
     "partner": null
   }
