@@ -1,5 +1,51 @@
 [
   {
+    "id": 6273422,
+    "slug": "braziliaanse-president-maakt-einde-aan-30-wapens-per-persoon-van-voorganger",
+    "type": "article",
+    "title": "Braziliaanse president maakt einde aan '30 wapens per persoon' van voorganger",
+    "subtitle": null,
+    "published_at": "2023-07-21T23:49:43+02:00",
+    "updated_at": "2023-07-21T23:49:44+02:00",
+    "media_id": "7j6xjbwaajh1",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6273422/braziliaanse-president-maakt-einde-aan-30-wapens-per-persoon-van-voorganger.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6273423,
+    "slug": "de-jong-klimt-in-hierarchie-en-behoort-tot-aanvoerdersgroep-van-fc-barcelona",
+    "type": "article",
+    "title": "De Jong klimt in hiërarchie en behoort tot aanvoerdersgroep van FC Barcelona",
+    "subtitle": null,
+    "published_at": "2023-07-21T23:38:39+02:00",
+    "updated_at": "2023-07-21T23:39:27+02:00",
+    "media_id": "cfkxdqbaqddt",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6273423/de-jong-klimt-in-hierarchie-en-behoort-tot-aanvoerdersgroep-van-fc-barcelona.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6273421,
     "slug": "lubbers-keert-niet-meer-terug-bij-fc-emmen-en-stopt-na-elf-jaar-als-voorzitter",
     "type": "article",
@@ -52,8 +98,8 @@
     "title": "Paris Saint-Germain laat gewaarschuwde Mbappé buiten selectie voor trip naar Japan",
     "subtitle": null,
     "published_at": "2023-07-21T22:43:58+02:00",
-    "updated_at": "2023-07-21T23:04:54+02:00",
-    "media_id": "eq5xqqha74va",
+    "updated_at": "2023-07-21T23:50:28+02:00",
+    "media_id": "qzwx2c5a2oyq",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/formule-1/6273396/verstappen-baalt-dat-hij-door-experiment-banden-moet-uitsparen-in-training.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273395,
-    "slug": "traumaheli-opgeroepen-bij-zwarte-cross-na-ernstig-ongeluk",
-    "type": "video",
-    "title": "Traumaheli opgeroepen bij Zwarte Cross na ernstig ongeluk",
-    "subtitle": "Video",
-    "published_at": "2023-07-21T18:42:33+02:00",
-    "updated_at": "2023-07-21T18:43:21+02:00",
-    "media_id": "i1txkhxa8dbv",
-    "duration": "0:34",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6273395/traumaheli-opgeroepen-bij-zwarte-cross-na-ernstig-ongeluk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273392,
-    "slug": "mohoric-geemotioneerd-na-tour-zege-wielrenner-zijn-is-niet-altijd-makkelijk",
-    "type": "article",
-    "title": "Mohoric geëmotioneerd na Tour-zege: 'Wielrenner zijn is niet altijd makkelijk'",
-    "subtitle": null,
-    "published_at": "2023-07-21T18:18:24+02:00",
-    "updated_at": "2023-07-21T18:50:31+02:00",
-    "media_id": "m8wxf6badyhg",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772173,
-      "slug": "tour-de-france",
-      "type": "default",
-      "name": "Tour de France",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tour-de-france/6273392/mohoric-geemotioneerd-na-tour-zege-wielrenner-zijn-is-niet-altijd-makkelijk.html",
     "open_new_window": false,
     "partner": null
   }
