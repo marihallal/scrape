@@ -1,5 +1,51 @@
 [
   {
+    "id": 6273310,
+    "slug": "dankzij-ongeschikt-dna-kwamen-in-2-jaar-tijd-alsnog-50-verdachten-in-beeld",
+    "type": "article",
+    "title": "Dankzij 'ongeschikt DNA' kwamen in 2 jaar tijd alsnog 50 verdachten in beeld",
+    "subtitle": null,
+    "published_at": "2023-07-21T10:45:52+02:00",
+    "updated_at": "2023-07-21T10:45:53+02:00",
+    "media_id": "qb0xgl2ayvau",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6273310/dankzij-ongeschikt-dna-kwamen-in-2-jaar-tijd-alsnog-50-verdachten-in-beeld.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6273312,
+    "slug": "omstanders-filmen-ravage-na-dodelijke-explosie-in-centrum-johannesburg",
+    "type": "video",
+    "title": "Omstanders filmen ravage na dodelijke explosie in centrum Johannesburg",
+    "subtitle": "Video",
+    "published_at": "2023-07-21T10:44:06+02:00",
+    "updated_at": "2023-07-21T10:44:07+02:00",
+    "media_id": "pwrxbheadhfv",
+    "duration": "0:46",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6273312/omstanders-filmen-ravage-na-dodelijke-explosie-in-centrum-johannesburg.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6273307,
     "slug": "opnieuw-psg-speler-beroofd-donnarumma-en-vriendin-slachtoffer-van-overval",
     "type": "article",
@@ -52,7 +98,7 @@
     "title": "Rabobank gooit rente weer omhoog, spaarders krijgen 1,5 procent",
     "subtitle": null,
     "published_at": "2023-07-21T10:15:03+02:00",
-    "updated_at": "2023-07-21T10:15:04+02:00",
+    "updated_at": "2023-07-21T10:35:01+02:00",
     "media_id": "nv1xlnaay8rb",
     "duration": null,
     "canonical_section": {
@@ -190,7 +236,7 @@
     "title": "Rechter oordeelt vandaag of minister sluiting kinderhartcentra moet opschorten",
     "subtitle": null,
     "published_at": "2023-07-21T08:21:29+02:00",
-    "updated_at": "2023-07-21T08:22:01+02:00",
+    "updated_at": "2023-07-21T10:50:10+02:00",
     "media_id": "m1mx6aoaqf31",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6273280/italie-onderschept-5300-kilo-cocaine-op-zee-grootste-vangst-ooit-in-het-land.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273279,
-    "slug": "weerbericht-hollands-zomerweer-met-wolken-zon-en-een-enkele-bui",
-    "type": "article",
-    "title": "Weerbericht: Hollands zomerweer met wolken, zon en een enkele bui",
-    "subtitle": null,
-    "published_at": "2023-07-21T05:43:00+02:00",
-    "updated_at": "2023-07-21T07:09:53+02:00",
-    "media_id": "7i8x3glavzzn",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6273279/weerbericht-hollands-zomerweer-met-wolken-zon-en-een-enkele-bui.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273278,
-    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
-    "type": "article",
-    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
-    "subtitle": null,
-    "published_at": "2023-07-21T05:22:21+02:00",
-    "updated_at": "2023-07-21T05:22:22+02:00",
-    "media_id": "ngsxpv6ahbiv",
-    "duration": null,
-    "canonical_section": {
-      "id": 1773179,
-      "slug": "uitgelicht",
-      "type": "default",
-      "name": "Uitgelicht",
-      "style": "mediapartner-external",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/uitgelicht/6273278/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
     "open_new_window": false,
     "partner": null
   }
