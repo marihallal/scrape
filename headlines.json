@@ -1,13 +1,59 @@
 [
   {
+    "id": 6273507,
+    "slug": "ajax-mede-door-goal-van-dolberg-en-eigen-doelpunt-hard-onderuit-bij-anderlecht",
+    "type": "article",
+    "title": "Ajax mede door goal van Dolberg en eigen doelpunt hard onderuit bij Anderlecht",
+    "subtitle": null,
+    "published_at": "2023-07-22T15:30:18+02:00",
+    "updated_at": "2023-07-22T15:30:19+02:00",
+    "media_id": "2f6xsk2aqw19",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6273507/ajax-mede-door-goal-van-dolberg-en-eigen-doelpunt-hard-onderuit-bij-anderlecht.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6273504,
+    "slug": "ophef-op-mallorca-nadat-vermoedelijk-nederlandse-toerist-op-slapende-man-poept",
+    "type": "article",
+    "title": "Ophef op Mallorca nadat vermoedelijk Nederlandse toerist op slapende man poept",
+    "subtitle": null,
+    "published_at": "2023-07-22T15:22:23+02:00",
+    "updated_at": "2023-07-22T15:22:24+02:00",
+    "media_id": "ydzxhkpak5wa",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6273504/ophef-op-mallorca-nadat-vermoedelijk-nederlandse-toerist-op-slapende-man-poept.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6273503,
     "slug": "grand-prix-van-hongarije-blijft-zeker-tot-en-met-2032-op-formule-1-kalender",
     "type": "article",
     "title": "Grand Prix van Hongarije blijft zeker tot en met 2032 op Formule 1-kalender",
     "subtitle": null,
     "published_at": "2023-07-22T15:09:28+02:00",
-    "updated_at": "2023-07-22T15:18:10+02:00",
-    "media_id": "725xvnpajcwd",
+    "updated_at": "2023-07-22T15:24:25+02:00",
+    "media_id": "pwbxg00axki8",
     "duration": null,
     "canonical_section": {
       "id": 1772449,
@@ -208,13 +254,13 @@
   },
   {
     "id": 6273485,
-    "slug": "reacties-na-derde-vrije-training-voor-gp-van-hongarije",
+    "slug": "coureurs-maken-zich-op-voor-kwalificatie-op-hungaroring",
     "type": "article",
-    "title": "Reacties na derde vrije training voor GP van Hongarije",
+    "title": "Coureurs maken zich op voor kwalificatie op Hungaroring",
     "subtitle": "Liveblog",
     "published_at": "2023-07-22T12:06:47+02:00",
-    "updated_at": "2023-07-22T13:32:23+02:00",
-    "media_id": "hsex5e4a8a7w",
+    "updated_at": "2023-07-22T15:30:49+02:00",
+    "media_id": "172xfmyacyd3",
     "duration": null,
     "canonical_section": {
       "id": 1772449,
@@ -225,7 +271,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6273485/reacties-na-derde-vrije-training-voor-gp-van-hongarije.html",
+    "url": "/formule-1/6273485/coureurs-maken-zich-op-voor-kwalificatie-op-hungaroring.html",
     "open_new_window": false,
     "partner": null
   },
@@ -236,7 +282,7 @@
     "title": "Maleisië breekt festival af na zoen tussen frontman en bassist The 1975",
     "subtitle": null,
     "published_at": "2023-07-22T11:56:18+02:00",
-    "updated_at": "2023-07-22T13:13:03+02:00",
+    "updated_at": "2023-07-22T15:22:39+02:00",
     "media_id": "9six8xxanx3r",
     "duration": null,
     "canonical_section": {
@@ -254,12 +300,12 @@
   },
   {
     "id": 6273481,
-    "slug": "zwaargewonde-zwarte-cross-bezoeker-die-van-attractie-viel-is-47-jarige-man",
+    "slug": "toestand-van-47-jarige-man-die-zwaargewond-raakte-op-zwarte-cross-is-onveranderd",
     "type": "article",
-    "title": "Zwaargewonde Zwarte Cross-bezoeker die van attractie viel is 47-jarige man",
+    "title": "Toestand van 47-jarige man die zwaargewond raakte op Zwarte Cross is onveranderd",
     "subtitle": null,
     "published_at": "2023-07-22T11:45:15+02:00",
-    "updated_at": "2023-07-22T15:08:17+02:00",
+    "updated_at": "2023-07-22T15:24:37+02:00",
     "media_id": "a29xx6fain60",
     "duration": null,
     "canonical_section": {
@@ -271,7 +317,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/muziek/6273481/zwaargewonde-zwarte-cross-bezoeker-die-van-attractie-viel-is-47-jarige-man.html",
+    "url": "/muziek/6273481/toestand-van-47-jarige-man-die-zwaargewond-raakte-op-zwarte-cross-is-onveranderd.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/economie/6273318/adverteerders-en-supers-laten-wk-voetbal-voor-vrouwen-massaal-links-liggen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273466,
-    "slug": "italiaan-filmt-tornado-vlak-bij-milaan",
-    "type": "video",
-    "title": "Italiaan filmt tornado vlak bij Milaan",
-    "subtitle": "Video",
-    "published_at": "2023-07-22T10:43:59+02:00",
-    "updated_at": "2023-07-22T11:05:19+02:00",
-    "media_id": "3xwxebeadg5i",
-    "duration": "0:35",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6273466/italiaan-filmt-tornado-vlak-bij-milaan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273464,
-    "slug": "reacties-na-niet-overtuigend-optreden-engeland-van-wiegman",
-    "type": "article",
-    "title": "Reacties na niet-overtuigend optreden Engeland van Wiegman",
-    "subtitle": "Liveblog",
-    "published_at": "2023-07-22T10:34:01+02:00",
-    "updated_at": "2023-07-22T14:17:02+02:00",
-    "media_id": "67exbc1ajkxd",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6273464/reacties-na-niet-overtuigend-optreden-engeland-van-wiegman.html",
     "open_new_window": false,
     "partner": null
   }
