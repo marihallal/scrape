@@ -1,5 +1,28 @@
 [
   {
+    "id": 6273606,
+    "slug": "joost-luiten-verprutst-slotronde-en-eindigt-in-achterhoede-brits-open",
+    "type": "article",
+    "title": "Joost Luiten verprutst slotronde en eindigt in achterhoede Brits Open",
+    "subtitle": null,
+    "published_at": "2023-07-23T17:34:35+02:00",
+    "updated_at": "2023-07-23T17:47:22+02:00",
+    "media_id": "bxnxplfa10f6",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6273606/joost-luiten-verprutst-slotronde-en-eindigt-in-achterhoede-brits-open.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6273605,
     "slug": "bol-snelt-op-haar-droomlocatie-naar-derde-tijd-ooit-dit-stadion-is-echt-bizar",
     "type": "article",
@@ -24,12 +47,12 @@
   },
   {
     "id": 6273604,
-    "slug": "vollering-grapt-na-ritzege-en-gele-trui-kopecky-in-tour-belgie-kan-rustig-zijn-nu",
+    "slug": "vollering-grapt-na-ritzege-en-gele-trui-kopecky-in-tour-belgie-kan-nu-rustig-zijn",
     "type": "article",
-    "title": "Vollering grapt na ritzege en gele trui Kopecky in Tour: 'België kan rustig zijn nu'",
+    "title": "Vollering grapt na ritzege en gele trui Kopecky in Tour: 'België kan nu rustig zijn'",
     "subtitle": null,
     "published_at": "2023-07-23T17:27:17+02:00",
-    "updated_at": "2023-07-23T17:27:18+02:00",
+    "updated_at": "2023-07-23T17:40:49+02:00",
     "media_id": "szcxx0ca6fx3",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/wielrennen/6273604/vollering-grapt-na-ritzege-en-gele-trui-kopecky-in-tour-belgie-kan-rustig-zijn-nu.html",
+    "url": "/wielrennen/6273604/vollering-grapt-na-ritzege-en-gele-trui-kopecky-in-tour-belgie-kan-nu-rustig-zijn.html",
     "open_new_window": false,
     "partner": null
   },
@@ -75,7 +98,7 @@
     "title": "Verstappen verschalkt Hamilton bij start en wint in Boedapest zevende race op rij",
     "subtitle": null,
     "published_at": "2023-07-23T16:41:55+02:00",
-    "updated_at": "2023-07-23T17:28:25+02:00",
+    "updated_at": "2023-07-23T17:47:15+02:00",
     "media_id": "cznx8woabv2p",
     "duration": null,
     "canonical_section": {
@@ -139,12 +162,12 @@
   },
   {
     "id": 6273577,
-    "slug": "renners-grappen-en-grollen-met-elkaar-in-begin-champagnerit-tour",
+    "slug": "tourkaravaan-rijdt-stapvoets-naar-parijs-in-champagnerit",
     "type": "article",
-    "title": "Renners grappen en grollen met elkaar in begin champagnerit Tour",
+    "title": "Tourkaravaan rijdt stapvoets naar Parijs in champagnerit",
     "subtitle": "Liveblog",
     "published_at": "2023-07-23T15:58:07+02:00",
-    "updated_at": "2023-07-23T17:30:13+02:00",
+    "updated_at": "2023-07-23T17:47:23+02:00",
     "media_id": "hoixv96akqfm",
     "duration": null,
     "canonical_section": {
@@ -156,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/tour-de-france/6273577/renners-grappen-en-grollen-met-elkaar-in-begin-champagnerit-tour.html",
+    "url": "/tour-de-france/6273577/tourkaravaan-rijdt-stapvoets-naar-parijs-in-champagnerit.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/film/6273586/wie-is-christopher-nolan-het-brein-achter-de-succesfilm-oppenheimer.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273584,
-    "slug": "beerensteyn-verlaat-stadion-op-krukken-ernst-blessure-nog-onduidelijk",
-    "type": "article",
-    "title": "Beerensteyn verlaat stadion op krukken, ernst blessure nog onduidelijk",
-    "subtitle": null,
-    "published_at": "2023-07-23T13:44:52+02:00",
-    "updated_at": "2023-07-23T16:37:17+02:00",
-    "media_id": "yf4xn6uaakp8",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779272,
-      "slug": "wk-voetbal-2023",
-      "type": "default",
-      "name": "WK voetbal 2023",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wk-voetbal-2023/6273584/beerensteyn-verlaat-stadion-op-krukken-ernst-blessure-nog-onduidelijk.html",
     "open_new_window": false,
     "partner": null
   }
