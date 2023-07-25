@@ -1,12 +1,35 @@
 [
   {
+    "id": 6273819,
+    "slug": "makers-van-de-slimste-mens-verjongen-vragen-sinds-verhuizing-naar-npo1",
+    "type": "article",
+    "title": "Makers van De slimste mens 'verjongen' vragen sinds verhuizing naar NPO1",
+    "subtitle": null,
+    "published_at": "2023-07-25T12:38:25+02:00",
+    "updated_at": "2023-07-25T12:38:26+02:00",
+    "media_id": "ia7xbugaix1q",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6273819/makers-van-de-slimste-mens-verjongen-vragen-sinds-verhuizing-naar-npo1.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6273814,
     "slug": "geblesseerde-beerensteyn-gaat-wk-clash-tegen-vs-hoogstwaarschijnlijk-missen",
     "type": "article",
     "title": "Geblesseerde Beerensteyn gaat WK-clash tegen VS hoogstwaarschijnlijk missen",
     "subtitle": null,
     "published_at": "2023-07-25T12:34:40+02:00",
-    "updated_at": "2023-07-25T12:34:41+02:00",
+    "updated_at": "2023-07-25T12:36:40+02:00",
     "media_id": "kvyxajnagrlm",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6273778/duizenden-jemenieten-protesteren-tegen-geplande-zweedse-koranverbranding.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273777,
-    "slug": "bedrijven-zijn-minder-hard-op-zoek-naar-personeel",
-    "type": "article",
-    "title": "Bedrijven zijn minder hard op zoek naar personeel",
-    "subtitle": null,
-    "published_at": "2023-07-25T08:26:56+02:00",
-    "updated_at": "2023-07-25T12:20:14+02:00",
-    "media_id": "9z2xo30awi18",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6273777/bedrijven-zijn-minder-hard-op-zoek-naar-personeel.html",
     "open_new_window": false,
     "partner": null
   }
