@@ -1,5 +1,51 @@
 [
   {
+    "id": 6273951,
+    "slug": "boetes-voor-particuliere-opleiders-vanwege-verstrekken-niet-erkende-diplomas",
+    "type": "article",
+    "title": "Boetes voor particuliere opleiders vanwege verstrekken niet-erkende diploma's",
+    "subtitle": null,
+    "published_at": "2023-07-26T11:31:31+02:00",
+    "updated_at": "2023-07-26T11:31:34+02:00",
+    "media_id": "mwdxocyaafr5",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6273951/boetes-voor-particuliere-opleiders-vanwege-verstrekken-niet-erkende-diplomas.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6273954,
+    "slug": "belg-doet-gruwelijke-vondst-bij-kanaal-koelkast-met-daarin-ledematen-van-vrouw",
+    "type": "article",
+    "title": "Belg doet gruwelijke vondst bij kanaal: koelkast met daarin ledematen van vrouw",
+    "subtitle": null,
+    "published_at": "2023-07-26T11:29:53+02:00",
+    "updated_at": "2023-07-26T11:29:54+02:00",
+    "media_id": "rqpxdetakym8",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6273954/belg-doet-gruwelijke-vondst-bij-kanaal-koelkast-met-daarin-ledematen-van-vrouw.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6273950,
     "slug": "einde-lockdowns-doet-thuisbezorgd-pijn-12-procent-minder-bestellingen",
     "type": "article",
@@ -52,7 +98,7 @@
     "title": "Ring van Tupac Shakur is duurste stuk hiphop-memorabilia ooit",
     "subtitle": null,
     "published_at": "2023-07-26T11:00:04+02:00",
-    "updated_at": "2023-07-26T11:16:18+02:00",
+    "updated_at": "2023-07-26T11:21:05+02:00",
     "media_id": "z3tx6e1a8ig1",
     "duration": null,
     "canonical_section": {
@@ -75,7 +121,7 @@
     "title": "Vrees voor milieuramp als brandend schip vol auto's voor Ameland zinkt",
     "subtitle": null,
     "published_at": "2023-07-26T10:56:17+02:00",
-    "updated_at": "2023-07-26T11:04:12+02:00",
+    "updated_at": "2023-07-26T11:20:42+02:00",
     "media_id": "0kyx8xdadb4t",
     "duration": null,
     "canonical_section": {
@@ -259,7 +305,7 @@
     "title": "Blussen fatale scheepsbrand Ameland gaat lastig door elektrische auto's en zinkgevaar",
     "subtitle": null,
     "published_at": "2023-07-26T09:19:32+02:00",
-    "updated_at": "2023-07-26T10:40:15+02:00",
+    "updated_at": "2023-07-26T11:28:45+02:00",
     "media_id": "kvhx5p3ar3eb",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6273913/uitblinker-messi-gidst-inter-miami-met-twee-goals-en-assist-naar-ruime-zege.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273906,
-    "slug": "jonker-durft-spits-snoeijs-op-te-stellen-in-clash-tegen-vs-maakt-een-goede-indruk",
-    "type": "article",
-    "title": "Jonker durft spits Snoeijs op te stellen in clash tegen VS: 'Maakt een goede indruk'",
-    "subtitle": null,
-    "published_at": "2023-07-26T07:38:11+02:00",
-    "updated_at": "2023-07-26T09:30:52+02:00",
-    "media_id": "tu7xewzapuup",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779272,
-      "slug": "wk-voetbal-2023",
-      "type": "default",
-      "name": "WK voetbal 2023",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wk-voetbal-2023/6273906/jonker-durft-spits-snoeijs-op-te-stellen-in-clash-tegen-vs-maakt-een-goede-indruk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273818,
-    "slug": "stelling-kiesdrempel-moet-worden-verhoogd-om-versplintering-tegen-te-gaan",
-    "type": "article",
-    "title": "Stelling: Kiesdrempel moet worden verhoogd om versplintering tegen te gaan",
-    "subtitle": null,
-    "published_at": "2023-07-26T07:04:20+02:00",
-    "updated_at": "2023-07-26T07:04:21+02:00",
-    "media_id": "wzpxkn4a4or6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6273818/stelling-kiesdrempel-moet-worden-verhoogd-om-versplintering-tegen-te-gaan.html",
     "open_new_window": false,
     "partner": null
   }
