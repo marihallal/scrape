@@ -1,5 +1,74 @@
 [
   {
+    "id": 6274218,
+    "slug": "volledige-gevel-van-woning-weggevaagd-na-gasexplosie-in-lelystad",
+    "type": "video",
+    "title": "Volledige gevel van woning weggevaagd na gasexplosie in Lelystad",
+    "subtitle": "Video",
+    "published_at": "2023-07-28T09:50:13+02:00",
+    "updated_at": "2023-07-28T09:50:14+02:00",
+    "media_id": "00vx7hback6j",
+    "duration": "0:46",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6274218/volledige-gevel-van-woning-weggevaagd-na-gasexplosie-in-lelystad.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6274214,
+    "slug": "michelle-yeoh-en-jean-todt-getrouwd-na-verloving-van-negentien-jaar",
+    "type": "article",
+    "title": "Michelle Yeoh en Jean Todt getrouwd na verloving van negentien jaar",
+    "subtitle": null,
+    "published_at": "2023-07-28T09:46:06+02:00",
+    "updated_at": "2023-07-28T09:46:08+02:00",
+    "media_id": "ne4xuffajacf",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6274214/michelle-yeoh-en-jean-todt-getrouwd-na-verloving-van-negentien-jaar.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6274208,
+    "slug": "franse-economie-groeit-harder-dan-verwacht",
+    "type": "article",
+    "title": "Franse economie groeit harder dan verwacht",
+    "subtitle": null,
+    "published_at": "2023-07-28T09:41:21+02:00",
+    "updated_at": "2023-07-28T09:41:23+02:00",
+    "media_id": "kh6x49jaq9gk",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6274208/franse-economie-groeit-harder-dan-verwacht.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6274210,
     "slug": "381000-mensen-zien-oranje-gelijkspelen-tegen-verenigde-staten",
     "type": "article",
@@ -29,8 +98,8 @@
     "title": "Verstappen krijgt vijf plaatsen gridstraf op Spa vanwege nieuwe versnellingsbak",
     "subtitle": null,
     "published_at": "2023-07-28T09:08:25+02:00",
-    "updated_at": "2023-07-28T09:25:23+02:00",
-    "media_id": "wmkxr1za5k4z",
+    "updated_at": "2023-07-28T09:44:49+02:00",
+    "media_id": "yd9xwxwayl0v",
     "duration": null,
     "canonical_section": {
       "id": 1772449,
@@ -328,7 +397,7 @@
     "title": "Eagles-medeoprichter Randy Meisner op 77-jarige leeftijd overleden",
     "subtitle": null,
     "published_at": "2023-07-28T06:54:50+02:00",
-    "updated_at": "2023-07-28T07:11:07+02:00",
+    "updated_at": "2023-07-28T09:40:59+02:00",
     "media_id": "hj4x2roas19k",
     "duration": null,
     "canonical_section": {
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/algemeen/6274179/klokkenluider-en-ex-militairen-spreken-dit-weten-we-na-ufo-hoorzitting.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274187,
-    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
-    "type": "article",
-    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
-    "subtitle": null,
-    "published_at": "2023-07-28T05:46:41+02:00",
-    "updated_at": "2023-07-28T07:20:00+02:00",
-    "media_id": "xdtxc8kaj8rf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1773179,
-      "slug": "uitgelicht",
-      "type": "default",
-      "name": "Uitgelicht",
-      "style": "mediapartner-external",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/uitgelicht/6274187/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274186,
-    "slug": "justitie-vs-voegt-nieuwe-aanklachten-toe-aan-zaak-tegen-oud-president-trump",
-    "type": "article",
-    "title": "Justitie VS voegt nieuwe aanklachten toe aan zaak tegen oud-president Trump",
-    "subtitle": null,
-    "published_at": "2023-07-28T05:44:53+02:00",
-    "updated_at": "2023-07-28T07:04:38+02:00",
-    "media_id": "6qwxnz6a5yoc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6274186/justitie-vs-voegt-nieuwe-aanklachten-toe-aan-zaak-tegen-oud-president-trump.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274185,
-    "slug": "me-grijpt-in-bij-rellen-rond-wedstrijd-fc-twente-hammarby-gewonden-en-10-arrestaties",
-    "type": "article",
-    "title": "ME grijpt in bij rellen rond wedstrijd FC Twente-Hammarby: gewonden en 10 arrestaties",
-    "subtitle": null,
-    "published_at": "2023-07-28T05:39:09+02:00",
-    "updated_at": "2023-07-28T07:34:22+02:00",
-    "media_id": "25exfzyaltqb",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6274185/me-grijpt-in-bij-rellen-rond-wedstrijd-fc-twente-hammarby-gewonden-en-10-arrestaties.html",
     "open_new_window": false,
     "partner": null
   }
