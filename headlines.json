@@ -1,5 +1,28 @@
 [
   {
+    "id": 6274496,
+    "slug": "vlaamse-presentatrice-en-zangeres-bea-van-der-maat-62-overleden",
+    "type": "article",
+    "title": "Vlaamse presentatrice en zangeres Bea van der Maat (62) overleden",
+    "subtitle": null,
+    "published_at": "2023-07-30T10:48:39+02:00",
+    "updated_at": "2023-07-30T10:48:40+02:00",
+    "media_id": "06fxon6aln06",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772242,
+      "slug": "entertainment",
+      "type": "default",
+      "name": "Media en Cultuur",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/entertainment/6274496/vlaamse-presentatrice-en-zangeres-bea-van-der-maat-62-overleden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6274492,
     "slug": "oekraine-denkt-genoeg-energie-te-hebben-om-huizen-te-verwarmen-in-winter",
     "type": "article",
@@ -70,12 +93,12 @@
   },
   {
     "id": 6274489,
-    "slug": "eerste-groep-door-noodweer-getroffen-nederlanders-weer-terug-uit-italie",
+    "slug": "eerste-door-noodweer-getroffen-nederlanders-na-lange-busreis-terug-uit-italie",
     "type": "article",
-    "title": "Eerste groep door noodweer getroffen Nederlanders weer terug uit Italië",
+    "title": "Eerste door noodweer getroffen Nederlanders na lange busreis terug uit Italië",
     "subtitle": null,
     "published_at": "2023-07-30T09:35:18+02:00",
-    "updated_at": "2023-07-30T09:40:40+02:00",
+    "updated_at": "2023-07-30T10:43:52+02:00",
     "media_id": "h2hxcpsa8yxo",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6274489/eerste-groep-door-noodweer-getroffen-nederlanders-weer-terug-uit-italie.html",
+    "url": "/binnenland/6274489/eerste-door-noodweer-getroffen-nederlanders-na-lange-busreis-terug-uit-italie.html",
     "open_new_window": false,
     "partner": null
   },
@@ -351,7 +374,7 @@
     "title": "Bruiloft in kleine kring maakt opmars: 'oom Jan en tante Truus' niet langer welkom",
     "subtitle": null,
     "published_at": "2023-07-30T05:00:15+02:00",
-    "updated_at": "2023-07-30T08:18:46+02:00",
+    "updated_at": "2023-07-30T10:34:44+02:00",
     "media_id": "8rxxwk9aztsv",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6274473/negen-doden-door-grote-vuurwerkexplosie-in-thailand.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274472,
-    "slug": "opnieuw-een-dode-op-belgisch-festival-tomorrowland",
-    "type": "article",
-    "title": "Opnieuw een dode op Belgisch festival Tomorrowland",
-    "subtitle": null,
-    "published_at": "2023-07-30T00:18:41+02:00",
-    "updated_at": "2023-07-30T09:02:29+02:00",
-    "media_id": "wwixee5avpij",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772242,
-      "slug": "entertainment",
-      "type": "default",
-      "name": "Media en Cultuur",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/entertainment/6274472/opnieuw-een-dode-op-belgisch-festival-tomorrowland.html",
     "open_new_window": false,
     "partner": null
   }
