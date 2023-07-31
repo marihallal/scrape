@@ -1,12 +1,35 @@
 [
   {
-    "id": 6274701,
-    "slug": "albanie-pakt-kosovaarse-ex-rebel-op-voor-tribunaal-in-den-haag",
+    "id": 6274702,
+    "slug": "jongerentak-vvd-wil-dat-partij-na-verkiezingen-niet-met-pvv-gaat-samenwerken",
     "type": "article",
-    "title": "Albanië pakt Kosovaarse ex-rebel op voor tribunaal in Den Haag",
+    "title": "Jongerentak VVD wil dat partij na verkiezingen niet met PVV gaat samenwerken",
+    "subtitle": null,
+    "published_at": "2023-07-31T22:35:25+02:00",
+    "updated_at": "2023-07-31T22:38:00+02:00",
+    "media_id": "2x8xvgramcho",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779275,
+      "slug": "tweede-kamerverkiezingen-2023",
+      "type": "files",
+      "name": "Tweede Kamerverkiezingen 2023",
+      "style": "nu",
+      "media_id": "vh7x4xray27h",
+      "partner": null
+    },
+    "url": "/tweede-kamerverkiezingen-2023/6274702/jongerentak-vvd-wil-dat-partij-na-verkiezingen-niet-met-pvv-gaat-samenwerken.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6274701,
+    "slug": "albanie-pakt-kosovaarse-ex-rebel-op-voor-speciaal-tribunaal-in-den-haag",
+    "type": "article",
+    "title": "Albanië pakt Kosovaarse ex-rebel op voor speciaal tribunaal in Den Haag",
     "subtitle": null,
     "published_at": "2023-07-31T22:29:39+02:00",
-    "updated_at": "2023-07-31T22:29:40+02:00",
+    "updated_at": "2023-07-31T22:38:44+02:00",
     "media_id": "uwbxmw3amili",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6274701/albanie-pakt-kosovaarse-ex-rebel-op-voor-tribunaal-in-den-haag.html",
+    "url": "/buitenland/6274701/albanie-pakt-kosovaarse-ex-rebel-op-voor-speciaal-tribunaal-in-den-haag.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6274676/feyenoord-speler-hall-moet-rechtsback-van-ewijk-doen-vergeten-bij-heerenveen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274674,
-    "slug": "aangifte-tegen-cardi-b-omdat-ze-microfoon-naar-toeschouwer-gooide",
-    "type": "article",
-    "title": "Aangifte tegen Cardi B omdat ze microfoon naar toeschouwer gooide",
-    "subtitle": null,
-    "published_at": "2023-07-31T18:38:23+02:00",
-    "updated_at": "2023-07-31T18:46:29+02:00",
-    "media_id": "80vx21kaklmn",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6274674/aangifte-tegen-cardi-b-omdat-ze-microfoon-naar-toeschouwer-gooide.html",
     "open_new_window": false,
     "partner": null
   }
