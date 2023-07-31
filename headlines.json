@@ -1,12 +1,35 @@
 [
   {
+    "id": 6274605,
+    "slug": "terugblik-f1-discussie-tussen-max-en-gp-laat-zien-hoe-sterk-hun-band-is",
+    "type": "article",
+    "title": "Terugblik F1: 'Discussie tussen Max en 'GP' laat zien hoe sterk hun band is'",
+    "subtitle": "NU+",
+    "published_at": "2023-07-31T11:27:27+02:00",
+    "updated_at": "2023-07-31T11:27:29+02:00",
+    "media_id": "kn8xkhia21ff",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "GP België",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6274605/terugblik-f1-discussie-tussen-max-en-gp-laat-zien-hoe-sterk-hun-band-is.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6274609,
     "slug": "talkshow-nadia-keert-terug-maar-wordt-teruggebracht-tot-een-dag-per-week",
     "type": "article",
     "title": "Talkshow Nadia keert terug, maar wordt teruggebracht tot één dag per week",
     "subtitle": null,
     "published_at": "2023-07-31T11:16:42+02:00",
-    "updated_at": "2023-07-31T11:16:43+02:00",
+    "updated_at": "2023-07-31T11:22:41+02:00",
     "media_id": "nojxbm6aujqv",
     "duration": null,
     "canonical_section": {
@@ -70,12 +93,12 @@
   },
   {
     "id": 6274604,
-    "slug": "japan-overklast-spanje-en-treft-noorwegen-in-achtste-finales-wk",
+    "slug": "japan-verslaat-spanje-met-pijnlijke-cijfers-en-treft-noorwegen-in-achtste-finales-wk",
     "type": "article",
-    "title": "Japan overklast Spanje en treft Noorwegen in achtste finales WK",
+    "title": "Japan verslaat Spanje met pijnlijke cijfers en treft Noorwegen in achtste finales WK",
     "subtitle": null,
     "published_at": "2023-07-31T10:57:48+02:00",
-    "updated_at": "2023-07-31T11:06:51+02:00",
+    "updated_at": "2023-07-31T11:30:07+02:00",
     "media_id": "cl9xtk2axako",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6274604/japan-overklast-spanje-en-treft-noorwegen-in-achtste-finales-wk.html",
+    "url": "/voetbal/6274604/japan-verslaat-spanje-met-pijnlijke-cijfers-en-treft-noorwegen-in-achtste-finales-wk.html",
     "open_new_window": false,
     "partner": null
   },
@@ -328,7 +351,7 @@
     "title": "Oranjescout vloog zelfs naar Nepal om grote onbekende Vietnam voor WK te zien",
     "subtitle": null,
     "published_at": "2023-07-31T08:49:11+02:00",
-    "updated_at": "2023-07-31T10:29:20+02:00",
+    "updated_at": "2023-07-31T11:21:54+02:00",
     "media_id": "60jxnwyarpcv",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6274579/zeker-drie-nieuwe-aanvragen-voor-koranverbrandingen-in-zweden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274567,
-    "slug": "oranje-gaat-voor-groepswinst-dat-fans-s-nachts-moeten-kijken-is-dan-maar-zo",
-    "type": "article",
-    "title": "Oranje gaat voor groepswinst: 'Dat fans 's nachts moeten kijken, is dan maar zo'",
-    "subtitle": null,
-    "published_at": "2023-07-31T08:02:07+02:00",
-    "updated_at": "2023-07-31T08:58:04+02:00",
-    "media_id": "uhnx6yra3zxg",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779272,
-      "slug": "wk-voetbal-2023",
-      "type": "default",
-      "name": "WK voetbal 2023",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wk-voetbal-2023/6274567/oranje-gaat-voor-groepswinst-dat-fans-s-nachts-moeten-kijken-is-dan-maar-zo.html",
     "open_new_window": false,
     "partner": null
   }
