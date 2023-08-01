@@ -1,5 +1,28 @@
 [
   {
+    "id": 6274706,
+    "slug": "oranje-begint-met-van-der-gragt-en-pelova-in-cruciaal-wk-duel-met-vietnam",
+    "type": "article",
+    "title": "Oranje begint met Van der Gragt en Pelova in cruciaal WK-duel met Vietnam",
+    "subtitle": null,
+    "published_at": "2023-08-01T07:48:45+02:00",
+    "updated_at": "2023-08-01T07:48:46+02:00",
+    "media_id": "n8ixkpsaxtz8",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779272,
+      "slug": "wk-voetbal-2023",
+      "type": "default",
+      "name": "WK voetbal 2023",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wk-voetbal-2023/6274706/oranje-begint-met-van-der-gragt-en-pelova-in-cruciaal-wk-duel-met-vietnam.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6274717,
     "slug": "australische-opvangmedewerker-aangeklaagd-voor-misbruik-van-91-kinderen",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Onderwijsminister mag vanaf vandaag sneller ingrijpen bij misstanden op scholen",
     "subtitle": null,
     "published_at": "2023-08-01T06:47:05+02:00",
-    "updated_at": "2023-08-01T06:47:06+02:00",
+    "updated_at": "2023-08-01T07:41:30+02:00",
     "media_id": "9r5xcyga20ab",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Burna Boy brengt op 25 augustus nieuw album uit",
     "subtitle": null,
     "published_at": "2023-08-01T06:41:18+02:00",
-    "updated_at": "2023-08-01T06:41:19+02:00",
+    "updated_at": "2023-08-01T07:49:22+02:00",
     "media_id": "71qxyyjaqqqc",
     "duration": null,
     "canonical_section": {
@@ -93,12 +116,12 @@
   },
   {
     "id": 6274712,
-    "slug": "weerbericht-de-dag-begint-regenachtig-maar-in-de-middag-ruimte-voor-zon",
+    "slug": "weerbericht-dag-begint-regenachtig-maar-in-de-middag-ruimte-voor-zon",
     "type": "article",
-    "title": "Weerbericht: De dag begint regenachtig, maar in de middag ruimte voor zon",
+    "title": "Weerbericht: Dag begint regenachtig, maar in de middag ruimte voor zon",
     "subtitle": null,
     "published_at": "2023-08-01T05:53:36+02:00",
-    "updated_at": "2023-08-01T06:56:40+02:00",
+    "updated_at": "2023-08-01T07:41:15+02:00",
     "media_id": "p0exmfoaa8iy",
     "duration": null,
     "canonical_section": {
@@ -110,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6274712/weerbericht-de-dag-begint-regenachtig-maar-in-de-middag-ruimte-voor-zon.html",
+    "url": "/binnenland/6274712/weerbericht-dag-begint-regenachtig-maar-in-de-middag-ruimte-voor-zon.html",
     "open_new_window": false,
     "partner": null
   },
@@ -213,19 +236,19 @@
     "title": "Euphoria-acteur Angus Cloud op 25-jarige leeftijd overleden",
     "subtitle": null,
     "published_at": "2023-08-01T00:09:20+02:00",
-    "updated_at": "2023-08-01T07:06:57+02:00",
+    "updated_at": "2023-08-01T07:33:33+02:00",
     "media_id": "4goxu58aac8g",
     "duration": null,
     "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
+      "id": 127,
+      "slug": "film",
       "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
+      "name": "Films & Series",
+      "style": "nuuit",
       "media_id": null,
       "partner": null
     },
-    "url": "/achterklap/6274710/euphoria-acteur-angus-cloud-op-25-jarige-leeftijd-overleden.html",
+    "url": "/film/6274710/euphoria-acteur-angus-cloud-op-25-jarige-leeftijd-overleden.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6274691/relatie-van-musicalproducent-rick-engelkes-en-vriendin-marie-claire-voorbij.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274684,
-    "slug": "reisadvies-voor-griekse-eilanden-weer-op-groen-natuurbranden-onder-controle",
-    "type": "article",
-    "title": "Reisadvies voor Griekse eilanden weer op groen, natuurbranden onder controle",
-    "subtitle": null,
-    "published_at": "2023-07-31T19:41:51+02:00",
-    "updated_at": "2023-07-31T19:43:22+02:00",
-    "media_id": "bkoxxy7af3vi",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6274684/reisadvies-voor-griekse-eilanden-weer-op-groen-natuurbranden-onder-controle.html",
     "open_new_window": false,
     "partner": null
   }
