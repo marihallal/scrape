@@ -1,12 +1,35 @@
 [
   {
+    "id": 6274977,
+    "slug": "canadese-premier-justin-trudeau-en-sophie-gregoire-gaan-na-18-jaar-scheiden",
+    "type": "article",
+    "title": "Canadese premier Justin Trudeau en Sophie Grégoire gaan na 18 jaar scheiden",
+    "subtitle": null,
+    "published_at": "2023-08-02T18:39:42+02:00",
+    "updated_at": "2023-08-02T18:46:14+02:00",
+    "media_id": "hyzxg5ya7d9l",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6274977/canadese-premier-justin-trudeau-en-sophie-gregoire-gaan-na-18-jaar-scheiden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6274824,
     "slug": "eerste-zes-nederlanders-geevacueerd-uit-niger-na-staatsgreep",
     "type": "article",
     "title": "Eerste zes Nederlanders geëvacueerd uit Niger na staatsgreep",
     "subtitle": null,
     "published_at": "2023-08-02T18:36:33+02:00",
-    "updated_at": "2023-08-02T18:36:38+02:00",
+    "updated_at": "2023-08-02T18:43:14+02:00",
     "media_id": "zq6xy6mamb2l",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Ajax plukt nieuwe algemeen directeur weg bij AZ, maar kan dat zomaar?",
     "subtitle": null,
     "published_at": "2023-08-02T18:34:28+02:00",
-    "updated_at": "2023-08-02T18:34:30+02:00",
+    "updated_at": "2023-08-02T18:43:23+02:00",
     "media_id": "dgixfwvagm8c",
     "duration": null,
     "canonical_section": {
@@ -144,7 +167,7 @@
     "title": "Ajax heeft nieuwe algemeen directeur: Alex Kroes volgt Edwin van der Sar op",
     "subtitle": null,
     "published_at": "2023-08-02T17:41:12+02:00",
-    "updated_at": "2023-08-02T18:13:34+02:00",
+    "updated_at": "2023-08-02T18:41:18+02:00",
     "media_id": "s5ixg7lae6fu",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/dieren/6274944/geen-wild-zwijn-maar-grote-knuffel-politie-berlijn-weer-uitgerukt-om-leeuw.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274938,
-    "slug": "supermaan-schittert-wereldwijd-aan-de-hemel",
-    "type": "article",
-    "title": "Supermaan schittert wereldwijd aan de hemel",
-    "subtitle": "In beeld",
-    "published_at": "2023-08-02T15:06:22+02:00",
-    "updated_at": "2023-08-02T15:54:12+02:00",
-    "media_id": "gegxv8tagzqj",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6274938/supermaan-schittert-wereldwijd-aan-de-hemel.html",
     "open_new_window": false,
     "partner": null
   }
