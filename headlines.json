@@ -1,5 +1,28 @@
 [
   {
+    "id": 6275111,
+    "slug": "gecrashte-helikopter-met-oekraiense-minister-aan-boord-vloog-te-laag",
+    "type": "article",
+    "title": "Gecrashte helikopter met Oekraïense minister aan boord vloog te laag",
+    "subtitle": null,
+    "published_at": "2023-08-03T18:00:13+02:00",
+    "updated_at": "2023-08-03T18:00:19+02:00",
+    "media_id": "nh1xv0wa9ccu",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6275111/gecrashte-helikopter-met-oekraiense-minister-aan-boord-vloog-te-laag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6275082,
     "slug": "dragen-gevangenen-buiten-een-enkelband-of-speciale-kleding",
     "type": "article",
@@ -24,12 +47,12 @@
   },
   {
     "id": 6275120,
-    "slug": "hema-medewerker-23-zwaargewond-door-steekpartij-in-winkel-wormer",
+    "slug": "hema-medewerker-23-zwaargewond-na-steekpartij-in-winkel-wormer",
     "type": "article",
-    "title": "HEMA-medewerker (23) zwaargewond door steekpartij in winkel Wormer",
+    "title": "HEMA-medewerker (23) zwaargewond na steekpartij in winkel Wormer",
     "subtitle": null,
     "published_at": "2023-08-03T17:42:54+02:00",
-    "updated_at": "2023-08-03T17:50:56+02:00",
+    "updated_at": "2023-08-03T17:53:29+02:00",
     "media_id": "z95xyz0as7vv",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6275120/hema-medewerker-23-zwaargewond-door-steekpartij-in-winkel-wormer.html",
+    "url": "/binnenland/6275120/hema-medewerker-23-zwaargewond-na-steekpartij-in-winkel-wormer.html",
     "open_new_window": false,
     "partner": null
   },
@@ -121,7 +144,7 @@
     "title": "Grootste Freddie Mercury-veiling ooit: honderden items van zanger te koop",
     "subtitle": null,
     "published_at": "2023-08-03T17:02:37+02:00",
-    "updated_at": "2023-08-03T17:46:32+02:00",
+    "updated_at": "2023-08-03T18:08:55+02:00",
     "media_id": "elpx6v8a7zlk",
     "duration": null,
     "canonical_section": {
@@ -305,7 +328,7 @@
     "title": "Ook SNS, ASN en RegioBank verhogen hun spaarrentes weer",
     "subtitle": null,
     "published_at": "2023-08-03T15:30:54+02:00",
-    "updated_at": "2023-08-03T16:08:38+02:00",
+    "updated_at": "2023-08-03T18:00:36+02:00",
     "media_id": "dndxx2kavfio",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/stelling/6275068/stelling-kinderen-moeten-niet-meer-dan-twee-uur-online-tijd-per-dag-hebben.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6275070,
-    "slug": "kan-er-een-nieuwe-veilige-route-voor-oekraiens-graan-komen",
-    "type": "article",
-    "title": "Kan er een nieuwe veilige route voor Oekraïens graan komen?",
-    "subtitle": "In 100 woorden",
-    "published_at": "2023-08-03T14:16:11+02:00",
-    "updated_at": "2023-08-03T17:44:39+02:00",
-    "media_id": "zqbx08zazr7i",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6275070/kan-er-een-nieuwe-veilige-route-voor-oekraiens-graan-komen.html",
     "open_new_window": false,
     "partner": null
   }
