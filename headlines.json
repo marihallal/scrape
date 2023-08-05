@@ -1,12 +1,35 @@
 [
   {
+    "id": 6275351,
+    "slug": "eerste-gesprek-in-maanden-tussen-scriptschrijvers-en-studios-levert-niets-op",
+    "type": "article",
+    "title": "Eerste gesprek in maanden tussen scriptschrijvers en studio's levert niets op",
+    "subtitle": null,
+    "published_at": "2023-08-05T12:31:28+02:00",
+    "updated_at": "2023-08-05T12:31:39+02:00",
+    "media_id": "342x85sae9yb",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6275351/eerste-gesprek-in-maanden-tussen-scriptschrijvers-en-studios-levert-niets-op.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6275350,
     "slug": "russische-olietanker-door-oekraiense-zeedrone-geraakt-bij-strategische-brug",
     "type": "article",
     "title": "Russische olietanker door Oekraïense zeedrone geraakt bij strategische brug",
     "subtitle": null,
     "published_at": "2023-08-05T12:12:48+02:00",
-    "updated_at": "2023-08-05T12:14:00+02:00",
+    "updated_at": "2023-08-05T12:28:14+02:00",
     "media_id": "hkmx5dtadclq",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Babadi maakt indruk bij PSV: 'Ik vroeg of hij weleens in De Kuip had gespeeld'",
     "subtitle": null,
     "published_at": "2023-08-05T11:58:01+02:00",
-    "updated_at": "2023-08-05T11:58:30+02:00",
+    "updated_at": "2023-08-05T12:19:22+02:00",
     "media_id": "232x0bjaz80d",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Japan imponeert ook tegen Noorwegen en bereikt kwartfinales WK",
     "subtitle": null,
     "published_at": "2023-08-05T11:54:47+02:00",
-    "updated_at": "2023-08-05T12:16:18+02:00",
+    "updated_at": "2023-08-05T12:24:29+02:00",
     "media_id": "blux783ak117",
     "duration": null,
     "canonical_section": {
@@ -190,7 +213,7 @@
     "title": "Vijf Nederlanders vermist na noodweer in Slovenië",
     "subtitle": null,
     "published_at": "2023-08-05T10:57:26+02:00",
-    "updated_at": "2023-08-05T11:06:55+02:00",
+    "updated_at": "2023-08-05T12:22:08+02:00",
     "media_id": "65pxghpajsln",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6275327/samenspelen-met-messi-zit-er-niet-in-voor-marsman-contract-in-miami-ontbonden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6275326,
-    "slug": "slovenen-na-dodelijke-overstromingen-alles-is-vernietigd",
-    "type": "video",
-    "title": "Slovenen na dodelijke overstromingen: 'Alles is vernietigd'",
-    "subtitle": "Video",
-    "published_at": "2023-08-05T09:41:45+02:00",
-    "updated_at": "2023-08-05T09:41:46+02:00",
-    "media_id": "virxie8a3d0x",
-    "duration": "0:54",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6275326/slovenen-na-dodelijke-overstromingen-alles-is-vernietigd.html",
     "open_new_window": false,
     "partner": null
   }
