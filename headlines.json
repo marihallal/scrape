@@ -1,12 +1,35 @@
 [
   {
+    "id": 6275983,
+    "slug": "chinezen-kunnen-weer-op-groepsreis-naar-zaanse-schans-en-van-gogh-museum",
+    "type": "article",
+    "title": "Chinezen kunnen weer op groepsreis naar Zaanse Schans en Van Gogh Museum",
+    "subtitle": null,
+    "published_at": "2023-08-10T12:40:57+02:00",
+    "updated_at": "2023-08-10T12:40:59+02:00",
+    "media_id": "96vxunsa6qhy",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6275983/chinezen-kunnen-weer-op-groepsreis-naar-zaanse-schans-en-van-gogh-museum.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6275982,
     "slug": "tottenham-en-bayern-voor-meer-dan-100-miljoen-euro-toch-akkoord-over-kane",
     "type": "article",
     "title": "Tottenham en Bayern voor meer dan 100 miljoen euro tóch akkoord over Kane",
     "subtitle": null,
     "published_at": "2023-08-10T12:34:43+02:00",
-    "updated_at": "2023-08-10T12:34:44+02:00",
+    "updated_at": "2023-08-10T12:48:53+02:00",
     "media_id": "3nnxku6a7x2x",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6275958/luchtbeelden-tonen-ravage-op-hawaiaans-eiland-na-natuurbrand.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6275956,
-    "slug": "duikvlucht-russische-roebel-even-voorbij-na-ingreep-centrale-bank",
-    "type": "article",
-    "title": "Duikvlucht Russische roebel even voorbij na ingreep centrale bank",
-    "subtitle": null,
-    "published_at": "2023-08-10T10:22:52+02:00",
-    "updated_at": "2023-08-10T12:00:52+02:00",
-    "media_id": "po6x7uza8422",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6275956/duikvlucht-russische-roebel-even-voorbij-na-ingreep-centrale-bank.html",
     "open_new_window": false,
     "partner": null
   }
