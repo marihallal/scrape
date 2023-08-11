@@ -1,5 +1,28 @@
 [
   {
+    "id": 6276098,
+    "slug": "hilversumse-heide-kleurt-opnieuw-vroeg-knalpaars",
+    "type": "video",
+    "title": "Hilversumse heide kleurt opnieuw vroeg knalpaars",
+    "subtitle": "Video",
+    "published_at": "2023-08-11T10:29:50+02:00",
+    "updated_at": "2023-08-11T10:29:53+02:00",
+    "media_id": "cwpxlwgam62s",
+    "duration": "0:49",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6276098/hilversumse-heide-kleurt-opnieuw-vroeg-knalpaars.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6276091,
     "slug": "jerney-kaagman-krijgt-lifetime-achievement-award-heel-blij-met-dit-eerbetoon",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6276065/west-afrika-brengt-troepen-in-staat-van-paraatheid-voor-mogelijk-ingrijpen-in-niger.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6276064,
-    "slug": "jonker-en-spitse-ondanks-uitschakeling-trots-op-oranje-staan-weer-aan-de-top",
-    "type": "article",
-    "title": "Jonker en Spitse ondanks uitschakeling trots op Oranje: 'Staan weer aan de top'",
-    "subtitle": null,
-    "published_at": "2023-08-11T06:19:16+02:00",
-    "updated_at": "2023-08-11T08:01:59+02:00",
-    "media_id": "2pbxuw1a859s",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6276064/jonker-en-spitse-ondanks-uitschakeling-trots-op-oranje-staan-weer-aan-de-top.html",
     "open_new_window": false,
     "partner": null
   }
