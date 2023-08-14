@@ -1,12 +1,58 @@
 [
   {
+    "id": 6276523,
+    "slug": "namen-van-noord-iers-politiepersoneel-in-handen-van-dissidente-republikeinen",
+    "type": "article",
+    "title": "Namen van Noord-Iers politiepersoneel in handen van dissidente republikeinen",
+    "subtitle": null,
+    "published_at": "2023-08-14T19:45:48+02:00",
+    "updated_at": "2023-08-14T19:45:50+02:00",
+    "media_id": "n1sxefka8b6n",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6276523/namen-van-noord-iers-politiepersoneel-in-handen-van-dissidente-republikeinen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6276433,
+    "slug": "nieuw-premier-league-transferrecord-caicedo-voor-133-miljoen-euro-naar-chelsea",
+    "type": "article",
+    "title": "Nieuw Premier League-transferrecord: Caicedo voor 133 miljoen euro naar Chelsea",
+    "subtitle": null,
+    "published_at": "2023-08-14T19:33:33+02:00",
+    "updated_at": "2023-08-14T19:36:22+02:00",
+    "media_id": "i9yx0chaitbn",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6276433/nieuw-premier-league-transferrecord-caicedo-voor-133-miljoen-euro-naar-chelsea.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6276524,
     "slug": "ryanair-betaalt-26-passagiers-honderden-euros-terug-vanwege-dronken-steward",
     "type": "article",
     "title": "Ryanair betaalt 26 passagiers honderden euro's terug vanwege dronken steward",
     "subtitle": null,
     "published_at": "2023-08-14T19:31:20+02:00",
-    "updated_at": "2023-08-14T19:31:22+02:00",
+    "updated_at": "2023-08-14T19:46:51+02:00",
     "media_id": "1qux2c2a6z43",
     "duration": null,
     "canonical_section": {
@@ -29,7 +75,7 @@
     "title": "Ajax-coach Steijn eist dat Van Hooijdonk 'duistere deals'-uitspraak terugneemt",
     "subtitle": null,
     "published_at": "2023-08-14T19:13:24+02:00",
-    "updated_at": "2023-08-14T19:32:15+02:00",
+    "updated_at": "2023-08-14T19:44:36+02:00",
     "media_id": "1hoxpqvasfor",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/videos/6276493/modderstroom-raast-door-noord-italiaans-dorp.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6276485,
-    "slug": "muziekproducent-clarence-avant-92-bekend-als-the-black-godfather-overleden",
-    "type": "article",
-    "title": "Muziekproducent Clarence Avant (92), bekend als The Black Godfather, overleden",
-    "subtitle": null,
-    "published_at": "2023-08-14T15:29:34+02:00",
-    "updated_at": "2023-08-14T16:22:06+02:00",
-    "media_id": "4r7xsb1a1j9v",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6276485/muziekproducent-clarence-avant-92-bekend-als-the-black-godfather-overleden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6276488,
-    "slug": "ryanair-schrapt-88-vluchten-in-belgie-vanwege-stakende-piloten",
-    "type": "article",
-    "title": "Ryanair schrapt 88 vluchten in België vanwege stakende piloten",
-    "subtitle": null,
-    "published_at": "2023-08-14T15:19:27+02:00",
-    "updated_at": "2023-08-14T15:28:41+02:00",
-    "media_id": "q6ux449akwbk",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6276488/ryanair-schrapt-88-vluchten-in-belgie-vanwege-stakende-piloten.html",
     "open_new_window": false,
     "partner": null
   }
