@@ -1,5 +1,51 @@
 [
   {
+    "id": 6276733,
+    "slug": "groep-nigerezen-werft-mensen-voor-leger-nu-west-afrika-dreigt-aan-te-vallen",
+    "type": "article",
+    "title": "Groep Nigerezen werft mensen voor leger nu West-Afrika dreigt aan te vallen",
+    "subtitle": null,
+    "published_at": "2023-08-16T12:30:26+02:00",
+    "updated_at": "2023-08-16T12:32:46+02:00",
+    "media_id": "oqfxyggazi3k",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6276733/groep-nigerezen-werft-mensen-voor-leger-nu-west-afrika-dreigt-aan-te-vallen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6276735,
+    "slug": "man-filmt-vanuit-roemenie-enorme-explosie-in-buurland-oekraine",
+    "type": "video",
+    "title": "Man filmt vanuit Roemenië enorme explosie in buurland Oekraïne",
+    "subtitle": "Video",
+    "published_at": "2023-08-16T12:27:22+02:00",
+    "updated_at": "2023-08-16T12:27:23+02:00",
+    "media_id": "d61xdgeaopjp",
+    "duration": "0:38",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6276735/man-filmt-vanuit-roemenie-enorme-explosie-in-buurland-oekraine.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6276730,
     "slug": "ruslandcorrespondent-van-de-groene-amsterdammer-is-land-uitgezet",
     "type": "article",
@@ -116,13 +162,13 @@
   },
   {
     "id": 6276727,
-    "slug": "kans-na-kans-voor-engeland-in-halve-finale-tegen-australie",
+    "slug": "australie-toont-strijdlust-tegen-het-sterke-engeland-van-wiegman",
     "type": "article",
-    "title": "Kans na kans voor Engeland in halve finale tegen Australië",
+    "title": "Australië toont strijdlust tegen het sterke Engeland van Wiegman",
     "subtitle": "Liveblog",
     "published_at": "2023-08-16T11:39:21+02:00",
-    "updated_at": "2023-08-16T12:19:42+02:00",
-    "media_id": "8tbxc22a3n9n",
+    "updated_at": "2023-08-16T12:32:28+02:00",
+    "media_id": "q2xxqgqawifl",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -133,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6276727/kans-na-kans-voor-engeland-in-halve-finale-tegen-australie.html",
+    "url": "/voetbal/6276727/australie-toont-strijdlust-tegen-het-sterke-engeland-van-wiegman.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6276689/ruim-230-bosbranden-in-noord-canada-duizenden-per-vliegtuig-geevacueerd.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6276691,
-    "slug": "britse-inflatie-zakt-iets-maar-is-nog-steeds-veel-te-hoog",
-    "type": "article",
-    "title": "Britse inflatie zakt iets, maar is nog steeds veel te hoog",
-    "subtitle": null,
-    "published_at": "2023-08-16T08:32:00+02:00",
-    "updated_at": "2023-08-16T09:02:34+02:00",
-    "media_id": "rctxnqxa0t2m",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6276691/britse-inflatie-zakt-iets-maar-is-nog-steeds-veel-te-hoog.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6276688,
-    "slug": "zoektocht-naar-personeel-blijft-pittig-arbeidsmarkt-nog-zeer-krap",
-    "type": "article",
-    "title": "Zoektocht naar personeel blijft pittig: arbeidsmarkt nog zeer krap",
-    "subtitle": null,
-    "published_at": "2023-08-16T07:52:38+02:00",
-    "updated_at": "2023-08-16T08:40:15+02:00",
-    "media_id": "ntdxfwha8uub",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6276688/zoektocht-naar-personeel-blijft-pittig-arbeidsmarkt-nog-zeer-krap.html",
     "open_new_window": false,
     "partner": null
   }
