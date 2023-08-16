@@ -1,12 +1,35 @@
 [
   {
+    "id": 6276741,
+    "slug": "x-twitter-vertraagde-de-toegang-tot-facebook-instagram-en-nieuwssites",
+    "type": "article",
+    "title": "X (Twitter) vertraagde de toegang tot Facebook, Instagram en nieuwssites",
+    "subtitle": null,
+    "published_at": "2023-08-16T12:56:28+02:00",
+    "updated_at": "2023-08-16T12:56:30+02:00",
+    "media_id": "h73xynoa10su",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6276741/x-twitter-vertraagde-de-toegang-tot-facebook-instagram-en-nieuwssites.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6276737,
     "slug": "meerdere-dorpen-op-tenerife-ontruimd-vanwege-grote-natuurbrand",
     "type": "article",
     "title": "Meerdere dorpen op Tenerife ontruimd vanwege grote natuurbrand",
     "subtitle": null,
     "published_at": "2023-08-16T12:51:08+02:00",
-    "updated_at": "2023-08-16T12:51:09+02:00",
+    "updated_at": "2023-08-16T13:12:09+02:00",
     "media_id": "qnlxae2a6xen",
     "duration": null,
     "canonical_section": {
@@ -121,7 +144,7 @@
     "title": "Groep Nigerezen werft mensen voor leger nu West-Afrika dreigt aan te vallen",
     "subtitle": null,
     "published_at": "2023-08-16T12:30:26+02:00",
-    "updated_at": "2023-08-16T12:32:46+02:00",
+    "updated_at": "2023-08-16T12:54:55+02:00",
     "media_id": "oqfxyggazi3k",
     "duration": null,
     "canonical_section": {
@@ -277,13 +300,13 @@
   },
   {
     "id": 6276727,
-    "slug": "engeland-van-wiegman-bij-rust-op-voorsprong-tegen-australie",
+    "slug": "australie-na-rust-op-zoek-naar-gelijkmaker-tegen-engeland-van-wiegman",
     "type": "article",
-    "title": "Engeland van Wiegman bij rust op voorsprong tegen Australië",
+    "title": "Australië na rust op zoek naar gelijkmaker tegen Engeland van Wiegman",
     "subtitle": "Liveblog",
     "published_at": "2023-08-16T11:39:21+02:00",
-    "updated_at": "2023-08-16T12:48:50+02:00",
-    "media_id": "5r0x8j9auzo4",
+    "updated_at": "2023-08-16T13:08:41+02:00",
+    "media_id": "f8oxuvha3lgu",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -294,7 +317,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6276727/engeland-van-wiegman-bij-rust-op-voorsprong-tegen-australie.html",
+    "url": "/voetbal/6276727/australie-na-rust-op-zoek-naar-gelijkmaker-tegen-engeland-van-wiegman.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/klimaat/6276700/co2-opslag-rotterdamse-haven-mag-doorgaan-klimaatdoelen-niet-in-gevaar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6276699,
-    "slug": "geannuleerde-serie-warrior-nun-krijgt-toch-vervolg-in-filmtrilogie",
-    "type": "article",
-    "title": "Geannuleerde serie Warrior Nun krijgt toch vervolg in filmtrilogie",
-    "subtitle": null,
-    "published_at": "2023-08-16T09:44:43+02:00",
-    "updated_at": "2023-08-16T09:44:45+02:00",
-    "media_id": "zvixt55abmph",
-    "duration": null,
-    "canonical_section": {
-      "id": 127,
-      "slug": "film",
-      "type": "default",
-      "name": "Films & Series",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/film/6276699/geannuleerde-serie-warrior-nun-krijgt-toch-vervolg-in-filmtrilogie.html",
     "open_new_window": false,
     "partner": null
   }
