@@ -1,5 +1,28 @@
 [
   {
+    "id": 6276943,
+    "slug": "zangroep-il-divo-vindt-in-steven-labrie-nieuw-lid-na-dood-carlos-marin",
+    "type": "article",
+    "title": "Zangroep Il Divo vindt in Steven LaBrie nieuw lid na dood Carlos Marín",
+    "subtitle": null,
+    "published_at": "2023-08-17T18:39:50+02:00",
+    "updated_at": "2023-08-17T18:39:52+02:00",
+    "media_id": "vusxxsda7vak",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6276943/zangroep-il-divo-vindt-in-steven-labrie-nieuw-lid-na-dood-carlos-marin.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6276940,
     "slug": "prinses-leonor-is-beetje-nerveus-bij-start-van-haar-driejarige-militaire-opleiding",
     "type": "article",
@@ -47,13 +70,13 @@
   },
   {
     "id": 6276938,
-    "slug": "fc-twente-moet-klusje-in-riga-zien-te-klaren",
+    "slug": "fc-twente-start-zonder-vlap-en-steijn-in-de-basis-aan-return-tegen-riga-fc",
     "type": "article",
-    "title": "FC Twente moet klusje in Riga zien te klaren",
+    "title": "FC Twente start zonder Vlap en Steijn in de basis aan return tegen Riga FC",
     "subtitle": "Liveblog",
     "published_at": "2023-08-17T18:15:23+02:00",
-    "updated_at": "2023-08-17T18:17:54+02:00",
-    "media_id": "z1zxfsoace6q",
+    "updated_at": "2023-08-17T18:40:20+02:00",
+    "media_id": "wvax1nzau80l",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6276938/fc-twente-moet-klusje-in-riga-zien-te-klaren.html",
+    "url": "/voetbal/6276938/fc-twente-start-zonder-vlap-en-steijn-in-de-basis-aan-return-tegen-riga-fc.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tech-wetenschap/6276921/artsen-in-vs-transplanteren-aangepaste-varkensnier-naar-hersendode-man.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6276914,
-    "slug": "hm-stopt-met-leveranciers-in-myanmar-na-misstanden-in-kledingfabrieken",
-    "type": "article",
-    "title": "H&M stopt met leveranciers in Myanmar na misstanden in kledingfabrieken",
-    "subtitle": null,
-    "published_at": "2023-08-17T16:15:41+02:00",
-    "updated_at": "2023-08-17T16:16:56+02:00",
-    "media_id": "6kux725a6mvi",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6276914/hm-stopt-met-leveranciers-in-myanmar-na-misstanden-in-kledingfabrieken.html",
     "open_new_window": false,
     "partner": null
   }
