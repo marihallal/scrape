@@ -1,5 +1,28 @@
 [
   {
+    "id": 6276957,
+    "slug": "buizerd-doodgereden-die-jarenlang-voorbijgangers-aanviel-in-flevoland",
+    "type": "article",
+    "title": "Buizerd doodgereden die jarenlang voorbijgangers aanviel in Flevoland",
+    "subtitle": null,
+    "published_at": "2023-08-17T21:27:14+02:00",
+    "updated_at": "2023-08-17T21:27:28+02:00",
+    "media_id": "mdyxegwa00st",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772536,
+      "slug": "dieren",
+      "type": "default",
+      "name": "Dieren",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/dieren/6276957/buizerd-doodgereden-die-jarenlang-voorbijgangers-aanviel-in-flevoland.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6276917,
     "slug": "zijn-zonnepanelen-nog-wel-voordelig-jullie-vragen-beantwoord",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "FC Twente klaart klusje in Riga en staat weer in play-offs Conference League",
     "subtitle": null,
     "published_at": "2023-08-17T20:55:48+02:00",
-    "updated_at": "2023-08-17T21:11:07+02:00",
+    "updated_at": "2023-08-17T21:26:14+02:00",
     "media_id": "n5cxrf9a0u0p",
     "duration": null,
     "canonical_section": {
@@ -72,10 +95,10 @@
     "id": 6276945,
     "slug": "complexe-brand-leidt-tot-evacuaties-tenerife-nederlanders-lijken-nog-ongedeerd",
     "type": "article",
-    "title": "Complexe' brand leidt tot evacuaties Tenerife, Nederlanders lijken nog ongedeerd",
+    "title": "Complexe brand leidt tot evacuaties Tenerife, Nederlanders lijken nog ongedeerd",
     "subtitle": null,
     "published_at": "2023-08-17T20:31:13+02:00",
-    "updated_at": "2023-08-17T20:59:56+02:00",
+    "updated_at": "2023-08-17T21:30:26+02:00",
     "media_id": "1rhx42aa12az",
     "duration": null,
     "canonical_section": {
@@ -167,7 +190,7 @@
     "title": "Nederlander (26) opgepakt voor bewusteloos schoppen Duitse toerist op Mallorca",
     "subtitle": null,
     "published_at": "2023-08-17T19:53:10+02:00",
-    "updated_at": "2023-08-17T20:49:59+02:00",
+    "updated_at": "2023-08-17T21:16:46+02:00",
     "media_id": "kfwxwknayypl",
     "duration": null,
     "canonical_section": {
@@ -323,13 +346,13 @@
   },
   {
     "id": 6276938,
-    "slug": "az-begint-wervelend-aan-return-tegen-santa-coloma",
+    "slug": "az-op-voorsprong-tegen-santa-coloma-dankzij-prachtgoal-van-bommel",
     "type": "article",
-    "title": "AZ begint wervelend aan return tegen Santa Coloma",
+    "title": "AZ op voorsprong tegen Santa Coloma dankzij prachtgoal Van Bommel",
     "subtitle": "Liveblog",
     "published_at": "2023-08-17T18:15:23+02:00",
-    "updated_at": "2023-08-17T21:02:12+02:00",
-    "media_id": "k69x7ylamm7y",
+    "updated_at": "2023-08-17T21:30:00+02:00",
+    "media_id": "ngexqffadnwd",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -340,7 +363,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6276938/az-begint-wervelend-aan-return-tegen-santa-coloma.html",
+    "url": "/voetbal/6276938/az-op-voorsprong-tegen-santa-coloma-dankzij-prachtgoal-van-bommel.html",
     "open_new_window": false,
     "partner": null
   },
@@ -420,7 +443,7 @@
     "title": "Jongeren krijgen een half jaar langer de tijd om gratis een HPV-prik te halen",
     "subtitle": null,
     "published_at": "2023-08-17T18:04:08+02:00",
-    "updated_at": "2023-08-17T18:44:51+02:00",
+    "updated_at": "2023-08-17T21:17:18+02:00",
     "media_id": "8c9xxd5ajy20",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6276933/jongeren-krijgen-een-half-jaar-langer-de-tijd-om-gratis-een-hpv-prik-te-halen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6276931,
-    "slug": "glennis-grace-denkt-niet-dat-carriere-is-verpest-door-rechtszaak-rondom-jumbo-ruzie",
-    "type": "article",
-    "title": "Glennis Grace denkt niet dat carrière is verpest door rechtszaak rondom Jumbo-ruzie",
-    "subtitle": null,
-    "published_at": "2023-08-17T17:50:25+02:00",
-    "updated_at": "2023-08-17T17:54:59+02:00",
-    "media_id": "wmmxjkyanbs5",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6276931/glennis-grace-denkt-niet-dat-carriere-is-verpest-door-rechtszaak-rondom-jumbo-ruzie.html",
     "open_new_window": false,
     "partner": null
   }
