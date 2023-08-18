@@ -1,5 +1,28 @@
 [
   {
+    "id": 6277053,
+    "slug": "florence-the-machine-zegt-om-medische-redenen-af-voor-lowlands",
+    "type": "article",
+    "title": "Florence + The Machine zegt om medische redenen af voor Lowlands",
+    "subtitle": null,
+    "published_at": "2023-08-18T13:50:46+02:00",
+    "updated_at": "2023-08-18T13:50:47+02:00",
+    "media_id": "gvoxla2a3w5p",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6277053/florence-the-machine-zegt-om-medische-redenen-af-voor-lowlands.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6277046,
     "slug": "aanhanger-met-boot-van-pools-zeilteam-ligt-op-zn-kant-op-a1",
     "type": "video",
@@ -29,8 +52,8 @@
     "title": "Bondscoach Koeman neemt Van de Ven en Maatsen op in voorselectie Oranje",
     "subtitle": null,
     "published_at": "2023-08-18T13:01:23+02:00",
-    "updated_at": "2023-08-18T13:24:50+02:00",
-    "media_id": "alyxg94a0ec1",
+    "updated_at": "2023-08-18T13:37:47+02:00",
+    "media_id": "toxx10fa7gv9",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -121,7 +144,7 @@
     "title": "Big Bazar weer verder in problemen: nóg een verhuurder vraagt faillissement aan",
     "subtitle": null,
     "published_at": "2023-08-18T12:28:22+02:00",
-    "updated_at": "2023-08-18T12:28:24+02:00",
+    "updated_at": "2023-08-18T13:51:00+02:00",
     "media_id": "maaxbtjadjdv",
     "duration": null,
     "canonical_section": {
@@ -231,12 +254,12 @@
   },
   {
     "id": 6277026,
-    "slug": "na-pijnlijke-dag-daalt-de-beurskoers-van-adyen-nog-verder",
+    "slug": "beurskoers-adyen-daalt-na-dramatische-beursdag-naar-laagste-niveau-in-drie-jaar",
     "type": "article",
-    "title": "Na pijnlijke dag daalt de beurskoers van Adyen nog verder",
+    "title": "Beurskoers Adyen daalt na dramatische beursdag naar laagste niveau in drie jaar",
     "subtitle": null,
     "published_at": "2023-08-18T11:49:09+02:00",
-    "updated_at": "2023-08-18T12:30:56+02:00",
+    "updated_at": "2023-08-18T13:51:54+02:00",
     "media_id": "shcxnd6a9gw0",
     "duration": null,
     "canonical_section": {
@@ -248,7 +271,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6277026/na-pijnlijke-dag-daalt-de-beurskoers-van-adyen-nog-verder.html",
+    "url": "/economie/6277026/beurskoers-adyen-daalt-na-dramatische-beursdag-naar-laagste-niveau-in-drie-jaar.html",
     "open_new_window": false,
     "partner": null
   },
@@ -282,7 +305,7 @@
     "title": "Zwarte Cross-attractie waarbij man zwaargewond raakte verdwijnt van festival",
     "subtitle": null,
     "published_at": "2023-08-18T11:01:15+02:00",
-    "updated_at": "2023-08-18T11:09:38+02:00",
+    "updated_at": "2023-08-18T13:46:30+02:00",
     "media_id": "a29xx6fain60",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6276997/steijn-over-beschuldigingen-van-hooijdonk-heeft-mij-en-mijn-familie-beschadigd.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6276991,
-    "slug": "the-nun-actrice-bonnie-aarons-klaagt-warner-aan-voor-contractbreuk",
-    "type": "article",
-    "title": "The Nun-actrice Bonnie Aarons klaagt Warner aan voor contractbreuk",
-    "subtitle": null,
-    "published_at": "2023-08-18T09:28:56+02:00",
-    "updated_at": "2023-08-18T09:28:57+02:00",
-    "media_id": "ilpxgtbanbur",
-    "duration": null,
-    "canonical_section": {
-      "id": 127,
-      "slug": "film",
-      "type": "default",
-      "name": "Films & Series",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/film/6276991/the-nun-actrice-bonnie-aarons-klaagt-warner-aan-voor-contractbreuk.html",
     "open_new_window": false,
     "partner": null
   }
