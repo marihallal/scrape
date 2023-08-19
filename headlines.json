@@ -1,12 +1,35 @@
 [
   {
-    "id": 6277178,
-    "slug": "zoon-van-regisseur-originele-sneeuwwitje-film-noemt-remake-een-belediging-en-respectloos",
+    "id": 6277180,
+    "slug": "herlings-naar-ziekenhuis-na-harde-val-onzekerheid-over-deelname-mxgp-in-arnhem",
     "type": "article",
-    "title": "Zoon van regisseur originele Sneeuwwitje-film noemt remake 'een belediging' en 'respectloos'",
+    "title": "Herlings naar ziekenhuis na harde val, onzekerheid over deelname MXGP in Arnhem",
+    "subtitle": null,
+    "published_at": "2023-08-19T13:23:18+02:00",
+    "updated_at": "2023-08-19T13:25:23+02:00",
+    "media_id": "2hcxim5a6fp5",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6277180/herlings-naar-ziekenhuis-na-harde-val-onzekerheid-over-deelname-mxgp-in-arnhem.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6277178,
+    "slug": "zoon-van-regisseur-originele-sneeuwwitje-film-vindt-remake-een-belediging",
+    "type": "article",
+    "title": "Zoon van regisseur originele Sneeuwwitje-film vindt remake 'een belediging'",
     "subtitle": null,
     "published_at": "2023-08-19T13:12:42+02:00",
-    "updated_at": "2023-08-19T13:12:44+02:00",
+    "updated_at": "2023-08-19T13:27:03+02:00",
     "media_id": "xw2xoxaaovgn",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/film/6277178/zoon-van-regisseur-originele-sneeuwwitje-film-noemt-remake-een-belediging-en-respectloos.html",
+    "url": "/film/6277178/zoon-van-regisseur-originele-sneeuwwitje-film-vindt-remake-een-belediging.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +75,7 @@
     "title": "Bol en Klaver met Nederlandse ploeg overtuigend naar WK-finale 4x400 meter mixed",
     "subtitle": null,
     "published_at": "2023-08-19T12:24:35+02:00",
-    "updated_at": "2023-08-19T13:07:26+02:00",
+    "updated_at": "2023-08-19T13:26:52+02:00",
     "media_id": "teex093ax0o8",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Lowlands-directeur noemt ophef over bijdrage journalisten 'ongelooflijke domheid'",
     "subtitle": null,
     "published_at": "2023-08-19T12:12:12+02:00",
-    "updated_at": "2023-08-19T13:12:39+02:00",
+    "updated_at": "2023-08-19T13:25:50+02:00",
     "media_id": "eemxhe7awy54",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6277135/hevige-bosbranden-hullen-canadese-stad-in-rooksluier.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6277133,
-    "slug": "kane-overwint-zenuwen-bij-bundesliga-debuut-mijn-instinct-nam-het-over",
-    "type": "article",
-    "title": "Kane overwint zenuwen bij Bundesliga-debuut: 'Mijn instinct nam het over'",
-    "subtitle": null,
-    "published_at": "2023-08-19T08:50:34+02:00",
-    "updated_at": "2023-08-19T09:16:57+02:00",
-    "media_id": "dhbxgtoarzql",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6277133/kane-overwint-zenuwen-bij-bundesliga-debuut-mijn-instinct-nam-het-over.html",
     "open_new_window": false,
     "partner": null
   }
