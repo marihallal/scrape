@@ -1,5 +1,28 @@
 [
   {
+    "id": 6277302,
+    "slug": "chelsea-onderuit-tegen-west-ham-bij-horrordebuut-recordaankoop-caicedo",
+    "type": "article",
+    "title": "Chelsea onderuit tegen West Ham bij horrordebuut recordaankoop Caicedo",
+    "subtitle": null,
+    "published_at": "2023-08-20T19:38:28+02:00",
+    "updated_at": "2023-08-20T19:49:43+02:00",
+    "media_id": "u9xxmuvabbn1",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6277302/chelsea-onderuit-tegen-west-ham-bij-horrordebuut-recordaankoop-caicedo.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6277300,
     "slug": "lyles-verovert-wereldtitel-op-100-meter-coleman-grijpt-naast-medaille",
     "type": "article",
@@ -167,7 +190,7 @@
     "title": "Toptalent Niels Laros (18) stunt op WK met Nederlands record op 1.500 meter",
     "subtitle": null,
     "published_at": "2023-08-20T17:53:31+02:00",
-    "updated_at": "2023-08-20T18:33:04+02:00",
+    "updated_at": "2023-08-20T19:45:24+02:00",
     "media_id": "vovx7dmak6bf",
     "duration": null,
     "canonical_section": {
@@ -259,7 +282,7 @@
     "title": "Duitse bijrijder (37) van verongelukte zijspan in Groningen overleden",
     "subtitle": null,
     "published_at": "2023-08-20T16:44:40+02:00",
-    "updated_at": "2023-08-20T19:30:46+02:00",
+    "updated_at": "2023-08-20T19:45:34+02:00",
     "media_id": "vvrx94qalfef",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/spanningen-oekraine/6277279/zelensky-komst-f-16s-geeft-oekraine-nieuw-zelfvertrouwen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6277278,
-    "slug": "teleurgestelde-wiegman-feliciteert-spanje-zij-waren-net-iets-beter",
-    "type": "article",
-    "title": "Teleurgestelde Wiegman feliciteert Spanje: 'Zij waren net iets beter'",
-    "subtitle": null,
-    "published_at": "2023-08-20T15:03:25+02:00",
-    "updated_at": "2023-08-20T16:37:28+02:00",
-    "media_id": "ebvx73jalwvp",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779272,
-      "slug": "wk-voetbal-2023",
-      "type": "default",
-      "name": "WK voetbal 2023",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wk-voetbal-2023/6277278/teleurgestelde-wiegman-feliciteert-spanje-zij-waren-net-iets-beter.html",
     "open_new_window": false,
     "partner": null
   }
