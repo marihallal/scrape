@@ -1,5 +1,28 @@
 [
   {
+    "id": 6277502,
+    "slug": "jacqueline-govaert-en-jaap-reesema-in-selectiecommissie-songfestival",
+    "type": "article",
+    "title": "Jacqueline Govaert en Jaap Reesema in selectiecommissie Songfestival",
+    "subtitle": null,
+    "published_at": "2023-08-22T12:28:03+02:00",
+    "updated_at": "2023-08-22T12:28:04+02:00",
+    "media_id": "x6rxyr9a3704",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6277502/jacqueline-govaert-en-jaap-reesema-in-selectiecommissie-songfestival.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6277503,
     "slug": "onbemande-speedboot-vaart-tegen-jachten-in-china-aan",
     "type": "video",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6277458/oekraine-probeert-graanexport-weer-op-gang-te-krijgen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6277460,
-    "slug": "trainer-lukkien-vindt-dat-groningen-zich-moet-schamen-na-verlies-bij-jong-utrecht",
-    "type": "article",
-    "title": "Trainer Lukkien vindt dat Groningen zich moet schamen na verlies bij Jong Utrecht",
-    "subtitle": null,
-    "published_at": "2023-08-22T08:45:57+02:00",
-    "updated_at": "2023-08-22T09:25:50+02:00",
-    "media_id": "g2txpckaau5l",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6277460/trainer-lukkien-vindt-dat-groningen-zich-moet-schamen-na-verlies-bij-jong-utrecht.html",
     "open_new_window": false,
     "partner": null
   }
