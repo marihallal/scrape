@@ -1,5 +1,28 @@
 [
   {
+    "id": 6278023,
+    "slug": "verstappen-begint-gp-weekend-zandvoort-goed-met-snelste-tijd-in-eerste-training",
+    "type": "article",
+    "title": "Verstappen begint GP-weekend Zandvoort goed met snelste tijd in eerste training",
+    "subtitle": null,
+    "published_at": "2023-08-25T13:38:01+02:00",
+    "updated_at": "2023-08-25T13:38:02+02:00",
+    "media_id": "cd8x3thadh5d",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "GP Nederland",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6278023/verstappen-begint-gp-weekend-zandvoort-goed-met-snelste-tijd-in-eerste-training.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6278014,
     "slug": "r-kelly-en-platenlabel-moeten-slachtoffers-half-miljoen-aan-royaltys-betalen",
     "type": "article",
@@ -70,12 +93,12 @@
   },
   {
     "id": 6277958,
-    "slug": "spaanse-bondspreses-rubiales-wil-ondanks-wangedrag-blijven-vecht-tot-het-einde",
+    "slug": "spaanse-bondsvoorzitter-wil-ondanks-wangedrag-op-wk-blijven-vecht-tot-einde",
     "type": "article",
-    "title": "Spaanse bondspreses Rubiales wil ondanks wangedrag blijven: 'Vecht tot het einde'",
+    "title": "Spaanse bondsvoorzitter wil ondanks wangedrag op WK blijven: 'Vecht tot einde'",
     "subtitle": null,
     "published_at": "2023-08-25T12:31:53+02:00",
-    "updated_at": "2023-08-25T13:27:08+02:00",
+    "updated_at": "2023-08-25T13:37:14+02:00",
     "media_id": "49fx264au7yw",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6277958/spaanse-bondspreses-rubiales-wil-ondanks-wangedrag-blijven-vecht-tot-het-einde.html",
+    "url": "/voetbal/6277958/spaanse-bondsvoorzitter-wil-ondanks-wangedrag-op-wk-blijven-vecht-tot-einde.html",
     "open_new_window": false,
     "partner": null
   },
@@ -392,12 +415,12 @@
   },
   {
     "id": 6277944,
-    "slug": "verstappen-klokt-snelste-tijd-tijdens-eerste-training-in-zandvoort",
+    "slug": "formule-1-fans-genieten-van-snelle-verstappen-in-zandvoort",
     "type": "article",
-    "title": "Verstappen klokt snelste tijd tijdens eerste training in Zandvoort",
+    "title": "Formule 1-fans genieten van snelle Verstappen in Zandvoort",
     "subtitle": "Liveblog",
     "published_at": "2023-08-25T09:58:11+02:00",
-    "updated_at": "2023-08-25T13:29:33+02:00",
+    "updated_at": "2023-08-25T13:34:13+02:00",
     "media_id": "hqwx8k9aikec",
     "duration": null,
     "canonical_section": {
@@ -409,7 +432,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6277944/verstappen-klokt-snelste-tijd-tijdens-eerste-training-in-zandvoort.html",
+    "url": "/formule-1/6277944/formule-1-fans-genieten-van-snelle-verstappen-in-zandvoort.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/film/6277968/dune-2-uitgesteld-tot-maart-2024-omdat-acteurs-geen-interviews-kunnen-doen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6277966,
-    "slug": "hawaiaanse-gemeente-klaagt-elektriciteitsbedrijf-aan-voor-dodelijke-branden",
-    "type": "article",
-    "title": "Hawaïaanse gemeente klaagt elektriciteitsbedrijf aan voor dodelijke branden",
-    "subtitle": null,
-    "published_at": "2023-08-25T09:48:49+02:00",
-    "updated_at": "2023-08-25T09:48:50+02:00",
-    "media_id": "onjxkiiar6tp",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6277966/hawaiaanse-gemeente-klaagt-elektriciteitsbedrijf-aan-voor-dodelijke-branden.html",
     "open_new_window": false,
     "partner": null
   }
