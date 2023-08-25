@@ -1,5 +1,28 @@
 [
   {
+    "id": 6277966,
+    "slug": "hawaiaanse-gemeente-klaagt-elektriciteitsbedrijf-aan-voor-dodelijke-branden",
+    "type": "article",
+    "title": "Hawaïaanse gemeente klaagt elektriciteitsbedrijf aan voor dodelijke branden",
+    "subtitle": null,
+    "published_at": "2023-08-25T09:48:49+02:00",
+    "updated_at": "2023-08-25T09:48:50+02:00",
+    "media_id": "onjxkiiar6tp",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6277966/hawaiaanse-gemeente-klaagt-elektriciteitsbedrijf-aan-voor-dodelijke-branden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6277969,
     "slug": "indiase-verkenner-maakt-eerste-meters-op-de-maan",
     "type": "video",
@@ -75,7 +98,7 @@
     "title": "Heineken vertrekt uit Rusland en verkoopt alle onderdelen in het land voor 1 euro",
     "subtitle": null,
     "published_at": "2023-08-25T09:03:45+02:00",
-    "updated_at": "2023-08-25T09:23:57+02:00",
+    "updated_at": "2023-08-25T09:45:27+02:00",
     "media_id": "z59xjd2ar5dp",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/formule-1/6277890/orange-army-kan-ook-bij-hamilton-niet-stuk-altijd-warm-welkom-gehad.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6277541,
-    "slug": "engelbewaarder-zanger-marco-schuitmaker-over-succes-overal-fotootje",
-    "type": "article",
-    "title": "Engelbewaarder-zanger Marco Schuitmaker over succes: 'Overal fotootje'",
-    "subtitle": "NU+",
-    "published_at": "2023-08-25T05:03:19+02:00",
-    "updated_at": "2023-08-25T09:14:06+02:00",
-    "media_id": "79uxefmap2mf",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6277541/engelbewaarder-zanger-marco-schuitmaker-over-succes-overal-fotootje.html",
     "open_new_window": false,
     "partner": null
   }
