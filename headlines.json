@@ -1,5 +1,28 @@
 [
   {
+    "id": 6278383,
+    "slug": "estafetteploeg-geniet-van-wereldtitel-laatste-stuk-van-femke-was-briljant",
+    "type": "article",
+    "title": "Estafetteploeg geniet van wereldtitel: 'Laatste stuk van Femke was briljant'",
+    "subtitle": null,
+    "published_at": "2023-08-28T07:08:19+02:00",
+    "updated_at": "2023-08-28T07:19:30+02:00",
+    "media_id": "s0xx579a6u1n",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6278383/estafetteploeg-geniet-van-wereldtitel-laatste-stuk-van-femke-was-briljant.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6278390,
     "slug": "weerbericht-eerst-is-het-droog-maar-dan-komt-de-regen",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Florence Welch zegde Lowlands-optreden af vanwege levensreddende operatie",
     "subtitle": null,
     "published_at": "2023-08-28T06:19:29+02:00",
-    "updated_at": "2023-08-28T06:49:49+02:00",
+    "updated_at": "2023-08-28T06:56:12+02:00",
     "media_id": "akxx6z6acixo",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
     "subtitle": null,
     "published_at": "2023-08-28T06:07:05+02:00",
-    "updated_at": "2023-08-28T06:08:30+02:00",
+    "updated_at": "2023-08-28T06:51:31+02:00",
     "media_id": "xdtxc8kaj8rf",
     "duration": null,
     "canonical_section": {
@@ -231,12 +254,12 @@
   },
   {
     "id": 6278190,
-    "slug": "herboren-arantxa-rus-wil-op-us-open-afrekenen-met-grand-slam-vloek",
+    "slug": "arantxa-rus-op-haar-32e-beter-dan-ooit-alles-valt-dit-jaar-op-zijn-plek",
     "type": "article",
-    "title": "Herboren Arantxa Rus wil op US Open afrekenen met Grand Slam-vloek",
+    "title": "Arantxa Rus op haar 32e beter dan ooit: 'Alles valt dit jaar op zijn plek'",
     "subtitle": "NU+",
     "published_at": "2023-08-28T05:19:01+02:00",
-    "updated_at": "2023-08-28T06:50:25+02:00",
+    "updated_at": "2023-08-28T07:18:45+02:00",
     "media_id": "oafxzmva7pd4",
     "duration": null,
     "canonical_section": {
@@ -248,7 +271,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport-overig/6278190/herboren-arantxa-rus-wil-op-us-open-afrekenen-met-grand-slam-vloek.html",
+    "url": "/sport-overig/6278190/arantxa-rus-op-haar-32e-beter-dan-ooit-alles-valt-dit-jaar-op-zijn-plek.html",
     "open_new_window": false,
     "partner": null
   },
@@ -259,7 +282,7 @@
     "title": "Ook na de zomervakantie zitten veel klassen zonder leraar",
     "subtitle": null,
     "published_at": "2023-08-28T05:14:20+02:00",
-    "updated_at": "2023-08-28T05:14:47+02:00",
+    "updated_at": "2023-08-28T07:12:48+02:00",
     "media_id": "f7tx2voatq9r",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6278376/driejarige-geeft-ruk-aan-stuur-waardoor-auto-in-noedelwinkel-crasht.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6278342,
-    "slug": "wk-in-boedapest-gaat-boeken-in-als-succesvolste-wk-atletiek-ooit-voor-nederland",
-    "type": "article",
-    "title": "WK in Boedapest gaat boeken in als succesvolste WK atletiek ooit voor Nederland",
-    "subtitle": null,
-    "published_at": "2023-08-27T22:12:19+02:00",
-    "updated_at": "2023-08-28T00:05:22+02:00",
-    "media_id": "lkmxdpaatybc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6278342/wk-in-boedapest-gaat-boeken-in-als-succesvolste-wk-atletiek-ooit-voor-nederland.html",
     "open_new_window": false,
     "partner": null
   }
