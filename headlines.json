@@ -1,12 +1,35 @@
 [
   {
-    "id": 6278502,
-    "slug": "buurlanden-belarus-dreigen-met-sluiten-grenzen-robotyne-heroverd",
+    "id": 6278506,
+    "slug": "nederlandse-zwemmers-zien-bondscoach-faber-jaar-voor-spelen-afzwaaien",
     "type": "article",
-    "title": "Buurlanden Belarus dreigen met sluiten grenzen, Robotyne heroverd",
+    "title": "Nederlandse zwemmers zien bondscoach Faber jaar voor Spelen afzwaaien",
+    "subtitle": null,
+    "published_at": "2023-08-28T20:43:01+02:00",
+    "updated_at": "2023-08-28T20:43:02+02:00",
+    "media_id": "w7cxu3ka9kjx",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6278506/nederlandse-zwemmers-zien-bondscoach-faber-jaar-voor-spelen-afzwaaien.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6278502,
+    "slug": "buurlanden-dreigen-grens-met-belarus-te-sluiten-robotyne-heroverd",
+    "type": "article",
+    "title": "Buurlanden dreigen grens met Belarus te sluiten, Robotyne heroverd",
     "subtitle": "Overzicht",
     "published_at": "2023-08-28T20:31:20+02:00",
-    "updated_at": "2023-08-28T20:31:35+02:00",
+    "updated_at": "2023-08-28T20:38:26+02:00",
     "media_id": "n7uxhnsaum0o",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/spanningen-oekraine/6278502/buurlanden-belarus-dreigen-met-sluiten-grenzen-robotyne-heroverd.html",
+    "url": "/spanningen-oekraine/6278502/buurlanden-dreigen-grens-met-belarus-te-sluiten-robotyne-heroverd.html",
     "open_new_window": false,
     "partner": null
   },
@@ -98,7 +121,7 @@
     "title": "Evenepoel heeft na nieuw incident buik vol van onveilige situaties in Vuelta",
     "subtitle": null,
     "published_at": "2023-08-28T19:15:22+02:00",
-    "updated_at": "2023-08-28T19:27:47+02:00",
+    "updated_at": "2023-08-28T20:38:48+02:00",
     "media_id": "58nxza1agsd7",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6278472/opvangcentrum-lampedusa-overvol-door-komst-grote-aantallen-bootvluchtelingen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6278470,
-    "slug": "elton-john-kort-opgenomen-in-ziekenhuis-na-glijpartij-in-franse-villa",
-    "type": "article",
-    "title": "Elton John kort opgenomen in ziekenhuis na glijpartij in Franse villa",
-    "subtitle": null,
-    "published_at": "2023-08-28T16:23:10+02:00",
-    "updated_at": "2023-08-28T16:23:11+02:00",
-    "media_id": "b2wxsq9ao0n8",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6278470/elton-john-kort-opgenomen-in-ziekenhuis-na-glijpartij-in-franse-villa.html",
     "open_new_window": false,
     "partner": null
   }
