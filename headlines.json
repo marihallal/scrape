@@ -1,5 +1,28 @@
 [
   {
+    "id": 6278523,
+    "slug": "irak-executeert-drie-mensen-voor-rol-bij-aanslag-in-2016-waarbij-300-doden-vielen",
+    "type": "article",
+    "title": "Irak executeert drie mensen voor rol bij aanslag in 2016 waarbij 300 doden vielen",
+    "subtitle": null,
+    "published_at": "2023-08-29T06:11:47+02:00",
+    "updated_at": "2023-08-29T06:17:33+02:00",
+    "media_id": "ojix865au2dy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6278523/irak-executeert-drie-mensen-voor-rol-bij-aanslag-in-2016-waarbij-300-doden-vielen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6278522,
     "slug": "man-doodgeschoten-in-portiek-in-rotterdam-dader-is-gevlucht",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Weerbericht: Vandaag strijden zonneschijn en regen om een plekje",
     "subtitle": null,
     "published_at": "2023-08-29T05:34:13+02:00",
-    "updated_at": "2023-08-29T05:34:14+02:00",
+    "updated_at": "2023-08-29T06:13:04+02:00",
     "media_id": "rbwxqw8a8xpm",
     "duration": null,
     "canonical_section": {
@@ -121,7 +144,7 @@
     "title": "In 'pioniersland' Spanje zorgt Rubiales' kus opnieuw voor discussie over gelijkheid",
     "subtitle": null,
     "published_at": "2023-08-29T05:01:07+02:00",
-    "updated_at": "2023-08-29T05:01:08+02:00",
+    "updated_at": "2023-08-29T06:05:32+02:00",
     "media_id": "kjyxeb1afalo",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6278504/schaakrel-ten-einde-carlsen-en-niemann-sluiten-vrede-en-wachten-op-nieuw-duel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6278506,
-    "slug": "nederlandse-zwemmers-zien-bondscoach-faber-jaar-voor-spelen-afzwaaien",
-    "type": "article",
-    "title": "Nederlandse zwemmers zien bondscoach Faber jaar voor Spelen afzwaaien",
-    "subtitle": null,
-    "published_at": "2023-08-28T20:43:01+02:00",
-    "updated_at": "2023-08-28T20:58:56+02:00",
-    "media_id": "w7cxu3ka9kjx",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6278506/nederlandse-zwemmers-zien-bondscoach-faber-jaar-voor-spelen-afzwaaien.html",
     "open_new_window": false,
     "partner": null
   }
