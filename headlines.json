@@ -1,5 +1,28 @@
 [
   {
+    "id": 6278703,
+    "slug": "tv-kok-yvette-van-boven-krijgt-een-kijkje-in-de-koninklijke-keukens",
+    "type": "article",
+    "title": "Tv-kok Yvette van Boven krijgt een kijkje in de koninklijke keukens",
+    "subtitle": null,
+    "published_at": "2023-08-30T10:34:56+02:00",
+    "updated_at": "2023-08-30T10:34:57+02:00",
+    "media_id": "h1kxy70alfhs",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6278703/tv-kok-yvette-van-boven-krijgt-een-kijkje-in-de-koninklijke-keukens.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6278709,
     "slug": "politie-onderzoekt-revolver-en-mes-uit-tas-bij-amsterdam-centraal",
     "type": "video",
@@ -29,7 +52,7 @@
     "title": "Scheidsrechter geeft peuter die voetbalveld oprent lachend een rode kaart",
     "subtitle": "Video",
     "published_at": "2023-08-30T10:31:46+02:00",
-    "updated_at": "2023-08-30T10:31:46+02:00",
+    "updated_at": "2023-08-30T10:36:33+02:00",
     "media_id": "fehxaadazvge",
     "duration": "0:30",
     "canonical_section": {
@@ -167,7 +190,7 @@
     "title": "Florida zet zich schrap voor 'extreem gevaarlijke' orkaan Idalia",
     "subtitle": null,
     "published_at": "2023-08-30T09:52:51+02:00",
-    "updated_at": "2023-08-30T10:33:29+02:00",
+    "updated_at": "2023-08-30T10:37:50+02:00",
     "media_id": "jpdx5yuaj707",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tennis/6278674/alcaraz-kan-krachten-sparen-op-us-open-venus-williams-direct-kansloos-onderuit.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6278636,
-    "slug": "scholen-moeten-hun-eindtoets-kunnen-verplaatsen-vanwege-carnaval",
-    "type": "article",
-    "title": "'Scholen moeten hun eindtoets kunnen verplaatsen vanwege carnaval'",
-    "subtitle": "Stelling",
-    "published_at": "2023-08-30T07:00:24+02:00",
-    "updated_at": "2023-08-30T09:51:43+02:00",
-    "media_id": "9yhxyvba16ca",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling en Praat Mee",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6278636/scholen-moeten-hun-eindtoets-kunnen-verplaatsen-vanwege-carnaval.html",
     "open_new_window": false,
     "partner": null
   }
