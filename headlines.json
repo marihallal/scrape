@@ -1,12 +1,35 @@
 [
   {
+    "id": 6278797,
+    "slug": "backstreet-boy-nick-carter-opnieuw-aangeklaagd-wegens-seksueel-misbruik",
+    "type": "article",
+    "title": "Backstreet Boy Nick Carter opnieuw aangeklaagd wegens seksueel misbruik",
+    "subtitle": null,
+    "published_at": "2023-08-30T19:48:09+02:00",
+    "updated_at": "2023-08-30T19:48:11+02:00",
+    "media_id": "ps9x2fxa0m2b",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6278797/backstreet-boy-nick-carter-opnieuw-aangeklaagd-wegens-seksueel-misbruik.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6278788,
     "slug": "giel-beelen-gaat-aan-de-slag-als-creatief-directeur-bij-nieuwe-radiozender",
     "type": "article",
     "title": "Giel Beelen gaat aan de slag als creatief directeur bij nieuwe radiozender",
     "subtitle": null,
     "published_at": "2023-08-30T19:30:47+02:00",
-    "updated_at": "2023-08-30T19:30:49+02:00",
+    "updated_at": "2023-08-30T19:34:55+02:00",
     "media_id": "tucxo66a47j4",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Europa koopt meer vloeibaar gas van Rusland in dan voor Oekraïense invasie",
     "subtitle": null,
     "published_at": "2023-08-30T19:24:11+02:00",
-    "updated_at": "2023-08-30T19:24:12+02:00",
+    "updated_at": "2023-08-30T19:47:09+02:00",
     "media_id": "qxkxo6la4x7i",
     "duration": null,
     "canonical_section": {
@@ -70,12 +93,12 @@
   },
   {
     "id": 6278762,
-    "slug": "politie-den-haag-moet-zelf-gaan-bepalen-of-een-mes-verboden-is",
+    "slug": "messenverbod-op-straat-in-den-haag-maar-appeltje-schillen-op-een-bankje-kan",
     "type": "article",
-    "title": "Politie Den Haag moet zelf gaan bepalen of een mes verboden is",
+    "title": "Messenverbod op straat in Den Haag: 'Maar appeltje schillen op een bankje kan'",
     "subtitle": null,
     "published_at": "2023-08-30T19:03:50+02:00",
-    "updated_at": "2023-08-30T19:04:10+02:00",
+    "updated_at": "2023-08-30T19:37:56+02:00",
     "media_id": "ur9xyiqafoio",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6278762/politie-den-haag-moet-zelf-gaan-bepalen-of-een-mes-verboden-is.html",
+    "url": "/binnenland/6278762/messenverbod-op-straat-in-den-haag-maar-appeltje-schillen-op-een-bankje-kan.html",
     "open_new_window": false,
     "partner": null
   },
@@ -420,7 +443,7 @@
     "title": "Leger Gabon draagt nieuwe leider voor na staatsgreep tegen herkozen president",
     "subtitle": null,
     "published_at": "2023-08-30T15:29:21+02:00",
-    "updated_at": "2023-08-30T15:34:36+02:00",
+    "updated_at": "2023-08-30T19:44:10+02:00",
     "media_id": "8ftx4iyaqav6",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6278746/leger-gabon-draagt-nieuwe-leider-voor-na-staatsgreep-tegen-herkozen-president.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6278753,
-    "slug": "burger-king-moet-voor-de-rechter-verschijnen-vanwege-omvang-van-de-whopper",
-    "type": "article",
-    "title": "Burger King moet voor de rechter verschijnen vanwege omvang van de Whopper",
-    "subtitle": null,
-    "published_at": "2023-08-30T15:29:13+02:00",
-    "updated_at": "2023-08-30T16:54:44+02:00",
-    "media_id": "otvxgrva8e0h",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6278753/burger-king-moet-voor-de-rechter-verschijnen-vanwege-omvang-van-de-whopper.html",
     "open_new_window": false,
     "partner": null
   }
