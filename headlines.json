@@ -1,12 +1,35 @@
 [
   {
+    "id": 6279159,
+    "slug": "zweedse-premier-verbaasd-over-uitnodiging-rus-voor-nobelprijsuitreiking",
+    "type": "article",
+    "title": "Zweedse premier verbaasd over uitnodiging Rus voor Nobelprijsuitreiking",
+    "subtitle": null,
+    "published_at": "2023-09-02T08:29:57+02:00",
+    "updated_at": "2023-09-02T08:29:59+02:00",
+    "media_id": "inmxfjkaqt0x",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6279159/zweedse-premier-verbaasd-over-uitnodiging-rus-voor-nobelprijsuitreiking.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6279157,
     "slug": "djokovic-worstelt-zich-in-de-amerikaanse-nacht-naar-vierde-ronde-us-open",
     "type": "article",
     "title": "Djokovic worstelt zich in de Amerikaanse nacht naar vierde ronde US Open",
     "subtitle": null,
     "published_at": "2023-09-02T07:50:38+02:00",
-    "updated_at": "2023-09-02T08:14:17+02:00",
+    "updated_at": "2023-09-02T08:19:26+02:00",
     "media_id": "8y1x8eqatl01",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Ook Trumps ex-advocaat Rudy Giuliani ontkent schuld in verkiezingsfraudezaak",
     "subtitle": null,
     "published_at": "2023-09-02T07:13:48+02:00",
-    "updated_at": "2023-09-02T07:45:02+02:00",
+    "updated_at": "2023-09-02T08:31:08+02:00",
     "media_id": "yedxop4a0v15",
     "duration": null,
     "canonical_section": {
@@ -256,10 +279,10 @@
     "id": 6279151,
     "slug": "hoogste-rechter-beslist-dat-derdelander-uitspraak-in-opvang-mag-afwachten",
     "type": "article",
-    "title": "Hoogste rechter beslist dat derdelander uitspraak in opvang mag afwachten",
+    "title": "Hoogste rechter beslist dat 'derdelander' uitspraak in opvang mag afwachten",
     "subtitle": null,
     "published_at": "2023-09-02T00:51:25+02:00",
-    "updated_at": "2023-09-02T00:57:28+02:00",
+    "updated_at": "2023-09-02T08:23:19+02:00",
     "media_id": "eetxdxhasbir",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6279144/griekse-brandweer-al-2-weken-bezig-met-dezelfde-brand.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279135,
-    "slug": "volleybalsters-veroordeeld-tot-troostfinale-op-ek-door-nederlaag-tegen-servie",
-    "type": "article",
-    "title": "Volleybalsters veroordeeld tot troostfinale op EK door nederlaag tegen Servië",
-    "subtitle": null,
-    "published_at": "2023-09-01T22:47:21+02:00",
-    "updated_at": "2023-09-02T07:29:27+02:00",
-    "media_id": "s76xwi3aofd4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6279135/volleybalsters-veroordeeld-tot-troostfinale-op-ek-door-nederlaag-tegen-servie.html",
     "open_new_window": false,
     "partner": null
   }
