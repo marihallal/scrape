@@ -1,5 +1,51 @@
 [
   {
+    "id": 6279224,
+    "slug": "een-op-de-tien-verdachten-is-minderjarig-en-dat-zijn-meer-meisjes-dan-ooit",
+    "type": "article",
+    "title": "Een op de tien verdachten is minderjarig en dat zijn meer meisjes dan ooit",
+    "subtitle": null,
+    "published_at": "2023-09-04T08:25:35+02:00",
+    "updated_at": "2023-09-04T08:25:36+02:00",
+    "media_id": "9gax4qwaef1y",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6279224/een-op-de-tien-verdachten-is-minderjarig-en-dat-zijn-meer-meisjes-dan-ooit.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6279395,
+    "slug": "smash-mouth-zanger-steve-harwell-ligt-in-hospice",
+    "type": "article",
+    "title": "Smash Mouth-zanger Steve Harwell ligt in hospice",
+    "subtitle": null,
+    "published_at": "2023-09-04T08:16:34+02:00",
+    "updated_at": "2023-09-04T08:33:56+02:00",
+    "media_id": "c4ax2c8aegh2",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6279395/smash-mouth-zanger-steve-harwell-ligt-in-hospice.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6279396,
     "slug": "binnenkort-kan-je-per-uur-zien-wat-je-stroom-kost-bij-eneco",
     "type": "article",
@@ -144,8 +190,8 @@
     "title": "Swiatek strandt tegen angstgegner op US Open, Sabalenka nieuwe nummer één",
     "subtitle": null,
     "published_at": "2023-09-04T07:08:01+02:00",
-    "updated_at": "2023-09-04T07:44:13+02:00",
-    "media_id": "ccpxqybat21d",
+    "updated_at": "2023-09-04T08:18:52+02:00",
+    "media_id": "9p1x2gia2zpx",
     "duration": null,
     "canonical_section": {
       "id": 1772432,
@@ -236,7 +282,7 @@
     "title": "Analyse: Hamilton en Wolff schaden reputatie met teksten over Verstappen",
     "subtitle": "NU+",
     "published_at": "2023-09-04T06:25:13+02:00",
-    "updated_at": "2023-09-04T07:20:14+02:00",
+    "updated_at": "2023-09-04T08:33:26+02:00",
     "media_id": "8jqxqcwap9lg",
     "duration": null,
     "canonical_section": {
@@ -277,12 +323,12 @@
   },
   {
     "id": 6279385,
-    "slug": "kees-van-der-spek-deelt-acteursverleden",
+    "slug": "kees-van-der-spek-speelde-vroeger-crimineel",
     "type": "article",
-    "title": "Kees van der Spek deelt acteursverleden",
+    "title": "Kees van der Spek speelde vroeger crimineel",
     "subtitle": "Achterklapupdates",
     "published_at": "2023-09-04T06:23:51+02:00",
-    "updated_at": "2023-09-04T06:57:07+02:00",
+    "updated_at": "2023-09-04T08:20:43+02:00",
     "media_id": "rdjxkwtaet31",
     "duration": null,
     "canonical_section": {
@@ -294,7 +340,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/achterklap/6279385/kees-van-der-spek-deelt-acteursverleden.html",
+    "url": "/achterklap/6279385/kees-van-der-spek-speelde-vroeger-crimineel.html",
     "open_new_window": false,
     "partner": null
   },
@@ -305,7 +351,7 @@
     "title": "Milieuclubs: 'Nederland besteedt elk jaar 37,5 miljard aan fossiele subsidies'",
     "subtitle": null,
     "published_at": "2023-09-04T06:22:45+02:00",
-    "updated_at": "2023-09-04T07:55:58+02:00",
+    "updated_at": "2023-09-04T08:21:26+02:00",
     "media_id": "hcrxmt9avy45",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/tech/6279060/houdt-google-zich-25-jaar-na-de-start-staande-tegen-chatgpt-geweld.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6278862,
-    "slug": "met-deze-tips-haal-je-het-einde-van-de-maand-en-vul-je-je-spaarrekening",
-    "type": "article",
-    "title": "Met deze tips haal je het einde van de maand én vul je je spaarrekening",
-    "subtitle": "NU+",
-    "published_at": "2023-09-04T05:17:34+02:00",
-    "updated_at": "2023-09-04T06:33:48+02:00",
-    "media_id": "5cwxuwsa5a28",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779236,
-      "slug": "nuverder",
-      "type": "default",
-      "name": "Dagelijks leven",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/nuverder/6278862/met-deze-tips-haal-je-het-einde-van-de-maand-en-vul-je-je-spaarrekening.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6278927,
-    "slug": "de-huidige-arbeidsmarkt-is-krap-maar-het-wordt-nog-erger",
-    "type": "article",
-    "title": "De huidige arbeidsmarkt is krap, maar het wordt nog erger",
-    "subtitle": null,
-    "published_at": "2023-09-04T05:16:46+02:00",
-    "updated_at": "2023-09-04T06:37:45+02:00",
-    "media_id": "72ixbsxai0i4",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6278927/de-huidige-arbeidsmarkt-is-krap-maar-het-wordt-nog-erger.html",
     "open_new_window": false,
     "partner": null
   }
