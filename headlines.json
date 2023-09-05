@@ -1,5 +1,51 @@
 [
   {
+    "id": 6279623,
+    "slug": "spaanse-voetbalbond-biedt-hele-wereld-excuses-aan-voor-gedrag-rubiales",
+    "type": "article",
+    "title": "Spaanse voetbalbond biedt hele wereld excuses aan voor gedrag Rubiales",
+    "subtitle": null,
+    "published_at": "2023-09-05T16:19:32+02:00",
+    "updated_at": "2023-09-05T16:19:33+02:00",
+    "media_id": "wjqx50kafgxd",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6279623/spaanse-voetbalbond-biedt-hele-wereld-excuses-aan-voor-gedrag-rubiales.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6279630,
+    "slug": "charlotte-kool-wint-proloog-ladies-tour-van-vleuten-begint-laatste-koers-als-12e",
+    "type": "article",
+    "title": "Charlotte Kool wint proloog Ladies Tour, Van Vleuten begint laatste koers als 12e",
+    "subtitle": null,
+    "published_at": "2023-09-05T16:09:40+02:00",
+    "updated_at": "2023-09-05T16:09:41+02:00",
+    "media_id": "l6vxfk2akbdz",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6279630/charlotte-kool-wint-proloog-ladies-tour-van-vleuten-begint-laatste-koers-als-12e.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6279626,
     "slug": "leeuwenwelpjes-verkennen-buitenverblijf-van-beekse-bergen",
     "type": "video",
@@ -75,8 +121,8 @@
     "title": "B&B Vol liefde-deelneemster Esra bevestigt relatie met Bram uit Zweden",
     "subtitle": null,
     "published_at": "2023-09-05T15:01:14+02:00",
-    "updated_at": "2023-09-05T15:48:45+02:00",
-    "media_id": "8e7x8ssazz0h",
+    "updated_at": "2023-09-05T15:54:31+02:00",
+    "media_id": "56nxg9uaxn6r",
     "duration": null,
     "canonical_section": {
       "id": 125,
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6279584/krijgen-we-voor-het-eerst-een-officiele-hittegolf-in-september.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279581,
-    "slug": "van-halst-blijft-een-half-jaar-directeur-van-ajax-opvolger-kroes-begint-in-maart",
-    "type": "article",
-    "title": "Van Halst blijft een half jaar directeur van Ajax: opvolger Kroes begint in maart",
-    "subtitle": null,
-    "published_at": "2023-09-05T11:47:11+02:00",
-    "updated_at": "2023-09-05T13:17:52+02:00",
-    "media_id": "q4cx4gma7dpz",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6279581/van-halst-blijft-een-half-jaar-directeur-van-ajax-opvolger-kroes-begint-in-maart.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279577,
-    "slug": "zverev-grijpt-in-na-hitler-leus-en-laat-toeschouwer-uit-stadion-verwijderen",
-    "type": "article",
-    "title": "Zverev grijpt in na 'Hitler-leus' en laat toeschouwer uit stadion verwijderen",
-    "subtitle": null,
-    "published_at": "2023-09-05T11:43:42+02:00",
-    "updated_at": "2023-09-05T13:01:43+02:00",
-    "media_id": "ngixocya93na",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6279577/zverev-grijpt-in-na-hitler-leus-en-laat-toeschouwer-uit-stadion-verwijderen.html",
     "open_new_window": false,
     "partner": null
   }
