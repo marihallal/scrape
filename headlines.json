@@ -1,13 +1,13 @@
 [
   {
     "id": 6279789,
-    "slug": "vluchter-herrada-wint-op-listige-klim-in-vuelta-favorieten-houden-zich-koest",
+    "slug": "vluchter-herrada-wint-op-listige-klim-in-vuelta-kuss-behoudt-leiderstrui",
     "type": "article",
-    "title": "Vluchter Herrada wint op listige klim in Vuelta, favorieten houden zich koest",
+    "title": "Vluchter Herrada wint op listige klim in Vuelta, Kuss behoudt leiderstrui",
     "subtitle": null,
     "published_at": "2023-09-06T17:15:38+02:00",
-    "updated_at": "2023-09-06T17:15:39+02:00",
-    "media_id": "zq3xt3mapu0o",
+    "updated_at": "2023-09-06T17:32:18+02:00",
+    "media_id": "6nzxot3axq2t",
     "duration": null,
     "canonical_section": {
       "id": 1772339,
@@ -18,7 +18,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/wielrennen/6279789/vluchter-herrada-wint-op-listige-klim-in-vuelta-favorieten-houden-zich-koest.html",
+    "url": "/wielrennen/6279789/vluchter-herrada-wint-op-listige-klim-in-vuelta-kuss-behoudt-leiderstrui.html",
     "open_new_window": false,
     "partner": null
   },
@@ -190,7 +190,7 @@
     "title": "Aanvraagloket voor 'beschamende' postcovidregeling gaat deze maand open",
     "subtitle": null,
     "published_at": "2023-09-06T16:16:02+02:00",
-    "updated_at": "2023-09-06T16:16:03+02:00",
+    "updated_at": "2023-09-06T17:28:16+02:00",
     "media_id": "hcfxhvpaob7u",
     "duration": null,
     "canonical_section": {
@@ -249,6 +249,29 @@
       "partner": null
     },
     "url": "/voetbal/6279757/frenkie-de-jong-vindt-niet-dat-oranje-te-lief-is-is-eigen-leven-gaan-leiden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6279755,
+    "slug": "spotify-blijkt-een-paradijs-voor-zweedse-witwassers",
+    "type": "article",
+    "title": "Spotify blijkt een paradijs voor Zweedse witwassers",
+    "subtitle": null,
+    "published_at": "2023-09-06T15:39:53+02:00",
+    "updated_at": "2023-09-06T17:18:49+02:00",
+    "media_id": "19nxbnradn9f",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6279755/spotify-blijkt-een-paradijs-voor-zweedse-witwassers.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6279745/koeman-laat-flekken-keepen-in-belangrijk-ek-kwalificatieduel-met-griekenland.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279748,
-    "slug": "bekijk-hier-live-de-persconferentie-van-koeman-en-de-jong",
-    "type": "video",
-    "title": "Bekijk hier live de persconferentie van Koeman en De Jong",
-    "subtitle": "Livestream",
-    "published_at": "2023-09-06T13:51:23+02:00",
-    "updated_at": "2023-09-06T13:51:32+02:00",
-    "media_id": "uzwxjunakh5n",
-    "duration": "0:01",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6279748/bekijk-hier-live-de-persconferentie-van-koeman-en-de-jong.html",
     "open_new_window": false,
     "partner": null
   }
