@@ -1,5 +1,28 @@
 [
   {
+    "id": 6279771,
+    "slug": "aanvraagloket-voor-beschamende-postcovidregeling-gaat-deze-maand-open",
+    "type": "article",
+    "title": "Aanvraagloket voor 'beschamende' postcovidregeling gaat deze maand open",
+    "subtitle": null,
+    "published_at": "2023-09-06T16:16:02+02:00",
+    "updated_at": "2023-09-06T16:16:03+02:00",
+    "media_id": "hcfxhvpaob7u",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6279771/aanvraagloket-voor-beschamende-postcovidregeling-gaat-deze-maand-open.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6279772,
     "slug": "bergen-afval-drijven-door-turkse-straten-na-overstromingen",
     "type": "video",
@@ -29,7 +52,7 @@
     "title": "Frenkie de Jong vindt niet dat Oranje 'te lief' is: 'Is eigen leven gaan leiden'",
     "subtitle": null,
     "published_at": "2023-09-06T15:42:42+02:00",
-    "updated_at": "2023-09-06T15:42:43+02:00",
+    "updated_at": "2023-09-06T16:16:39+02:00",
     "media_id": "nndx3otankcv",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Spotify blijkt een paradijs voor Zweedse witwassers",
     "subtitle": null,
     "published_at": "2023-09-06T15:39:53+02:00",
-    "updated_at": "2023-09-06T15:39:54+02:00",
+    "updated_at": "2023-09-06T16:10:14+02:00",
     "media_id": "19nxbnradn9f",
     "duration": null,
     "canonical_section": {
@@ -121,7 +144,7 @@
     "title": "Henk van Essen stopt begin volgend jaar als korpschef Nationale Politie",
     "subtitle": null,
     "published_at": "2023-09-06T15:32:32+02:00",
-    "updated_at": "2023-09-06T15:39:10+02:00",
+    "updated_at": "2023-09-06T16:14:25+02:00",
     "media_id": "n2jxpqsazqr6",
     "duration": null,
     "canonical_section": {
@@ -139,12 +162,12 @@
   },
   {
     "id": 6279760,
-    "slug": "zeker-zestien-doden-bij-russische-raketaanval-op-oekraiense-stad",
+    "slug": "zeker-zestien-doden-bij-russische-raketaanval-op-stad-in-regio-donetsk",
     "type": "article",
-    "title": "Zeker zestien doden bij Russische raketaanval op Oekraïense stad",
+    "title": "Zeker zestien doden bij Russische raketaanval op stad in regio Donetsk",
     "subtitle": null,
     "published_at": "2023-09-06T15:30:06+02:00",
-    "updated_at": "2023-09-06T15:38:32+02:00",
+    "updated_at": "2023-09-06T16:03:23+02:00",
     "media_id": "0f4xm3hand6t",
     "duration": null,
     "canonical_section": {
@@ -156,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/spanningen-oekraine/6279760/zeker-zestien-doden-bij-russische-raketaanval-op-oekraiense-stad.html",
+    "url": "/spanningen-oekraine/6279760/zeker-zestien-doden-bij-russische-raketaanval-op-stad-in-regio-donetsk.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6279740/tbs-met-dwangverpleging-geeist-tegen-verdachte-van-neersteken-haagse-huisarts.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279737,
-    "slug": "nederland-kiest-voor-sweet-dreams-met-renee-soutendijk-als-oscar-inzending",
-    "type": "article",
-    "title": "Nederland kiest voor Sweet Dreams met Renée Soutendijk als Oscar-inzending",
-    "subtitle": null,
-    "published_at": "2023-09-06T12:27:25+02:00",
-    "updated_at": "2023-09-06T13:31:06+02:00",
-    "media_id": "h4kx9zran711",
-    "duration": null,
-    "canonical_section": {
-      "id": 127,
-      "slug": "film",
-      "type": "default",
-      "name": "Films & Series",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/film/6279737/nederland-kiest-voor-sweet-dreams-met-renee-soutendijk-als-oscar-inzending.html",
     "open_new_window": false,
     "partner": null
   }
