@@ -1,5 +1,51 @@
 [
   {
+    "id": 6279909,
+    "slug": "belgische-justitieminister-op-matje-geroepen-wegens-plasincident-met-politieauto",
+    "type": "article",
+    "title": "Belgische justitieminister op matje geroepen wegens plasincident met politieauto",
+    "subtitle": null,
+    "published_at": "2023-09-07T15:50:16+02:00",
+    "updated_at": "2023-09-07T15:50:18+02:00",
+    "media_id": "8wuxlv3ayf5u",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6279909/belgische-justitieminister-op-matje-geroepen-wegens-plasincident-met-politieauto.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6279913,
+    "slug": "theaterhuis-likeminds-aangeslagen-na-metoo-beschuldigingen-directeur",
+    "type": "article",
+    "title": "Theaterhuis Likeminds aangeslagen na MeToo-beschuldigingen directeur",
+    "subtitle": null,
+    "published_at": "2023-09-07T15:45:59+02:00",
+    "updated_at": "2023-09-07T15:50:47+02:00",
+    "media_id": "lydxbtja34xb",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772075,
+      "slug": "cultuur-overig",
+      "type": "default",
+      "name": "Boek & Cultuur",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/cultuur-overig/6279913/theaterhuis-likeminds-aangeslagen-na-metoo-beschuldigingen-directeur.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6279910,
     "slug": "blusboten-koelen-bruggen-in-dordrecht-en-alblasserdam",
     "type": "video",
@@ -75,7 +121,7 @@
     "title": "Brugts moet wachten op Barça-debuut: speelsters La Liga staken voor beter loon",
     "subtitle": null,
     "published_at": "2023-09-07T14:51:43+02:00",
-    "updated_at": "2023-09-07T14:51:44+02:00",
+    "updated_at": "2023-09-07T15:32:48+02:00",
     "media_id": "olixlmla1d7g",
     "duration": null,
     "canonical_section": {
@@ -98,7 +144,7 @@
     "title": "Philips treft schikking in VS om defecte slaapapneu-apparaten",
     "subtitle": null,
     "published_at": "2023-09-07T14:47:43+02:00",
-    "updated_at": "2023-09-07T14:56:21+02:00",
+    "updated_at": "2023-09-07T15:50:46+02:00",
     "media_id": "88dx3xra3n6c",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/economie/6279880/acm-waarschuwt-voor-energietarieven-die-nog-steeds-boven-prijsplafond-liggen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279734,
-    "slug": "heleen-van-royen-schrijft-roman-over-juicekanalen-het-is-geen-wraak",
-    "type": "article",
-    "title": "Heleen van Royen schrijft roman over juicekanalen: 'Het is geen wraak'",
-    "subtitle": "NU+",
-    "published_at": "2023-09-07T12:05:54+02:00",
-    "updated_at": "2023-09-07T13:11:49+02:00",
-    "media_id": "omixlhna3zd0",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772075,
-      "slug": "cultuur-overig",
-      "type": "default",
-      "name": "Boek & Cultuur",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/cultuur-overig/6279734/heleen-van-royen-schrijft-roman-over-juicekanalen-het-is-geen-wraak.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279875,
-    "slug": "waarschuwing-voor-slechte-luchtkwaliteit-in-zuiden-en-midden-van-nederland",
-    "type": "article",
-    "title": "Waarschuwing voor slechte luchtkwaliteit in zuiden en midden van Nederland",
-    "subtitle": null,
-    "published_at": "2023-09-07T11:55:42+02:00",
-    "updated_at": "2023-09-07T12:47:02+02:00",
-    "media_id": "bqkxllsa1cd8",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6279875/waarschuwing-voor-slechte-luchtkwaliteit-in-zuiden-en-midden-van-nederland.html",
     "open_new_window": false,
     "partner": null
   }
