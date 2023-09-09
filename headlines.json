@@ -1,5 +1,28 @@
 [
   {
+    "id": 6280201,
+    "slug": "wouter-de-winther-en-bram-krikke-in-all-stars-editie-de-slimste-mens",
+    "type": "article",
+    "title": "Wouter de Winther en Bram Krikke in All Stars-editie De slimste mens",
+    "subtitle": null,
+    "published_at": "2023-09-09T14:13:15+02:00",
+    "updated_at": "2023-09-09T14:13:16+02:00",
+    "media_id": "fdkxv92aubfw",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6280201/wouter-de-winther-en-bram-krikke-in-all-stars-editie-de-slimste-mens.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6280200,
     "slug": "alexia-doopt-schip-dat-naar-haar-is-vernoemd-heel-spannend",
     "type": "video",
@@ -29,7 +52,7 @@
     "title": "Clevering en Meester stunten met wereldtitel op WK roeien in tweezonder",
     "subtitle": null,
     "published_at": "2023-09-09T13:49:19+02:00",
-    "updated_at": "2023-09-09T13:49:20+02:00",
+    "updated_at": "2023-09-09T14:15:52+02:00",
     "media_id": "denxbz9ao786",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Terreurverdachte die ontsnapte uit Londense gevangenis na klopjacht opgepakt",
     "subtitle": null,
     "published_at": "2023-09-09T13:47:50+02:00",
-    "updated_at": "2023-09-09T13:47:51+02:00",
+    "updated_at": "2023-09-09T13:54:50+02:00",
     "media_id": "8b6xk6ta0jf1",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Politie zet waterkanonnen in bij klimaatprotest XR op A12 in Den Haag",
     "subtitle": null,
     "published_at": "2023-09-09T13:32:29+02:00",
-    "updated_at": "2023-09-09T13:47:16+02:00",
+    "updated_at": "2023-09-09T14:24:54+02:00",
     "media_id": "e3rx0tyak9kr",
     "duration": null,
     "canonical_section": {
@@ -213,7 +236,7 @@
     "title": "Van wereldleiders tot Nederlandse burgemeesters: veel steun voor Marokko",
     "subtitle": null,
     "published_at": "2023-09-09T12:01:25+02:00",
-    "updated_at": "2023-09-09T13:47:55+02:00",
+    "updated_at": "2023-09-09T14:04:48+02:00",
     "media_id": "30mxrjlayye2",
     "duration": null,
     "canonical_section": {
@@ -236,7 +259,7 @@
     "title": "Veerman sluit na geboorte van zoon weer aan bij Oranje",
     "subtitle": null,
     "published_at": "2023-09-09T11:11:36+02:00",
-    "updated_at": "2023-09-09T13:48:28+02:00",
+    "updated_at": "2023-09-09T14:07:29+02:00",
     "media_id": "xt4xvyjai8i7",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6280153/dodental-zware-aardbeving-in-marokko-loopt-op-tot-meer-dan-800.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280062,
-    "slug": "overheid-moet-stoppen-met-fossiele-subsidies-ongeacht-prijsstijgingen",
-    "type": "article",
-    "title": "'Overheid moet stoppen met fossiele subsidies, ongeacht prijsstijgingen'",
-    "subtitle": "Stelling",
-    "published_at": "2023-09-09T08:13:27+02:00",
-    "updated_at": "2023-09-09T10:08:36+02:00",
-    "media_id": "6uqx3umaok2m",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling en Praat Mee",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6280062/overheid-moet-stoppen-met-fossiele-subsidies-ongeacht-prijsstijgingen.html",
     "open_new_window": false,
     "partner": null
   }
