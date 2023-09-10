@@ -1,5 +1,28 @@
 [
   {
+    "id": 6280256,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-09-10T07:30:01+02:00",
+    "updated_at": "2023-09-10T07:30:02+02:00",
+    "media_id": "xdtxc8kaj8rf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6280256/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6280087,
     "slug": "wanneer-is-een-dynamisch-energiecontract-wat-voor-jou",
     "type": "video",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6280239/reacties-na-late-afzegging-badr-hari-voor-glory-gevecht.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280237,
-    "slug": "pepe-was-jarenlang-duurste-arsenal-aankoop-ooit-maar-loopt-nu-gratis-de-deur-uit",
-    "type": "article",
-    "title": "Pépé was jarenlang duurste Arsenal-aankoop ooit, maar loopt nu gratis de deur uit",
-    "subtitle": null,
-    "published_at": "2023-09-09T20:40:02+02:00",
-    "updated_at": "2023-09-09T20:44:41+02:00",
-    "media_id": "qcsxvj4azmm4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6280237/pepe-was-jarenlang-duurste-arsenal-aankoop-ooit-maar-loopt-nu-gratis-de-deur-uit.html",
     "open_new_window": false,
     "partner": null
   }
