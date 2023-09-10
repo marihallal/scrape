@@ -1,5 +1,28 @@
 [
   {
+    "id": 6280236,
+    "slug": "jumbo-visma-heeft-vuelta-in-ijzeren-greep-frustrerend-om-tegen-ons-te-rijden",
+    "type": "article",
+    "title": "Jumbo-Visma heeft Vuelta in ijzeren greep: 'Frustrerend om tegen ons te rijden'",
+    "subtitle": null,
+    "published_at": "2023-09-10T07:35:05+02:00",
+    "updated_at": "2023-09-10T07:35:06+02:00",
+    "media_id": "qsaxuabaoffh",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6280236/jumbo-visma-heeft-vuelta-in-ijzeren-greep-frustrerend-om-tegen-ons-te-rijden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6280256,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Ierse glorie tegen Oranje: 'Hij schopte Overmars bijna de tribune in'",
     "subtitle": "NU+",
     "published_at": "2023-09-10T05:24:01+02:00",
-    "updated_at": "2023-09-10T05:24:02+02:00",
+    "updated_at": "2023-09-10T07:38:00+02:00",
     "media_id": "pxsxqhramkuo",
     "duration": null,
     "canonical_section": {
@@ -213,7 +236,7 @@
     "title": "Dodental aardbeving Marokko opgelopen tot boven 2.000",
     "subtitle": null,
     "published_at": "2023-09-09T23:56:21+02:00",
-    "updated_at": "2023-09-10T00:25:08+02:00",
+    "updated_at": "2023-09-10T07:49:15+02:00",
     "media_id": "pvbx4g1axddp",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6280242/reacties-na-spectaculaire-us-open-titel-gauff.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280239,
-    "slug": "reacties-na-late-afzegging-badr-hari-voor-glory-gevecht",
-    "type": "article",
-    "title": "Reacties na late afzegging Badr Hari voor GLORY-gevecht",
-    "subtitle": "Liveblog",
-    "published_at": "2023-09-09T21:34:06+02:00",
-    "updated_at": "2023-09-09T23:57:39+02:00",
-    "media_id": "0qyxggsazg6x",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6280239/reacties-na-late-afzegging-badr-hari-voor-glory-gevecht.html",
     "open_new_window": false,
     "partner": null
   }
