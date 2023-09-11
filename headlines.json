@@ -1,5 +1,28 @@
 [
   {
+    "id": 6280362,
+    "slug": "dronebeelden-tonen-nasleep-van-verwoestende-aardbeving-in-marokko",
+    "type": "video",
+    "title": "Dronebeelden tonen nasleep van verwoestende aardbeving in Marokko",
+    "subtitle": "Video",
+    "published_at": "2023-09-11T08:49:07+02:00",
+    "updated_at": "2023-09-11T08:49:11+02:00",
+    "media_id": "5hmxlmtaddbz",
+    "duration": "0:59",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6280362/dronebeelden-tonen-nasleep-van-verwoestende-aardbeving-in-marokko.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6280356,
     "slug": "zoon-van-ridouan-taghi-opgepakt-in-dubai",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Djokovic draagt met speciaal shirt Grand Slam-titel op aan vriend Kobe Bryant",
     "subtitle": null,
     "published_at": "2023-09-11T07:43:04+02:00",
-    "updated_at": "2023-09-11T08:02:01+02:00",
+    "updated_at": "2023-09-11T08:45:42+02:00",
     "media_id": "t54x9xcat3ll",
     "duration": null,
     "canonical_section": {
@@ -121,7 +144,7 @@
     "title": "Weghorst snapt reserverol en kritiek niet: 'Het is niet altijd positief, toch?'",
     "subtitle": null,
     "published_at": "2023-09-11T07:11:38+02:00",
-    "updated_at": "2023-09-11T08:07:43+02:00",
+    "updated_at": "2023-09-11T08:36:41+02:00",
     "media_id": "2mdx8fka0znh",
     "duration": null,
     "canonical_section": {
@@ -351,7 +374,7 @@
     "title": "Djokovic neemt revanche op Medvedev en grijpt 24e Grand Slam-titel op US Open",
     "subtitle": null,
     "published_at": "2023-09-11T01:38:52+02:00",
-    "updated_at": "2023-09-11T07:01:39+02:00",
+    "updated_at": "2023-09-11T08:46:22+02:00",
     "media_id": "u1bxhj4az7ap",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6280342/afgetreden-rubiales-houdt-vast-aan-onschuld-maar-heeft-geen-zin-om-te-blijven.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280339,
-    "slug": "van-dijk-zag-oranje-terugkomen-na-dramatische-start-daar-ben-ik-wel-trots-op",
-    "type": "article",
-    "title": "Van Dijk zag Oranje terugkomen na dramatische start: 'Daar ben ik wel trots op'",
-    "subtitle": null,
-    "published_at": "2023-09-10T23:08:57+02:00",
-    "updated_at": "2023-09-11T00:12:13+02:00",
-    "media_id": "1mxx00haropm",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6280339/van-dijk-zag-oranje-terugkomen-na-dramatische-start-daar-ben-ik-wel-trots-op.html",
     "open_new_window": false,
     "partner": null
   }
