@@ -1,5 +1,51 @@
 [
   {
+    "id": 6280531,
+    "slug": "rb-leipzig-wil-langer-door-met-xavi-simons-hij-is-de-speler-die-wij-zochten",
+    "type": "article",
+    "title": "RB Leipzig wil langer door met Xavi Simons: 'Hij is de speler die wij zochten'",
+    "subtitle": null,
+    "published_at": "2023-09-12T10:45:07+02:00",
+    "updated_at": "2023-09-12T10:45:09+02:00",
+    "media_id": "rguxzsgas0mv",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6280531/rb-leipzig-wil-langer-door-met-xavi-simons-hij-is-de-speler-die-wij-zochten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6280529,
+    "slug": "uit-singer-laren-gestolen-van-gogh-is-teruggebracht-tranen-in-de-ogen",
+    "type": "article",
+    "title": "Uit Singer Laren gestolen Van Gogh is teruggebracht: 'Tranen in de ogen'",
+    "subtitle": null,
+    "published_at": "2023-09-12T10:44:26+02:00",
+    "updated_at": "2023-09-12T10:44:28+02:00",
+    "media_id": "v54xgczan0gu",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772075,
+      "slug": "cultuur-overig",
+      "type": "default",
+      "name": "Boek & Cultuur",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/cultuur-overig/6280529/uit-singer-laren-gestolen-van-gogh-is-teruggebracht-tranen-in-de-ogen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6280520,
     "slug": "europees-vliegverkeer-is-nog-paar-procenten-verwijderd-van-precoronatijdperk",
     "type": "article",
@@ -236,7 +282,7 @@
     "title": "LG krijgt miljoenenboete: bedrijf dreef prijs van televisies op bij winkeliers",
     "subtitle": null,
     "published_at": "2023-09-12T08:46:22+02:00",
-    "updated_at": "2023-09-12T10:33:04+02:00",
+    "updated_at": "2023-09-12T10:35:07+02:00",
     "media_id": "q0exj0tao4k9",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/stelling/6280407/door-dure-boodschappen-gooi-ik-minder-eten-weg.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280502,
-    "slug": "weerbericht-eerst-code-geel-wegens-mist-daarna-kan-paraplu-afgestoft-worden",
-    "type": "article",
-    "title": "Weerbericht: Eerst code geel wegens mist, daarna kan paraplu afgestoft worden",
-    "subtitle": null,
-    "published_at": "2023-09-12T07:07:39+02:00",
-    "updated_at": "2023-09-12T10:33:19+02:00",
-    "media_id": "i05x3v2a143g",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779283,
-      "slug": "weerbericht",
-      "type": "default",
-      "name": "Weerbericht",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/weerbericht/6280502/weerbericht-eerst-code-geel-wegens-mist-daarna-kan-paraplu-afgestoft-worden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280501,
-    "slug": "buitjes-in-de-winter-plensbuien-in-de-zomer-zo-zit-dat",
-    "type": "video",
-    "title": "Buitjes in de winter, plensbuien in de zomer: zo zit dat",
-    "subtitle": "Explainer",
-    "published_at": "2023-09-12T06:51:14+02:00",
-    "updated_at": "2023-09-12T08:47:38+02:00",
-    "media_id": "eybxxwkayaz1",
-    "duration": "1:30",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6280501/buitjes-in-de-winter-plensbuien-in-de-zomer-zo-zit-dat.html",
     "open_new_window": false,
     "partner": null
   }
