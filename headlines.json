@@ -1,12 +1,35 @@
 [
   {
-    "id": 6280624,
-    "slug": "overzicht-over-en-weer-aanvallen-maar-versterking-voor-oekraine-onderweg",
+    "id": 6280625,
+    "slug": "venetie-start-proef-met-entreekaartjes-van-5-euro-voor-dagtoeristen",
     "type": "article",
-    "title": "Overzicht: Over en weer aanvallen, maar versterking voor Oekraïne onderweg",
+    "title": "Venetië start proef met entreekaartjes van 5 euro voor dagtoeristen",
     "subtitle": null,
+    "published_at": "2023-09-12T22:31:03+02:00",
+    "updated_at": "2023-09-12T22:31:04+02:00",
+    "media_id": "n03xsl2aymje",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6280625/venetie-start-proef-met-entreekaartjes-van-5-euro-voor-dagtoeristen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6280624,
+    "slug": "over-en-weer-aanvallen-maar-versterking-voor-oekraine-onderweg",
+    "type": "article",
+    "title": "Over en weer aanvallen, maar versterking voor Oekraïne onderweg",
+    "subtitle": "Overzicht",
     "published_at": "2023-09-12T22:16:48+02:00",
-    "updated_at": "2023-09-12T22:16:49+02:00",
+    "updated_at": "2023-09-12T22:17:02+02:00",
     "media_id": "x2hxlocaf9cc",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/spanningen-oekraine/6280624/overzicht-over-en-weer-aanvallen-maar-versterking-voor-oekraine-onderweg.html",
+    "url": "/spanningen-oekraine/6280624/over-en-weer-aanvallen-maar-versterking-voor-oekraine-onderweg.html",
     "open_new_window": false,
     "partner": null
   },
@@ -75,7 +98,7 @@
     "title": "Wateroverlast in Zuid-Limburg: kelders ondergelopen en straten blank",
     "subtitle": null,
     "published_at": "2023-09-12T20:33:05+02:00",
-    "updated_at": "2023-09-12T21:39:51+02:00",
+    "updated_at": "2023-09-12T22:30:26+02:00",
     "media_id": "7edxh6cazr05",
     "duration": null,
     "canonical_section": {
@@ -185,12 +208,12 @@
   },
   {
     "id": 6280565,
-    "slug": "als-je-afgeperst-wordt-door-cybercriminelen-betaal-dan-niet-meteen",
+    "slug": "als-je-wordt-afgeperst-door-cybercriminelen-betaal-dan-niet-meteen",
     "type": "article",
-    "title": "Als je afgeperst wordt door cybercriminelen, betaal dan niet (meteen)",
+    "title": "Als je wordt afgeperst door cybercriminelen, betaal dan niet (meteen)",
     "subtitle": "NU+",
     "published_at": "2023-09-12T20:06:46+02:00",
-    "updated_at": "2023-09-12T20:39:19+02:00",
+    "updated_at": "2023-09-12T22:18:58+02:00",
     "media_id": "3edxz65ai9ah",
     "duration": null,
     "canonical_section": {
@@ -202,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/tech/6280565/als-je-afgeperst-wordt-door-cybercriminelen-betaal-dan-niet-meteen.html",
+    "url": "/tech/6280565/als-je-wordt-afgeperst-door-cybercriminelen-betaal-dan-niet-meteen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wielrennen/6280584/jumbo-visma-heerst-opnieuw-in-vuelta-ritzege-vingegaard-op-dramatische-dag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280595,
-    "slug": "oranje-wint-dankzij-griekspoor-en-dubbelspelers-van-finland-in-davis-cup-finals",
-    "type": "article",
-    "title": "Oranje wint dankzij Griekspoor en dubbelspelers van Finland in Davis Cup Finals",
-    "subtitle": null,
-    "published_at": "2023-09-12T17:31:23+02:00",
-    "updated_at": "2023-09-12T22:14:58+02:00",
-    "media_id": "g0gxf9na0wrp",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6280595/oranje-wint-dankzij-griekspoor-en-dubbelspelers-van-finland-in-davis-cup-finals.html",
     "open_new_window": false,
     "partner": null
   }
