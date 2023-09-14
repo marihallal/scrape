@@ -1,12 +1,58 @@
 [
   {
-    "id": 6280830,
-    "slug": "sauber-handhaaft-coureursduo-zhou-en-bottas-voor-2024",
+    "id": 6280832,
+    "slug": "nederland-is-een-europese-middenmoter-bij-de-productie-van-fietsen",
     "type": "article",
-    "title": "Sauber handhaaft coureursduo Zhou en Bottas voor 2024",
+    "title": "Nederland is een Europese middenmoter bij de productie van fietsen",
+    "subtitle": null,
+    "published_at": "2023-09-14T11:51:06+02:00",
+    "updated_at": "2023-09-14T11:51:08+02:00",
+    "media_id": "xzjxvmra7eyf",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6280832/nederland-is-een-europese-middenmoter-bij-de-productie-van-fietsen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6276876,
+    "slug": "oogkas-bloedt-gruwelijk-echt-in-de-vuurlinie-dit-is-eigenlijk-een-sekspop",
+    "type": "article",
+    "title": "Oogkas bloedt gruwelijk echt in De Vuurlinie: 'Dit is eigenlijk een sekspop'",
+    "subtitle": null,
+    "published_at": "2023-09-14T11:41:02+02:00",
+    "updated_at": "2023-09-14T11:41:03+02:00",
+    "media_id": "enaxd92aglk8",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6276876/oogkas-bloedt-gruwelijk-echt-in-de-vuurlinie-dit-is-eigenlijk-een-sekspop.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6280830,
+    "slug": "sauber-houdt-volgend-formule-1-seizoen-vast-aan-zhou-als-teamgenoot-bottas",
+    "type": "article",
+    "title": "Sauber houdt volgend Formule 1-seizoen vast aan Zhou als teamgenoot Bottas",
     "subtitle": null,
     "published_at": "2023-09-14T11:31:37+02:00",
-    "updated_at": "2023-09-14T11:31:38+02:00",
+    "updated_at": "2023-09-14T11:43:48+02:00",
     "media_id": "ywcxcmqa56bz",
     "duration": null,
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6280830/sauber-handhaaft-coureursduo-zhou-en-bottas-voor-2024.html",
+    "url": "/formule-1/6280830/sauber-houdt-volgend-formule-1-seizoen-vast-aan-zhou-als-teamgenoot-bottas.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/film/6280798/actrice-jessica-chastain-krijgt-golden-icon-award-bij-filmfestival-van-zurich.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280797,
-    "slug": "gp-van-singapore-scherpere-doorbuigregels-verandering-aan-circuit",
-    "type": "article",
-    "title": "GP van Singapore: scherpere doorbuigregels, verandering aan circuit",
-    "subtitle": "NU+",
-    "published_at": "2023-09-14T06:40:58+02:00",
-    "updated_at": "2023-09-14T09:45:41+02:00",
-    "media_id": "3qlxknra5vi4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6280797/gp-van-singapore-scherpere-doorbuigregels-verandering-aan-circuit.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280791,
-    "slug": "hoe-onbereikbaar-is-het-zwaarst-getroffen-gebied-in-marokko",
-    "type": "video",
-    "title": "Hoe (on)bereikbaar is het zwaarst getroffen gebied in Marokko?",
-    "subtitle": "Video",
-    "published_at": "2023-09-14T06:33:02+02:00",
-    "updated_at": "2023-09-14T07:31:14+02:00",
-    "media_id": "yjpxyo6atyb0",
-    "duration": "2:54",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6280791/hoe-onbereikbaar-is-het-zwaarst-getroffen-gebied-in-marokko.html",
     "open_new_window": false,
     "partner": null
   }
