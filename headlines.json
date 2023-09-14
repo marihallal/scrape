@@ -1,5 +1,28 @@
 [
   {
+    "id": 6280795,
+    "slug": "kim-jong-un-nodigt-poetin-uit-voor-bezoek-aan-noord-korea",
+    "type": "article",
+    "title": "Kim Jong-un nodigt Poetin uit voor bezoek aan Noord-Korea",
+    "subtitle": null,
+    "published_at": "2023-09-14T06:31:17+02:00",
+    "updated_at": "2023-09-14T06:31:59+02:00",
+    "media_id": "4gbx8b1aw2ei",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6280795/kim-jong-un-nodigt-poetin-uit-voor-bezoek-aan-noord-korea.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6280793,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6280776/osullivan-vindt-dat-snooker-een-verstappen-nodig-heeft-zon-speler-wil-je-zien.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280775,
-    "slug": "deze-uniformen-zamelde-defensie-in-voor-oekraiense-vrouwen",
-    "type": "video",
-    "title": "Deze uniformen zamelde Defensie in voor Oekraïense vrouwen",
-    "subtitle": "Video",
-    "published_at": "2023-09-13T21:08:44+02:00",
-    "updated_at": "2023-09-13T21:12:11+02:00",
-    "media_id": "cbyxwjiapm09",
-    "duration": "1:57",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6280775/deze-uniformen-zamelde-defensie-in-voor-oekraiense-vrouwen.html",
     "open_new_window": false,
     "partner": null
   }
