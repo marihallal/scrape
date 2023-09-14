@@ -1,13 +1,36 @@
 [
   {
+    "id": 6280876,
+    "slug": "privacytoezichthouder-maakt-zich-zorgen-over-ai-chatbots-voor-kinderen",
+    "type": "article",
+    "title": "Privacytoezichthouder maakt zich zorgen over AI-chatbots voor kinderen",
+    "subtitle": null,
+    "published_at": "2023-09-14T16:46:54+02:00",
+    "updated_at": "2023-09-14T16:46:55+02:00",
+    "media_id": "iw7x1z5a1s36",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6280876/privacytoezichthouder-maakt-zich-zorgen-over-ai-chatbots-voor-kinderen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6280875,
     "slug": "sarina-wiegman-na-wk-zilver-enige-nederlandse-kanshebber-voor-fifa-award",
     "type": "article",
     "title": "Sarina Wiegman na WK-zilver enige Nederlandse kanshebber voor FIFA-award",
     "subtitle": null,
     "published_at": "2023-09-14T16:31:29+02:00",
-    "updated_at": "2023-09-14T16:31:30+02:00",
-    "media_id": "uovx34fae5hz",
+    "updated_at": "2023-09-14T16:43:55+02:00",
+    "media_id": "w2vxva2aq8sy",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -75,7 +98,7 @@
     "title": "Vooruitblik F1: 'Concurrentie zit in Singapore dichter bij Red Bull'",
     "subtitle": "NU+",
     "published_at": "2023-09-14T16:04:03+02:00",
-    "updated_at": "2023-09-14T16:30:59+02:00",
+    "updated_at": "2023-09-14T16:44:01+02:00",
     "media_id": "zszxjlxany93",
     "duration": null,
     "canonical_section": {
@@ -144,7 +167,7 @@
     "title": "Verstappen niet boos om Wikipedia-uitspraak Wolff: 'Lijkt soms of hij bij ons werkt'",
     "subtitle": null,
     "published_at": "2023-09-14T15:23:32+02:00",
-    "updated_at": "2023-09-14T16:01:23+02:00",
+    "updated_at": "2023-09-14T16:42:14+02:00",
     "media_id": "1b5xx6sas86n",
     "duration": null,
     "canonical_section": {
@@ -282,7 +305,7 @@
     "title": "ECB schroeft rente voor tiende keer op naar hoogste niveau ooit",
     "subtitle": null,
     "published_at": "2023-09-14T14:16:40+02:00",
-    "updated_at": "2023-09-14T15:12:45+02:00",
+    "updated_at": "2023-09-14T16:51:14+02:00",
     "media_id": "058xtbiakyvg",
     "duration": null,
     "canonical_section": {
@@ -369,12 +392,12 @@
   },
   {
     "id": 6280846,
-    "slug": "ogen-op-jumbo-visma-in-zware-vuelta-rit-evenepoel-zeker-van-bergtrui",
+    "slug": "ogen-op-jumbo-visma-in-zware-vuelta-rit-evenepoel-solo-vooruit",
     "type": "article",
-    "title": "Ogen op Jumbo-Visma in zware Vuelta-rit, Evenepoel zeker van bergtrui",
+    "title": "Ogen op Jumbo-Visma in zware Vuelta-rit, Evenepoel solo vooruit",
     "subtitle": "Liveblog",
     "published_at": "2023-09-14T12:50:47+02:00",
-    "updated_at": "2023-09-14T16:32:42+02:00",
+    "updated_at": "2023-09-14T16:50:59+02:00",
     "media_id": "184xeljaimep",
     "duration": null,
     "canonical_section": {
@@ -386,7 +409,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/wielrennen/6280846/ogen-op-jumbo-visma-in-zware-vuelta-rit-evenepoel-zeker-van-bergtrui.html",
+    "url": "/wielrennen/6280846/ogen-op-jumbo-visma-in-zware-vuelta-rit-evenepoel-solo-vooruit.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/muziek/6280841/nsync-brengt-voor-het-eerst-in-twintig-jaar-nieuw-nummer-uit.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280843,
-    "slug": "ravage-op-spoor-doordat-trein-tegen-aanhanger-met-dakpannen-botst",
-    "type": "video",
-    "title": "Ravage op spoor doordat trein tegen aanhanger met dakpannen botst",
-    "subtitle": "Video",
-    "published_at": "2023-09-14T12:24:15+02:00",
-    "updated_at": "2023-09-14T12:46:46+02:00",
-    "media_id": "xbdxgzta9bkh",
-    "duration": "0:50",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6280843/ravage-op-spoor-doordat-trein-tegen-aanhanger-met-dakpannen-botst.html",
     "open_new_window": false,
     "partner": null
   }
