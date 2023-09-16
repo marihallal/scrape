@@ -1,12 +1,35 @@
 [
   {
+    "id": 6281214,
+    "slug": "rkc-boekt-in-airborne-wedstrijd-tegen-vitesse-eerste-overwinning-van-seizoen",
+    "type": "article",
+    "title": "RKC boekt in Airborne-wedstrijd tegen Vitesse eerste overwinning van seizoen",
+    "subtitle": null,
+    "published_at": "2023-09-16T20:50:34+02:00",
+    "updated_at": "2023-09-16T20:50:51+02:00",
+    "media_id": "egmx4emayimi",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6281214/rkc-boekt-in-airborne-wedstrijd-tegen-vitesse-eerste-overwinning-van-seizoen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6281209,
     "slug": "slot-twijfelt-nog-over-spitspositie-tegen-celtic-er-zijn-opties-bijgekomen",
     "type": "article",
     "title": "Slot twijfelt nog over spitspositie tegen Celtic: 'Er zijn opties bijgekomen'",
     "subtitle": null,
     "published_at": "2023-09-16T20:20:32+02:00",
-    "updated_at": "2023-09-16T20:20:33+02:00",
+    "updated_at": "2023-09-16T20:48:49+02:00",
     "media_id": "havxqkya5ghu",
     "duration": null,
     "canonical_section": {
@@ -213,7 +236,7 @@
     "title": "Dumfries en De Vrij boeken met Internazionale grote zege in derby van Milaan",
     "subtitle": null,
     "published_at": "2023-09-16T18:21:58+02:00",
-    "updated_at": "2023-09-16T20:19:06+02:00",
+    "updated_at": "2023-09-16T20:46:46+02:00",
     "media_id": "h7vxk84a3axc",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6281185/duitse-rechtbanken-vrezen-fors-personeelstekort-door-pensioengolf.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6281184,
-    "slug": "regisseur-en-baantjer-actrice-wimie-wilhelm-62-overleden",
-    "type": "article",
-    "title": "Regisseur en Baantjer-actrice Wimie Wilhelm (62) overleden",
-    "subtitle": null,
-    "published_at": "2023-09-16T16:17:26+02:00",
-    "updated_at": "2023-09-16T20:24:56+02:00",
-    "media_id": "b1rxbl8a8ehr",
-    "duration": null,
-    "canonical_section": {
-      "id": 127,
-      "slug": "film",
-      "type": "default",
-      "name": "Films & Series",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/film/6281184/regisseur-en-baantjer-actrice-wimie-wilhelm-62-overleden.html",
     "open_new_window": false,
     "partner": null
   }
