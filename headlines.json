@@ -1,12 +1,81 @@
 [
   {
+    "id": 6281221,
+    "slug": "geblesseerd-uitgevallen-uitblinker-lang-onzeker-voor-arsenal-kijken-wel-even",
+    "type": "article",
+    "title": "Geblesseerd uitgevallen uitblinker Lang onzeker voor Arsenal: 'Kijken wel even'",
+    "subtitle": null,
+    "published_at": "2023-09-16T23:10:49+02:00",
+    "updated_at": "2023-09-16T23:10:50+02:00",
+    "media_id": "u35xiauaffbv",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6281221/geblesseerd-uitgevallen-uitblinker-lang-onzeker-voor-arsenal-kijken-wel-even.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6281222,
+    "slug": "jans-leidt-fc-utrecht-bij-debuut-tegen-heracles-naar-eerst-zege-in-eredivisie",
+    "type": "article",
+    "title": "Jans leidt FC Utrecht bij debuut tegen Heracles naar eerst zege in Eredivisie",
+    "subtitle": null,
+    "published_at": "2023-09-16T23:07:13+02:00",
+    "updated_at": "2023-09-16T23:12:08+02:00",
+    "media_id": "g0wxl38akuvf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6281222/jans-leidt-fc-utrecht-bij-debuut-tegen-heracles-naar-eerst-zege-in-eredivisie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6281212,
+    "slug": "libie-zoekt-schuldigen-dambreuken-honderden-lichamen-spoelen-aan",
+    "type": "article",
+    "title": "Libië zoekt schuldigen dambreuken, honderden lichamen spoelen aan",
+    "subtitle": null,
+    "published_at": "2023-09-16T23:01:45+02:00",
+    "updated_at": "2023-09-16T23:01:46+02:00",
+    "media_id": "40zxwyaaqfov",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6281212/libie-zoekt-schuldigen-dambreuken-honderden-lichamen-spoelen-aan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6281220,
     "slug": "opstand-in-vrouwengevangenis-teheran-neergeslagen-na-brandstichting",
     "type": "article",
     "title": "Opstand in vrouwengevangenis Teheran neergeslagen na brandstichting",
     "subtitle": null,
     "published_at": "2023-09-16T22:48:14+02:00",
-    "updated_at": "2023-09-16T22:50:10+02:00",
+    "updated_at": "2023-09-16T22:54:35+02:00",
     "media_id": "lwgx8yaamomm",
     "duration": null,
     "canonical_section": {
@@ -29,7 +98,7 @@
     "title": "Meisje komt om door vliegtuigcrash Italië, broertje zwaargewond",
     "subtitle": null,
     "published_at": "2023-09-16T22:41:30+02:00",
-    "updated_at": "2023-09-16T22:50:04+02:00",
+    "updated_at": "2023-09-16T22:53:33+02:00",
     "media_id": "m1nxh89aq6hv",
     "duration": null,
     "canonical_section": {
@@ -52,7 +121,7 @@
     "title": "De Jong passeert Nilis op probleemloze avond voor Eredivisie-koploper PSV",
     "subtitle": null,
     "published_at": "2023-09-16T22:06:26+02:00",
-    "updated_at": "2023-09-16T22:45:29+02:00",
+    "updated_at": "2023-09-16T23:10:04+02:00",
     "media_id": "57ox4b1azu6u",
     "duration": null,
     "canonical_section": {
@@ -144,7 +213,7 @@
     "title": "RKC verslaat Vitesse in Airborne-duel, Fortuna herpakt zich tegen Volendam",
     "subtitle": null,
     "published_at": "2023-09-16T20:50:34+02:00",
-    "updated_at": "2023-09-16T22:06:50+02:00",
+    "updated_at": "2023-09-16T23:11:17+02:00",
     "media_id": "e26xqueagec6",
     "duration": null,
     "canonical_section": {
@@ -167,7 +236,7 @@
     "title": "Slot twijfelt nog over spitspositie tegen Celtic: 'Er zijn opties bijgekomen'",
     "subtitle": null,
     "published_at": "2023-09-16T20:20:32+02:00",
-    "updated_at": "2023-09-16T21:14:43+02:00",
+    "updated_at": "2023-09-16T23:10:40+02:00",
     "media_id": "qo1x6yjae0j7",
     "duration": null,
     "canonical_section": {
@@ -328,7 +397,7 @@
     "title": "Feyenoord scoort zes keer tegen Heerenveen en lijkt klaar voor start CL",
     "subtitle": null,
     "published_at": "2023-09-16T18:26:40+02:00",
-    "updated_at": "2023-09-16T22:06:12+02:00",
+    "updated_at": "2023-09-16T23:10:21+02:00",
     "media_id": "fzqxlskaxx88",
     "duration": null,
     "canonical_section": {
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6281200/dumfries-en-de-vrij-boeken-met-internazionale-grote-zege-in-derby-van-milaan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6281198,
-    "slug": "horner-snapt-niets-van-totale-offday-red-bull-het-is-nog-steeds-dezelfde-auto",
-    "type": "article",
-    "title": "Horner snapt niets van totale offday Red Bull: 'Het is nog steeds dezelfde auto'",
-    "subtitle": null,
-    "published_at": "2023-09-16T18:20:27+02:00",
-    "updated_at": "2023-09-16T19:30:31+02:00",
-    "media_id": "2h8x722atupw",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "GP Singapore",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6281198/horner-snapt-niets-van-totale-offday-red-bull-het-is-nog-steeds-dezelfde-auto.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6281196,
-    "slug": "fc-twente-vrouwen-begint-met-zeven-goals-tegen-telstar-aan-eredivisie-seizoen",
-    "type": "article",
-    "title": "FC Twente Vrouwen begint met zeven goals tegen Telstar aan Eredivisie-seizoen",
-    "subtitle": null,
-    "published_at": "2023-09-16T18:17:56+02:00",
-    "updated_at": "2023-09-16T18:43:12+02:00",
-    "media_id": "3jhxmdxazl4r",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6281196/fc-twente-vrouwen-begint-met-zeven-goals-tegen-telstar-aan-eredivisie-seizoen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6281195,
-    "slug": "poels-verrast-zichzelf-met-etappezege-in-vuelta-ik-ben-net-een-fles-wijn",
-    "type": "article",
-    "title": "Poels verrast zichzelf met etappezege in Vuelta: 'Ik ben net een fles wijn'",
-    "subtitle": null,
-    "published_at": "2023-09-16T18:00:08+02:00",
-    "updated_at": "2023-09-16T19:33:43+02:00",
-    "media_id": "k5px4fza2y5f",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6281195/poels-verrast-zichzelf-met-etappezege-in-vuelta-ik-ben-net-een-fles-wijn.html",
     "open_new_window": false,
     "partner": null
   }
