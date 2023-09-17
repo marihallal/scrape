@@ -1,5 +1,28 @@
 [
   {
+    "id": 6281304,
+    "slug": "sepp-kuss-stelt-eindzege-in-vuelta-veilig-en-voltooit-trilogie-jumbo-visma",
+    "type": "article",
+    "title": "Sepp Kuss stelt eindzege in Vuelta veilig en voltooit trilogie Jumbo-Visma",
+    "subtitle": null,
+    "published_at": "2023-09-17T19:52:05+02:00",
+    "updated_at": "2023-09-17T19:52:09+02:00",
+    "media_id": "sanx5ota9ykd",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6281304/sepp-kuss-stelt-eindzege-in-vuelta-veilig-en-voltooit-trilogie-jumbo-visma.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6281303,
     "slug": "klimaatactivisten-spuiten-verf-op-brandenburger-tor",
     "type": "video",
@@ -328,7 +351,7 @@
     "title": "Arsenal wint laatste test voor ontmoeting met PSV, Chelsea blijft stuntelen",
     "subtitle": null,
     "published_at": "2023-09-17T17:03:04+02:00",
-    "updated_at": "2023-09-17T19:29:37+02:00",
+    "updated_at": "2023-09-17T19:33:27+02:00",
     "media_id": "j8uxcinalsa1",
     "duration": null,
     "canonical_section": {
@@ -397,7 +420,7 @@
     "title": "Kopgroep met Evenepoel wil massasprint voorkomen in slotrit Vuelta",
     "subtitle": "Liveblog",
     "published_at": "2023-09-17T16:33:07+02:00",
-    "updated_at": "2023-09-17T19:27:44+02:00",
+    "updated_at": "2023-09-17T19:39:40+02:00",
     "media_id": "0ftxsjyabfcj",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6281281/twintigjarige-nederlander-omgekomen-bij-vechtpartij-in-antwerpse-nachtclub.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6281270,
-    "slug": "ajax-en-steijn-dieper-in-de-problemen-na-pijnlijke-nederlaag-bij-fc-twente",
-    "type": "article",
-    "title": "Ajax en Steijn dieper in de problemen na pijnlijke nederlaag bij FC Twente",
-    "subtitle": null,
-    "published_at": "2023-09-17T16:27:16+02:00",
-    "updated_at": "2023-09-17T18:12:42+02:00",
-    "media_id": "jk5xkjla4aci",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6281270/ajax-en-steijn-dieper-in-de-problemen-na-pijnlijke-nederlaag-bij-fc-twente.html",
     "open_new_window": false,
     "partner": null
   }
