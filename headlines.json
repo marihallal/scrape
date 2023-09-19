@@ -1,12 +1,35 @@
 [
   {
+    "id": 6281494,
+    "slug": "ook-op-prinsjesdag-code-geel-in-kustgebieden-om-harde-wind",
+    "type": "article",
+    "title": "Ook op Prinsjesdag code geel in kustgebieden om harde wind",
+    "subtitle": null,
+    "published_at": "2023-09-19T09:39:16+02:00",
+    "updated_at": "2023-09-19T09:39:17+02:00",
+    "media_id": "k54x1cqatoog",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6281494/ook-op-prinsjesdag-code-geel-in-kustgebieden-om-harde-wind.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6281493,
     "slug": "youtube-betaalt-russell-brand-niet-meer-na-beschuldigingen-seksueel-wangedrag",
     "type": "article",
     "title": "YouTube betaalt Russell Brand niet meer na beschuldigingen seksueel wangedrag",
     "subtitle": null,
     "published_at": "2023-09-19T09:28:58+02:00",
-    "updated_at": "2023-09-19T09:28:59+02:00",
+    "updated_at": "2023-09-19T09:31:18+02:00",
     "media_id": "vpbxm70ahopv",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Hermoso walgt van handelwijze Spaanse voetbalbond: 'Ze willen ons intimideren'",
     "subtitle": null,
     "published_at": "2023-09-19T08:41:06+02:00",
-    "updated_at": "2023-09-19T09:02:33+02:00",
+    "updated_at": "2023-09-19T09:35:15+02:00",
     "media_id": "1qixj62a7vwd",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6281465/brugts-leeft-droom-bij-fc-barcelona-maar-moet-ook-wennen-versta-niks.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6281426,
-    "slug": "bestaanszekerheid-steeds-verder-onder-druk-werk-hebben-is-niet-genoeg",
-    "type": "article",
-    "title": "Bestaanszekerheid steeds verder onder druk: werk hebben is niet genoeg",
-    "subtitle": "NU+",
-    "published_at": "2023-09-19T05:07:07+02:00",
-    "updated_at": "2023-09-19T06:57:22+02:00",
-    "media_id": "p2exa20a1pkr",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6281426/bestaanszekerheid-steeds-verder-onder-druk-werk-hebben-is-niet-genoeg.html",
     "open_new_window": false,
     "partner": null
   }
