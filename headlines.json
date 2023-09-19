@@ -1,12 +1,35 @@
 [
   {
+    "id": 6281628,
+    "slug": "amsterdam-helpt-met-extra-opvangplekken-omdat-het-te-druk-is-in-ter-apel",
+    "type": "article",
+    "title": "Amsterdam helpt met extra opvangplekken omdat het te druk is in Ter Apel",
+    "subtitle": null,
+    "published_at": "2023-09-19T22:51:58+02:00",
+    "updated_at": "2023-09-19T22:51:59+02:00",
+    "media_id": "0lpxhh4aq8xm",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6281628/amsterdam-helpt-met-extra-opvangplekken-omdat-het-te-druk-is-in-ter-apel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6281632,
     "slug": "azerbeidzjan-deelt-beelden-van-aanval-op-enclave",
     "type": "video",
     "title": "Azerbeidzjan deelt beelden van aanval op enclave",
     "subtitle": "Video",
     "published_at": "2023-09-19T22:30:57+02:00",
-    "updated_at": "2023-09-19T22:30:58+02:00",
+    "updated_at": "2023-09-19T22:39:46+02:00",
     "media_id": "yrhx6adar9az",
     "duration": "0:46",
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Ten Hag staat voor zware klus tegen Bayern: 'Mogen geen seconde verslappen'",
     "subtitle": null,
     "published_at": "2023-09-19T22:19:59+02:00",
-    "updated_at": "2023-09-19T22:20:04+02:00",
+    "updated_at": "2023-09-19T22:33:04+02:00",
     "media_id": "ngnxv0yagxou",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/algemeen/6281591/canada-beschuldigt-india-van-moord-op-canadese-staatsburger-zo-zit-het.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6281604,
-    "slug": "rotterdammer-die-al-filmend-fataal-ongeluk-veroorzaakte-hoort-acht-jaar-cel-eisen",
-    "type": "article",
-    "title": "Rotterdammer die al filmend fataal ongeluk veroorzaakte hoort acht jaar cel eisen",
-    "subtitle": null,
-    "published_at": "2023-09-19T18:43:28+02:00",
-    "updated_at": "2023-09-19T19:32:29+02:00",
-    "media_id": "rkax80zaw5kp",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6281604/rotterdammer-die-al-filmend-fataal-ongeluk-veroorzaakte-hoort-acht-jaar-cel-eisen.html",
     "open_new_window": false,
     "partner": null
   }
