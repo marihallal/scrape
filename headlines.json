@@ -1,5 +1,28 @@
 [
   {
+    "id": 6282414,
+    "slug": "weerbericht-bewolking-overheerst-maar-hier-en-daar-een-zonnestraal",
+    "type": "article",
+    "title": "Weerbericht: Bewolking overheerst maar hier en daar een zonnestraal",
+    "subtitle": null,
+    "published_at": "2023-09-25T05:51:09+02:00",
+    "updated_at": "2023-09-25T05:51:10+02:00",
+    "media_id": "4wbx5t1ace7p",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6282414/weerbericht-bewolking-overheerst-maar-hier-en-daar-een-zonnestraal.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6282413,
     "slug": "voorlopig-akkoord-tussen-scriptschrijvers-en-hollywoodstudios",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6282387/capsule-met-gruis-van-planetoide-landt-op-aarde.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6282386,
-    "slug": "monic-hendrickx-speelt-grote-rol-in-nieuwe-dramaserie-boek-peter-r-de-vries",
-    "type": "article",
-    "title": "Monic Hendrickx speelt grote rol in nieuwe dramaserie boek Peter R. de Vries",
-    "subtitle": null,
-    "published_at": "2023-09-24T19:37:23+02:00",
-    "updated_at": "2023-09-24T19:44:34+02:00",
-    "media_id": "r5mxl6aab1xu",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6282386/monic-hendrickx-speelt-grote-rol-in-nieuwe-dramaserie-boek-peter-r-de-vries.html",
     "open_new_window": false,
     "partner": null
   }
