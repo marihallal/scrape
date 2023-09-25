@@ -1,5 +1,51 @@
 [
   {
+    "id": 6282491,
+    "slug": "begin-oktober-rijden-minder-treinen-via-schiphol-door-werkzaamheden",
+    "type": "article",
+    "title": "Begin oktober rijden minder treinen via Schiphol door werkzaamheden",
+    "subtitle": null,
+    "published_at": "2023-09-25T13:49:52+02:00",
+    "updated_at": "2023-09-25T13:49:53+02:00",
+    "media_id": "i5hx70mahupl",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6282491/begin-oktober-rijden-minder-treinen-via-schiphol-door-werkzaamheden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6282488,
+    "slug": "lego-wil-schonere-steentjes-maar-plastic-flessen-bieden-niet-de-oplossing",
+    "type": "article",
+    "title": "LEGO wil schonere steentjes maar plastic flessen bieden niet de oplossing",
+    "subtitle": null,
+    "published_at": "2023-09-25T13:42:52+02:00",
+    "updated_at": "2023-09-25T13:43:49+02:00",
+    "media_id": "tijxzwra9bj2",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6282488/lego-wil-schonere-steentjes-maar-plastic-flessen-bieden-niet-de-oplossing.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6282478,
     "slug": "terugblik-gp-japan-plek-perez-niet-onder-druk-zolang-hij-tweede-staat",
     "type": "article",
@@ -75,7 +121,7 @@
     "title": "Deel Londense agenten levert wapen in wegens rechtszaak, Brits leger springt bij",
     "subtitle": null,
     "published_at": "2023-09-25T13:12:24+02:00",
-    "updated_at": "2023-09-25T13:12:25+02:00",
+    "updated_at": "2023-09-25T13:40:03+02:00",
     "media_id": "z41x534a4049",
     "duration": null,
     "canonical_section": {
@@ -236,7 +282,7 @@
     "title": "Booking mag Zweeds reisbureau niet overnemen",
     "subtitle": null,
     "published_at": "2023-09-25T11:58:40+02:00",
-    "updated_at": "2023-09-25T11:58:41+02:00",
+    "updated_at": "2023-09-25T13:39:05+02:00",
     "media_id": "zguxgria3c6w",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/dieren/6282443/irma-de-oudste-olifant-van-nederland-op-53-jarige-leeftijd-overleden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6282432,
-    "slug": "consumentenbond-stapt-naar-de-rechter-om-oneerlijke-hotelvouchers-fletcher",
-    "type": "article",
-    "title": "Consumentenbond stapt naar de rechter om 'oneerlijke' hotelvouchers Fletcher",
-    "subtitle": null,
-    "published_at": "2023-09-25T09:59:48+02:00",
-    "updated_at": "2023-09-25T09:59:49+02:00",
-    "media_id": "w9fxmbaa54g0",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6282432/consumentenbond-stapt-naar-de-rechter-om-oneerlijke-hotelvouchers-fletcher.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6282439,
-    "slug": "ns-wil-kaartjes-in-de-spits-250-euro-duurder-maken-op-drukke-trajecten",
-    "type": "article",
-    "title": "NS wil kaartjes in de spits 2,50 euro duurder maken op drukke trajecten",
-    "subtitle": null,
-    "published_at": "2023-09-25T09:53:56+02:00",
-    "updated_at": "2023-09-25T11:37:07+02:00",
-    "media_id": "8ebx040aut3p",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6282439/ns-wil-kaartjes-in-de-spits-250-euro-duurder-maken-op-drukke-trajecten.html",
     "open_new_window": false,
     "partner": null
   }
