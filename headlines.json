@@ -1,5 +1,28 @@
 [
   {
+    "id": 6282561,
+    "slug": "voormalig-eredivisie-spits-marcus-berg-37-zet-punt-achter-loopbaan",
+    "type": "article",
+    "title": "Voormalig Eredivisie-spits Marcus Berg (37) zet punt achter loopbaan",
+    "subtitle": null,
+    "published_at": "2023-09-25T20:49:40+02:00",
+    "updated_at": "2023-09-25T20:49:41+02:00",
+    "media_id": "7chxsf1a025c",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6282561/voormalig-eredivisie-spits-marcus-berg-37-zet-punt-achter-loopbaan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6282558,
     "slug": "air-france-klm-bestelt-vijftig-schonere-vliegtuigen-bij-airbus",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/media/6282507/college-vindt-dat-staatssecretaris-niet-meer-mag-oordelen-over-omroepen-bij-npo.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6282519,
-    "slug": "klassieker-wordt-woensdagmiddag-uitgespeeld-ajax-overweegt-rechtszaak",
-    "type": "article",
-    "title": "Klassieker wordt woensdagmiddag uitgespeeld, Ajax overweegt rechtszaak",
-    "subtitle": null,
-    "published_at": "2023-09-25T15:49:29+02:00",
-    "updated_at": "2023-09-25T19:36:07+02:00",
-    "media_id": "wzcxvd2aymb6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6282519/klassieker-wordt-woensdagmiddag-uitgespeeld-ajax-overweegt-rechtszaak.html",
     "open_new_window": false,
     "partner": null
   }
