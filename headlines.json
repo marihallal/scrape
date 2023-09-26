@@ -1,12 +1,35 @@
 [
   {
-    "id": 6282581,
-    "slug": "ncis-acteur-david-mccallum-overleden-op-90-jarige-leeftijd",
+    "id": 6282583,
+    "slug": "quick-step-ontkent-concrete-fusieplannen-met-jumbo-visma-in-uitgelekte-mail",
     "type": "article",
-    "title": "NCIS-acteur David McCallum overleden op 90-jarige leeftijd",
+    "title": "Quick-Step ontkent concrete fusieplannen met Jumbo-Visma in uitgelekte mail",
+    "subtitle": null,
+    "published_at": "2023-09-26T07:50:58+02:00",
+    "updated_at": "2023-09-26T07:50:59+02:00",
+    "media_id": "rwbx63jaexor",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6282583/quick-step-ontkent-concrete-fusieplannen-met-jumbo-visma-in-uitgelekte-mail.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6282581,
+    "slug": "ncis-acteur-david-mccallum-op-negentigjarige-leeftijd-overleden",
+    "type": "article",
+    "title": "NCIS-acteur David McCallum op negentigjarige leeftijd overleden",
     "subtitle": null,
     "published_at": "2023-09-26T07:14:08+02:00",
-    "updated_at": "2023-09-26T07:29:51+02:00",
+    "updated_at": "2023-09-26T07:35:03+02:00",
     "media_id": "dkfxkimady31",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/film/6282581/ncis-acteur-david-mccallum-overleden-op-90-jarige-leeftijd.html",
+    "url": "/film/6282581/ncis-acteur-david-mccallum-op-negentigjarige-leeftijd-overleden.html",
     "open_new_window": false,
     "partner": null
   },
@@ -236,7 +259,7 @@
     "title": "Apple-topman Tim Cook bezoekt Eindhovense chipmaker: 'Zij zijn heel belangrijk'",
     "subtitle": null,
     "published_at": "2023-09-26T05:03:04+02:00",
-    "updated_at": "2023-09-26T05:03:05+02:00",
+    "updated_at": "2023-09-26T07:31:40+02:00",
     "media_id": "xg2xgz4ad328",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6282566/jong-ajax-geeft-tegen-fc-eindhoven-in-blessuretijd-eerste-zege-uit-handen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6282565,
-    "slug": "liefhebbers-van-beroemde-oude-fietsen-gaan-strijd-met-elkaar-aan",
-    "type": "video",
-    "title": "Liefhebbers van beroemde oude fietsen gaan strijd met elkaar aan",
-    "subtitle": "Video",
-    "published_at": "2023-09-25T21:48:21+02:00",
-    "updated_at": "2023-09-25T21:48:22+02:00",
-    "media_id": "oznxuz1au4r4",
-    "duration": "0:47",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6282565/liefhebbers-van-beroemde-oude-fietsen-gaan-strijd-met-elkaar-aan.html",
     "open_new_window": false,
     "partner": null
   }
