@@ -1,5 +1,28 @@
 [
   {
+    "id": 6282791,
+    "slug": "strafzaak-over-gifmoord-ten-einde-na-overlijden-verdachte-yvon-k",
+    "type": "article",
+    "title": "Strafzaak over gifmoord ten einde na overlijden verdachte Yvon K.",
+    "subtitle": null,
+    "published_at": "2023-09-27T12:37:59+02:00",
+    "updated_at": "2023-09-27T12:46:37+02:00",
+    "media_id": "5h0xz08a1t2j",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6282791/strafzaak-over-gifmoord-ten-einde-na-overlijden-verdachte-yvon-k.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6282793,
     "slug": "rosanne-hertzberger-stopt-als-columnist-voor-nrc-vanwege-politieke-ambities",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Politie schaalt op rond ArenA uit vrees voor nieuwe rellen bij restant Klassieker",
     "subtitle": null,
     "published_at": "2023-09-27T12:11:02+02:00",
-    "updated_at": "2023-09-27T12:27:29+02:00",
+    "updated_at": "2023-09-27T12:51:02+02:00",
     "media_id": "kyqx99da7wua",
     "duration": null,
     "canonical_section": {
@@ -121,7 +144,7 @@
     "title": "Mediabedrijven zijn tevreden over afspraken voor veilige werkomgeving",
     "subtitle": null,
     "published_at": "2023-09-27T11:46:40+02:00",
-    "updated_at": "2023-09-27T12:18:13+02:00",
+    "updated_at": "2023-09-27T12:47:17+02:00",
     "media_id": "makxs1kamsn1",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6282755/voormalig-feyenoord-middenvelder-shinji-ono-stopt-op-44-jarige-leeftijd.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6282753,
-    "slug": "duitsland-verbiedt-extreemrechtse-organisatie-en-doet-invallen-bij-leden",
-    "type": "article",
-    "title": "Duitsland verbiedt extreemrechtse organisatie en doet invallen bij leden",
-    "subtitle": null,
-    "published_at": "2023-09-27T09:28:23+02:00",
-    "updated_at": "2023-09-27T09:37:52+02:00",
-    "media_id": "3taxqscaulpu",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6282753/duitsland-verbiedt-extreemrechtse-organisatie-en-doet-invallen-bij-leden.html",
     "open_new_window": false,
     "partner": null
   }
