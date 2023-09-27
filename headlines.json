@@ -1,5 +1,74 @@
 [
   {
+    "id": 6282832,
+    "slug": "gimenez-draagt-historische-hattrick-op-aan-god-en-familie-dit-betekent-veel",
+    "type": "article",
+    "title": "Giménez draagt historische hattrick op aan God en familie: 'Dit betekent veel'",
+    "subtitle": null,
+    "published_at": "2023-09-27T16:31:43+02:00",
+    "updated_at": "2023-09-27T16:31:44+02:00",
+    "media_id": "3dzxufmagdym",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6282832/gimenez-draagt-historische-hattrick-op-aan-god-en-familie-dit-betekent-veel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6282834,
+    "slug": "paul-van-loon-ontvangt-gouden-boek-voor-jeugdroman-raveleijn",
+    "type": "article",
+    "title": "Paul van Loon ontvangt Gouden Boek voor jeugdroman Raveleijn",
+    "subtitle": null,
+    "published_at": "2023-09-27T16:30:19+02:00",
+    "updated_at": "2023-09-27T16:30:21+02:00",
+    "media_id": "yfnxf4uaa52v",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772075,
+      "slug": "cultuur-overig",
+      "type": "default",
+      "name": "Boek & Cultuur",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/cultuur-overig/6282834/paul-van-loon-ontvangt-gouden-boek-voor-jeugdroman-raveleijn.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6282845,
+    "slug": "tieners-plunderen-amerikaanse-winkels-en-stelen-iphones",
+    "type": "video",
+    "title": "Tieners plunderen Amerikaanse winkels en stelen iPhones",
+    "subtitle": "Video",
+    "published_at": "2023-09-27T16:28:57+02:00",
+    "updated_at": "2023-09-27T16:28:57+02:00",
+    "media_id": "zgaxapcah4af",
+    "duration": "0:36",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6282845/tieners-plunderen-amerikaanse-winkels-en-stelen-iphones.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6282837,
     "slug": "vacansoleil-belt-vakantiegangers-op-de-camping-over-uitstel-van-betaling",
     "type": "article",
@@ -52,7 +121,7 @@
     "title": "Ajax-trainer Steijn schaamt zich na afgang tegen Feyenoord: 'Blij dat dit afgesloten is'",
     "subtitle": null,
     "published_at": "2023-09-27T15:57:09+02:00",
-    "updated_at": "2023-09-27T16:17:45+02:00",
+    "updated_at": "2023-09-27T16:26:13+02:00",
     "media_id": "9rpx2aqaf1qn",
     "duration": null,
     "canonical_section": {
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/muziek/6282804/the-1975-last-om-onbekende-reden-pauze-in-voor-onbepaalde-tijd.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6282806,
-    "slug": "jumbo-mag-vier-limburgse-supermarkten-overnemen",
-    "type": "article",
-    "title": "Jumbo mag vier Limburgse supermarkten overnemen",
-    "subtitle": null,
-    "published_at": "2023-09-27T13:26:07+02:00",
-    "updated_at": "2023-09-27T13:45:39+02:00",
-    "media_id": "40mxd44avr3z",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6282806/jumbo-mag-vier-limburgse-supermarkten-overnemen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6282807,
-    "slug": "crisis-bij-ajax-eist-volgend-slachtoffer-rvc-voorzitter-eringa-treedt-terug",
-    "type": "article",
-    "title": "Crisis bij Ajax eist volgend slachtoffer: rvc-voorzitter Eringa treedt terug",
-    "subtitle": null,
-    "published_at": "2023-09-27T13:21:53+02:00",
-    "updated_at": "2023-09-27T15:07:35+02:00",
-    "media_id": "9z1x1v9a7awl",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6282807/crisis-bij-ajax-eist-volgend-slachtoffer-rvc-voorzitter-eringa-treedt-terug.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6282805,
-    "slug": "amerikaanse-militair-travis-king-in-gevangenis-na-uitzetting-door-noord-korea",
-    "type": "article",
-    "title": "Amerikaanse militair Travis King in gevangenis na uitzetting door Noord-Korea",
-    "subtitle": null,
-    "published_at": "2023-09-27T13:21:13+02:00",
-    "updated_at": "2023-09-27T16:18:36+02:00",
-    "media_id": "jjbxr3sa1znn",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6282805/amerikaanse-militair-travis-king-in-gevangenis-na-uitzetting-door-noord-korea.html",
     "open_new_window": false,
     "partner": null
   }
