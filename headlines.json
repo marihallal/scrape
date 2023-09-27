@@ -1,5 +1,28 @@
 [
   {
+    "id": 6282740,
+    "slug": "van-der-schot-wint-inktspotprijs-voor-beste-politieke-tekening",
+    "type": "article",
+    "title": "Van der Schot wint Inktspotprijs voor beste politieke tekening",
+    "subtitle": null,
+    "published_at": "2023-09-27T06:37:48+02:00",
+    "updated_at": "2023-09-27T06:37:49+02:00",
+    "media_id": "busx56qahqon",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772075,
+      "slug": "cultuur-overig",
+      "type": "default",
+      "name": "Boek & Cultuur",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/cultuur-overig/6282740/van-der-schot-wint-inktspotprijs-voor-beste-politieke-tekening.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6282682,
     "slug": "door-deze-tactiek-lukt-het-oekraine-om-de-krim-nu-harder-te-raken",
     "type": "video",
@@ -24,12 +47,12 @@
   },
   {
     "id": 6282739,
-    "slug": "nazomer-bijna-zomers-vandaag-later-deze-week-wisselvalligheid",
+    "slug": "bijna-zomers-vandaag-later-deze-week-wisselvallig-weer",
     "type": "article",
-    "title": "Nazomer bijna zomers vandaag, later deze week wisselvalligheid",
+    "title": "Bijna zomers vandaag, later deze week wisselvallig weer",
     "subtitle": "Weerbericht",
     "published_at": "2023-09-27T06:03:44+02:00",
-    "updated_at": "2023-09-27T06:31:09+02:00",
+    "updated_at": "2023-09-27T06:50:51+02:00",
     "media_id": "e2hxoclalhd7",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/weerbericht/6282739/nazomer-bijna-zomers-vandaag-later-deze-week-wisselvalligheid.html",
+    "url": "/weerbericht/6282739/bijna-zomers-vandaag-later-deze-week-wisselvallig-weer.html",
     "open_new_window": false,
     "partner": null
   },
@@ -121,7 +144,7 @@
     "title": "Oud-Ajacieden over crisis: 'Guardiola maakt hier ook geen winnend team van'",
     "subtitle": "NU+",
     "published_at": "2023-09-27T05:06:38+02:00",
-    "updated_at": "2023-09-27T05:06:39+02:00",
+    "updated_at": "2023-09-27T06:46:46+02:00",
     "media_id": "mrxxhzaa0jvr",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/spanningen-oekraine/6282714/in-polen-neergestorte-raket-kwam-volgens-onderzoekers-uit-oekraine.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6282727,
-    "slug": "voorzitter-canadees-lagerhuis-stapt-op-na-uitnodigen-held-die-sser-blijkt",
-    "type": "article",
-    "title": "Voorzitter Canadees Lagerhuis stapt op na uitnodigen 'held' die SS'er blijkt",
-    "subtitle": null,
-    "published_at": "2023-09-26T21:11:23+02:00",
-    "updated_at": "2023-09-26T21:44:10+02:00",
-    "media_id": "tbcx57havbo3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6282727/voorzitter-canadees-lagerhuis-stapt-op-na-uitnodigen-held-die-sser-blijkt.html",
     "open_new_window": false,
     "partner": null
   }
