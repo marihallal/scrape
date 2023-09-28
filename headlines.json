@@ -1,13 +1,36 @@
 [
   {
-    "id": 6283005,
-    "slug": "grote-politiemacht-in-rotterdam-slachtoffer-zou-docent-zijn",
+    "id": 6283006,
+    "slug": "politie-houdt-verdachte-aan-na-schietpartijen-in-erasmus-mc-en-rotterdamse-woning",
     "type": "article",
-    "title": "Grote politiemacht in Rotterdam, slachtoffer zou docent zijn",
+    "title": "Politie houdt verdachte aan na schietpartijen in Erasmus MC en Rotterdamse woning",
+    "subtitle": null,
+    "published_at": "2023-09-28T16:23:25+02:00",
+    "updated_at": "2023-09-28T16:30:17+02:00",
+    "media_id": "68kxzaea7wg6",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6283006/politie-houdt-verdachte-aan-na-schietpartijen-in-erasmus-mc-en-rotterdamse-woning.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6283005,
+    "slug": "brand-gesticht-in-erasmus-mc-na-schietincidenten",
+    "type": "article",
+    "title": "Brand gesticht in Erasmus MC na schietincidenten",
     "subtitle": "Liveblog",
     "published_at": "2023-09-28T16:14:27+02:00",
-    "updated_at": "2023-09-28T16:19:58+02:00",
-    "media_id": "7lgxa5da3ohu",
+    "updated_at": "2023-09-28T16:30:38+02:00",
+    "media_id": "bzsxumea0q4t",
     "duration": null,
     "canonical_section": {
       "id": 1779258,
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland-en-buitenland/6283005/grote-politiemacht-in-rotterdam-slachtoffer-zou-docent-zijn.html",
+    "url": "/binnenland-en-buitenland/6283005/brand-gesticht-in-erasmus-mc-na-schietincidenten.html",
     "open_new_window": false,
     "partner": null
   },
@@ -144,7 +167,7 @@
     "title": "Arrestatieteams trekken Erasmus MC binnen na schietpartij in leslokaal",
     "subtitle": null,
     "published_at": "2023-09-28T15:13:10+02:00",
-    "updated_at": "2023-09-28T16:18:54+02:00",
+    "updated_at": "2023-09-28T16:25:04+02:00",
     "media_id": "im9xjana64u1",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/media/6282882/toekomst-temptation-island-nog-onzeker-na-klachten-rtl-wacht-gesprek-af.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6282959,
-    "slug": "blue-zanger-lee-ryan-krijgt-voorwaardelijke-celstraf-voor-mishandelen-stewardess",
-    "type": "article",
-    "title": "Blue-zanger Lee Ryan krijgt voorwaardelijke celstraf voor mishandelen stewardess",
-    "subtitle": null,
-    "published_at": "2023-09-28T12:26:00+02:00",
-    "updated_at": "2023-09-28T12:31:58+02:00",
-    "media_id": "336xngsay66k",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6282959/blue-zanger-lee-ryan-krijgt-voorwaardelijke-celstraf-voor-mishandelen-stewardess.html",
     "open_new_window": false,
     "partner": null
   }
