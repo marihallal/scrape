@@ -1,5 +1,28 @@
 [
   {
+    "id": 6283112,
+    "slug": "de-ligt-mist-duitse-topper-vrijwel-zeker-en-blijft-vraagteken-voor-oranje",
+    "type": "article",
+    "title": "De Ligt mist Duitse topper vrijwel zeker en blijft vraagteken voor Oranje",
+    "subtitle": null,
+    "published_at": "2023-09-29T12:34:13+02:00",
+    "updated_at": "2023-09-29T12:34:14+02:00",
+    "media_id": "w6gxn18ai0xg",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6283112/de-ligt-mist-duitse-topper-vrijwel-zeker-en-blijft-vraagteken-voor-oranje.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6283104,
     "slug": "marilyn-manson-treft-schikking-in-verkrachtingszaak",
     "type": "article",
@@ -47,12 +70,12 @@
   },
   {
     "id": 6282977,
-    "slug": "hoe-staat-het-met-de-zaken-rond-the-voice-nu-marco-borsato-wordt-vervolgd",
+    "slug": "hoe-staat-het-met-zaken-rond-the-voice-nu-marco-borsato-wordt-vervolgd",
     "type": "article",
-    "title": "Hoe staat het met de zaken rond The Voice nu Marco Borsato wordt vervolgd?",
+    "title": "Hoe staat het met zaken rond The Voice nu Marco Borsato wordt vervolgd?",
     "subtitle": "NU+",
     "published_at": "2023-09-29T11:51:28+02:00",
-    "updated_at": "2023-09-29T11:51:29+02:00",
+    "updated_at": "2023-09-29T12:29:31+02:00",
     "media_id": "eo8xhjgaricn",
     "duration": null,
     "canonical_section": {
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/media/6282977/hoe-staat-het-met-de-zaken-rond-the-voice-nu-marco-borsato-wordt-vervolgd.html",
+    "url": "/media/6282977/hoe-staat-het-met-zaken-rond-the-voice-nu-marco-borsato-wordt-vervolgd.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6283068/eeuwenoude-robin-hood-boom-opzettelijk-in-tweeen-gezaagd-in-engeland.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283067,
-    "slug": "winkelkassas-raakten-weer-voller-ook-al-kochten-we-minder",
-    "type": "article",
-    "title": "Winkelkassa's raakten weer voller, ook al kochten we minder",
-    "subtitle": null,
-    "published_at": "2023-09-29T08:05:11+02:00",
-    "updated_at": "2023-09-29T08:05:12+02:00",
-    "media_id": "6mqxcqoatji7",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6283067/winkelkassas-raakten-weer-voller-ook-al-kochten-we-minder.html",
     "open_new_window": false,
     "partner": null
   }
