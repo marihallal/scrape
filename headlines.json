@@ -1,12 +1,35 @@
 [
   {
+    "id": 6282999,
+    "slug": "eind-goed-al-goed-voor-visarend-uit-de-biesbosch-na-emotionele-achtbaan",
+    "type": "article",
+    "title": "Eind goed, al goed voor visarend uit de Biesbosch na emotionele achtbaan",
+    "subtitle": null,
+    "published_at": "2023-09-29T15:32:14+02:00",
+    "updated_at": "2023-09-29T15:32:16+02:00",
+    "media_id": "hprxhc4abgew",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772536,
+      "slug": "dieren",
+      "type": "default",
+      "name": "Dieren",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/dieren/6282999/eind-goed-al-goed-voor-visarend-uit-de-biesbosch-na-emotionele-achtbaan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6283146,
     "slug": "peter-gillis-eist-17-miljoen-euro-van-nicol-kremers-na-negatieve-uitlatingen",
     "type": "article",
     "title": "Peter Gillis eist 1,7 miljoen euro van Nicol Kremers na negatieve uitlatingen",
     "subtitle": null,
     "published_at": "2023-09-29T15:01:00+02:00",
-    "updated_at": "2023-09-29T15:01:01+02:00",
+    "updated_at": "2023-09-29T15:32:55+02:00",
     "media_id": "srsxzp6ai7mf",
     "duration": null,
     "canonical_section": {
@@ -397,7 +420,7 @@
     "title": "Hoe staat het met zaken rond The Voice nu Marco Borsato wordt vervolgd?",
     "subtitle": "NU+",
     "published_at": "2023-09-29T11:51:28+02:00",
-    "updated_at": "2023-09-29T12:29:31+02:00",
+    "updated_at": "2023-09-29T15:33:11+02:00",
     "media_id": "eo8xhjgaricn",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6283106/navo-baas-vanuit-kyiv-toekomst-van-oekraine-ligt-bij-ons.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283101,
-    "slug": "europese-inflatie-neemt-ook-af-maar-is-wel-veel-hoger-dan-in-nederland",
-    "type": "article",
-    "title": "Europese inflatie neemt ook af, maar is wel veel hoger dan in Nederland",
-    "subtitle": null,
-    "published_at": "2023-09-29T11:32:54+02:00",
-    "updated_at": "2023-09-29T11:32:55+02:00",
-    "media_id": "4m4xkkmacl3j",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6283101/europese-inflatie-neemt-ook-af-maar-is-wel-veel-hoger-dan-in-nederland.html",
     "open_new_window": false,
     "partner": null
   }
