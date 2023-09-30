@@ -1,12 +1,58 @@
 [
   {
+    "id": 6283277,
+    "slug": "nog-een-topbestuurder-vertrekt-bij-oliebedrijf-bp",
+    "type": "article",
+    "title": "Nog een topbestuurder vertrekt bij oliebedrijf BP",
+    "subtitle": null,
+    "published_at": "2023-09-30T13:50:56+02:00",
+    "updated_at": "2023-09-30T13:51:03+02:00",
+    "media_id": "yqjx9ccanmcq",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6283277/nog-een-topbestuurder-vertrekt-bij-oliebedrijf-bp.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6283275,
+    "slug": "familie-en-vrienden-nemen-in-de-duif-afscheid-van-acteur-reiky-de-valk",
+    "type": "article",
+    "title": "Familie en vrienden nemen in De Duif afscheid van acteur Reiky de Valk",
+    "subtitle": null,
+    "published_at": "2023-09-30T13:44:46+02:00",
+    "updated_at": "2023-09-30T13:44:47+02:00",
+    "media_id": "yrmxesra8rcj",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6283275/familie-en-vrienden-nemen-in-de-duif-afscheid-van-acteur-reiky-de-valk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6283273,
     "slug": "deel-omwonenden-van-door-schietpartij-getroffen-rotterdams-plein-terug-naar-huis",
     "type": "article",
     "title": "Deel omwonenden van door schietpartij getroffen Rotterdams plein terug naar huis",
     "subtitle": null,
     "published_at": "2023-09-30T13:29:17+02:00",
-    "updated_at": "2023-09-30T13:29:18+02:00",
+    "updated_at": "2023-09-30T13:41:37+02:00",
     "media_id": "pfvxna7ajby3",
     "duration": null,
     "canonical_section": {
@@ -52,19 +98,19 @@
     "title": "Review iPhone 15 (Pro): de tijd van grote vernieuwingen is voorbij",
     "subtitle": "NU+",
     "published_at": "2023-09-30T13:13:58+02:00",
-    "updated_at": "2023-09-30T13:14:00+02:00",
+    "updated_at": "2023-09-30T13:49:35+02:00",
     "media_id": "17oxt2ua3tr8",
     "duration": null,
     "canonical_section": {
-      "id": 1772398,
-      "slug": "reviews",
+      "id": 1771438,
+      "slug": "tech",
       "type": "default",
-      "name": "Reviews",
+      "name": "Tech",
       "style": "nutech",
       "media_id": null,
       "partner": null
     },
-    "url": "/reviews/6283110/review-iphone-15-pro-de-tijd-van-grote-vernieuwingen-is-voorbij.html",
+    "url": "/tech/6283110/review-iphone-15-pro-de-tijd-van-grote-vernieuwingen-is-voorbij.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/tennis/6283247/griekspoor-naar-kwartfinales-in-astana-bij-zijn-eerste-atp-toernooi-als-topfavoriet.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283174,
-    "slug": "tata-claimt-halvering-uitstoot-kankerverwekkende-stoffen-maar-klopt-dat",
-    "type": "article",
-    "title": "Tata claimt halvering uitstoot kankerverwekkende stoffen, maar klopt dat?",
-    "subtitle": "NU+",
-    "published_at": "2023-09-30T10:58:48+02:00",
-    "updated_at": "2023-09-30T13:08:16+02:00",
-    "media_id": "598xqcja1pnr",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772754,
-      "slug": "klimaat",
-      "type": "default",
-      "name": "Klimaat",
-      "style": "nuzakelijk",
-      "media_id": "kf4x3b2agsxg",
-      "partner": null
-    },
-    "url": "/klimaat/6283174/tata-claimt-halvering-uitstoot-kankerverwekkende-stoffen-maar-klopt-dat.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283240,
-    "slug": "chinese-industrie-groeit-na-zes-maanden-van-krimp-weer",
-    "type": "article",
-    "title": "Chinese industrie groeit na zes maanden van krimp weer",
-    "subtitle": null,
-    "published_at": "2023-09-30T10:34:17+02:00",
-    "updated_at": "2023-09-30T10:38:01+02:00",
-    "media_id": "w4vxttkay9xy",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6283240/chinese-industrie-groeit-na-zes-maanden-van-krimp-weer.html",
     "open_new_window": false,
     "partner": null
   }
