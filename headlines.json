@@ -1,13 +1,36 @@
 [
   {
+    "id": 6283454,
+    "slug": "industrie-stond-er-in-de-laatste-drie-jaar-niet-zo-slecht-voor-als-nu",
+    "type": "article",
+    "title": "Industrie stond er in de laatste drie jaar niet zo slecht voor als nu",
+    "subtitle": null,
+    "published_at": "2023-10-02T09:47:25+02:00",
+    "updated_at": "2023-10-02T09:47:26+02:00",
+    "media_id": "2nqx29nau6og",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6283454/industrie-stond-er-in-de-laatste-drie-jaar-niet-zo-slecht-voor-als-nu.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6283451,
     "slug": "relatief-veel-nederlandse-vrouwen-krijgen-longkanker",
     "type": "article",
     "title": "Relatief veel Nederlandse vrouwen krijgen longkanker",
     "subtitle": null,
     "published_at": "2023-10-02T09:23:44+02:00",
-    "updated_at": "2023-10-02T09:26:30+02:00",
-    "media_id": "salx3ksa26ki",
+    "updated_at": "2023-10-02T09:48:14+02:00",
+    "media_id": "586xnh7a2gdv",
     "duration": null,
     "canonical_section": {
       "id": 1146768,
@@ -29,7 +52,7 @@
     "title": "Bill Cosby opnieuw aangeklaagd voor verkrachting",
     "subtitle": null,
     "published_at": "2023-10-02T09:01:08+02:00",
-    "updated_at": "2023-10-02T09:17:08+02:00",
+    "updated_at": "2023-10-02T09:44:48+02:00",
     "media_id": "yqqxcxcampsm",
     "duration": null,
     "canonical_section": {
@@ -277,13 +300,13 @@
   },
   {
     "id": 6283437,
-    "slug": "kim-kardashian-en-dochter-dragen-matchende-outfits",
+    "slug": "shakira-deelt-favoriete-vervoermiddel",
     "type": "article",
-    "title": "Kim Kardashian en dochter dragen matchende outfits",
+    "title": "Shakira deelt favoriete vervoermiddel",
     "subtitle": "Achterklapupdates",
     "published_at": "2023-10-02T06:34:41+02:00",
-    "updated_at": "2023-10-02T09:25:04+02:00",
-    "media_id": "l3gxwx7ar0cl",
+    "updated_at": "2023-10-02T09:34:50+02:00",
+    "media_id": "wchxl99ae5i6",
     "duration": null,
     "canonical_section": {
       "id": 125,
@@ -294,7 +317,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/achterklap/6283437/kim-kardashian-en-dochter-dragen-matchende-outfits.html",
+    "url": "/achterklap/6283437/shakira-deelt-favoriete-vervoermiddel.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6283432/bedrijven-krijgen-straks-ook-korting-op-inzameling-van-minder-duurzaam-plastic.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283190,
-    "slug": "steeds-meer-mensen-komen-om-door-val-verdubbeling-in-ruim-tien-jaar-tijd",
-    "type": "article",
-    "title": "Steeds meer mensen komen om door val: verdubbeling in ruim tien jaar tijd",
-    "subtitle": null,
-    "published_at": "2023-10-02T00:03:30+02:00",
-    "updated_at": "2023-10-02T08:38:04+02:00",
-    "media_id": "qz8xlkma356u",
-    "duration": null,
-    "canonical_section": {
-      "id": 1146768,
-      "slug": "gezondheid",
-      "type": "default",
-      "name": "Gezondheid",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/gezondheid/6283190/steeds-meer-mensen-komen-om-door-val-verdubbeling-in-ruim-tien-jaar-tijd.html",
     "open_new_window": false,
     "partner": null
   }
