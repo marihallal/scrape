@@ -1,5 +1,28 @@
 [
   {
+    "id": 6283823,
+    "slug": "nieuwe-telefoon-van-google-krijgt-thermometer-en-zeven-jaar-software-updates",
+    "type": "article",
+    "title": "Nieuwe telefoon van Google krijgt thermometer en zeven jaar software-updates",
+    "subtitle": null,
+    "published_at": "2023-10-04T16:30:27+02:00",
+    "updated_at": "2023-10-04T16:30:30+02:00",
+    "media_id": "f10xkngaxidn",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6283823/nieuwe-telefoon-van-google-krijgt-thermometer-en-zeven-jaar-software-updates.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6283860,
     "slug": "twee-kandidaten-voor-overname-failliete-veerdienst-holland-norway-lines",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/algemeen/6283812/astronomisch-hoge-boete-vanwege-rommel-in-de-ruimte-zo-zit-dat.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283809,
-    "slug": "door-de-hoge-voedselprijzen-koop-ik-minder-vaak-vlees",
-    "type": "article",
-    "title": "'Door de hoge voedselprijzen koop ik minder vaak vlees'",
-    "subtitle": "Stelling",
-    "published_at": "2023-10-04T12:39:12+02:00",
-    "updated_at": "2023-10-04T14:23:41+02:00",
-    "media_id": "cewxj75a1p3a",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling en Praat Mee",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6283809/door-de-hoge-voedselprijzen-koop-ik-minder-vaak-vlees.html",
     "open_new_window": false,
     "partner": null
   }
