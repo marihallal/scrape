@@ -1,5 +1,51 @@
 [
   {
+    "id": 6284018,
+    "slug": "aardvarken-heeft-logeerpartijtje-in-keulen",
+    "type": "video",
+    "title": "Aardvarken heeft logeerpartijtje in Keulen",
+    "subtitle": "Video",
+    "published_at": "2023-10-05T14:59:27+02:00",
+    "updated_at": "2023-10-05T14:59:28+02:00",
+    "media_id": "18qxiu6aeue3",
+    "duration": "0:43",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6284018/aardvarken-heeft-logeerpartijtje-in-keulen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6284016,
+    "slug": "mannen-vaker-de-klos-bij-arbeidsongeval-slechts-een-op-acht-slachtoffers-is-vrouw",
+    "type": "article",
+    "title": "Mannen vaker de klos bij arbeidsongeval: slechts een op acht slachtoffers is vrouw",
+    "subtitle": null,
+    "published_at": "2023-10-05T14:56:08+02:00",
+    "updated_at": "2023-10-05T14:56:09+02:00",
+    "media_id": "815xhnoac56m",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6284016/mannen-vaker-de-klos-bij-arbeidsongeval-slechts-een-op-acht-slachtoffers-is-vrouw.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6284011,
     "slug": "wegdelen-weggevaagd-bij-overstromingen-in-india",
     "type": "video",
@@ -52,7 +98,7 @@
     "title": "Consumenten dekken zich in voor de winter door energiecontract vast te zetten",
     "subtitle": null,
     "published_at": "2023-10-05T14:22:55+02:00",
-    "updated_at": "2023-10-05T14:22:57+02:00",
+    "updated_at": "2023-10-05T15:00:09+02:00",
     "media_id": "v36xlrxacmzx",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/videos/6283984/gesmokkelde-dieren-zetten-aziatisch-vliegtuig-op-stelten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283982,
-    "slug": "hoekstra-kan-definitief-aan-de-slag-als-europese-klimaatcommissaris",
-    "type": "article",
-    "title": "Hoekstra kan definitief aan de slag als Europese klimaatcommissaris",
-    "subtitle": null,
-    "published_at": "2023-10-05T12:12:03+02:00",
-    "updated_at": "2023-10-05T12:45:02+02:00",
-    "media_id": "vi4xxn0a9ney",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6283982/hoekstra-kan-definitief-aan-de-slag-als-europese-klimaatcommissaris.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283978,
-    "slug": "grootste-daling-olieprijs-in-ruim-een-jaar-door-hoge-rentes",
-    "type": "article",
-    "title": "Grootste daling olieprijs in ruim een jaar door hoge rentes",
-    "subtitle": null,
-    "published_at": "2023-10-05T12:11:39+02:00",
-    "updated_at": "2023-10-05T13:08:22+02:00",
-    "media_id": "ngnxyjkaxo49",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6283978/grootste-daling-olieprijs-in-ruim-een-jaar-door-hoge-rentes.html",
     "open_new_window": false,
     "partner": null
   }
