@@ -1,5 +1,74 @@
 [
   {
+    "id": 6283971,
+    "slug": "veel-schade-aan-amsterdams-appartementencomplex-door-enorme-klap",
+    "type": "article",
+    "title": "Veel schade aan Amsterdams appartementencomplex door 'enorme klap'",
+    "subtitle": null,
+    "published_at": "2023-10-05T11:49:24+02:00",
+    "updated_at": "2023-10-05T11:49:25+02:00",
+    "media_id": "wk3xz6ra44hx",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6283971/veel-schade-aan-amsterdams-appartementencomplex-door-enorme-klap.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6283969,
+    "slug": "nick-toet-volgt-siemon-de-jong-op-als-presentator-van-taarten-van-abel",
+    "type": "article",
+    "title": "Nick Toet volgt Siemon de Jong op als presentator van Taarten van Abel",
+    "subtitle": null,
+    "published_at": "2023-10-05T11:40:56+02:00",
+    "updated_at": "2023-10-05T11:40:58+02:00",
+    "media_id": "75mxm2wajdn8",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6283969/nick-toet-volgt-siemon-de-jong-op-als-presentator-van-taarten-van-abel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6283955,
+    "slug": "vooruitblik-gp-qatar-red-bull-extra-in-het-voordeel-door-nieuw-asfalt",
+    "type": "article",
+    "title": "Vooruitblik GP Qatar: 'Red Bull extra in het voordeel door nieuw asfalt'",
+    "subtitle": null,
+    "published_at": "2023-10-05T11:32:35+02:00",
+    "updated_at": "2023-10-05T11:44:56+02:00",
+    "media_id": "gywxwgva4ik9",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Formule 1",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6283955/vooruitblik-gp-qatar-red-bull-extra-in-het-voordeel-door-nieuw-asfalt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6283867,
     "slug": "red-bull-gaat-zaterdag-een-goed-feestje-vieren",
     "type": "audio",
@@ -47,12 +116,12 @@
   },
   {
     "id": 6283967,
-    "slug": "atleet-breekt-wereldrecord-snelste-slacklinewandeling-op-chinese-berg",
+    "slug": "atleet-snelwandelt-naar-wereldrecord-op-slackline",
     "type": "video",
-    "title": "Atleet breekt wereldrecord snelste slacklinewandeling op Chinese berg",
+    "title": "Atleet snelwandelt naar wereldrecord op slackline",
     "subtitle": "Video",
     "published_at": "2023-10-05T11:24:03+02:00",
-    "updated_at": "2023-10-05T11:24:04+02:00",
+    "updated_at": "2023-10-05T11:34:37+02:00",
     "media_id": "tzsxp5nabfqb",
     "duration": "0:46",
     "canonical_section": {
@@ -64,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/videos/6283967/atleet-breekt-wereldrecord-snelste-slacklinewandeling-op-chinese-berg.html",
+    "url": "/videos/6283967/atleet-snelwandelt-naar-wereldrecord-op-slackline.html",
     "open_new_window": false,
     "partner": null
   },
@@ -144,7 +213,7 @@
     "title": "Journalisten DPG Media leggen werk voor korte tijd neer voor inflatiecompensatie",
     "subtitle": null,
     "published_at": "2023-10-05T10:12:52+02:00",
-    "updated_at": "2023-10-05T11:29:44+02:00",
+    "updated_at": "2023-10-05T11:47:54+02:00",
     "media_id": "5p5xzn1ay3o2",
     "duration": null,
     "canonical_section": {
@@ -236,7 +305,7 @@
     "title": "Nederlanders vergokken online ruim 1,3 miljard euro in een jaar tijd",
     "subtitle": null,
     "published_at": "2023-10-05T09:18:03+02:00",
-    "updated_at": "2023-10-05T10:31:55+02:00",
+    "updated_at": "2023-10-05T11:46:29+02:00",
     "media_id": "2c4xaz2acjee",
     "duration": null,
     "canonical_section": {
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/videos/6283938/vliegtuigje-tuimelt-uit-de-lucht-en-crasht-op-huis-in-vs.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283866,
-    "slug": "de-zorgpremie-moet-gekoppeld-worden-aan-leeftijd",
-    "type": "article",
-    "title": "'De zorgpremie moet gekoppeld worden aan leeftijd'",
-    "subtitle": "Stelling",
-    "published_at": "2023-10-05T07:18:10+02:00",
-    "updated_at": "2023-10-05T07:48:06+02:00",
-    "media_id": "gcqx6tdabnnq",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling en Praat Mee",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6283866/de-zorgpremie-moet-gekoppeld-worden-aan-leeftijd.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283936,
-    "slug": "van-bommel-begrijpt-niets-van-ineenstorting-antwerp-dit-overkomt-ons-nooit",
-    "type": "article",
-    "title": "Van Bommel begrijpt niets van ineenstorting Antwerp: 'Dit overkomt ons nooit'",
-    "subtitle": null,
-    "published_at": "2023-10-05T07:02:19+02:00",
-    "updated_at": "2023-10-05T07:40:39+02:00",
-    "media_id": "bn1xfiuaqwkn",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6283936/van-bommel-begrijpt-niets-van-ineenstorting-antwerp-dit-overkomt-ons-nooit.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283865,
-    "slug": "zorgpremie-weer-duurder-zo-is-de-prijs-opgebouwd",
-    "type": "video",
-    "title": "Zorgpremie weer duurder: zo is de prijs opgebouwd",
-    "subtitle": "Explainer",
-    "published_at": "2023-10-05T06:23:34+02:00",
-    "updated_at": "2023-10-05T08:20:12+02:00",
-    "media_id": "9p0xwcda2aa4",
-    "duration": "1:25",
-    "canonical_section": {
-      "id": 1771719,
-      "slug": "geldzaken",
-      "type": "default",
-      "name": "Geld",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/geldzaken/6283865/zorgpremie-weer-duurder-zo-is-de-prijs-opgebouwd.html",
     "open_new_window": false,
     "partner": null
   }
