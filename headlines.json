@@ -1,5 +1,51 @@
 [
   {
+    "id": 6283866,
+    "slug": "de-zorgpremie-moet-gekoppeld-worden-aan-leeftijd",
+    "type": "article",
+    "title": "'De zorgpremie moet gekoppeld worden aan leeftijd'",
+    "subtitle": "Stelling",
+    "published_at": "2023-10-05T07:18:10+02:00",
+    "updated_at": "2023-10-05T07:18:11+02:00",
+    "media_id": "gcqx6tdabnnq",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling en Praat Mee",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6283866/de-zorgpremie-moet-gekoppeld-worden-aan-leeftijd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6283936,
+    "slug": "van-bommel-begrijpt-niets-van-ineenstorting-antwerp-dit-overkomt-ons-nooit",
+    "type": "article",
+    "title": "Van Bommel begrijpt niets van ineenstorting Antwerp: 'Dit overkomt ons nooit'",
+    "subtitle": null,
+    "published_at": "2023-10-05T07:02:19+02:00",
+    "updated_at": "2023-10-05T07:02:20+02:00",
+    "media_id": "bn1xfiuaqwkn",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6283936/van-bommel-begrijpt-niets-van-ineenstorting-antwerp-dit-overkomt-ons-nooit.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6283865,
     "slug": "zorgpremie-weer-duurder-zo-is-de-prijs-opgebouwd",
     "type": "video",
@@ -29,7 +75,7 @@
     "title": "Het wordt relatief warm, dus laat je winterjas thuis",
     "subtitle": "Weerbericht",
     "published_at": "2023-10-05T06:05:29+02:00",
-    "updated_at": "2023-10-05T06:05:30+02:00",
+    "updated_at": "2023-10-05T06:59:59+02:00",
     "media_id": "np9xfblalzv8",
     "duration": null,
     "canonical_section": {
@@ -52,7 +98,7 @@
     "title": "Koning Willem-Alexander: 'Verzetsheld Tula was zijn tijd ver vooruit'",
     "subtitle": null,
     "published_at": "2023-10-05T05:37:24+02:00",
-    "updated_at": "2023-10-05T06:50:40+02:00",
+    "updated_at": "2023-10-05T07:07:27+02:00",
     "media_id": "7s4x41haxord",
     "duration": null,
     "canonical_section": {
@@ -75,7 +121,7 @@
     "title": "Hond van Joe Biden uit Witte Huis verwijderd na meerdere bijtincidenten",
     "subtitle": null,
     "published_at": "2023-10-05T05:27:22+02:00",
-    "updated_at": "2023-10-05T06:27:32+02:00",
+    "updated_at": "2023-10-05T07:12:07+02:00",
     "media_id": "a1nxykzact0c",
     "duration": null,
     "canonical_section": {
@@ -121,7 +167,7 @@
     "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
     "subtitle": null,
     "published_at": "2023-10-05T05:14:25+02:00",
-    "updated_at": "2023-10-05T05:14:26+02:00",
+    "updated_at": "2023-10-05T07:15:50+02:00",
     "media_id": "xdtxc8kaj8rf",
     "duration": null,
     "canonical_section": {
@@ -162,12 +208,12 @@
   },
   {
     "id": 6283827,
-    "slug": "zo-word-je-nog-productiever-tijdens-thuiswerken",
+    "slug": "thuiswerken-is-dat-nou-productief-of-zit-je-beter-op-kantoor",
     "type": "article",
-    "title": "Zo word je (nog) productiever tijdens thuiswerken",
+    "title": "Thuiswerken: is dat nou productief, of zit je beter op kantoor?",
     "subtitle": "NU+",
     "published_at": "2023-10-05T05:06:46+02:00",
-    "updated_at": "2023-10-05T05:07:09+02:00",
+    "updated_at": "2023-10-05T07:13:10+02:00",
     "media_id": "sprxll9a9mjc",
     "duration": null,
     "canonical_section": {
@@ -179,19 +225,19 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/nuverder/6283827/zo-word-je-nog-productiever-tijdens-thuiswerken.html",
+    "url": "/nuverder/6283827/thuiswerken-is-dat-nou-productief-of-zit-je-beter-op-kantoor.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6283859,
-    "slug": "niet-alles-in-de-supermarkt-wordt-duurder-maar-de-pepernoot-wel",
+    "slug": "niet-alles-in-de-supermarkt-wordt-duurder-maar-de-kruidnoot-wel",
     "type": "article",
-    "title": "Niet alles in de supermarkt wordt duurder, maar de pepernoot wel",
+    "title": "Niet alles in de supermarkt wordt duurder, maar de kruidnoot wel",
     "subtitle": null,
     "published_at": "2023-10-05T05:05:49+02:00",
-    "updated_at": "2023-10-05T06:51:57+02:00",
-    "media_id": "rmdxvm5angjo",
+    "updated_at": "2023-10-05T06:58:38+02:00",
+    "media_id": "r7axwj2ajayg",
     "duration": null,
     "canonical_section": {
       "id": 99,
@@ -202,7 +248,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6283859/niet-alles-in-de-supermarkt-wordt-duurder-maar-de-pepernoot-wel.html",
+    "url": "/economie/6283859/niet-alles-in-de-supermarkt-wordt-duurder-maar-de-kruidnoot-wel.html",
     "open_new_window": false,
     "partner": null
   },
@@ -213,7 +259,7 @@
     "title": "Verkoop van nieuwbouwhuizen volledig ingestort in tweede kwartaal",
     "subtitle": null,
     "published_at": "2023-10-05T00:03:09+02:00",
-    "updated_at": "2023-10-05T06:26:43+02:00",
+    "updated_at": "2023-10-05T06:55:27+02:00",
     "media_id": "r4sxwp0a63nm",
     "duration": null,
     "canonical_section": {
@@ -259,7 +305,7 @@
     "title": "Lonen stegen in tien jaar niet zo hard als in vorig kwartaal",
     "subtitle": null,
     "published_at": "2023-10-05T00:01:32+02:00",
-    "updated_at": "2023-10-05T00:01:34+02:00",
+    "updated_at": "2023-10-05T06:53:55+02:00",
     "media_id": "mq7xeh7a71jl",
     "duration": null,
     "canonical_section": {
@@ -392,12 +438,12 @@
   },
   {
     "id": 6283917,
-    "slug": "kamer-wil-poliklinieken-voor-langdurige-covid-kuipers-ziet-plan-niet-zitten",
+    "slug": "kamer-wil-poliklinieken-voor-postcovidsyndroom-kuipers-ziet-plan-niet-zitten",
     "type": "article",
-    "title": "Kamer wil poliklinieken voor langdurige covid, Kuipers ziet plan niet zitten",
+    "title": "Kamer wil poliklinieken voor postcovidsyndroom, Kuipers ziet plan niet zitten",
     "subtitle": null,
     "published_at": "2023-10-04T22:21:21+02:00",
-    "updated_at": "2023-10-04T23:27:59+02:00",
+    "updated_at": "2023-10-05T07:15:32+02:00",
     "media_id": "39fx2u5a9vln",
     "duration": null,
     "canonical_section": {
@@ -409,53 +455,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/coronavirus/6283917/kamer-wil-poliklinieken-voor-langdurige-covid-kuipers-ziet-plan-niet-zitten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283925,
-    "slug": "omwonende-filmt-hoe-cubaans-gebouw-instort",
-    "type": "video",
-    "title": "Omwonende filmt hoe Cubaans gebouw instort",
-    "subtitle": "Video",
-    "published_at": "2023-10-04T22:11:52+02:00",
-    "updated_at": "2023-10-04T22:11:53+02:00",
-    "media_id": "otxxv7dakmdz",
-    "duration": "0:46",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6283925/omwonende-filmt-hoe-cubaans-gebouw-instort.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283924,
-    "slug": "turnster-biles-pakt-goud-met-vs-en-verovert-20e-wereldtitel-bijrol-voor-nederland",
-    "type": "article",
-    "title": "Turnster Biles pakt goud met VS én verovert 20e wereldtitel, bijrol voor Nederland",
-    "subtitle": null,
-    "published_at": "2023-10-04T22:11:10+02:00",
-    "updated_at": "2023-10-05T02:47:06+02:00",
-    "media_id": "6udxphraa9m5",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6283924/turnster-biles-pakt-goud-met-vs-en-verovert-20e-wereldtitel-bijrol-voor-nederland.html",
+    "url": "/coronavirus/6283917/kamer-wil-poliklinieken-voor-postcovidsyndroom-kuipers-ziet-plan-niet-zitten.html",
     "open_new_window": false,
     "partner": null
   }
