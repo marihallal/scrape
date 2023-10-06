@@ -1,5 +1,28 @@
 [
   {
+    "id": 6284096,
+    "slug": "arrestaties-na-wedstrijd-az-legia-warschau-ook-vooraf-heftig-geweld-in-alkmaar",
+    "type": "article",
+    "title": "Arrestaties na wedstrijd AZ-Legia Warschau, ook vooraf 'heftig geweld' in Alkmaar",
+    "subtitle": null,
+    "published_at": "2023-10-06T06:14:32+02:00",
+    "updated_at": "2023-10-06T06:18:54+02:00",
+    "media_id": "3skxlbva77cv",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6284096/arrestaties-na-wedstrijd-az-legia-warschau-ook-vooraf-heftig-geweld-in-alkmaar.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6284094,
     "slug": "twee-tieners-aangehouden-na-schietincident-in-trein-bij-station-rotterdam-cs",
     "type": "article",
@@ -121,7 +144,7 @@
     "title": "Hoe nuttig is een onderzoek naar het naziverleden van prins Bernhard?",
     "subtitle": null,
     "published_at": "2023-10-06T05:11:53+02:00",
-    "updated_at": "2023-10-06T05:11:54+02:00",
+    "updated_at": "2023-10-06T06:07:53+02:00",
     "media_id": "pl2x6idak5ri",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/dieren/6284073/biden-niet-enige-die-zn-hond-niet-aankan-herder-is-niet-zomaar-een-hond.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284039,
-    "slug": "rijexamens-in-enschede-stilgelegd-vanwege-bedreigingen-oud-rijschoolhouder",
-    "type": "article",
-    "title": "Rijexamens in Enschede stilgelegd vanwege bedreigingen oud-rijschoolhouder",
-    "subtitle": null,
-    "published_at": "2023-10-05T20:58:31+02:00",
-    "updated_at": "2023-10-05T21:11:20+02:00",
-    "media_id": "6lbxzpmaeuz6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6284039/rijexamens-in-enschede-stilgelegd-vanwege-bedreigingen-oud-rijschoolhouder.html",
     "open_new_window": false,
     "partner": null
   }
