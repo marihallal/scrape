@@ -1,5 +1,51 @@
 [
   {
+    "id": 6284475,
+    "slug": "hamilton-en-russell-rijden-elkaar-van-de-baan-bij-start-gp",
+    "type": "video",
+    "title": "Hamilton en Russell rijden elkaar van de baan bij start GP",
+    "subtitle": null,
+    "published_at": "2023-10-08T19:31:43+02:00",
+    "updated_at": "2023-10-08T19:31:44+02:00",
+    "media_id": "xg9xi3oas5cw",
+    "duration": "2:11",
+    "canonical_section": {
+      "id": 149,
+      "slug": "sport",
+      "type": "default",
+      "name": "Sport",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport/6284475/hamilton-en-russell-rijden-elkaar-van-de-baan-bij-start-gp.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6284474,
+    "slug": "aardbevingen-afghanistan-eisen-al-2445-levens-vrees-voor-meer-doden",
+    "type": "article",
+    "title": "Aardbevingen Afghanistan eisen al 2.445 levens, vrees voor meer doden",
+    "subtitle": null,
+    "published_at": "2023-10-08T19:20:12+02:00",
+    "updated_at": "2023-10-08T19:20:14+02:00",
+    "media_id": "5y9xcokaodhc",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6284474/aardbevingen-afghanistan-eisen-al-2445-levens-vrees-voor-meer-doden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6284471,
     "slug": "hassan-wint-op-sensationele-wijze-de-marathon-in-chicago",
     "type": "video",
@@ -139,12 +185,12 @@
   },
   {
     "id": 6284463,
-    "slug": "verstappen-aan-kop-in-qatar-hamilton-valt-uit-bij-crash",
+    "slug": "verstappen-leidt-in-qatar-mercedes-coureurs-crashen-met-elkaar",
     "type": "article",
-    "title": "Verstappen aan kop in Qatar, Hamilton valt uit bij crash",
+    "title": "Verstappen leidt in Qatar, Mercedes-coureurs crashen met elkaar",
     "subtitle": "Liveblog",
     "published_at": "2023-10-08T18:05:05+02:00",
-    "updated_at": "2023-10-08T19:18:19+02:00",
+    "updated_at": "2023-10-08T19:29:18+02:00",
     "media_id": "572xn9caql0x",
     "duration": null,
     "canonical_section": {
@@ -156,7 +202,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6284463/verstappen-aan-kop-in-qatar-hamilton-valt-uit-bij-crash.html",
+    "url": "/formule-1/6284463/verstappen-leidt-in-qatar-mercedes-coureurs-crashen-met-elkaar.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/wielrennen/6284448/amerikaan-sheehan-verbaast-vriend-en-vijand-met-zege-in-parijs-tours.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284445,
-    "slug": "ontketende-sifan-hassan-noteert-tweede-tijd-ooit-bij-winst-marathon-van-chicago",
-    "type": "article",
-    "title": "Ontketende Sifan Hassan noteert tweede tijd ooit bij winst marathon van Chicago",
-    "subtitle": null,
-    "published_at": "2023-10-08T16:47:52+02:00",
-    "updated_at": "2023-10-08T18:41:12+02:00",
-    "media_id": "0umxxaea9dx7",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6284445/ontketende-sifan-hassan-noteert-tweede-tijd-ooit-bij-winst-marathon-van-chicago.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284444,
-    "slug": "fia-grijpt-weer-in-na-zorgen-om-banden-drie-pitstops-noodzakelijk-in-qatar",
-    "type": "article",
-    "title": "FIA grijpt weer in na zorgen om banden: drie pitstops noodzakelijk in Qatar",
-    "subtitle": null,
-    "published_at": "2023-10-08T16:42:52+02:00",
-    "updated_at": "2023-10-08T17:39:27+02:00",
-    "media_id": "yucx52haxh66",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6284444/fia-grijpt-weer-in-na-zorgen-om-banden-drie-pitstops-noodzakelijk-in-qatar.html",
     "open_new_window": false,
     "partner": null
   }
