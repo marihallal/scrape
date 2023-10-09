@@ -1,5 +1,28 @@
 [
   {
+    "id": 6284535,
+    "slug": "aantal-grote-distributiecentra-nam-in-vijf-jaar-met-40-procent-toe",
+    "type": "article",
+    "title": "Aantal grote distributiecentra nam in vijf jaar met 40 procent toe",
+    "subtitle": null,
+    "published_at": "2023-10-09T10:50:32+02:00",
+    "updated_at": "2023-10-09T10:50:35+02:00",
+    "media_id": "6t7xxbua92qr",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6284535/aantal-grote-distributiecentra-nam-in-vijf-jaar-met-40-procent-toe.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6284533,
     "slug": "binnenhof-hijst-israelische-vlag-steunbetuiging-creeert-verdeeldheid",
     "type": "video",
@@ -98,7 +121,7 @@
     "title": "Opnieuw onrustige nacht in Israël en Gaza door luchtaanvallen",
     "subtitle": "Video",
     "published_at": "2023-10-09T09:57:24+02:00",
-    "updated_at": "2023-10-09T09:57:25+02:00",
+    "updated_at": "2023-10-09T10:39:39+02:00",
     "media_id": "3l7xd3caxdwn",
     "duration": "0:34",
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/uitgelicht/6284499/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284496,
-    "slug": "sifan-hassan-krijgt-in-chicago-wat-ze-wil-vreselijke-pijn-van-de-marathon",
-    "type": "article",
-    "title": "Sifan Hassan krijgt in Chicago wat ze wil: vreselijke pijn van de marathon",
-    "subtitle": "NU+",
-    "published_at": "2023-10-09T05:03:53+02:00",
-    "updated_at": "2023-10-09T09:04:08+02:00",
-    "media_id": "or2xeayaf917",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6284496/sifan-hassan-krijgt-in-chicago-wat-ze-wil-vreselijke-pijn-van-de-marathon.html",
     "open_new_window": false,
     "partner": null
   }
