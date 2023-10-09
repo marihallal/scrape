@@ -1,5 +1,28 @@
 [
   {
+    "id": 6284554,
+    "slug": "israel-stopt-ook-watertoevoer-naar-gazastrook",
+    "type": "article",
+    "title": "Israël stopt ook watertoevoer naar Gazastrook",
+    "subtitle": null,
+    "published_at": "2023-10-09T13:31:57+02:00",
+    "updated_at": "2023-10-09T13:31:58+02:00",
+    "media_id": "e70xtijaqg12",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6284554/israel-stopt-ook-watertoevoer-naar-gazastrook.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6284550,
     "slug": "inspectie-geef-ernstig-gedupeerden-voorrang-bij-herstel-toeslagenschandaal",
     "type": "article",
@@ -98,8 +121,8 @@
     "title": "Koeman mist ook Berghuis bij Oranje en roept Maatsen op, Koopmeiners onzeker",
     "subtitle": null,
     "published_at": "2023-10-09T12:15:34+02:00",
-    "updated_at": "2023-10-09T12:55:30+02:00",
-    "media_id": "yitx7bia9hak",
+    "updated_at": "2023-10-09T13:29:55+02:00",
+    "media_id": "keexpdlaxwj0",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -259,7 +282,7 @@
     "title": "Gewapende man bezocht BNNVARA-gebouw om Tim Hofman te doden",
     "subtitle": null,
     "published_at": "2023-10-09T10:27:34+02:00",
-    "updated_at": "2023-10-09T13:04:54+02:00",
+    "updated_at": "2023-10-09T13:23:48+02:00",
     "media_id": "3eixr4ua3n3h",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/cultuur-overig/6284513/tafkal-viert-twintigste-verjaardag-van-de-lamas-in-ziggo-dome.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284509,
-    "slug": "mclaren-verbetert-wereldrecord-red-bull-met-razendsnelle-pitstop-van-norris",
-    "type": "article",
-    "title": "McLaren verbetert wereldrecord Red Bull met razendsnelle pitstop van Norris",
-    "subtitle": null,
-    "published_at": "2023-10-09T08:35:54+02:00",
-    "updated_at": "2023-10-09T13:04:22+02:00",
-    "media_id": "8syxggoaapag",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6284509/mclaren-verbetert-wereldrecord-red-bull-met-razendsnelle-pitstop-van-norris.html",
     "open_new_window": false,
     "partner": null
   }
