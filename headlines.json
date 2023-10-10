@@ -1,5 +1,28 @@
 [
   {
+    "id": 6284701,
+    "slug": "onderwijsminister-kritisch-op-gebrekkige-stagevergoedingen-in-onderwijs-en-zorg",
+    "type": "article",
+    "title": "Onderwijsminister kritisch op gebrekkige stagevergoedingen in onderwijs en zorg",
+    "subtitle": null,
+    "published_at": "2023-10-10T12:30:25+02:00",
+    "updated_at": "2023-10-10T12:30:27+02:00",
+    "media_id": "j9vxgcka58ac",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6284701/onderwijsminister-kritisch-op-gebrekkige-stagevergoedingen-in-onderwijs-en-zorg.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6284690,
     "slug": "man-opgepakt-voor-witwassen-van-minstens-1-miljoen-euro-voor-griekse-bankier",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Dumfries sluit aan bij training Oranje in aanloop naar duel met Frankrijk",
     "subtitle": null,
     "published_at": "2023-10-10T12:15:19+02:00",
-    "updated_at": "2023-10-10T12:22:13+02:00",
+    "updated_at": "2023-10-10T12:27:05+02:00",
     "media_id": "w4sxjpqazlm4",
     "duration": null,
     "canonical_section": {
@@ -277,12 +300,12 @@
   },
   {
     "id": 6284655,
-    "slug": "coldplay-en-oud-manager-verwikkeld-in-strijd-partijen-eisen-miljoenen-van-elkaar",
+    "slug": "fikse-ruzie-tussen-coldplay-en-oud-manager-ze-eisen-miljoen-van-elkaar",
     "type": "article",
-    "title": "Coldplay en oud-manager verwikkeld in strijd: partijen eisen miljoenen van elkaar",
+    "title": "Fikse ruzie tussen Coldplay en oud-manager: ze eisen miljoen van elkaar",
     "subtitle": "NU+",
     "published_at": "2023-10-10T11:05:14+02:00",
-    "updated_at": "2023-10-10T11:05:15+02:00",
+    "updated_at": "2023-10-10T12:32:58+02:00",
     "media_id": "7unx4nda3yev",
     "duration": null,
     "canonical_section": {
@@ -294,7 +317,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/muziek/6284655/coldplay-en-oud-manager-verwikkeld-in-strijd-partijen-eisen-miljoenen-van-elkaar.html",
+    "url": "/muziek/6284655/fikse-ruzie-tussen-coldplay-en-oud-manager-ze-eisen-miljoen-van-elkaar.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6284625/lonen-in-september-gemiddeld-met-72-procent-gestegen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284664,
-    "slug": "treinen-blijven-leger-omdat-ov-reiziger-vaker-thuiswerkt-na-corona",
-    "type": "article",
-    "title": "Treinen blijven leger omdat ov-reiziger vaker thuiswerkt na corona",
-    "subtitle": null,
-    "published_at": "2023-10-10T09:31:57+02:00",
-    "updated_at": "2023-10-10T11:32:39+02:00",
-    "media_id": "kd3xih1au2fo",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6284664/treinen-blijven-leger-omdat-ov-reiziger-vaker-thuiswerkt-na-corona.html",
     "open_new_window": false,
     "partner": null
   }
