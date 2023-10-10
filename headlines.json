@@ -1,5 +1,28 @@
 [
   {
+    "id": 6284756,
+    "slug": "russische-jeugdvoetballers-na-forse-kritiek-toch-niet-welkom-bij-uefa-toernooien",
+    "type": "article",
+    "title": "Russische jeugdvoetballers na forse kritiek toch niet welkom bij UEFA-toernooien",
+    "subtitle": null,
+    "published_at": "2023-10-10T17:24:09+02:00",
+    "updated_at": "2023-10-10T17:24:10+02:00",
+    "media_id": "tqmxqk5a96g2",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6284756/russische-jeugdvoetballers-na-forse-kritiek-toch-niet-welkom-bij-uefa-toernooien.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6284757,
     "slug": "britse-oppositieleider-krijgt-glitter-over-zich-heen-tijdens-partijcongres",
     "type": "video",
@@ -29,7 +52,7 @@
     "title": "Joe Jonas en Sophie Turner bereiken met hulp bemiddelaar akkoord over voogdij",
     "subtitle": null,
     "published_at": "2023-10-10T17:04:36+02:00",
-    "updated_at": "2023-10-10T17:05:15+02:00",
+    "updated_at": "2023-10-10T17:31:00+02:00",
     "media_id": "q5txeyzaxga2",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Daniëlle van 't Schip, dochter van Willeke Alberti, op 55-jarige leeftijd overleden",
     "subtitle": null,
     "published_at": "2023-10-10T16:47:00+02:00",
-    "updated_at": "2023-10-10T17:07:10+02:00",
+    "updated_at": "2023-10-10T17:23:41+02:00",
     "media_id": "2rvxuzual7wo",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6284727/extinction-rebellion-demonstreert-voorlopig-niet-op-a12-we-evalueren-rond-kerst.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284723,
-    "slug": "slaaptrein-is-inmiddels-lang-genoeg-om-door-te-rijden-tot-aan-praag",
-    "type": "article",
-    "title": "Slaaptrein is inmiddels lang genoeg om door te rijden tot aan Praag",
-    "subtitle": null,
-    "published_at": "2023-10-10T14:22:49+02:00",
-    "updated_at": "2023-10-10T16:53:26+02:00",
-    "media_id": "kocxmbra4mu6",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6284723/slaaptrein-is-inmiddels-lang-genoeg-om-door-te-rijden-tot-aan-praag.html",
     "open_new_window": false,
     "partner": null
   }
