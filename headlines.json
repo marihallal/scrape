@@ -1,12 +1,35 @@
 [
   {
+    "id": 6284650,
+    "slug": "andre-rieu-liet-zich-in-carriere-inspireren-door-toon-hermans-groot-voorbeeld",
+    "type": "article",
+    "title": "André Rieu liet zich in carrière inspireren door Toon Hermans: 'Groot voorbeeld'",
+    "subtitle": null,
+    "published_at": "2023-10-10T06:32:52+02:00",
+    "updated_at": "2023-10-10T06:32:54+02:00",
+    "media_id": "7drx9ceal7za",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6284650/andre-rieu-liet-zich-in-carriere-inspireren-door-toon-hermans-groot-voorbeeld.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6284649,
     "slug": "mistige-start-van-een-vrij-warme-dag",
     "type": "article",
     "title": "Mistige start van een vrij warme dag",
     "subtitle": "Weerbericht",
     "published_at": "2023-10-10T05:48:40+02:00",
-    "updated_at": "2023-10-10T06:04:26+02:00",
+    "updated_at": "2023-10-10T06:29:08+02:00",
     "media_id": "c0zxgy1aokkx",
     "duration": null,
     "canonical_section": {
@@ -144,7 +167,7 @@
     "title": "Op de Veluwe groeit de angst voor wolven, ook al is dat niet terecht",
     "subtitle": null,
     "published_at": "2023-10-10T05:03:37+02:00",
-    "updated_at": "2023-10-10T05:03:38+02:00",
+    "updated_at": "2023-10-10T06:34:00+02:00",
     "media_id": "98rx9t3atlw9",
     "duration": null,
     "canonical_section": {
@@ -185,12 +208,12 @@
   },
   {
     "id": 6284647,
-    "slug": "meer-amerikaanse-doden-steun-voor-israel-van-eu-landen-en-vs",
+    "slug": "meer-amerikaanse-doden-eu-landen-en-vs-steunen-israel",
     "type": "article",
-    "title": "Meer Amerikaanse doden, steun voor Israël van EU-landen en VS",
+    "title": "Meer Amerikaanse doden, EU-landen en VS steunen Israël",
     "subtitle": "Overzicht",
     "published_at": "2023-10-10T00:47:43+02:00",
-    "updated_at": "2023-10-10T01:05:30+02:00",
+    "updated_at": "2023-10-10T06:20:20+02:00",
     "media_id": "8v7xviuadyeg",
     "duration": null,
     "canonical_section": {
@@ -202,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6284647/meer-amerikaanse-doden-steun-voor-israel-van-eu-landen-en-vs.html",
+    "url": "/buitenland/6284647/meer-amerikaanse-doden-eu-landen-en-vs-steunen-israel.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/muziek/6284632/madison-beer-staat-in-februari-met-the-spinnin-tour-in-afas-live.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284631,
-    "slug": "gasprijs-stijgt-doordat-chevron-productie-gasveld-in-israel-staakt",
-    "type": "article",
-    "title": "Gasprijs stijgt doordat Chevron productie gasveld in Israël staakt",
-    "subtitle": null,
-    "published_at": "2023-10-09T19:47:53+02:00",
-    "updated_at": "2023-10-09T21:14:32+02:00",
-    "media_id": "o1nxox2a0bhz",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6284631/gasprijs-stijgt-doordat-chevron-productie-gasveld-in-israel-staakt.html",
     "open_new_window": false,
     "partner": null
   }
