@@ -1,5 +1,51 @@
 [
   {
+    "id": 6284939,
+    "slug": "nasa-presenteert-gruis-afkomstig-van-asteroide",
+    "type": "video",
+    "title": "NASA presenteert gruis afkomstig van asteroïde",
+    "subtitle": "Video",
+    "published_at": "2023-10-11T21:51:52+02:00",
+    "updated_at": "2023-10-11T21:51:53+02:00",
+    "media_id": "5sfx41ba4m04",
+    "duration": "1:03",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6284939/nasa-presenteert-gruis-afkomstig-van-asteroide.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6284937,
+    "slug": "klm-vliegt-toch-niet-naar-tel-aviv-veiligheid-te-groot-vraagteken",
+    "type": "article",
+    "title": "KLM vliegt toch niet naar Tel Aviv, veiligheid te groot vraagteken",
+    "subtitle": null,
+    "published_at": "2023-10-11T21:36:30+02:00",
+    "updated_at": "2023-10-11T21:40:55+02:00",
+    "media_id": "oyyxknjavcht",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6284937/klm-vliegt-toch-niet-naar-tel-aviv-veiligheid-te-groot-vraagteken.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6284936,
     "slug": "britse-minister-in-israel-zoekt-dekking-terwijl-luchtalarm-afgaat",
     "type": "video",
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6284916/bondscoach-handbalsters-praat-met-broch-over-nieuwe-rentree-deur-staat-open.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284672,
-    "slug": "botsing-van-ijsplaneten-veroorzaakt-enorme-puinwolk-die-reuzenster-dimt",
-    "type": "article",
-    "title": "Botsing van ijsplaneten veroorzaakt enorme puinwolk die reuzenster dimt",
-    "subtitle": null,
-    "published_at": "2023-10-11T17:34:58+02:00",
-    "updated_at": "2023-10-11T17:34:59+02:00",
-    "media_id": "nn6xn58aocpf",
-    "duration": null,
-    "canonical_section": {
-      "id": 478878,
-      "slug": "wetenschap",
-      "type": "default",
-      "name": "Wetenschap",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wetenschap/6284672/botsing-van-ijsplaneten-veroorzaakt-enorme-puinwolk-die-reuzenster-dimt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284914,
-    "slug": "gaspijplijn-tussen-finland-en-estland-is-zeker-vijf-maanden-onbruikbaar",
-    "type": "article",
-    "title": "Gaspijplijn tussen Finland en Estland is zeker vijf maanden onbruikbaar",
-    "subtitle": null,
-    "published_at": "2023-10-11T17:31:08+02:00",
-    "updated_at": "2023-10-11T20:02:06+02:00",
-    "media_id": "vgdxc7laskjw",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6284914/gaspijplijn-tussen-finland-en-estland-is-zeker-vijf-maanden-onbruikbaar.html",
     "open_new_window": false,
     "partner": null
   }
