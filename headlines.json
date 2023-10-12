@@ -1,5 +1,51 @@
 [
   {
+    "id": 6285043,
+    "slug": "europees-hof-e-bikers-zijn-zwakkere-verkeersdeelnemers",
+    "type": "article",
+    "title": "Europees hof: e-bikers zijn zwakkere verkeersdeelnemers",
+    "subtitle": null,
+    "published_at": "2023-10-12T16:49:58+02:00",
+    "updated_at": "2023-10-12T16:50:00+02:00",
+    "media_id": "3jmxc7da00xr",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6285043/europees-hof-e-bikers-zijn-zwakkere-verkeersdeelnemers.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6285047,
+    "slug": "rotterdam-utrecht-en-leeuwarden-gaan-digitale-meldplicht-voetbalrelschoppers-testen",
+    "type": "article",
+    "title": "Rotterdam, Utrecht en Leeuwarden gaan digitale meldplicht voetbalrelschoppers testen",
+    "subtitle": null,
+    "published_at": "2023-10-12T16:34:57+02:00",
+    "updated_at": "2023-10-12T16:38:01+02:00",
+    "media_id": "25exfzyaltqb",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6285047/rotterdam-utrecht-en-leeuwarden-gaan-digitale-meldplicht-voetbalrelschoppers-testen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6285042,
     "slug": "wijnaldum-nog-steeds-een-optie-voor-oranje-kreeg-bericht-van-zijn-trainer",
     "type": "article",
@@ -167,7 +213,7 @@
     "title": "Koeman hint op Verbruggen als keeper tegen Frankrijk: 'Jullie zijn slim genoeg'",
     "subtitle": null,
     "published_at": "2023-10-12T14:18:47+02:00",
-    "updated_at": "2023-10-12T15:53:28+02:00",
+    "updated_at": "2023-10-12T16:42:28+02:00",
     "media_id": "4auxl8faimqb",
     "duration": null,
     "canonical_section": {
@@ -213,7 +259,7 @@
     "title": "Waakhond ACM plaatst tien energieleveranciers onder verscherpt toezicht",
     "subtitle": null,
     "published_at": "2023-10-12T13:53:38+02:00",
-    "updated_at": "2023-10-12T13:53:39+02:00",
+    "updated_at": "2023-10-12T16:40:34+02:00",
     "media_id": "3frxet2af41j",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/economie/6285000/vliegmaatschappijen-leggen-vluchten-van-en-naar-israel-voorlopig-stil.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285002,
-    "slug": "mars-express-vliegt-over-uitgestrekte-valleien-op-rode-planeet",
-    "type": "video",
-    "title": "Mars Express vliegt over uitgestrekte valleien op rode planeet",
-    "subtitle": "Video",
-    "published_at": "2023-10-12T12:17:46+02:00",
-    "updated_at": "2023-10-12T12:29:38+02:00",
-    "media_id": "filxtkha4lik",
-    "duration": "0:46",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6285002/mars-express-vliegt-over-uitgestrekte-valleien-op-rode-planeet.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284999,
-    "slug": "voormalig-f1-baas-ecclestone-geeft-fraude-toe-en-moet-750-miljoen-euro-betalen",
-    "type": "article",
-    "title": "Voormalig F1-baas Ecclestone geeft fraude toe en moet 750 miljoen euro betalen",
-    "subtitle": null,
-    "published_at": "2023-10-12T12:17:09+02:00",
-    "updated_at": "2023-10-12T12:47:27+02:00",
-    "media_id": "my5xnndapuhf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6284999/voormalig-f1-baas-ecclestone-geeft-fraude-toe-en-moet-750-miljoen-euro-betalen.html",
     "open_new_window": false,
     "partner": null
   }
