@@ -1,12 +1,35 @@
 [
   {
+    "id": 6285056,
+    "slug": "dit-zijn-alle-genomineerden-van-het-televizier-gala-2023",
+    "type": "article",
+    "title": "Dit zijn alle genomineerden van het Televizier-gala 2023",
+    "subtitle": null,
+    "published_at": "2023-10-12T17:19:19+02:00",
+    "updated_at": "2023-10-12T17:19:21+02:00",
+    "media_id": "6vkxeyyaw9q8",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6285056/dit-zijn-alle-genomineerden-van-het-televizier-gala-2023.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6285058,
     "slug": "joodse-scholen-in-amsterdam-blijven-vrijdag-dicht-uit-angst-voor-incidenten",
     "type": "article",
     "title": "Joodse scholen in Amsterdam blijven vrijdag dicht uit angst voor incidenten",
     "subtitle": null,
     "published_at": "2023-10-12T17:14:22+02:00",
-    "updated_at": "2023-10-12T17:14:31+02:00",
+    "updated_at": "2023-10-12T17:20:26+02:00",
     "media_id": "ppjxwj8ahvm4",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Ministerie zet vrijdag opnieuw vluchten in om Nederlanders op te halen uit Israël",
     "subtitle": null,
     "published_at": "2023-10-12T17:02:48+02:00",
-    "updated_at": "2023-10-12T17:02:50+02:00",
+    "updated_at": "2023-10-12T17:22:16+02:00",
     "media_id": "mq9xru9a2ij6",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Wordt het tijd voor een fictie-categorie bij het Televizier-gala?",
     "subtitle": null,
     "published_at": "2023-10-12T17:02:13+02:00",
-    "updated_at": "2023-10-12T17:10:33+02:00",
+    "updated_at": "2023-10-12T17:23:15+02:00",
     "media_id": "uuvx744an2fx",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6285015/waakhond-acm-plaatst-tien-energieleveranciers-onder-verscherpt-toezicht.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285017,
-    "slug": "amerikaan-wint-op-een-na-hoogste-jackpot-ooit-17-miljard-dollar",
-    "type": "article",
-    "title": "Amerikaan wint op een na hoogste jackpot ooit: 1,7 miljard dollar",
-    "subtitle": null,
-    "published_at": "2023-10-12T13:53:08+02:00",
-    "updated_at": "2023-10-12T13:53:10+02:00",
-    "media_id": "n9qx5yvaszyj",
-    "duration": null,
-    "canonical_section": {
-      "id": 937692,
-      "slug": "opmerkelijk",
-      "type": "default",
-      "name": "Opmerkelijk",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/opmerkelijk/6285017/amerikaan-wint-op-een-na-hoogste-jackpot-ooit-17-miljard-dollar.html",
     "open_new_window": false,
     "partner": null
   }
