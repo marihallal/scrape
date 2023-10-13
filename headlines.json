@@ -1,5 +1,28 @@
 [
   {
+    "id": 6285105,
+    "slug": "vervolg-op-populaire-sitcom-frasier-vanaf-november-ook-in-nederland-te-zien",
+    "type": "article",
+    "title": "Vervolg op populaire sitcom Frasier vanaf november ook in Nederland te zien",
+    "subtitle": null,
+    "published_at": "2023-10-13T06:34:16+02:00",
+    "updated_at": "2023-10-13T06:34:17+02:00",
+    "media_id": "n9bxobzaqwua",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6285105/vervolg-op-populaire-sitcom-frasier-vanaf-november-ook-in-nederland-te-zien.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6285104,
     "slug": "jelka-van-houten-presenteert-eerste-grote-show-en-vormt-duo-met-martijn-krabbe",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Inwoners noorden Gaza opgeroepen om binnen 24 uur naar zuiden te gaan",
     "subtitle": null,
     "published_at": "2023-10-13T06:16:49+02:00",
-    "updated_at": "2023-10-13T06:16:57+02:00",
+    "updated_at": "2023-10-13T06:24:52+02:00",
     "media_id": "x6oxljnaf67h",
     "duration": null,
     "canonical_section": {
@@ -116,12 +139,12 @@
   },
   {
     "id": 6285034,
-    "slug": "door-kosten-voor-terugzending-krijgt-wehkamp-10-procent-minder-retour",
+    "slug": "wehkamp-weert-klanten-die-hele-garderobe-bestellen-en-terugzenden-met-retourkosten",
     "type": "article",
-    "title": "Door kosten voor terugzending krijgt Wehkamp 10 procent minder retour",
+    "title": "Wehkamp weert klanten die hele garderobe bestellen en terugzenden met retourkosten",
     "subtitle": null,
     "published_at": "2023-10-13T05:15:43+02:00",
-    "updated_at": "2023-10-13T06:08:01+02:00",
+    "updated_at": "2023-10-13T06:30:54+02:00",
     "media_id": "i3ox9yfaj16x",
     "duration": null,
     "canonical_section": {
@@ -133,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6285034/door-kosten-voor-terugzending-krijgt-wehkamp-10-procent-minder-retour.html",
+    "url": "/economie/6285034/wehkamp-weert-klanten-die-hele-garderobe-bestellen-en-terugzenden-met-retourkosten.html",
     "open_new_window": false,
     "partner": null
   },
@@ -190,7 +213,7 @@
     "title": "Zo'n 1.000 bommen per dag op Gazastrook, leger klaar voor invasie",
     "subtitle": "Overzicht",
     "published_at": "2023-10-13T05:11:29+02:00",
-    "updated_at": "2023-10-13T05:41:34+02:00",
+    "updated_at": "2023-10-13T06:27:16+02:00",
     "media_id": "barxq97a16gc",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6285087/tonali-en-zaniolo-verlaten-selectie-italie-wegens-onderzoek-naar-illegaal-gokken.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285082,
-    "slug": "handbalsters-beginnen-op-weg-naar-wk-met-winst-aan-ek-kwalificatiereeks",
-    "type": "article",
-    "title": "Handbalsters beginnen op weg naar WK met winst aan EK-kwalificatiereeks",
-    "subtitle": null,
-    "published_at": "2023-10-12T21:03:56+02:00",
-    "updated_at": "2023-10-12T22:00:30+02:00",
-    "media_id": "h9wxtt7a30kb",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6285082/handbalsters-beginnen-op-weg-naar-wk-met-winst-aan-ek-kwalificatiereeks.html",
     "open_new_window": false,
     "partner": null
   }
