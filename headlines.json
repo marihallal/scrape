@@ -1,5 +1,51 @@
 [
   {
+    "id": 6285196,
+    "slug": "ontslag-drie-wijkagenten-limburgse-horst-vanwege-appjes-was-onterecht",
+    "type": "article",
+    "title": "Ontslag drie wijkagenten Limburgse Horst vanwege appjes was onterecht",
+    "subtitle": null,
+    "published_at": "2023-10-13T14:02:31+02:00",
+    "updated_at": "2023-10-13T14:02:32+02:00",
+    "media_id": "sd8xb2jav1vv",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6285196/ontslag-drie-wijkagenten-limburgse-horst-vanwege-appjes-was-onterecht.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6285144,
+    "slug": "raketten-drones-en-tunnels-dit-kan-worden-verwacht-van-een-israelisch-offensief",
+    "type": "article",
+    "title": "Raketten, drones en tunnels: dit kan worden verwacht van een Israëlisch offensief",
+    "subtitle": null,
+    "published_at": "2023-10-13T14:00:37+02:00",
+    "updated_at": "2023-10-13T14:23:37+02:00",
+    "media_id": "5ajxbo0a8ffd",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772085,
+      "slug": "midden-oostenconflict",
+      "type": "default",
+      "name": "Gazaconflict",
+      "style": "nu",
+      "media_id": "m1oxeovaiadm",
+      "partner": null
+    },
+    "url": "/midden-oostenconflict/6285144/raketten-drones-en-tunnels-dit-kan-worden-verwacht-van-een-israelisch-offensief.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6285197,
     "slug": "onrust-rondom-franse-school-na-dodelijke-steekpartij",
     "type": "video",
@@ -98,7 +144,7 @@
     "title": "Patstelling in EU over glyfosaat: geen meerderheid voor of tegen het middel",
     "subtitle": null,
     "published_at": "2023-10-13T12:32:34+02:00",
-    "updated_at": "2023-10-13T13:33:09+02:00",
+    "updated_at": "2023-10-13T14:19:06+02:00",
     "media_id": "bqdx2xza28sr",
     "duration": null,
     "canonical_section": {
@@ -144,7 +190,7 @@
     "title": "Dode bij steekpartij op Franse middelbare school, terrorismeonderzoek gestart",
     "subtitle": null,
     "published_at": "2023-10-13T12:25:06+02:00",
-    "updated_at": "2023-10-13T13:44:27+02:00",
+    "updated_at": "2023-10-13T14:08:27+02:00",
     "media_id": "fgzxancaunm1",
     "duration": null,
     "canonical_section": {
@@ -351,7 +397,7 @@
     "title": "Woning en kantoor advocaat Yehudi Moszkowicz doorzocht na arrestatie in België",
     "subtitle": null,
     "published_at": "2023-10-13T11:29:27+02:00",
-    "updated_at": "2023-10-13T11:59:46+02:00",
+    "updated_at": "2023-10-13T14:04:29+02:00",
     "media_id": "zxsxtvaas0m5",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6284976/opvang-voor-oekrainers-blijft-overvol-vrije-plek-is-binnen-24-uur-weer-bezet.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285146,
-    "slug": "neymar-krijgt-zak-popcorn-tegen-zijn-hoofd-na-gelijkspel-brazilie-in-wk-kwalificatie",
-    "type": "article",
-    "title": "Neymar krijgt zak popcorn tegen zijn hoofd na gelijkspel Brazilië in WK-kwalificatie",
-    "subtitle": null,
-    "published_at": "2023-10-13T11:21:29+02:00",
-    "updated_at": "2023-10-13T11:21:31+02:00",
-    "media_id": "lrvxj5bad2tr",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6285146/neymar-krijgt-zak-popcorn-tegen-zijn-hoofd-na-gelijkspel-brazilie-in-wk-kwalificatie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283646,
-    "slug": "politie-mag-waterkanon-blijven-inzetten-bij-klimaatdemonstraties-op-a12",
-    "type": "article",
-    "title": "Politie mag waterkanon blijven inzetten bij klimaatdemonstraties op A12",
-    "subtitle": null,
-    "published_at": "2023-10-13T11:06:39+02:00",
-    "updated_at": "2023-10-13T11:31:06+02:00",
-    "media_id": "6fvxs97awa1m",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6283646/politie-mag-waterkanon-blijven-inzetten-bij-klimaatdemonstraties-op-a12.html",
     "open_new_window": false,
     "partner": null
   }
