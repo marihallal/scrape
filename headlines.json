@@ -1,5 +1,28 @@
 [
   {
+    "id": 6285294,
+    "slug": "dnb-baas-knot-ziet-einde-van-periode-met-steeds-harder-stijgende-lonen",
+    "type": "article",
+    "title": "DNB-baas Knot ziet einde van periode met steeds harder stijgende lonen",
+    "subtitle": null,
+    "published_at": "2023-10-14T09:28:54+02:00",
+    "updated_at": "2023-10-14T09:28:56+02:00",
+    "media_id": "j7jxeuta7hbq",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6285294/dnb-baas-knot-ziet-einde-van-periode-met-steeds-harder-stijgende-lonen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6285292,
     "slug": "kooij-sprint-naar-soevereine-zege-in-tour-of-guangxi-volledig-nederlands-podium",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Michael Caine bevestigt dat hij met pensioen gaat",
     "subtitle": null,
     "published_at": "2023-10-14T09:04:25+02:00",
-    "updated_at": "2023-10-14T09:04:29+02:00",
+    "updated_at": "2023-10-14T09:33:03+02:00",
     "media_id": "4rixnyga6vd0",
     "duration": null,
     "canonical_section": {
@@ -144,7 +167,7 @@
     "title": "Inwoners Gaza krijgen meer tijd om te vluchten, militairen hebben gebied omsingeld",
     "subtitle": null,
     "published_at": "2023-10-14T08:00:14+02:00",
-    "updated_at": "2023-10-14T09:13:27+02:00",
+    "updated_at": "2023-10-14T09:18:01+02:00",
     "media_id": "tgaxb4razkcc",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wielrennen/6285269/kersverse-moeder-ellen-van-dijk-raakt-werelduurrecord-kwijt-aan-italiaanse-bussi.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285270,
-    "slug": "koeman-kritisch-op-verdediging-oranje-dit-soort-fouten-straffen-ze-af",
-    "type": "article",
-    "title": "Koeman kritisch op verdediging Oranje: 'Dit soort fouten straffen ze af'",
-    "subtitle": null,
-    "published_at": "2023-10-14T00:01:22+02:00",
-    "updated_at": "2023-10-14T08:10:50+02:00",
-    "media_id": "7hyx19gah74g",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6285270/koeman-kritisch-op-verdediging-oranje-dit-soort-fouten-straffen-ze-af.html",
     "open_new_window": false,
     "partner": null
   }
