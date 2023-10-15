@@ -1,5 +1,28 @@
 [
   {
+    "id": 6285372,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-10-15T05:42:27+02:00",
+    "updated_at": "2023-10-15T05:42:28+02:00",
+    "media_id": "xdtxc8kaj8rf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6285372/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6285138,
     "slug": "hoe-radioactief-is-het-water-rond-fukushima-nieuw-onderzoek-moet-het-aantonen",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6285354/argentinie-verrast-wales-in-kraker-en-treft-nieuw-zeeland-in-halve-finale-wk-rugby.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285355,
-    "slug": "man-opgepakt-na-vondst-lichaam-van-75-jarige-vrouw-in-brabants-bos",
-    "type": "article",
-    "title": "Man opgepakt na vondst lichaam van 75-jarige vrouw in Brabants bos",
-    "subtitle": null,
-    "published_at": "2023-10-14T19:37:32+02:00",
-    "updated_at": "2023-10-14T20:47:15+02:00",
-    "media_id": "u9jxmwvaubcc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6285355/man-opgepakt-na-vondst-lichaam-van-75-jarige-vrouw-in-brabants-bos.html",
     "open_new_window": false,
     "partner": null
   }
