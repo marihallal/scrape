@@ -1,12 +1,35 @@
 [
   {
-    "id": 6285418,
-    "slug": "sprintkoning-philipsen-verslaat-cees-bol-opnieuw-lutsenko-pakt-eindzege-in-turkije",
+    "id": 6285421,
+    "slug": "feyenoord-vrouwen-dieper-in-de-problemen-na-nederlaag-in-stadsderby",
     "type": "article",
-    "title": "Sprintkoning Philipsen verslaat Cees Bol opnieuw, Lutsenko pakt eindzege in Turkije",
+    "title": "Feyenoord Vrouwen dieper in de problemen na nederlaag in stadsderby",
+    "subtitle": null,
+    "published_at": "2023-10-15T14:43:41+02:00",
+    "updated_at": "2023-10-15T14:55:04+02:00",
+    "media_id": "il2xrfna0chc",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6285421/feyenoord-vrouwen-dieper-in-de-problemen-na-nederlaag-in-stadsderby.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6285418,
+    "slug": "sprintkoning-philipsen-klopt-cees-bol-opnieuw-lutsenko-pakt-eindzege-in-turkije",
+    "type": "article",
+    "title": "Sprintkoning Philipsen klopt Cees Bol opnieuw, Lutsenko pakt eindzege in Turkije",
     "subtitle": null,
     "published_at": "2023-10-15T14:33:20+02:00",
-    "updated_at": "2023-10-15T14:33:21+02:00",
+    "updated_at": "2023-10-15T14:46:41+02:00",
     "media_id": "pgfx5r0adxh4",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/wielrennen/6285418/sprintkoning-philipsen-verslaat-cees-bol-opnieuw-lutsenko-pakt-eindzege-in-turkije.html",
+    "url": "/wielrennen/6285418/sprintkoning-philipsen-klopt-cees-bol-opnieuw-lutsenko-pakt-eindzege-in-turkije.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6285392/fnv-organiseert-landelijke-stakingsdag-voor-betere-cao-in-houthandel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285389,
-    "slug": "bagnaia-profiteert-van-crash-wk-leider-martin-veijer-evenaart-beste-moto3-uitslag",
-    "type": "article",
-    "title": "Bagnaia profiteert van crash WK-leider Martín, Veijer evenaart beste Moto3-uitslag",
-    "subtitle": null,
-    "published_at": "2023-10-15T10:32:45+02:00",
-    "updated_at": "2023-10-15T10:52:41+02:00",
-    "media_id": "lgtx0keaacci",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6285389/bagnaia-profiteert-van-crash-wk-leider-martin-veijer-evenaart-beste-moto3-uitslag.html",
     "open_new_window": false,
     "partner": null
   }
