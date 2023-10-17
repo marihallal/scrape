@@ -1,5 +1,28 @@
 [
   {
+    "id": 6285754,
+    "slug": "geen-andere-rechter-in-zaak-rond-van-terrorisme-verdachte-tilburger",
+    "type": "article",
+    "title": "Geen andere rechter in zaak rond van terrorisme verdachte Tilburger",
+    "subtitle": null,
+    "published_at": "2023-10-17T20:52:02+02:00",
+    "updated_at": "2023-10-17T20:52:03+02:00",
+    "media_id": "rxsx6h5auhl8",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6285754/geen-andere-rechter-in-zaak-rond-van-terrorisme-verdachte-tilburger.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6285757,
     "slug": "nederlandse-cricketers-stunten-tegen-zuid-afrika-met-derde-wk-zege-ooit",
     "type": "article",
@@ -24,12 +47,12 @@
   },
   {
     "id": 6285755,
-    "slug": "autoriteiten-gaza-melden-honderden-doden-na-israelische-luchtaanval-op-ziekenhuis",
+    "slug": "autoriteiten-gaza-melden-honderden-doden-na-luchtaanval-op-ziekenhuis",
     "type": "article",
-    "title": "Autoriteiten Gaza melden honderden doden na Israëlische luchtaanval op ziekenhuis",
+    "title": "Autoriteiten Gaza melden honderden doden na luchtaanval op ziekenhuis",
     "subtitle": null,
     "published_at": "2023-10-17T19:49:41+02:00",
-    "updated_at": "2023-10-17T20:14:50+02:00",
+    "updated_at": "2023-10-17T20:48:27+02:00",
     "media_id": "4bnxocya0sil",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6285755/autoriteiten-gaza-melden-honderden-doden-na-israelische-luchtaanval-op-ziekenhuis.html",
+    "url": "/buitenland/6285755/autoriteiten-gaza-melden-honderden-doden-na-luchtaanval-op-ziekenhuis.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +75,7 @@
     "title": "Anwar El Ghazi geschorst bij Mainz wegens standpunt over conflict Israël-Hamas",
     "subtitle": null,
     "published_at": "2023-10-17T19:29:38+02:00",
-    "updated_at": "2023-10-17T20:13:28+02:00",
+    "updated_at": "2023-10-17T20:29:30+02:00",
     "media_id": "3imxdl1aa1hh",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6285732/volgende-week-zes-dagen-lang-bussen-in-plaats-van-treinen-op-deel-flevolijn.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284979,
-    "slug": "zes-sensationele-renners-een-seizoen-niet-iedereen-zal-tevreden-zijn",
-    "type": "article",
-    "title": "Zes sensationele renners, één seizoen: niet iedereen zal tevreden zijn",
-    "subtitle": "NU+",
-    "published_at": "2023-10-17T16:58:10+02:00",
-    "updated_at": "2023-10-17T18:20:30+02:00",
-    "media_id": "x7wxon0ay695",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6284979/zes-sensationele-renners-een-seizoen-niet-iedereen-zal-tevreden-zijn.html",
     "open_new_window": false,
     "partner": null
   }
