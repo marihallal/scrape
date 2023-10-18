@@ -1,5 +1,51 @@
 [
   {
+    "id": 6285873,
+    "slug": "griekspoor-kwartfinalist-in-stockholm-van-de-zandschulp-treft-tsitsipas-in-belgie",
+    "type": "article",
+    "title": "Griekspoor kwartfinalist in Stockholm, Van de Zandschulp treft Tsitsipás in België",
+    "subtitle": null,
+    "published_at": "2023-10-18T16:49:16+02:00",
+    "updated_at": "2023-10-18T16:49:18+02:00",
+    "media_id": "qgcx8s1agcbd",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6285873/griekspoor-kwartfinalist-in-stockholm-van-de-zandschulp-treft-tsitsipas-in-belgie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6285860,
+    "slug": "wat-betekent-from-the-river-to-the-sea-palestine-will-be-free",
+    "type": "article",
+    "title": "Wat betekent 'From the river to the sea, Palestine will be free'?",
+    "subtitle": "In 100 woorden",
+    "published_at": "2023-10-18T16:43:38+02:00",
+    "updated_at": "2023-10-18T16:43:40+02:00",
+    "media_id": "5gjxypoaptn2",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779003,
+      "slug": "gebaseerd-op-jullie-vragen",
+      "type": "default",
+      "name": "Gebaseerd op NUjij",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/gebaseerd-op-jullie-vragen/6285860/wat-betekent-from-the-river-to-the-sea-palestine-will-be-free.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6285869,
     "slug": "jumbo-visma-verrast-met-komst-ex-militair-bart-lemmen-we-zijn-heel-benieuwd",
     "type": "article",
@@ -52,7 +98,7 @@
     "title": "Achttien maanden cel voor kroongetuige die loog over zwembadmoord in Marum",
     "subtitle": null,
     "published_at": "2023-10-18T15:23:35+02:00",
-    "updated_at": "2023-10-18T15:23:36+02:00",
+    "updated_at": "2023-10-18T16:48:35+02:00",
     "media_id": "eaqxusoaks0w",
     "duration": null,
     "canonical_section": {
@@ -144,7 +190,7 @@
     "title": "KNVB ziet afname van incidenten in stadions: 'Maar zijn nog niet waar we willen'",
     "subtitle": null,
     "published_at": "2023-10-18T15:04:10+02:00",
-    "updated_at": "2023-10-18T15:04:11+02:00",
+    "updated_at": "2023-10-18T16:49:26+02:00",
     "media_id": "9aixkosaa9b3",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6285835/opnieuw-bommeldingen-in-frankrijk-meerdere-luchthavens-ontruimd.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285843,
-    "slug": "duizenden-kilos-sinaasappels-belanden-op-weg-bij-wateringen",
-    "type": "video",
-    "title": "Duizenden kilo’s sinaasappels belanden op weg bij Wateringen",
-    "subtitle": "Video",
-    "published_at": "2023-10-18T13:02:51+02:00",
-    "updated_at": "2023-10-18T13:02:53+02:00",
-    "media_id": "apbxktpaz4up",
-    "duration": "0:32",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6285843/duizenden-kilos-sinaasappels-belanden-op-weg-bij-wateringen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285838,
-    "slug": "shell-sluit-groot-contract-met-qatarenergy-voor-levering-gas-aan-nederland",
-    "type": "article",
-    "title": "Shell sluit groot contract met QatarEnergy voor levering gas aan Nederland",
-    "subtitle": null,
-    "published_at": "2023-10-18T12:55:33+02:00",
-    "updated_at": "2023-10-18T12:55:34+02:00",
-    "media_id": "n4vx78xavd42",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6285838/shell-sluit-groot-contract-met-qatarenergy-voor-levering-gas-aan-nederland.html",
     "open_new_window": false,
     "partner": null
   }
