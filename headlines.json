@@ -1,5 +1,28 @@
 [
   {
+    "id": 6285815,
+    "slug": "ook-zweden-wil-duel-met-belgie-niet-uitspelen-uefa-beslist-uiterlijk-vrijdag",
+    "type": "article",
+    "title": "Ook Zweden wil duel met België niet uitspelen, UEFA beslist uiterlijk vrijdag",
+    "subtitle": null,
+    "published_at": "2023-10-18T10:45:56+02:00",
+    "updated_at": "2023-10-18T10:47:55+02:00",
+    "media_id": "c0mxytnarr9x",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6285815/ook-zweden-wil-duel-met-belgie-niet-uitspelen-uefa-beslist-uiterlijk-vrijdag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6285813,
     "slug": "palestijnen-brengen-gewonden-naar-ander-ziekenhuis-na-raketinslag",
     "type": "video",
@@ -121,7 +144,7 @@
     "title": "Wat we wel en vooral nog niet weten over de explosie bij het ziekenhuis in Gaza",
     "subtitle": null,
     "published_at": "2023-10-18T10:00:54+02:00",
-    "updated_at": "2023-10-18T10:21:02+02:00",
+    "updated_at": "2023-10-18T10:50:20+02:00",
     "media_id": "7lsxxyqaywc7",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/weerbericht/6285776/zon-doet-zijn-uiterste-best-strandwandelaars-moeten-letten-op-wind.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285775,
-    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
-    "type": "article",
-    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
-    "subtitle": null,
-    "published_at": "2023-10-18T05:16:22+02:00",
-    "updated_at": "2023-10-18T05:16:23+02:00",
-    "media_id": "xdtxc8kaj8rf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1773179,
-      "slug": "uitgelicht",
-      "type": "default",
-      "name": "Uitgelicht",
-      "style": "mediapartner-external",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/uitgelicht/6285775/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
     "open_new_window": false,
     "partner": null
   }
