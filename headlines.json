@@ -1,12 +1,35 @@
 [
   {
-    "id": 6286043,
-    "slug": "oud-advocaat-trump-bekend-schuld-in-verkiezingsfraudezaak-georgia",
+    "id": 6286045,
+    "slug": "will-smith-ik-ga-jada-voor-de-rest-van-mijn-leven-steunen",
     "type": "article",
-    "title": "Oud-advocaat Trump bekend schuld in verkiezingsfraudezaak Georgia",
+    "title": "Will Smith: 'Ik ga Jada voor de rest van mijn leven steunen'",
+    "subtitle": null,
+    "published_at": "2023-10-19T19:49:03+02:00",
+    "updated_at": "2023-10-19T19:49:04+02:00",
+    "media_id": "5u5x95ra677o",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6286045/will-smith-ik-ga-jada-voor-de-rest-van-mijn-leven-steunen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6286043,
+    "slug": "oud-advocaat-trump-bekent-schuld-in-verkiezingsfraudezaak-georgia",
+    "type": "article",
+    "title": "Oud-advocaat Trump bekent schuld in verkiezingsfraudezaak Georgia",
     "subtitle": null,
     "published_at": "2023-10-19T19:30:30+02:00",
-    "updated_at": "2023-10-19T19:30:31+02:00",
+    "updated_at": "2023-10-19T19:45:15+02:00",
     "media_id": "nvoxcrdaewmb",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6286043/oud-advocaat-trump-bekend-schuld-in-verkiezingsfraudezaak-georgia.html",
+    "url": "/buitenland/6286043/oud-advocaat-trump-bekent-schuld-in-verkiezingsfraudezaak-georgia.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +52,7 @@
     "title": "Gakpo hervat groepstraining bij Liverpool in aanloop naar derby tegen Everton",
     "subtitle": null,
     "published_at": "2023-10-19T19:25:37+02:00",
-    "updated_at": "2023-10-19T19:25:38+02:00",
+    "updated_at": "2023-10-19T19:39:04+02:00",
     "media_id": "jwkxl1fa90vc",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6286003/honderden-dieren-gered-uit-handen-van-illegale-spaanse-handelaren.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285972,
-    "slug": "is-er-frictie-bij-red-bull-tussen-horner-en-marko",
-    "type": "audio",
-    "title": "'Is er frictie bij Red Bull tussen Horner en Marko?'",
-    "subtitle": "Podcast De Boordradio",
-    "published_at": "2023-10-19T15:31:57+02:00",
-    "updated_at": "2023-10-19T15:31:58+02:00",
-    "media_id": "36tx2lgapggp",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6285972/is-er-frictie-bij-red-bull-tussen-horner-en-marko.html",
     "open_new_window": false,
     "partner": null
   }
