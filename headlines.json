@@ -1,13 +1,59 @@
 [
   {
-    "id": 6286211,
-    "slug": "coureurs-begonnen-aan-belangrijke-training-in-vs",
+    "id": 6286213,
+    "slug": "belgische-justitieminister-stapt-op-vanwege-fouten-rond-aanslag-in-brussel",
     "type": "article",
-    "title": "Coureurs begonnen aan belangrijke training in VS",
+    "title": "Belgische justitieminister stapt op vanwege fouten rond aanslag in Brussel",
+    "subtitle": null,
+    "published_at": "2023-10-20T19:51:39+02:00",
+    "updated_at": "2023-10-20T19:51:41+02:00",
+    "media_id": "8wuxlv3ayf5u",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6286213/belgische-justitieminister-stapt-op-vanwege-fouten-rond-aanslag-in-brussel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6286212,
+    "slug": "wereldkampioen-papu-gomez-voor-twee-jaar-geschorst-na-positieve-dopingtest",
+    "type": "article",
+    "title": "Wereldkampioen Papu Gómez voor twee jaar geschorst na positieve dopingtest",
+    "subtitle": null,
+    "published_at": "2023-10-20T19:34:37+02:00",
+    "updated_at": "2023-10-20T19:43:05+02:00",
+    "media_id": "dtsx6p3aclwr",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6286212/wereldkampioen-papu-gomez-voor-twee-jaar-geschorst-na-positieve-dopingtest.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6286211,
+    "slug": "hamilton-voorlopig-sneller-dan-verstappen-in-eerste-training-gp-amerika",
+    "type": "article",
+    "title": "Hamilton voorlopig sneller dan Verstappen in eerste training GP Amerika",
     "subtitle": "Liveblog",
     "published_at": "2023-10-20T19:17:25+02:00",
-    "updated_at": "2023-10-20T19:31:02+02:00",
-    "media_id": "ewax9n6a3qh4",
+    "updated_at": "2023-10-20T19:51:21+02:00",
+    "media_id": "dfgxn4ba4xob",
     "duration": null,
     "canonical_section": {
       "id": 1772449,
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6286211/coureurs-begonnen-aan-belangrijke-training-in-vs.html",
+    "url": "/formule-1/6286211/hamilton-voorlopig-sneller-dan-verstappen-in-eerste-training-gp-amerika.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/videos/6286167/olifanten-in-amerikaanse-dierentuin-slaan-reuzepompoenen-kapot.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6286160,
-    "slug": "tot-drie-jaar-cel-voor-negen-verdachten-brute-vergisontvoering-cruquius",
-    "type": "article",
-    "title": "Tot drie jaar cel voor negen verdachten brute vergisontvoering Cruquius",
-    "subtitle": null,
-    "published_at": "2023-10-20T15:34:56+02:00",
-    "updated_at": "2023-10-20T15:50:11+02:00",
-    "media_id": "gyrx3mkaj7v7",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6286160/tot-drie-jaar-cel-voor-negen-verdachten-brute-vergisontvoering-cruquius.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6286159,
-    "slug": "psv-mist-noa-lang-tegen-fortuna-en-waarschijnlijk-ook-tegen-rc-lens-en-ajax",
-    "type": "article",
-    "title": "PSV mist Noa Lang tegen Fortuna en waarschijnlijk ook tegen RC Lens en Ajax",
-    "subtitle": null,
-    "published_at": "2023-10-20T15:22:06+02:00",
-    "updated_at": "2023-10-20T17:01:21+02:00",
-    "media_id": "akmx64sac4hk",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6286159/psv-mist-noa-lang-tegen-fortuna-en-waarschijnlijk-ook-tegen-rc-lens-en-ajax.html",
     "open_new_window": false,
     "partner": null
   }
