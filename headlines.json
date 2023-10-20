@@ -1,5 +1,51 @@
 [
   {
+    "id": 6286127,
+    "slug": "om-luisterde-journalisten-af-in-strafrechtelijk-onderzoek-naar-sywert-van-lienden",
+    "type": "article",
+    "title": "OM luisterde journalisten af in strafrechtelijk onderzoek naar Sywert van Lienden",
+    "subtitle": null,
+    "published_at": "2023-10-20T12:48:34+02:00",
+    "updated_at": "2023-10-20T12:48:35+02:00",
+    "media_id": "jh2x27paub4e",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6286127/om-luisterde-journalisten-af-in-strafrechtelijk-onderzoek-naar-sywert-van-lienden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6286126,
+    "slug": "de-ligt-krijgt-zaterdag-bij-rentree-meteen-basisplaats-bij-bayern-munchen",
+    "type": "article",
+    "title": "De Ligt krijgt zaterdag bij rentree meteen basisplaats bij Bayern München",
+    "subtitle": null,
+    "published_at": "2023-10-20T12:44:41+02:00",
+    "updated_at": "2023-10-20T12:44:42+02:00",
+    "media_id": "zzqx3eqax3od",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6286126/de-ligt-krijgt-zaterdag-bij-rentree-meteen-basisplaats-bij-bayern-munchen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6286121,
     "slug": "verdachte-steekincident-leiden-had-bloedspoor-dodelijk-slachtoffer-onder-schoen",
     "type": "article",
@@ -190,7 +236,7 @@
     "title": "Vrouw die Matthew McConaughey stalkt krijgt straatverbod van vijf jaar",
     "subtitle": null,
     "published_at": "2023-10-20T11:10:34+02:00",
-    "updated_at": "2023-10-20T11:10:36+02:00",
+    "updated_at": "2023-10-20T12:47:09+02:00",
     "media_id": "auexod0adrxq",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6286096/ontevreden-nba-ster-harden-blijft-weg-bij-sixers-in-aanloop-naar-seizoensstart.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6286092,
-    "slug": "gwen-stefani-geeerd-met-ster-in-hollywood-dit-is-belachelijk",
-    "type": "video",
-    "title": "Gwen Stefani geëerd met ster in Hollywood: 'Dit is belachelijk'",
-    "subtitle": "Video",
-    "published_at": "2023-10-20T09:46:25+02:00",
-    "updated_at": "2023-10-20T09:46:26+02:00",
-    "media_id": "1alxqpsai81j",
-    "duration": "0:52",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6286092/gwen-stefani-geeerd-met-ster-in-hollywood-dit-is-belachelijk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6286086,
-    "slug": "emma-wortelboer-heeft-nieuwe-vriend-niet-zwanger-van-tomer-maar-van-lars",
-    "type": "article",
-    "title": "Emma Wortelboer heeft nieuwe vriend: 'Niet zwanger van Tomer maar van Lars'",
-    "subtitle": null,
-    "published_at": "2023-10-20T09:23:45+02:00",
-    "updated_at": "2023-10-20T10:35:36+02:00",
-    "media_id": "a7kx2pea6aop",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6286086/emma-wortelboer-heeft-nieuwe-vriend-niet-zwanger-van-tomer-maar-van-lars.html",
     "open_new_window": false,
     "partner": null
   }
