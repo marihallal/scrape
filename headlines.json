@@ -1,5 +1,51 @@
 [
   {
+    "id": 6286101,
+    "slug": "filmcomponist-danny-elfman-opnieuw-beschuldigd-van-seksueel-wangedrag",
+    "type": "article",
+    "title": "Filmcomponist Danny Elfman opnieuw beschuldigd van seksueel wangedrag",
+    "subtitle": null,
+    "published_at": "2023-10-20T10:33:00+02:00",
+    "updated_at": "2023-10-20T10:33:02+02:00",
+    "media_id": "npfxc38ab6gl",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6286101/filmcomponist-danny-elfman-opnieuw-beschuldigd-van-seksueel-wangedrag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6286102,
+    "slug": "nederlanders-opgeroepen-libanon-volledig-te-verlaten-reisadvies-op-rood",
+    "type": "article",
+    "title": "Nederlanders opgeroepen Libanon volledig te verlaten: reisadvies op rood",
+    "subtitle": null,
+    "published_at": "2023-10-20T10:24:55+02:00",
+    "updated_at": "2023-10-20T10:25:16+02:00",
+    "media_id": "c9ixoeaawpvv",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772085,
+      "slug": "midden-oostenconflict",
+      "type": "default",
+      "name": "Gazaconflict",
+      "style": "nu",
+      "media_id": "m1oxeovaiadm",
+      "partner": null
+    },
+    "url": "/midden-oostenconflict/6286102/nederlanders-opgeroepen-libanon-volledig-te-verlaten-reisadvies-op-rood.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6286099,
     "slug": "china-legt-export-van-grondstoffen-voor-accus-verder-aan-banden",
     "type": "article",
@@ -75,7 +121,7 @@
     "title": "Emma Wortelboer heeft nieuwe vriend: 'Niet zwanger van Tomer maar van Lars'",
     "subtitle": null,
     "published_at": "2023-10-20T09:23:45+02:00",
-    "updated_at": "2023-10-20T09:23:46+02:00",
+    "updated_at": "2023-10-20T10:34:34+02:00",
     "media_id": "a7kx2pea6aop",
     "duration": null,
     "canonical_section": {
@@ -374,7 +420,7 @@
     "title": "Nederlanders gooiden vorig jaar minder afval weg, veel vuilnis op de Wadden",
     "subtitle": null,
     "published_at": "2023-10-20T05:27:01+02:00",
-    "updated_at": "2023-10-20T07:22:41+02:00",
+    "updated_at": "2023-10-20T10:32:15+02:00",
     "media_id": "8q0x85mat109",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/schaatsen/6286061/shorttrackwinter-start-zonder-schulting-en-knegt-maar-met-nieuwe-ster-velzeboer.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6286042,
-    "slug": "vooruitblik-gp-vs-verstappen-ondanks-hobbels-favoriet-ferrari-outsider",
-    "type": "article",
-    "title": "Vooruitblik GP VS: 'Verstappen ondanks hobbels favoriet, Ferrari outsider'",
-    "subtitle": "NU+",
-    "published_at": "2023-10-20T05:11:16+02:00",
-    "updated_at": "2023-10-20T08:53:54+02:00",
-    "media_id": "5apxvyba0553",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6286042/vooruitblik-gp-vs-verstappen-ondanks-hobbels-favoriet-ferrari-outsider.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285841,
-    "slug": "shady-el-hamus-castte-vader-en-broer-in-eigen-netflix-film-echt-genieten",
-    "type": "article",
-    "title": "Shady El-Hamus castte vader en broer in eigen Netflix-film: 'Echt genieten'",
-    "subtitle": "NU+",
-    "published_at": "2023-10-20T05:08:20+02:00",
-    "updated_at": "2023-10-20T07:36:46+02:00",
-    "media_id": "mppxejta9u6f",
-    "duration": null,
-    "canonical_section": {
-      "id": 127,
-      "slug": "film",
-      "type": "default",
-      "name": "Films & Series",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/film/6285841/shady-el-hamus-castte-vader-en-broer-in-eigen-netflix-film-echt-genieten.html",
     "open_new_window": false,
     "partner": null
   }
