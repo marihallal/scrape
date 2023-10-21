@@ -1,5 +1,28 @@
 [
   {
+    "id": 6286237,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-10-21T06:40:28+02:00",
+    "updated_at": "2023-10-21T06:40:29+02:00",
+    "media_id": "xdtxc8kaj8rf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6286237/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6286162,
     "slug": "waarom-er-zoveel-kinderen-onder-de-palestijnse-slachtoffers-zijn",
     "type": "video",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6286221/meerdere-doden-in-schotland-doordat-storm-babet-aan-land-komt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6286217,
-    "slug": "verstappen-de-snelste-in-enige-training-in-texas-leclerc-tweede",
-    "type": "article",
-    "title": "Verstappen de snelste in enige training in Texas, Leclerc tweede",
-    "subtitle": null,
-    "published_at": "2023-10-20T20:38:24+02:00",
-    "updated_at": "2023-10-20T21:11:19+02:00",
-    "media_id": "7xpx3s0a1ksl",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6286217/verstappen-de-snelste-in-enige-training-in-texas-leclerc-tweede.html",
     "open_new_window": false,
     "partner": null
   }
