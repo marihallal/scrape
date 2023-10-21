@@ -1,12 +1,58 @@
 [
   {
-    "id": 6286267,
-    "slug": "man-met-koffer-vol-goud-aangehouden-herkomst-onbekend",
+    "id": 6286269,
+    "slug": "the-streamers-geven-extra-concert-in-gelredome",
     "type": "article",
-    "title": "Man met koffer vol goud aangehouden, herkomst onbekend",
+    "title": "The Streamers geven extra concert in GelreDome",
+    "subtitle": null,
+    "published_at": "2023-10-21T12:49:51+02:00",
+    "updated_at": "2023-10-21T12:49:57+02:00",
+    "media_id": "rdwxymga2weq",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6286269/the-streamers-geven-extra-concert-in-gelredome.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6286268,
+    "slug": "vierde-persoon-omgekomen-door-storm-babet",
+    "type": "video",
+    "title": "Vierde persoon omgekomen door storm Babet",
+    "subtitle": null,
+    "published_at": "2023-10-21T12:46:17+02:00",
+    "updated_at": "2023-10-21T12:46:18+02:00",
+    "media_id": "gvzxkn9akexw",
+    "duration": "0:46",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6286268/vierde-persoon-omgekomen-door-storm-babet.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6286267,
+    "slug": "man-met-koffer-vol-goud-aangehouden-op-a1-herkomst-onbekend",
+    "type": "article",
+    "title": "Man met koffer vol goud aangehouden op A1, herkomst onbekend",
     "subtitle": null,
     "published_at": "2023-10-21T12:30:30+02:00",
-    "updated_at": "2023-10-21T12:32:23+02:00",
+    "updated_at": "2023-10-21T12:46:44+02:00",
     "media_id": "mlsx3rtavvd7",
     "duration": null,
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6286267/man-met-koffer-vol-goud-aangehouden-herkomst-onbekend.html",
+    "url": "/binnenland/6286267/man-met-koffer-vol-goud-aangehouden-op-a1-herkomst-onbekend.html",
     "open_new_window": false,
     "partner": null
   },
@@ -98,7 +144,7 @@
     "title": "Sterren schrijven open brief aan Biden: 'Beëindig het lijden'",
     "subtitle": null,
     "published_at": "2023-10-21T11:43:12+02:00",
-    "updated_at": "2023-10-21T11:46:32+02:00",
+    "updated_at": "2023-10-21T12:38:25+02:00",
     "media_id": "0x1x4ifaq2ts",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/videos/6286244/opnieuw-wereldwijd-protesten-vanwege-situatie-in-gaza.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6286243,
-    "slug": "egypte-laat-eerste-vrachtwagens-met-hulpgoederen-door-naar-gaza-grens-weer-dicht",
-    "type": "article",
-    "title": "Egypte laat eerste vrachtwagens met hulpgoederen door naar Gaza, grens weer dicht",
-    "subtitle": null,
-    "published_at": "2023-10-21T08:39:59+02:00",
-    "updated_at": "2023-10-21T11:55:36+02:00",
-    "media_id": "gr5xa2bawqx0",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6286243/egypte-laat-eerste-vrachtwagens-met-hulpgoederen-door-naar-gaza-grens-weer-dicht.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6286242,
-    "slug": "bewolkte-zaterdag-s-avonds-weer-regen",
-    "type": "article",
-    "title": "Bewolkte zaterdag, 's avonds weer regen",
-    "subtitle": "Weerbericht",
-    "published_at": "2023-10-21T08:37:48+02:00",
-    "updated_at": "2023-10-21T08:52:48+02:00",
-    "media_id": "whexxt3a8squ",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779283,
-      "slug": "weerbericht",
-      "type": "default",
-      "name": "Weerbericht",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/weerbericht/6286242/bewolkte-zaterdag-s-avonds-weer-regen.html",
     "open_new_window": false,
     "partner": null
   }
