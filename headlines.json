@@ -1,12 +1,35 @@
 [
   {
+    "id": 6286683,
+    "slug": "ajax-schuift-dave-vos-voorlopig-door-als-assistent-van-interim-coach-maduro",
+    "type": "article",
+    "title": "Ajax schuift Dave Vos voorlopig door als assistent van interim-coach Maduro",
+    "subtitle": null,
+    "published_at": "2023-10-24T16:50:19+02:00",
+    "updated_at": "2023-10-24T16:50:21+02:00",
+    "media_id": "t7pxc8laluz7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6286683/ajax-schuift-dave-vos-voorlopig-door-als-assistent-van-interim-coach-maduro.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6286679,
     "slug": "minder-voor-meer-consumentenbond-stapt-naar-de-rechter-om-krimpflatie",
     "type": "article",
     "title": "Minder voor meer: Consumentenbond stapt naar de rechter om krimpflatie",
     "subtitle": null,
     "published_at": "2023-10-24T16:27:13+02:00",
-    "updated_at": "2023-10-24T16:27:14+02:00",
+    "updated_at": "2023-10-24T16:32:49+02:00",
     "media_id": "b1txmc6ah3rl",
     "duration": null,
     "canonical_section": {
@@ -144,7 +167,7 @@
     "title": "Feyenoord-spits Giménez fit voor duel met Lazio, Stengs vervangt mogelijk Minteh",
     "subtitle": null,
     "published_at": "2023-10-24T15:17:05+02:00",
-    "updated_at": "2023-10-24T15:38:16+02:00",
+    "updated_at": "2023-10-24T16:46:50+02:00",
     "media_id": "m3jxubzaz3tz",
     "duration": null,
     "canonical_section": {
@@ -259,7 +282,7 @@
     "title": "Assistent Pusic verlaat Feyenoord voor klus als hoofdtrainer bij Shakhtar Donetsk",
     "subtitle": null,
     "published_at": "2023-10-24T14:48:15+02:00",
-    "updated_at": "2023-10-24T14:58:57+02:00",
+    "updated_at": "2023-10-24T16:50:07+02:00",
     "media_id": "pjlxtd5atz3i",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6286647/politie-valt-tevergeefs-meer-huizen-binnen-in-zoektocht-naar-bretly-dorder.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6286642,
-    "slug": "dochter-van-kurt-cobain-en-courtney-love-is-getrouwd",
-    "type": "article",
-    "title": "Dochter van Kurt Cobain en Courtney Love is getrouwd",
-    "subtitle": null,
-    "published_at": "2023-10-24T13:00:46+02:00",
-    "updated_at": "2023-10-24T13:04:09+02:00",
-    "media_id": "ychxoymarkue",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6286642/dochter-van-kurt-cobain-en-courtney-love-is-getrouwd.html",
     "open_new_window": false,
     "partner": null
   }
