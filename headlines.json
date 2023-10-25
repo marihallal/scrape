@@ -1,12 +1,35 @@
 [
   {
-    "id": 6286884,
-    "slug": "apple-gooit-de-prijs-voor-streamingdienst-apple-tv-flink-omhoog",
+    "id": 6286886,
+    "slug": "xavi-simons-schittert-met-prachtgoal-en-assist-voor-leipzig-psg-doet-milan-pijn",
     "type": "article",
-    "title": "Apple gooit de prijs voor streamingdienst Apple TV+ flink omhoog",
+    "title": "Xavi Simons schittert met prachtgoal en assist voor Leipzig, PSG doet Milan pijn",
+    "subtitle": null,
+    "published_at": "2023-10-25T22:58:23+02:00",
+    "updated_at": "2023-10-25T23:15:14+02:00",
+    "media_id": "gisxqq3a1b0p",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6286886/xavi-simons-schittert-met-prachtgoal-en-assist-voor-leipzig-psg-doet-milan-pijn.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6286884,
+    "slug": "apple-gooit-prijs-voor-streamingdienst-apple-tv-flink-omhoog",
+    "type": "article",
+    "title": "Apple gooit prijs voor streamingdienst Apple TV+ flink omhoog",
     "subtitle": null,
     "published_at": "2023-10-25T22:51:28+02:00",
-    "updated_at": "2023-10-25T22:51:30+02:00",
+    "updated_at": "2023-10-25T22:55:41+02:00",
     "media_id": "h11xqprajhrh",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/tech/6286884/apple-gooit-de-prijs-voor-streamingdienst-apple-tv-flink-omhoog.html",
+    "url": "/tech/6286884/apple-gooit-prijs-voor-streamingdienst-apple-tv-flink-omhoog.html",
     "open_new_window": false,
     "partner": null
   },
@@ -213,7 +236,7 @@
     "title": "Giménez gidst sterk Feyenoord naar belangrijke zege op Lazio in CL",
     "subtitle": null,
     "published_at": "2023-10-25T20:43:50+02:00",
-    "updated_at": "2023-10-25T22:01:36+02:00",
+    "updated_at": "2023-10-25T23:07:50+02:00",
     "media_id": "l2pximla0quc",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6286848/veltman-ziet-situatie-ajax-met-lede-ogen-aan-de-gifbeker-moet-echt-leeg.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6286845,
-    "slug": "officieel-zweeds-woordenboek-na-140-jaar-eindelijk-voltooid",
-    "type": "article",
-    "title": "Officieel Zweeds woordenboek na 140 jaar eindelijk voltooid",
-    "subtitle": null,
-    "published_at": "2023-10-25T18:14:08+02:00",
-    "updated_at": "2023-10-25T21:16:05+02:00",
-    "media_id": "80fx5ymanza4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6286845/officieel-zweeds-woordenboek-na-140-jaar-eindelijk-voltooid.html",
     "open_new_window": false,
     "partner": null
   }
