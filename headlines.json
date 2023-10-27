@@ -1,12 +1,35 @@
 [
   {
+    "id": 6287096,
+    "slug": "bestelbusjes-flink-in-trek-verkoop-met-ruim-20-procent-toegenomen",
+    "type": "article",
+    "title": "Bestelbusjes flink in trek: verkoop met ruim 20 procent toegenomen",
+    "subtitle": null,
+    "published_at": "2023-10-27T11:51:34+02:00",
+    "updated_at": "2023-10-27T11:51:35+02:00",
+    "media_id": "lpmx99sab5ub",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6287096/bestelbusjes-flink-in-trek-verkoop-met-ruim-20-procent-toegenomen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6287095,
     "slug": "chinese-straaljager-nadert-vliegtuig-vs-boven-omstreden-zee",
     "type": "video",
     "title": "Chinese straaljager nadert vliegtuig VS boven omstreden zee",
     "subtitle": "Video",
     "published_at": "2023-10-27T11:26:57+02:00",
-    "updated_at": "2023-10-27T11:26:58+02:00",
+    "updated_at": "2023-10-27T11:43:48+02:00",
     "media_id": "amcxxzqa2lpd",
     "duration": "0:44",
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Indonesisch vliegtuig maakt eerste passagiersvlucht op kerosine met palmolie",
     "subtitle": null,
     "published_at": "2023-10-27T11:15:53+02:00",
-    "updated_at": "2023-10-27T11:15:54+02:00",
+    "updated_at": "2023-10-27T11:51:56+02:00",
     "media_id": "y5sxucga1gj4",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Chris Brown aangeklaagd wegens mishandeling met tequilafles",
     "subtitle": null,
     "published_at": "2023-10-27T10:37:14+02:00",
-    "updated_at": "2023-10-27T10:37:15+02:00",
+    "updated_at": "2023-10-27T11:41:35+02:00",
     "media_id": "7d0xdsla3h3a",
     "duration": null,
     "canonical_section": {
@@ -420,7 +443,7 @@
     "title": "Ajacied Berghuis reageert op kritiek oud-coach Steijn: 'Nooit van hemzelf gehoord'",
     "subtitle": null,
     "published_at": "2023-10-27T07:27:15+02:00",
-    "updated_at": "2023-10-27T10:44:29+02:00",
+    "updated_at": "2023-10-27T11:46:26+02:00",
     "media_id": "2dnxv78aql63",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6287056/ajacied-berghuis-reageert-op-kritiek-oud-coach-steijn-nooit-van-hemzelf-gehoord.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6287054,
-    "slug": "olcay-gulsen-is-nog-bevriend-met-ruud-de-wild-we-zien-elkaar-wekelijks",
-    "type": "article",
-    "title": "Olcay Gulsen is nog bevriend met Ruud de Wild: 'We zien elkaar wekelijks'",
-    "subtitle": null,
-    "published_at": "2023-10-27T07:07:19+02:00",
-    "updated_at": "2023-10-27T07:53:32+02:00",
-    "media_id": "ginx94latft7",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6287054/olcay-gulsen-is-nog-bevriend-met-ruud-de-wild-we-zien-elkaar-wekelijks.html",
     "open_new_window": false,
     "partner": null
   }
