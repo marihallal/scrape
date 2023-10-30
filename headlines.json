@@ -1,5 +1,28 @@
 [
   {
+    "id": 6287522,
+    "slug": "terugblik-gp-mexico-actie-perez-begrijpelijk-maar-ook-halfbakken",
+    "type": "article",
+    "title": "Terugblik GP Mexico: 'Actie Pérez begrijpelijk, maar ook halfbakken'",
+    "subtitle": "NU+",
+    "published_at": "2023-10-30T15:49:05+01:00",
+    "updated_at": "2023-10-30T15:49:07+01:00",
+    "media_id": "vcgx4rga6it5",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Formule 1",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6287522/terugblik-gp-mexico-actie-perez-begrijpelijk-maar-ook-halfbakken.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6287542,
     "slug": "acm-onderzoekt-waarom-de-spaarrente-in-ons-land-zo-langzaam-omhoogkruipt",
     "type": "article",
@@ -300,12 +323,12 @@
   },
   {
     "id": 6287523,
-    "slug": "drie-doden-bij-bouwongeluk-in-hamburg-zeker-een-vermiste-onder-puin",
+    "slug": "vier-doden-bij-ongeluk-met-steiger-op-bouwplaats-in-duitse-stad-hamburg",
     "type": "article",
-    "title": "Drie doden bij bouwongeluk in Hamburg, zeker een vermiste onder puin",
+    "title": "Vier doden bij ongeluk met steiger op bouwplaats in Duitse stad Hamburg",
     "subtitle": null,
     "published_at": "2023-10-30T13:36:07+01:00",
-    "updated_at": "2023-10-30T15:19:46+01:00",
+    "updated_at": "2023-10-30T15:44:14+01:00",
     "media_id": "t1dxshlah4nd",
     "duration": null,
     "canonical_section": {
@@ -317,7 +340,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6287523/drie-doden-bij-bouwongeluk-in-hamburg-zeker-een-vermiste-onder-puin.html",
+    "url": "/buitenland/6287523/vier-doden-bij-ongeluk-met-steiger-op-bouwplaats-in-duitse-stad-hamburg.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tech/6287513/g7-publiceert-gedragscode-om-kunstmatige-intelligentie-veilig-te-houden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6287502,
-    "slug": "bomen-laten-hun-blaadjes-later-vallen-door-extreem-warme-herfst",
-    "type": "article",
-    "title": "Bomen laten hun blaadjes later vallen door extreem warme herfst",
-    "subtitle": null,
-    "published_at": "2023-10-30T12:24:31+01:00",
-    "updated_at": "2023-10-30T13:14:47+01:00",
-    "media_id": "151xuw3avud6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6287502/bomen-laten-hun-blaadjes-later-vallen-door-extreem-warme-herfst.html",
     "open_new_window": false,
     "partner": null
   }
