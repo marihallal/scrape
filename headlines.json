@@ -1,12 +1,35 @@
 [
   {
-    "id": 6287572,
-    "slug": "israel-blijft-gaza-bombarderen-en-bevrijdt-militair-van-hamas",
+    "id": 6287598,
+    "slug": "duitse-politicus-opgepakt-voor-nazi-symbolen-uren-voor-zijn-immuniteit-ingaat",
     "type": "article",
-    "title": "Israël blijft Gaza bombarderen en bevrijdt militair van Hamas",
+    "title": "Duitse politicus opgepakt voor nazi-symbolen, uren voor zijn immuniteit ingaat",
+    "subtitle": null,
+    "published_at": "2023-10-30T21:31:27+01:00",
+    "updated_at": "2023-10-30T21:31:29+01:00",
+    "media_id": "giixv2tai0po",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6287598/duitse-politicus-opgepakt-voor-nazi-symbolen-uren-voor-zijn-immuniteit-ingaat.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6287572,
+    "slug": "israel-blijft-gaza-bombarderen-en-bevrijdt-militair-uit-handen-hamas",
+    "type": "article",
+    "title": "Israël blijft Gaza bombarderen en bevrijdt militair uit handen Hamas",
     "subtitle": "Overzicht",
     "published_at": "2023-10-30T21:15:04+01:00",
-    "updated_at": "2023-10-30T21:15:24+01:00",
+    "updated_at": "2023-10-30T21:22:59+01:00",
     "media_id": "0xfxeugae0p1",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6287572/israel-blijft-gaza-bombarderen-en-bevrijdt-militair-van-hamas.html",
+    "url": "/buitenland/6287572/israel-blijft-gaza-bombarderen-en-bevrijdt-militair-uit-handen-hamas.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +75,7 @@
     "title": "Joran van der Sloot weer terug naar Peru om rest van zijn straf uit te zitten",
     "subtitle": null,
     "published_at": "2023-10-30T20:39:25+01:00",
-    "updated_at": "2023-10-30T21:13:12+01:00",
+    "updated_at": "2023-10-30T21:18:31+01:00",
     "media_id": "ri2xq7eakhgu",
     "duration": null,
     "canonical_section": {
@@ -93,13 +116,13 @@
   },
   {
     "id": 6287590,
-    "slug": "messi-favoriet-om-gouden-bal-te-winnen-bellingham-beste-jonge-speler",
+    "slug": "messi-favoriet-voor-gouden-bal-oranje-beul-martinez-beste-keeper",
     "type": "article",
-    "title": "Messi favoriet om Gouden Bal te winnen, Bellingham beste jonge speler",
+    "title": "Messi favoriet voor Gouden Bal, Oranje-beul Martínez beste keeper",
     "subtitle": "Liveblog",
     "published_at": "2023-10-30T19:29:53+01:00",
-    "updated_at": "2023-10-30T21:14:27+01:00",
-    "media_id": "035xis1awstt",
+    "updated_at": "2023-10-30T21:31:43+01:00",
+    "media_id": "ze6xw9ra69bo",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -110,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6287590/messi-favoriet-om-gouden-bal-te-winnen-bellingham-beste-jonge-speler.html",
+    "url": "/voetbal/6287590/messi-favoriet-voor-gouden-bal-oranje-beul-martinez-beste-keeper.html",
     "open_new_window": false,
     "partner": null
   },
@@ -236,7 +259,7 @@
     "title": "Inheemse Indonesiërs boos op houthakkers die oerwoud kappen",
     "subtitle": "Video",
     "published_at": "2023-10-30T17:57:38+01:00",
-    "updated_at": "2023-10-30T19:29:13+01:00",
+    "updated_at": "2023-10-30T21:20:48+01:00",
     "media_id": "muyxt4pah6xs",
     "duration": "0:46",
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tatas-ijzeren-greep/6287552/beluister-hier-de-trailer-van-de-nieuwe-nunl-podcast-tatas-ijzeren-greep.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6287539,
-    "slug": "tijdschema-gp-brazilie-hoe-laat-komen-verstappen-en-andere-coureurs-in-actie",
-    "type": "article",
-    "title": "Tijdschema GP Brazilië: hoe laat komen Verstappen en andere coureurs in actie?",
-    "subtitle": null,
-    "published_at": "2023-10-30T16:38:20+01:00",
-    "updated_at": "2023-10-30T16:42:30+01:00",
-    "media_id": "vr2xjp5a3kxs",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6287539/tijdschema-gp-brazilie-hoe-laat-komen-verstappen-en-andere-coureurs-in-actie.html",
     "open_new_window": false,
     "partner": null
   }
