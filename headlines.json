@@ -1,5 +1,28 @@
 [
   {
+    "id": 6287752,
+    "slug": "masker-dat-franse-handelaar-voor-150-euro-kocht-levert-42-miljoen-op-bij-veiling",
+    "type": "article",
+    "title": "Masker dat Franse handelaar voor 150 euro kocht, levert 4,2 miljoen op bij veiling",
+    "subtitle": null,
+    "published_at": "2023-10-31T22:30:53+01:00",
+    "updated_at": "2023-10-31T22:31:01+01:00",
+    "media_id": "a4jx12raoypr",
+    "duration": null,
+    "canonical_section": {
+      "id": 937692,
+      "slug": "opmerkelijk",
+      "type": "default",
+      "name": "Opmerkelijk",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/opmerkelijk/6287752/masker-dat-franse-handelaar-voor-150-euro-kocht-levert-42-miljoen-op-bij-veiling.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6287747,
     "slug": "griezelige-verkleedpartijen-en-snoep-zo-viert-de-wereld-halloween",
     "type": "article",
@@ -121,7 +144,7 @@
     "title": "Vitesse pas in slotfase langs amateurs, ook Heerenveen en Almere bekeren door",
     "subtitle": null,
     "published_at": "2023-10-31T20:48:01+01:00",
-    "updated_at": "2023-10-31T22:13:14+01:00",
+    "updated_at": "2023-10-31T22:20:23+01:00",
     "media_id": "z65xkhtat1my",
     "duration": null,
     "canonical_section": {
@@ -144,7 +167,7 @@
     "title": "Reacties na wereldrecord baanwielrenner Hoogland op 1 kilometer",
     "subtitle": "Liveblog",
     "published_at": "2023-10-31T20:45:06+01:00",
-    "updated_at": "2023-10-31T21:12:13+01:00",
+    "updated_at": "2023-10-31T22:20:11+01:00",
     "media_id": "t2gxzvcaoovm",
     "duration": null,
     "canonical_section": {
@@ -300,12 +323,12 @@
   },
   {
     "id": 6287735,
-    "slug": "brugts-zet-oranje-met-knap-schot-op-voorsprong-in-schotland",
+    "slug": "paal-voorkomt-tweede-treffer-oranje-tegen-schotland",
     "type": "article",
-    "title": "Brugts zet Oranje met knap schot op voorsprong in Schotland",
+    "title": "Paal voorkomt tweede treffer Oranje tegen Schotland",
     "subtitle": "Liveblog",
     "published_at": "2023-10-31T19:28:26+01:00",
-    "updated_at": "2023-10-31T22:08:16+01:00",
+    "updated_at": "2023-10-31T22:32:04+01:00",
     "media_id": "w0kxal0azhr7",
     "duration": null,
     "canonical_section": {
@@ -317,7 +340,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6287735/brugts-zet-oranje-met-knap-schot-op-voorsprong-in-schotland.html",
+    "url": "/voetbal/6287735/paal-voorkomt-tweede-treffer-oranje-tegen-schotland.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6287729/bergkamp-over-onderzoek-naar-arib-gaat-om-negeren-en-uitsluiten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6287722,
-    "slug": "zverev-krijgt-boete-van-bijna-half-miljoen-euro-voor-mishandelen-ex-vriendin",
-    "type": "article",
-    "title": "Zverev krijgt boete van bijna half miljoen euro voor mishandelen ex-vriendin",
-    "subtitle": null,
-    "published_at": "2023-10-31T18:01:01+01:00",
-    "updated_at": "2023-10-31T20:43:38+01:00",
-    "media_id": "qhox0mga13ex",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6287722/zverev-krijgt-boete-van-bijna-half-miljoen-euro-voor-mishandelen-ex-vriendin.html",
     "open_new_window": false,
     "partner": null
   }
