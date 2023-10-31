@@ -1,12 +1,35 @@
 [
   {
+    "id": 6287627,
+    "slug": "bruce-springsteen-treedt-volgend-jaar-op-in-het-goffertpark",
+    "type": "article",
+    "title": "Bruce Springsteen treedt volgend jaar op in het Goffertpark",
+    "subtitle": null,
+    "published_at": "2023-10-31T09:43:35+01:00",
+    "updated_at": "2023-10-31T09:46:51+01:00",
+    "media_id": "mdbxvtjaw19g",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6287627/bruce-springsteen-treedt-volgend-jaar-op-in-het-goffertpark.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6287623,
     "slug": "wk-voetbal-2034-gaat-vrijwel-zeker-naar-saoedi-arabie-nu-australie-is-afgehaakt",
     "type": "article",
     "title": "WK voetbal 2034 gaat vrijwel zeker naar Saoedi-Arabië nu Australië is afgehaakt",
     "subtitle": null,
     "published_at": "2023-10-31T09:30:13+01:00",
-    "updated_at": "2023-10-31T09:30:15+01:00",
+    "updated_at": "2023-10-31T09:44:43+01:00",
     "media_id": "ftcx03sa8dey",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Igone de Jongh 'voelde lijf op slot gaan' tijdens rechtszaak Thijs Römer",
     "subtitle": null,
     "published_at": "2023-10-31T09:29:19+01:00",
-    "updated_at": "2023-10-31T09:29:20+01:00",
+    "updated_at": "2023-10-31T09:48:37+01:00",
     "media_id": "owaxwrfad4uc",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6287531/nederland-heeft-vorig-jaar-17-miljard-euro-verdiend-aan-export-naar-rusland.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6287514,
-    "slug": "aantal-vakbondsleden-daalt-naar-laagste-punt-in-60-jaar",
-    "type": "article",
-    "title": "Aantal vakbondsleden daalt naar laagste punt in 60 jaar",
-    "subtitle": null,
-    "published_at": "2023-10-31T00:01:18+01:00",
-    "updated_at": "2023-10-31T07:17:19+01:00",
-    "media_id": "p6lxo4aa626u",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6287514/aantal-vakbondsleden-daalt-naar-laagste-punt-in-60-jaar.html",
     "open_new_window": false,
     "partner": null
   }
