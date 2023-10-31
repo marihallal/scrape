@@ -1,5 +1,28 @@
 [
   {
+    "id": 6287750,
+    "slug": "piloot-wordt-gered-van-zinkend-vliegtuigje-na-crash-in-vs",
+    "type": "video",
+    "title": "Piloot wordt gered van zinkend vliegtuigje na crash in VS",
+    "subtitle": "Video",
+    "published_at": "2023-10-31T21:29:48+01:00",
+    "updated_at": "2023-10-31T21:29:49+01:00",
+    "media_id": "o87x4rhafx4r",
+    "duration": "0:37",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6287750/piloot-wordt-gered-van-zinkend-vliegtuigje-na-crash-in-vs.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6287727,
     "slug": "russische-bombardementen-op-kherson-einde-russisch-gas-in-2025",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Baanwielrenner Hoogland breekt tien jaar oud wereldrecord op kilometer",
     "subtitle": null,
     "published_at": "2023-10-31T21:04:21+01:00",
-    "updated_at": "2023-10-31T21:17:30+01:00",
+    "updated_at": "2023-10-31T21:23:56+01:00",
     "media_id": "tfbxr9waw90m",
     "duration": null,
     "canonical_section": {
@@ -231,12 +254,12 @@
   },
   {
     "id": 6287735,
-    "slug": "roord-mist-kans-op-openingsgoal-tegen-schotland-in-nations-league",
+    "slug": "oranje-sprankelt-nog-niet-tegen-schotland-in-nations-league",
     "type": "article",
-    "title": "Roord mist kans op openingsgoal tegen Schotland in Nations League",
+    "title": "Oranje sprankelt nog niet tegen Schotland in Nations League",
     "subtitle": "Liveblog",
     "published_at": "2023-10-31T19:28:26+01:00",
-    "updated_at": "2023-10-31T21:12:10+01:00",
+    "updated_at": "2023-10-31T21:20:41+01:00",
     "media_id": "y4gx37var2ld",
     "duration": null,
     "canonical_section": {
@@ -248,7 +271,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6287735/roord-mist-kans-op-openingsgoal-tegen-schotland-in-nations-league.html",
+    "url": "/voetbal/6287735/oranje-sprankelt-nog-niet-tegen-schotland-in-nations-league.html",
     "open_new_window": false,
     "partner": null
   },
@@ -415,12 +438,12 @@
   },
   {
     "id": 6287646,
-    "slug": "arib-zorgde-voor-onveilige-werkomgeving-in-kamer-maar-kon-ook-attent-en-betrokken-zijn",
+    "slug": "arib-zorgde-voor-onveilige-werkomgeving-maar-kon-ook-attent-en-betrokken-zijn",
     "type": "article",
-    "title": "Arib zorgde voor onveilige werkomgeving in Kamer, maar kon ook 'attent en betrokken' zijn",
+    "title": "Arib zorgde voor onveilige werkomgeving, maar kon ook 'attent en betrokken' zijn",
     "subtitle": null,
     "published_at": "2023-10-31T17:42:24+01:00",
-    "updated_at": "2023-10-31T20:56:50+01:00",
+    "updated_at": "2023-10-31T21:19:24+01:00",
     "media_id": "if2xxnzaoiqs",
     "duration": null,
     "canonical_section": {
@@ -432,30 +455,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/politiek/6287646/arib-zorgde-voor-onveilige-werkomgeving-in-kamer-maar-kon-ook-attent-en-betrokken-zijn.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6287710,
-    "slug": "npo-radio-2-brengt-album-uit-ter-ere-van-25-jarig-jubileum-top-2000",
-    "type": "article",
-    "title": "NPO Radio 2 brengt album uit ter ere van 25-jarig jubileum Top 2000",
-    "subtitle": null,
-    "published_at": "2023-10-31T17:32:27+01:00",
-    "updated_at": "2023-10-31T17:32:29+01:00",
-    "media_id": "9oixhgna78d2",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6287710/npo-radio-2-brengt-album-uit-ter-ere-van-25-jarig-jubileum-top-2000.html",
+    "url": "/politiek/6287646/arib-zorgde-voor-onveilige-werkomgeving-maar-kon-ook-attent-en-betrokken-zijn.html",
     "open_new_window": false,
     "partner": null
   }
