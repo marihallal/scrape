@@ -1,5 +1,28 @@
 [
   {
+    "id": 6287613,
+    "slug": "voor-het-eerst-in-jaren-sprake-van-deflatie-maar-veel-goederen-toch-duurder",
+    "type": "article",
+    "title": "Voor het eerst in jaren sprake van deflatie, maar veel goederen toch duurder",
+    "subtitle": null,
+    "published_at": "2023-10-31T06:44:24+01:00",
+    "updated_at": "2023-10-31T06:50:21+01:00",
+    "media_id": "0cfxqjcab4ir",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6287613/voor-het-eerst-in-jaren-sprake-van-deflatie-maar-veel-goederen-toch-duurder.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6287548,
     "slug": "ondanks-inflatie-oorlog-en-recessie-zijn-nederlandse-rijken-toch-weer-rijker",
     "type": "article",
@@ -75,7 +98,7 @@
     "title": "WK-held Noppert gepasseerd bij Oranje: 'Moet een grote kerel zijn'",
     "subtitle": "NU+",
     "published_at": "2023-10-31T05:31:51+01:00",
-    "updated_at": "2023-10-31T06:30:42+01:00",
+    "updated_at": "2023-10-31T06:45:22+01:00",
     "media_id": "3nvxk3wah8ex",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6287596/voetbalsterren-schitteren-op-gouden-bal-gala-in-parijs.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6287599,
-    "slug": "colombiaans-leger-zoekt-naar-ontvoerde-vader-liverpool-speler-diaz",
-    "type": "video",
-    "title": "Colombiaans leger zoekt naar ontvoerde vader Liverpool-speler Díaz",
-    "subtitle": "Video",
-    "published_at": "2023-10-30T21:40:26+01:00",
-    "updated_at": "2023-10-31T06:30:10+01:00",
-    "media_id": "d45x39pakicn",
-    "duration": "0:50",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6287599/colombiaans-leger-zoekt-naar-ontvoerde-vader-liverpool-speler-diaz.html",
     "open_new_window": false,
     "partner": null
   }
