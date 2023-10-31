@@ -1,5 +1,28 @@
 [
   {
+    "id": 6287729,
+    "slug": "bergkamp-over-onderzoek-naar-arib-gaat-om-negeren-en-uitsluiten",
+    "type": "video",
+    "title": "Bergkamp over onderzoek naar Arib: ‘Gaat om negeren en uitsluiten’",
+    "subtitle": "Video",
+    "published_at": "2023-10-31T18:30:09+01:00",
+    "updated_at": "2023-10-31T18:30:19+01:00",
+    "media_id": "y5axlenamhxd",
+    "duration": "1:20",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6287729/bergkamp-over-onderzoek-naar-arib-gaat-om-negeren-en-uitsluiten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6287722,
     "slug": "zverev-krijgt-boete-van-bijna-half-miljoen-euro-voor-mishandelen-ex-vriendin",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Arib zorgde voor 'onveilige werkomgeving', maar was ook 'attent en betrokken'",
     "subtitle": null,
     "published_at": "2023-10-31T17:42:24+01:00",
-    "updated_at": "2023-10-31T18:05:19+01:00",
+    "updated_at": "2023-10-31T18:28:44+01:00",
     "media_id": "if2xxnzaoiqs",
     "duration": null,
     "canonical_section": {
@@ -98,8 +121,8 @@
     "title": "Drie mannen aangehouden vanwege betrokkenheid bij in totaal 27 explosies",
     "subtitle": null,
     "published_at": "2023-10-31T17:28:30+01:00",
-    "updated_at": "2023-10-31T18:02:21+01:00",
-    "media_id": "qfixa2vam1qn",
+    "updated_at": "2023-10-31T18:22:59+01:00",
+    "media_id": "go1xsina6wim",
     "duration": null,
     "canonical_section": {
       "id": 1771435,
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6287683/koers-van-japanse-yen-zakt-naar-het-laagste-niveau-sinds-juli-2008.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6287682,
-    "slug": "kolkend-water-overspoelt-straten-in-milaan",
-    "type": "video",
-    "title": "Kolkend water overspoelt straten in Milaan",
-    "subtitle": "Video",
-    "published_at": "2023-10-31T14:01:58+01:00",
-    "updated_at": "2023-10-31T14:01:59+01:00",
-    "media_id": "4ycx7siafadb",
-    "duration": "0:46",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6287682/kolkend-water-overspoelt-straten-in-milaan.html",
     "open_new_window": false,
     "partner": null
   }
