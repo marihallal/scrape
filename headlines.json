@@ -1,5 +1,28 @@
 [
   {
+    "id": 6287749,
+    "slug": "fifa-baas-infantino-bevestigt-dat-saoedi-arabie-wk-voetbal-2034-organiseert",
+    "type": "article",
+    "title": "FIFA-baas Infantino bevestigt dat Saoedi-Arabië WK voetbal 2034 organiseert",
+    "subtitle": null,
+    "published_at": "2023-10-31T21:34:45+01:00",
+    "updated_at": "2023-10-31T21:48:24+01:00",
+    "media_id": "1g9xhd8a6zjx",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6287749/fifa-baas-infantino-bevestigt-dat-saoedi-arabie-wk-voetbal-2034-organiseert.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6287750,
     "slug": "piloot-wordt-gered-van-zinkend-vliegtuigje-na-crash-in-vs",
     "type": "video",
@@ -254,12 +277,12 @@
   },
   {
     "id": 6287735,
-    "slug": "oranje-sprankelt-nog-niet-tegen-schotland-in-nations-league",
+    "slug": "oranje-na-rust-op-jacht-naar-goals-tegen-schotland",
     "type": "article",
-    "title": "Oranje sprankelt nog niet tegen Schotland in Nations League",
+    "title": "Oranje na rust op jacht naar goals tegen Schotland",
     "subtitle": "Liveblog",
     "published_at": "2023-10-31T19:28:26+01:00",
-    "updated_at": "2023-10-31T21:20:41+01:00",
+    "updated_at": "2023-10-31T21:49:32+01:00",
     "media_id": "y4gx37var2ld",
     "duration": null,
     "canonical_section": {
@@ -271,7 +294,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6287735/oranje-sprankelt-nog-niet-tegen-schotland-in-nations-league.html",
+    "url": "/voetbal/6287735/oranje-na-rust-op-jacht-naar-goals-tegen-schotland.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6287723/hoe-de-fifa-er-alles-aan-deed-om-saoedi-arabie-het-wk-te-bezorgen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6287646,
-    "slug": "arib-zorgde-voor-onveilige-werkomgeving-maar-kon-ook-attent-en-betrokken-zijn",
-    "type": "article",
-    "title": "Arib zorgde voor onveilige werkomgeving, maar kon ook 'attent en betrokken' zijn",
-    "subtitle": null,
-    "published_at": "2023-10-31T17:42:24+01:00",
-    "updated_at": "2023-10-31T21:19:24+01:00",
-    "media_id": "if2xxnzaoiqs",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771437,
-      "slug": "politiek",
-      "type": "default",
-      "name": "Politiek",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/politiek/6287646/arib-zorgde-voor-onveilige-werkomgeving-maar-kon-ook-attent-en-betrokken-zijn.html",
     "open_new_window": false,
     "partner": null
   }
