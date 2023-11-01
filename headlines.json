@@ -1,5 +1,28 @@
 [
   {
+    "id": 6287835,
+    "slug": "alleenstaanden-en-oud-studenten-krijgen-iets-meer-ruimte-voor-hypotheek",
+    "type": "article",
+    "title": "Alleenstaanden en oud-studenten krijgen iets meer ruimte voor hypotheek",
+    "subtitle": null,
+    "published_at": "2023-11-01T15:03:47+01:00",
+    "updated_at": "2023-11-01T15:04:06+01:00",
+    "media_id": "arzxwleafc06",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6287835/alleenstaanden-en-oud-studenten-krijgen-iets-meer-ruimte-voor-hypotheek.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6287833,
     "slug": "schone-denkt-aan-stoppen-na-incident-dost-ik-heb-het-iets-te-vaak-meegemaakt",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "'Ruil Alonso en Pérez is een geweldig gerucht'",
     "subtitle": "Podcast De Boordradio",
     "published_at": "2023-11-01T14:43:28+01:00",
-    "updated_at": "2023-11-01T14:43:29+01:00",
+    "updated_at": "2023-11-01T15:16:23+01:00",
     "media_id": "36tx2lgapggp",
     "duration": null,
     "canonical_section": {
@@ -236,7 +259,7 @@
     "title": "Storm Ciarán kan donderdag lange files veroorzaken: thuiswerken is slimmer",
     "subtitle": null,
     "published_at": "2023-11-01T12:45:06+01:00",
-    "updated_at": "2023-11-01T13:12:58+01:00",
+    "updated_at": "2023-11-01T15:18:46+01:00",
     "media_id": "956xditaveuy",
     "duration": null,
     "canonical_section": {
@@ -328,7 +351,7 @@
     "title": "Inspecties uiten zorgen over Ter Apel: 'Risico op buiten slapen met dag groter'",
     "subtitle": null,
     "published_at": "2023-11-01T11:55:05+01:00",
-    "updated_at": "2023-11-01T12:20:29+01:00",
+    "updated_at": "2023-11-01T15:05:06+01:00",
     "media_id": "60lx4kxaxoau",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6287800/meisje-dat-haagse-snackbareigenaar-heeft-doodgestoken-trekt-hoger-beroep-in.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6287799,
-    "slug": "heijmans-verkoopt-minder-nieuwbouwwoningen-aan-grote-beleggers",
-    "type": "article",
-    "title": "Heijmans verkoopt minder nieuwbouwwoningen aan grote beleggers",
-    "subtitle": null,
-    "published_at": "2023-11-01T10:53:55+01:00",
-    "updated_at": "2023-11-01T11:23:42+01:00",
-    "media_id": "ubyx0i3a4fd8",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6287799/heijmans-verkoopt-minder-nieuwbouwwoningen-aan-grote-beleggers.html",
     "open_new_window": false,
     "partner": null
   }
