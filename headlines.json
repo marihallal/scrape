@@ -1,5 +1,28 @@
 [
   {
+    "id": 6288397,
+    "slug": "fc-groningen-zet-dramatische-kkd-reeks-voort-met-gelijkspel-tegen-dordrecht",
+    "type": "article",
+    "title": "FC Groningen zet dramatische KKD-reeks voort met gelijkspel tegen Dordrecht",
+    "subtitle": null,
+    "published_at": "2023-11-05T16:30:19+01:00",
+    "updated_at": "2023-11-05T16:30:21+01:00",
+    "media_id": "pxcxs9ca9p9n",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6288397/fc-groningen-zet-dramatische-kkd-reeks-voort-met-gelijkspel-tegen-dordrecht.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6288396,
     "slug": "vermeend-slachtoffer-komiek-russell-brand-voel-me-gebruikt-en-misbruikt",
     "type": "article",
@@ -75,7 +98,7 @@
     "title": "'Eenzaamste schaap van Groot-Brittannië' gered na twee jaar bij Schotse klif",
     "subtitle": null,
     "published_at": "2023-11-05T15:45:29+01:00",
-    "updated_at": "2023-11-05T15:57:21+01:00",
+    "updated_at": "2023-11-05T16:27:08+01:00",
     "media_id": "yxpxxrva7987",
     "duration": null,
     "canonical_section": {
@@ -208,12 +231,12 @@
   },
   {
     "id": 6288381,
-    "slug": "ajax-vrouwen-klopt-fc-utrecht-feyenoorder-conijnenberg-scoort-vanaf-40-meter",
+    "slug": "ajax-vrouwen-klopt-fc-utrecht-feyenoord-scoort-met-volley-van-40-meter",
     "type": "article",
-    "title": "Ajax Vrouwen klopt FC Utrecht, Feyenoorder Conijnenberg scoort vanaf 40 meter",
+    "title": "Ajax Vrouwen klopt FC Utrecht, Feyenoord scoort met volley van 40 meter",
     "subtitle": null,
     "published_at": "2023-11-05T14:20:01+01:00",
-    "updated_at": "2023-11-05T16:03:55+01:00",
+    "updated_at": "2023-11-05T16:21:52+01:00",
     "media_id": "i7gx9w3a93rl",
     "duration": null,
     "canonical_section": {
@@ -225,7 +248,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6288381/ajax-vrouwen-klopt-fc-utrecht-feyenoorder-conijnenberg-scoort-vanaf-40-meter.html",
+    "url": "/voetbal/6288381/ajax-vrouwen-klopt-fc-utrecht-feyenoord-scoort-met-volley-van-40-meter.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6288155/tbs-klinieken-bomvol-veroordeelden-wachten-soms-een-jaar-op-een-plek.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288357,
-    "slug": "dit-mag-je-van-ons-verwachten-in-aanloop-naar-de-verkiezingen",
-    "type": "article",
-    "title": "Dit mag je van ons verwachten in aanloop naar de verkiezingen",
-    "subtitle": "Hoofdredactie",
-    "published_at": "2023-11-05T12:00:42+01:00",
-    "updated_at": "2023-11-05T15:05:52+01:00",
-    "media_id": "ai1xmr7ahxm6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772069,
-      "slug": "blog",
-      "type": "default",
-      "name": "Van de hoofdredactie",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/blog/6288357/dit-mag-je-van-ons-verwachten-in-aanloop-naar-de-verkiezingen.html",
     "open_new_window": false,
     "partner": null
   }
