@@ -1,5 +1,28 @@
 [
   {
+    "id": 6288498,
+    "slug": "grondstoffen-voor-accus-in-elektrische-autos-zijn-veel-goedkoper-geworden",
+    "type": "article",
+    "title": "Grondstoffen voor accu's in elektrische auto's zijn veel goedkoper geworden",
+    "subtitle": null,
+    "published_at": "2023-11-06T12:51:20+01:00",
+    "updated_at": "2023-11-06T12:51:22+01:00",
+    "media_id": "v3vxabsal0qs",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6288498/grondstoffen-voor-accus-in-elektrische-autos-zijn-veel-goedkoper-geworden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6288492,
     "slug": "maxime-meiland-ondergaat-cosmetische-ingreep-aan-haar-kin",
     "type": "article",
@@ -121,7 +144,7 @@
     "title": "Feyenoord reist met Trauner en Wieffer af naar Rome voor CL-duel met Lazio",
     "subtitle": null,
     "published_at": "2023-11-06T11:16:43+01:00",
-    "updated_at": "2023-11-06T12:29:13+01:00",
+    "updated_at": "2023-11-06T12:33:54+01:00",
     "media_id": "ba3xycwauxhe",
     "duration": null,
     "canonical_section": {
@@ -259,7 +282,7 @@
     "title": "MediaMarkt mag acht winkels van failliete concurrent BCC overnemen",
     "subtitle": null,
     "published_at": "2023-11-06T10:21:13+01:00",
-    "updated_at": "2023-11-06T10:47:13+01:00",
+    "updated_at": "2023-11-06T12:51:03+01:00",
     "media_id": "a0hxlkxaszb3",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6288457/dries-roelvink-denkt-veel-aan-overleden-ouders-voor-show-in-concertgebouw.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288458,
-    "slug": "swiatek-dicht-bij-hoogste-positie-op-ranglijst-na-overtuigende-zege-op-sabalenka",
-    "type": "article",
-    "title": "Swiatek dicht bij hoogste positie op ranglijst na overtuigende zege op Sabalenka",
-    "subtitle": null,
-    "published_at": "2023-11-06T08:51:41+01:00",
-    "updated_at": "2023-11-06T08:51:42+01:00",
-    "media_id": "veixuwfa2n47",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6288458/swiatek-dicht-bij-hoogste-positie-op-ranglijst-na-overtuigende-zege-op-sabalenka.html",
     "open_new_window": false,
     "partner": null
   }
