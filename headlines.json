@@ -1,5 +1,28 @@
 [
   {
+    "id": 6288592,
+    "slug": "kantoorverhuurder-wework-vraagt-uitstel-betaling-aan-en-dreigt-failliet-te-gaan",
+    "type": "article",
+    "title": "Kantoorverhuurder WeWork vraagt uitstel betaling aan en dreigt failliet te gaan",
+    "subtitle": null,
+    "published_at": "2023-11-07T07:33:53+01:00",
+    "updated_at": "2023-11-07T07:33:54+01:00",
+    "media_id": "rasx7y8avik4",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6288592/kantoorverhuurder-wework-vraagt-uitstel-betaling-aan-en-dreigt-failliet-te-gaan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6288590,
     "slug": "prinses-beatrix-komt-aan-op-winderig-curacao",
     "type": "video",
@@ -75,7 +98,7 @@
     "title": "Netanyahu herhaalt: geen wapenstilstand, wel korte gevechtspauzes",
     "subtitle": null,
     "published_at": "2023-11-07T06:58:26+01:00",
-    "updated_at": "2023-11-07T06:58:27+01:00",
+    "updated_at": "2023-11-07T07:31:17+01:00",
     "media_id": "ce3xq1xawvwb",
     "duration": null,
     "canonical_section": {
@@ -282,7 +305,7 @@
     "title": "Interview Joost Eerdmans: 'Wij kunnen VVD op rechtse koers houden'",
     "subtitle": null,
     "published_at": "2023-11-07T05:02:17+01:00",
-    "updated_at": "2023-11-07T06:46:08+01:00",
+    "updated_at": "2023-11-07T07:24:04+01:00",
     "media_id": "5lwx0soacoo2",
     "duration": null,
     "canonical_section": {
@@ -374,7 +397,7 @@
     "title": "Geschokte reacties op man die op burgemeester wil inrijden wegens geaardheid",
     "subtitle": null,
     "published_at": "2023-11-06T23:54:19+01:00",
-    "updated_at": "2023-11-07T06:24:39+01:00",
+    "updated_at": "2023-11-07T07:25:28+01:00",
     "media_id": "yvsxlpwafsqb",
     "duration": null,
     "canonical_section": {
@@ -397,7 +420,7 @@
     "title": "Van de Ven valt geblesseerd uit bij spectaculaire derby Tottenham-Chelsea",
     "subtitle": null,
     "published_at": "2023-11-06T23:32:10+01:00",
-    "updated_at": "2023-11-07T06:56:52+01:00",
+    "updated_at": "2023-11-07T07:35:48+01:00",
     "media_id": "i1xx2uma13kx",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6288575/koeman-belde-luuk-de-jong-na-twijfel-over-beschikbaarheid-voor-oranje.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288574,
-    "slug": "van-de-zandschulp-verliest-driesetter-en-is-direct-klaar-op-atp-toernooi-in-metz",
-    "type": "article",
-    "title": "Van de Zandschulp verliest driesetter en is direct klaar op ATP-toernooi in Metz",
-    "subtitle": null,
-    "published_at": "2023-11-06T22:35:49+01:00",
-    "updated_at": "2023-11-06T22:55:57+01:00",
-    "media_id": "jn9x6nia4p3m",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6288574/van-de-zandschulp-verliest-driesetter-en-is-direct-klaar-op-atp-toernooi-in-metz.html",
     "open_new_window": false,
     "partner": null
   }
