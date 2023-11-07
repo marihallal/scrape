@@ -1,12 +1,35 @@
 [
   {
+    "id": 6288700,
+    "slug": "bretly-d-blijft-drie-maanden-langer-vastzitten-vanwege-schiet-en-steekincidenten",
+    "type": "article",
+    "title": "Bretly D. blijft drie maanden langer vastzitten vanwege schiet- en steekincidenten",
+    "subtitle": null,
+    "published_at": "2023-11-07T16:45:53+01:00",
+    "updated_at": "2023-11-07T16:45:54+01:00",
+    "media_id": "4qkxds1aqs4h",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6288700/bretly-d-blijft-drie-maanden-langer-vastzitten-vanwege-schiet-en-steekincidenten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6288699,
     "slug": "overmars-hoort-binnen-enkele-weken-uitspraak-in-zaak-over-wangedrag-bij-ajax",
     "type": "article",
     "title": "Overmars hoort binnen enkele weken uitspraak in zaak over wangedrag bij Ajax",
     "subtitle": null,
     "published_at": "2023-11-07T16:31:25+01:00",
-    "updated_at": "2023-11-07T16:31:26+01:00",
+    "updated_at": "2023-11-07T16:49:11+01:00",
     "media_id": "0h2x376a34n7",
     "duration": null,
     "canonical_section": {
@@ -254,12 +277,12 @@
   },
   {
     "id": 6288672,
-    "slug": "toezichthouder-wil-dat-huizenkoper-ook-klimaatrisicos-kan-meenemen-in-lagere-prijs",
+    "slug": "toezichthouder-wil-dat-huizenkoper-klimaatrisico-kan-meenemen-in-lagere-prijs",
     "type": "article",
-    "title": "Toezichthouder wil dat huizenkoper ook klimaatrisico's kan meenemen in (lagere) prijs",
+    "title": "Toezichthouder wil dat huizenkoper klimaatrisico kan meenemen in (lagere) prijs",
     "subtitle": null,
     "published_at": "2023-11-07T15:20:41+01:00",
-    "updated_at": "2023-11-07T15:43:07+01:00",
+    "updated_at": "2023-11-07T16:41:03+01:00",
     "media_id": "2v2x3unamp01",
     "duration": null,
     "canonical_section": {
@@ -271,7 +294,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6288672/toezichthouder-wil-dat-huizenkoper-ook-klimaatrisicos-kan-meenemen-in-lagere-prijs.html",
+    "url": "/economie/6288672/toezichthouder-wil-dat-huizenkoper-klimaatrisico-kan-meenemen-in-lagere-prijs.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/darts/6288661/engelse-darter-moet-seksueel-getinte-bijnaam-aanpassen-na-plaatsing-voor-wk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288641,
-    "slug": "feyenoord-psv-ajax-en-az-vervolgen-europees-avontuur-zo-staan-ze-ervoor",
-    "type": "article",
-    "title": "Feyenoord, PSV, Ajax en AZ vervolgen Europees avontuur: zo staan ze ervoor",
-    "subtitle": null,
-    "published_at": "2023-11-07T13:54:12+01:00",
-    "updated_at": "2023-11-07T13:58:18+01:00",
-    "media_id": "7tex8o2aqyil",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6288641/feyenoord-psv-ajax-en-az-vervolgen-europees-avontuur-zo-staan-ze-ervoor.html",
     "open_new_window": false,
     "partner": null
   }
