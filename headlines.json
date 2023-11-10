@@ -1,5 +1,28 @@
 [
   {
+    "id": 6289144,
+    "slug": "nog-een-bedrijf-op-industrieterrein-chemelot-moet-vrezen-voor-miljoenenboete",
+    "type": "article",
+    "title": "Nog een bedrijf op industrieterrein Chemelot moet vrezen voor miljoenenboete",
+    "subtitle": null,
+    "published_at": "2023-11-10T14:21:46+01:00",
+    "updated_at": "2023-11-10T14:21:48+01:00",
+    "media_id": "uz8xtnrauoz4",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6289144/nog-een-bedrijf-op-industrieterrein-chemelot-moet-vrezen-voor-miljoenenboete.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6289137,
     "slug": "studio-sport-voegt-korte-analyses-toe-aan-eredivisie-samenvattingen-op-zondag",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Zes jaar cel geëist tegen neef van doodgeschoten dj Siki Martina",
     "subtitle": null,
     "published_at": "2023-11-10T13:38:55+01:00",
-    "updated_at": "2023-11-10T13:55:04+01:00",
+    "updated_at": "2023-11-10T14:02:48+01:00",
     "media_id": "hmxx2cmaue3z",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Dronken bestuurder veroorzaakt botsingen in Thailand",
     "subtitle": "Video",
     "published_at": "2023-11-10T13:34:30+01:00",
-    "updated_at": "2023-11-10T13:34:31+01:00",
+    "updated_at": "2023-11-10T14:04:01+01:00",
     "media_id": "rg2xgm7azjrk",
     "duration": "0:46",
     "canonical_section": {
@@ -70,12 +93,12 @@
   },
   {
     "id": 6289123,
-    "slug": "privacyzaak-prins-harry-en-elton-john-tegen-daily-mail-mag-doorgaan",
+    "slug": "privacyzaak-van-prins-harry-en-elton-john-tegen-daily-mail-mag-doorgaan",
     "type": "article",
-    "title": "Privacyzaak prins Harry en Elton John tegen Daily Mail mag doorgaan",
+    "title": "Privacyzaak van prins Harry en Elton John tegen Daily Mail mag doorgaan",
     "subtitle": null,
     "published_at": "2023-11-10T13:07:03+01:00",
-    "updated_at": "2023-11-10T13:07:04+01:00",
+    "updated_at": "2023-11-10T14:07:59+01:00",
     "media_id": "wi5x0vraqwce",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/achterklap/6289123/privacyzaak-prins-harry-en-elton-john-tegen-daily-mail-mag-doorgaan.html",
+    "url": "/achterklap/6289123/privacyzaak-van-prins-harry-en-elton-john-tegen-daily-mail-mag-doorgaan.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/koningshuis/6289107/nieuwe-portretten-van-koning-willem-alexander-en-koningin-maxima.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289108,
-    "slug": "astronaut-frank-borman-95-die-de-eerste-maanmissie-leidde-overleden",
-    "type": "article",
-    "title": "Astronaut Frank Borman (95) die de eerste maanmissie leidde overleden",
-    "subtitle": null,
-    "published_at": "2023-11-10T11:01:24+01:00",
-    "updated_at": "2023-11-10T11:01:25+01:00",
-    "media_id": "x3ex0s8awsyg",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6289108/astronaut-frank-borman-95-die-de-eerste-maanmissie-leidde-overleden.html",
     "open_new_window": false,
     "partner": null
   }
