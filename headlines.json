@@ -1,5 +1,28 @@
 [
   {
+    "id": 6289082,
+    "slug": "israel-wil-gaza-volgens-netanyahu-niet-bezetten-en-besturen",
+    "type": "article",
+    "title": "Israël wil Gaza volgens Netanyahu niet bezetten en besturen",
+    "subtitle": null,
+    "published_at": "2023-11-10T09:34:07+01:00",
+    "updated_at": "2023-11-10T09:34:27+01:00",
+    "media_id": "e7ux3poal8jq",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6289082/israel-wil-gaza-volgens-netanyahu-niet-bezetten-en-besturen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6289081,
     "slug": "knalroze-waterplas-fascineert-hawaianen-lijkt-wel-verf",
     "type": "video",
@@ -351,8 +374,8 @@
     "title": "Interview Laurens Dassen: 'Van de zotte dat Duitsland kerncentrales sluit en wij ze bouwen'",
     "subtitle": null,
     "published_at": "2023-11-10T05:03:01+01:00",
-    "updated_at": "2023-11-10T07:17:31+01:00",
-    "media_id": "ibsxwfwa9sz9",
+    "updated_at": "2023-11-10T09:28:54+01:00",
+    "media_id": "y8dx2giagia7",
     "duration": null,
     "canonical_section": {
       "id": 1779324,
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6289065/van-t-schip-lijdt-eerste-nederlaag-met-ajax-maar-heb-heel-goede-dingen-gezien.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289063,
-    "slug": "omtzigt-wil-na-verkiezingen-kamer-in-ik-neem-hiermee-twijfels-weg",
-    "type": "article",
-    "title": "Omtzigt wil na verkiezingen Kamer in: 'Ik neem hiermee twijfels weg'",
-    "subtitle": null,
-    "published_at": "2023-11-09T23:12:50+01:00",
-    "updated_at": "2023-11-10T08:47:08+01:00",
-    "media_id": "6nex68bargk0",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771437,
-      "slug": "politiek",
-      "type": "default",
-      "name": "Politiek",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/politiek/6289063/omtzigt-wil-na-verkiezingen-kamer-in-ik-neem-hiermee-twijfels-weg.html",
     "open_new_window": false,
     "partner": null
   }
