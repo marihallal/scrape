@@ -1,5 +1,28 @@
 [
   {
+    "id": 6289128,
+    "slug": "man-die-burgemeester-drimmelen-wilde-aanrijden-krijgt-contactverbod",
+    "type": "article",
+    "title": "Man die burgemeester Drimmelen wilde aanrijden krijgt contactverbod",
+    "subtitle": null,
+    "published_at": "2023-11-10T12:48:50+01:00",
+    "updated_at": "2023-11-10T12:49:09+01:00",
+    "media_id": "bonxei8axwez",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6289128/man-die-burgemeester-drimmelen-wilde-aanrijden-krijgt-contactverbod.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6289121,
     "slug": "koeman-haalt-ajax-verdediger-hato-bij-oranje-ook-schouten-geselecteerd",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Agent over schieten op trekker tijdens protest: 'Had ik niet moeten doen'",
     "subtitle": null,
     "published_at": "2023-11-10T12:02:17+01:00",
-    "updated_at": "2023-11-10T12:04:38+01:00",
+    "updated_at": "2023-11-10T12:45:34+01:00",
     "media_id": "15sxr93aqacn",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Drie directe Champions League-tickets lijkt voorlopig een utopie voor Nederland",
     "subtitle": null,
     "published_at": "2023-11-10T11:50:17+01:00",
-    "updated_at": "2023-11-10T12:04:03+01:00",
+    "updated_at": "2023-11-10T12:46:45+01:00",
     "media_id": "021xbxva31xw",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/klimaat/6289084/afgezwakte-natuurherstelwet-krijgt-eindelijk-steun-binnen-europese-unie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289098,
-    "slug": "veltman-geniet-van-terugkeer-in-arena-fans-riepen-dat-ik-in-het-foute-shirt-liep",
-    "type": "article",
-    "title": "Veltman geniet van terugkeer in ArenA: 'Fans riepen dat ik in het foute shirt liep'",
-    "subtitle": null,
-    "published_at": "2023-11-10T10:04:01+01:00",
-    "updated_at": "2023-11-10T10:04:02+01:00",
-    "media_id": "twaxr7galsx9",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6289098/veltman-geniet-van-terugkeer-in-arena-fans-riepen-dat-ik-in-het-foute-shirt-liep.html",
     "open_new_window": false,
     "partner": null
   }
