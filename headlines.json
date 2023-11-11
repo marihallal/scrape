@@ -1,12 +1,81 @@
 [
   {
+    "id": 6289294,
+    "slug": "britse-nationalisten-raken-slaags-met-politie-in-londen",
+    "type": "video",
+    "title": "Britse nationalisten raken slaags met politie in Londen",
+    "subtitle": "Video",
+    "published_at": "2023-11-11T16:50:42+01:00",
+    "updated_at": "2023-11-11T16:50:43+01:00",
+    "media_id": "m6exvg9aflf1",
+    "duration": "0:39",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6289294/britse-nationalisten-raken-slaags-met-politie-in-londen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6289182,
+    "slug": "klm-dreigt-dupe-te-worden-van-vliegvete-tussen-den-haag-en-washington",
+    "type": "article",
+    "title": "KLM dreigt dupe te worden van vliegvete tussen Den Haag en Washington",
+    "subtitle": "NU+",
+    "published_at": "2023-11-11T16:49:18+01:00",
+    "updated_at": "2023-11-11T16:49:19+01:00",
+    "media_id": "djwxsxda2zoi",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6289182/klm-dreigt-dupe-te-worden-van-vliegvete-tussen-den-haag-en-washington.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6289292,
+    "slug": "paus-franciscus-ontslaat-zeer-conservatieve-bisschop-die-hem-vaak-bekritiseerde",
+    "type": "article",
+    "title": "Paus Franciscus ontslaat zeer conservatieve bisschop die hem vaak bekritiseerde",
+    "subtitle": null,
+    "published_at": "2023-11-11T16:31:58+01:00",
+    "updated_at": "2023-11-11T16:37:02+01:00",
+    "media_id": "m3jxgjnarm73",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6289292/paus-franciscus-ontslaat-zeer-conservatieve-bisschop-die-hem-vaak-bekritiseerde.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6289287,
     "slug": "oud-psver-savio-schiet-koploper-girona-naar-vijfde-zege-op-rij-in-la-liga",
     "type": "article",
     "title": "Oud-PSV'er Sávio schiet koploper Girona naar vijfde zege op rij in La Liga",
     "subtitle": null,
     "published_at": "2023-11-11T16:28:32+01:00",
-    "updated_at": "2023-11-11T16:28:34+01:00",
+    "updated_at": "2023-11-11T16:43:16+01:00",
     "media_id": "jv4x0kwabk6u",
     "duration": null,
     "canonical_section": {
@@ -52,7 +121,7 @@
     "title": "Celstraffen tot 10 jaar voor 18 mensen die rol speelden bij Brits koeltruckdrama",
     "subtitle": null,
     "published_at": "2023-11-11T16:14:33+01:00",
-    "updated_at": "2023-11-11T16:31:14+01:00",
+    "updated_at": "2023-11-11T16:32:18+01:00",
     "media_id": "ruyx6zfa0nqa",
     "duration": null,
     "canonical_section": {
@@ -75,7 +144,7 @@
     "title": "Tottenham pijnlijk onderuit bij Wolverhampton na warming-up met bodycams",
     "subtitle": null,
     "published_at": "2023-11-11T15:50:47+01:00",
-    "updated_at": "2023-11-11T15:59:34+01:00",
+    "updated_at": "2023-11-11T16:37:32+01:00",
     "media_id": "9sjxqhtagi35",
     "duration": null,
     "canonical_section": {
@@ -121,7 +190,7 @@
     "title": "Overtuigende Alvarado boekt in modder van Niel tweede zege van veldritseizoen",
     "subtitle": null,
     "published_at": "2023-11-11T15:02:13+01:00",
-    "updated_at": "2023-11-11T15:14:40+01:00",
+    "updated_at": "2023-11-11T16:50:44+01:00",
     "media_id": "zz5xsf8a0lke",
     "duration": null,
     "canonical_section": {
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/spanningen-oekraine/6289259/kyiv-voor-het-eerst-in-ruim-zeven-weken-weer-onder-vuur.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289253,
-    "slug": "prinses-beatrix-genoot-van-bezoek-aan-curacao-en-aruba-altijd-fijn-hier",
-    "type": "article",
-    "title": "Prinses Beatrix genoot van bezoek aan Curaçao en Aruba: 'Altijd fijn hier'",
-    "subtitle": null,
-    "published_at": "2023-11-11T12:20:07+01:00",
-    "updated_at": "2023-11-11T15:40:51+01:00",
-    "media_id": "1rgx4o8ali69",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778775,
-      "slug": "koningshuis",
-      "type": "default",
-      "name": "Koningshuis",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/koningshuis/6289253/prinses-beatrix-genoot-van-bezoek-aan-curacao-en-aruba-altijd-fijn-hier.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289255,
-    "slug": "duitse-voetbalsupporters-gaan-met-elkaar-op-de-vuist-tijdens-duel",
-    "type": "video",
-    "title": "Duitse voetbalsupporters gaan met elkaar op de vuist tijdens duel",
-    "subtitle": "Video",
-    "published_at": "2023-11-11T12:15:18+01:00",
-    "updated_at": "2023-11-11T12:20:47+01:00",
-    "media_id": "k1exxw4au1d3",
-    "duration": "0:45",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6289255/duitse-voetbalsupporters-gaan-met-elkaar-op-de-vuist-tijdens-duel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288634,
-    "slug": "heilige-graal-of-splijtzwam-al-je-vragen-over-kernenergie-beantwoord",
-    "type": "article",
-    "title": "Heilige graal of splijtzwam? Al je vragen over kernenergie beantwoord",
-    "subtitle": "NU+",
-    "published_at": "2023-11-11T12:03:32+01:00",
-    "updated_at": "2023-11-11T14:27:13+01:00",
-    "media_id": "nkmxnazakwr6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772754,
-      "slug": "klimaat",
-      "type": "default",
-      "name": "Klimaat",
-      "style": "nuzakelijk",
-      "media_id": "kf4x3b2agsxg",
-      "partner": null
-    },
-    "url": "/klimaat/6288634/heilige-graal-of-splijtzwam-al-je-vragen-over-kernenergie-beantwoord.html",
     "open_new_window": false,
     "partner": null
   }
