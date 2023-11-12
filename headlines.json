@@ -1,5 +1,74 @@
 [
   {
+    "id": 6289357,
+    "slug": "zo-ziet-de-fremantle-highway-er-vanbinnen-uit",
+    "type": "video",
+    "title": "Zo ziet de Fremantle Highway er vanbinnen uit",
+    "subtitle": "Video",
+    "published_at": "2023-11-12T11:51:26+01:00",
+    "updated_at": "2023-11-12T11:51:26+01:00",
+    "media_id": "55px2nxav7a6",
+    "duration": "0:52",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6289357/zo-ziet-de-fremantle-highway-er-vanbinnen-uit.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6289355,
+    "slug": "rapinoe-38-loopt-zware-blessure-op-en-verliest-kampioensduel-in-laatste-wedstrijd",
+    "type": "article",
+    "title": "Rapinoe (38) loopt zware blessure op én verliest kampioensduel in laatste wedstrijd",
+    "subtitle": null,
+    "published_at": "2023-11-12T11:38:17+01:00",
+    "updated_at": "2023-11-12T11:42:32+01:00",
+    "media_id": "lwkxbp3asztv",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6289355/rapinoe-38-loopt-zware-blessure-op-en-verliest-kampioensduel-in-laatste-wedstrijd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6289354,
+    "slug": "psv-wil-foutloze-reeks-een-vervolg-geven-in-thuisduel-met-pec",
+    "type": "article",
+    "title": "PSV wil foutloze reeks een vervolg geven in thuisduel met PEC",
+    "subtitle": "Liveblog",
+    "published_at": "2023-11-12T11:35:47+01:00",
+    "updated_at": "2023-11-12T11:46:28+01:00",
+    "media_id": "2w7xv7havghb",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6289354/psv-wil-foutloze-reeks-een-vervolg-geven-in-thuisduel-met-pec.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6288987,
     "slug": "tata-steel-chemours-en-nam-van-trots-tot-hoofdpijndossiers",
     "type": "article",
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/uitgelicht/6289330/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289184,
-    "slug": "nfl-wil-in-jacht-op-25-miljard-dollar-aan-omzet-ook-europa-veroveren",
-    "type": "article",
-    "title": "NFL wil in jacht op 25 miljard dollar aan omzet ook Europa veroveren",
-    "subtitle": "NU+",
-    "published_at": "2023-11-12T05:08:24+01:00",
-    "updated_at": "2023-11-12T09:35:34+01:00",
-    "media_id": "a9wxrqwa8z9e",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6289184/nfl-wil-in-jacht-op-25-miljard-dollar-aan-omzet-ook-europa-veroveren.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289136,
-    "slug": "je-bent-geen-moeilijke-ouder-als-je-over-de-privacy-van-je-kind-waakt",
-    "type": "article",
-    "title": "Je bent geen moeilijke ouder als je over de privacy van je kind waakt",
-    "subtitle": "NU+",
-    "published_at": "2023-11-12T05:07:26+01:00",
-    "updated_at": "2023-11-12T07:48:36+01:00",
-    "media_id": "9j5xxwgab1jq",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6289136/je-bent-geen-moeilijke-ouder-als-je-over-de-privacy-van-je-kind-waakt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289023,
-    "slug": "amper-vertrouwen-in-politiek-betekent-niet-dat-opkomst-bij-verkiezingen-inzakt",
-    "type": "article",
-    "title": "Amper vertrouwen in politiek betekent niet dat opkomst bij verkiezingen inzakt",
-    "subtitle": null,
-    "published_at": "2023-11-12T05:06:21+01:00",
-    "updated_at": "2023-11-12T05:06:22+01:00",
-    "media_id": "373xtq1aeoeo",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771437,
-      "slug": "politiek",
-      "type": "default",
-      "name": "Politiek",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/politiek/6289023/amper-vertrouwen-in-politiek-betekent-niet-dat-opkomst-bij-verkiezingen-inzakt.html",
     "open_new_window": false,
     "partner": null
   }
