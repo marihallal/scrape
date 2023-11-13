@@ -1,5 +1,28 @@
 [
   {
+    "id": 6289463,
+    "slug": "darter-kleermaker-in-tranen-dat-ik-mezelf-teleurstel-oke-maar-mijn-kinderen",
+    "type": "article",
+    "title": "Darter Kleermaker in tranen: 'Dat ik mezelf teleurstel, oké, maar mijn kinderen'",
+    "subtitle": null,
+    "published_at": "2023-11-13T10:28:09+01:00",
+    "updated_at": "2023-11-13T10:28:10+01:00",
+    "media_id": "qk1xvyza9bue",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6289463/darter-kleermaker-in-tranen-dat-ik-mezelf-teleurstel-oke-maar-mijn-kinderen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6289460,
     "slug": "oud-politica-ayaan-hirsi-ali-is-christen-geworden",
     "type": "article",
@@ -259,7 +282,7 @@
     "title": "WHO krijgt contact met grootste ziekenhuis in Gaza: 'Situatie is verschrikkelijk'",
     "subtitle": null,
     "published_at": "2023-11-13T07:31:02+01:00",
-    "updated_at": "2023-11-13T08:53:29+01:00",
+    "updated_at": "2023-11-13T10:23:18+01:00",
     "media_id": "ulcxqw5asrug",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/uitgelicht/6289432/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289164,
-    "slug": "alle-zorgpremies-gaan-omhoog-hoe-maak-je-nu-de-beste-keuze",
-    "type": "article",
-    "title": "Alle zorgpremies gaan omhoog: Hoe maak je nu de beste keuze?",
-    "subtitle": "NU+",
-    "published_at": "2023-11-13T05:09:09+01:00",
-    "updated_at": "2023-11-13T09:55:21+01:00",
-    "media_id": "1ftx5mrazh3n",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779328,
-      "slug": "slimmer-leven",
-      "type": "default",
-      "name": "Slimmer leven",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/slimmer-leven/6289164/alle-zorgpremies-gaan-omhoog-hoe-maak-je-nu-de-beste-keuze.html",
     "open_new_window": false,
     "partner": null
   }
