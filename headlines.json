@@ -1,12 +1,35 @@
 [
   {
+    "id": 6289771,
+    "slug": "overijssel-wil-onafhankelijk-kopstuk-voor-afhandeling-van-schade-aan-huizen",
+    "type": "article",
+    "title": "Overijssel wil 'onafhankelijk kopstuk' voor afhandeling van schade aan huizen",
+    "subtitle": null,
+    "published_at": "2023-11-15T10:49:30+01:00",
+    "updated_at": "2023-11-15T10:49:31+01:00",
+    "media_id": "yumxo0oa4blz",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6289771/overijssel-wil-onafhankelijk-kopstuk-voor-afhandeling-van-schade-aan-huizen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6289769,
     "slug": "longkanker-presentatrice-cilly-dartell-uitgezaaid-weet-dat-ik-doodga",
     "type": "article",
     "title": "Longkanker presentatrice Cilly Dartell uitgezaaid: 'Weet dat ik doodga'",
     "subtitle": null,
     "published_at": "2023-11-15T10:26:56+01:00",
-    "updated_at": "2023-11-15T10:26:57+01:00",
+    "updated_at": "2023-11-15T10:43:38+01:00",
     "media_id": "1t2xewhal889",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6289736/nieuwe-en-laatste-aanvraagperiode-voor-omstreden-stap-budget-van-start.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289735,
-    "slug": "tiktok-gebruikers-kunnen-liedjes-vanuit-app-opslaan-in-spotify-en-amazon-music",
-    "type": "article",
-    "title": "TikTok-gebruikers kunnen liedjes vanuit app opslaan in Spotify en Amazon Music",
-    "subtitle": null,
-    "published_at": "2023-11-15T05:31:13+01:00",
-    "updated_at": "2023-11-15T08:57:20+01:00",
-    "media_id": "j5sxkh4a1oq1",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6289735/tiktok-gebruikers-kunnen-liedjes-vanuit-app-opslaan-in-spotify-en-amazon-music.html",
     "open_new_window": false,
     "partner": null
   }
