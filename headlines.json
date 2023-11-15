@@ -1,12 +1,58 @@
 [
   {
+    "id": 6289667,
+    "slug": "israeliers-en-palestijnen-voetballen-weer-we-willen-wat-troost-bieden",
+    "type": "article",
+    "title": "Israëliërs en Palestijnen voetballen weer: 'We willen wat troost bieden'",
+    "subtitle": "NU+",
+    "published_at": "2023-11-15T12:03:18+01:00",
+    "updated_at": "2023-11-15T12:03:19+01:00",
+    "media_id": "pp1xgswa2lgy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6289667/israeliers-en-palestijnen-voetballen-weer-we-willen-wat-troost-bieden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6289785,
+    "slug": "brits-plan-om-asielzoekers-naar-rwanda-te-sturen-is-ongrondwettig",
+    "type": "article",
+    "title": "Brits plan om asielzoekers naar Rwanda te sturen is ongrondwettig",
+    "subtitle": null,
+    "published_at": "2023-11-15T11:55:51+01:00",
+    "updated_at": "2023-11-15T11:56:04+01:00",
+    "media_id": "p0rxlygakjzy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6289785/brits-plan-om-asielzoekers-naar-rwanda-te-sturen-is-ongrondwettig.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6289775,
     "slug": "demi-schuurs-vervolgt-jacht-op-grand-slam-finale-met-braziliaanse-dubbelpartner",
     "type": "article",
     "title": "Demi Schuurs vervolgt jacht op Grand Slam-finale met Braziliaanse dubbelpartner",
     "subtitle": null,
     "published_at": "2023-11-15T11:50:36+01:00",
-    "updated_at": "2023-11-15T11:50:37+01:00",
+    "updated_at": "2023-11-15T11:58:17+01:00",
     "media_id": "5ytxe98a4yxc",
     "duration": null,
     "canonical_section": {
@@ -70,13 +116,13 @@
   },
   {
     "id": 6289780,
-    "slug": "who-is-contact-kwijt-met-ziekenhuispersoneel-gaza-vn-kopstukken-uiten-zorgen",
+    "slug": "who-is-contact-kwijt-met-personeel-van-grootste-ziekenhuis-in-gaza-na-aanval-israel",
     "type": "article",
-    "title": "WHO is contact kwijt met ziekenhuispersoneel Gaza, VN-kopstukken uiten zorgen",
+    "title": "WHO is contact kwijt met personeel van grootste ziekenhuis in Gaza na aanval Israël",
     "subtitle": null,
     "published_at": "2023-11-15T11:35:59+01:00",
-    "updated_at": "2023-11-15T11:36:01+01:00",
-    "media_id": "2jfxo8ias4fb",
+    "updated_at": "2023-11-15T12:09:39+01:00",
+    "media_id": "tzaxsfaahapt",
     "duration": null,
     "canonical_section": {
       "id": 1771436,
@@ -87,18 +133,18 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6289780/who-is-contact-kwijt-met-ziekenhuispersoneel-gaza-vn-kopstukken-uiten-zorgen.html",
+    "url": "/buitenland/6289780/who-is-contact-kwijt-met-personeel-van-grootste-ziekenhuis-in-gaza-na-aanval-israel.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6289781,
-    "slug": "uefa-en-adidas-onthullen-bal-voor-ek-van-2024-in-berlijn",
+    "slug": "uefa-en-adidas-onthullen-bal-voor-ek-van-2024",
     "type": "article",
-    "title": "UEFA en adidas onthullen bal voor EK van 2024 in Berlijn",
+    "title": "UEFA en adidas onthullen bal voor EK van 2024",
     "subtitle": "In beeld",
     "published_at": "2023-11-15T11:23:25+01:00",
-    "updated_at": "2023-11-15T11:23:26+01:00",
+    "updated_at": "2023-11-15T12:05:59+01:00",
     "media_id": "1rpxgpzaku76",
     "duration": null,
     "canonical_section": {
@@ -110,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6289781/uefa-en-adidas-onthullen-bal-voor-ek-van-2024-in-berlijn.html",
+    "url": "/voetbal/6289781/uefa-en-adidas-onthullen-bal-voor-ek-van-2024.html",
     "open_new_window": false,
     "partner": null
   },
@@ -259,7 +305,7 @@
     "title": "Veel invallen vanwege enorm fraudenetwerk in Nederland, België en Duitsland",
     "subtitle": null,
     "published_at": "2023-11-15T10:57:46+01:00",
-    "updated_at": "2023-11-15T11:49:15+01:00",
+    "updated_at": "2023-11-15T12:05:55+01:00",
     "media_id": "a1ox31fazg0g",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/videos/6289754/tesla-vat-vlam-en-brandt-uit-bij-nijkerk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289753,
-    "slug": "beleggers-roepen-chemiebedrijven-op-te-stoppen-met-pfas-productie",
-    "type": "article",
-    "title": "Beleggers roepen chemiebedrijven op te stoppen met pfas-productie",
-    "subtitle": null,
-    "published_at": "2023-11-15T08:49:39+01:00",
-    "updated_at": "2023-11-15T08:49:40+01:00",
-    "media_id": "nf9xwwnaekuu",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6289753/beleggers-roepen-chemiebedrijven-op-te-stoppen-met-pfas-productie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289752,
-    "slug": "facebook-blundert-en-kondigt-verkiezingen-een-week-te-vroeg-aan",
-    "type": "article",
-    "title": "Facebook blundert en kondigt verkiezingen een week te vroeg aan",
-    "subtitle": null,
-    "published_at": "2023-11-15T08:41:59+01:00",
-    "updated_at": "2023-11-15T09:18:05+01:00",
-    "media_id": "qdrxy7xalt9v",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6289752/facebook-blundert-en-kondigt-verkiezingen-een-week-te-vroeg-aan.html",
     "open_new_window": false,
     "partner": null
   }
