@@ -1,5 +1,51 @@
 [
   {
+    "id": 6289753,
+    "slug": "beleggers-roepen-chemiebedrijven-op-te-stoppen-met-pfas-productie",
+    "type": "article",
+    "title": "Beleggers roepen chemiebedrijven op te stoppen met pfas-productie",
+    "subtitle": null,
+    "published_at": "2023-11-15T08:49:39+01:00",
+    "updated_at": "2023-11-15T08:49:40+01:00",
+    "media_id": "nf9xwwnaekuu",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6289753/beleggers-roepen-chemiebedrijven-op-te-stoppen-met-pfas-productie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6289752,
+    "slug": "facebook-blundert-en-kondigt-verkiezingen-een-week-te-vroeg-aan",
+    "type": "article",
+    "title": "Facebook blundert en kondigt verkiezingen een week te vroeg aan",
+    "subtitle": null,
+    "published_at": "2023-11-15T08:41:59+01:00",
+    "updated_at": "2023-11-15T08:42:23+01:00",
+    "media_id": "qdrxy7xalt9v",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6289752/facebook-blundert-en-kondigt-verkiezingen-een-week-te-vroeg-aan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6289749,
     "slug": "nog-zeven-dagen-tot-verkiezingen-laatste-fase-breekt-aan",
     "type": "article",
@@ -52,7 +98,7 @@
     "title": "Nederlandse ondernemers willen nieuwe internationale trein tot aan Groningen",
     "subtitle": null,
     "published_at": "2023-11-15T08:10:52+01:00",
-    "updated_at": "2023-11-15T08:10:53+01:00",
+    "updated_at": "2023-11-15T08:37:04+01:00",
     "media_id": "e6vxqihaouam",
     "duration": null,
     "canonical_section": {
@@ -190,8 +236,8 @@
     "title": "Israël valt grootste ziekenhuis in Gazastrook aan: 'Gerichte operatie tegen Hamas'",
     "subtitle": null,
     "published_at": "2023-11-15T06:29:16+01:00",
-    "updated_at": "2023-11-15T08:27:32+01:00",
-    "media_id": "odfxlk8adsk1",
+    "updated_at": "2023-11-15T08:33:45+01:00",
+    "media_id": "zlxxcz2aazf8",
     "duration": null,
     "canonical_section": {
       "id": 1772085,
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6289696/hoe-goed-is-racetalent-veijer-vergelijkbaar-met-de-eerste-jaren-van-rossi.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289670,
-    "slug": "begin-europees-vrouwenvoetbal-pruthotel-slecht-veld-en-onbekend-eten",
-    "type": "article",
-    "title": "Begin Europees vrouwenvoetbal: 'Pruthotel, slecht veld en onbekend eten'",
-    "subtitle": "NU+",
-    "published_at": "2023-11-15T05:06:01+01:00",
-    "updated_at": "2023-11-15T05:06:02+01:00",
-    "media_id": "nd8x9learpsm",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6289670/begin-europees-vrouwenvoetbal-pruthotel-slecht-veld-en-onbekend-eten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289652,
-    "slug": "rivm-wilde-giftig-tata-stof-30-jaar-geleden-al-onderzoeken-maar-miste-zijn-kans",
-    "type": "article",
-    "title": "RIVM wilde giftig Tata-stof 30 jaar geleden al onderzoeken, maar miste zijn kans",
-    "subtitle": null,
-    "published_at": "2023-11-15T05:02:20+01:00",
-    "updated_at": "2023-11-15T06:00:02+01:00",
-    "media_id": "z1sxl8qav15x",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779320,
-      "slug": "tatasteel",
-      "type": "files",
-      "name": "Tata Steel",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tatasteel/6289652/rivm-wilde-giftig-tata-stof-30-jaar-geleden-al-onderzoeken-maar-miste-zijn-kans.html",
     "open_new_window": false,
     "partner": null
   }
