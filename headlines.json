@@ -1,12 +1,35 @@
 [
   {
+    "id": 6289859,
+    "slug": "aantal-jonge-kinderen-met-longontsteking-stijgt-hoogste-aantal-in-drie-jaar-tijd",
+    "type": "article",
+    "title": "Aantal jonge kinderen met longontsteking stijgt, hoogste aantal in drie jaar tijd",
+    "subtitle": null,
+    "published_at": "2023-11-15T18:20:19+01:00",
+    "updated_at": "2023-11-15T18:20:20+01:00",
+    "media_id": "hd8xumuadp3e",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6289859/aantal-jonge-kinderen-met-longontsteking-stijgt-hoogste-aantal-in-drie-jaar-tijd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6289858,
     "slug": "een-week-overstromingen-in-noord-frankrijk-hoe-kan-dat",
     "type": "video",
-    "title": "Een week overstromingen in Noord-Frankrijk: Hoe kan dat?",
+    "title": "Een week overstromingen in Noord-Frankrijk: hoe kan dat?",
     "subtitle": "Explainer",
     "published_at": "2023-11-15T17:51:28+01:00",
-    "updated_at": "2023-11-15T17:51:30+01:00",
+    "updated_at": "2023-11-15T18:02:52+01:00",
     "media_id": "etkx7x5axw1s",
     "duration": "1:39",
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "S10 brengt nieuwe muziek uit: 'Ik was een beetje onzeker geworden'",
     "subtitle": null,
     "published_at": "2023-11-15T17:27:18+01:00",
-    "updated_at": "2023-11-15T17:27:19+01:00",
+    "updated_at": "2023-11-15T17:55:19+01:00",
     "media_id": "hkzx0iragrst",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6289825/carlos-sainz-laat-beker-stuk-vallen-na-winst-netflix-cup-in-las-vegas.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289782,
-    "slug": "meer-mond-keelkanker-door-hpv-verband-nauwelijks-bekend-bij-nederlanders",
-    "type": "article",
-    "title": "Meer mond-keelkanker door HPV: verband nauwelijks bekend bij Nederlanders",
-    "subtitle": null,
-    "published_at": "2023-11-15T15:03:48+01:00",
-    "updated_at": "2023-11-15T17:37:30+01:00",
-    "media_id": "sbex5t8aippe",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6289782/meer-mond-keelkanker-door-hpv-verband-nauwelijks-bekend-bij-nederlanders.html",
     "open_new_window": false,
     "partner": null
   }
