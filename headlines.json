@@ -1,12 +1,35 @@
 [
   {
+    "id": 6289841,
+    "slug": "twijfel-je-op-wie-je-wil-stemmen-baseer-je-op-meer-dan-de-stemwijzer",
+    "type": "article",
+    "title": "Twijfel je op wie je wil stemmen? 'Baseer je op meer dan de StemWijzer'",
+    "subtitle": "NU+",
+    "published_at": "2023-11-16T19:45:38+01:00",
+    "updated_at": "2023-11-16T19:45:39+01:00",
+    "media_id": "18wxfenaiggb",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779328,
+      "slug": "slimmer-leven",
+      "type": "default",
+      "name": "Slimmer leven",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/slimmer-leven/6289841/twijfel-je-op-wie-je-wil-stemmen-baseer-je-op-meer-dan-de-stemwijzer.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6290016,
     "slug": "vn-experts-zien-israelische-acties-in-gaza-als-teken-van-beginnende-genocide",
     "type": "article",
     "title": "VN-experts zien Israëlische acties in Gaza als teken van beginnende genocide",
     "subtitle": null,
     "published_at": "2023-11-16T19:20:21+01:00",
-    "updated_at": "2023-11-16T19:38:13+01:00",
+    "updated_at": "2023-11-16T19:46:33+01:00",
     "media_id": "xagx0fzaev00",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6289980/arnold-schwarzenegger-opnieuw-aangeklaagd-voor-roekeloos-rijgedrag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289979,
-    "slug": "dronebeelden-tonen-omvang-wateroverlast-in-west-vlaanderen",
-    "type": "video",
-    "title": "Dronebeelden tonen omvang wateroverlast in West-Vlaanderen",
-    "subtitle": "Video",
-    "published_at": "2023-11-16T14:24:59+01:00",
-    "updated_at": "2023-11-16T14:28:18+01:00",
-    "media_id": "dwpxt33as7s9",
-    "duration": "0:36",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6289979/dronebeelden-tonen-omvang-wateroverlast-in-west-vlaanderen.html",
     "open_new_window": false,
     "partner": null
   }
