@@ -1,12 +1,35 @@
 [
   {
+    "id": 6289991,
+    "slug": "ken-je-iemand-die-in-gaza-is-geweest",
+    "type": "article",
+    "title": "Ken je iemand die in Gaza is (geweest)?",
+    "subtitle": "Oproep",
+    "published_at": "2023-11-16T15:49:55+01:00",
+    "updated_at": "2023-11-16T15:49:56+01:00",
+    "media_id": "nbgxukja30fl",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779137,
+      "slug": "vragenoproep",
+      "type": "default",
+      "name": "Oproep",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/vragenoproep/6289991/ken-je-iemand-die-in-gaza-is-geweest.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6289985,
     "slug": "britse-krant-haalt-oude-brief-van-bin-laden-offline-die-viral-ging-op-tiktok",
     "type": "article",
     "title": "Britse krant haalt oude brief van Bin Laden offline die viral ging op TikTok",
     "subtitle": null,
     "published_at": "2023-11-16T15:24:19+01:00",
-    "updated_at": "2023-11-16T15:24:24+01:00",
+    "updated_at": "2023-11-16T15:37:36+01:00",
     "media_id": "g6nx279aexyc",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Acht Nederlanders opgepakt vanwege reeks verwoestende plofkraken in Duitsland",
     "subtitle": null,
     "published_at": "2023-11-16T14:13:03+01:00",
-    "updated_at": "2023-11-16T15:32:55+01:00",
+    "updated_at": "2023-11-16T15:46:18+01:00",
     "media_id": "m9mxmj3aipia",
     "duration": null,
     "canonical_section": {
@@ -369,12 +392,12 @@
   },
   {
     "id": 6289952,
-    "slug": "storing-voorbij-je-kunt-weer-een-ov-fiets-huren",
+    "slug": "storing-is-voorbij-je-kunt-weer-een-ov-fiets-huren",
     "type": "article",
-    "title": "Storing voorbij: je kunt weer een ov-fiets huren",
+    "title": "Storing is voorbij: je kunt weer een ov-fiets huren",
     "subtitle": null,
     "published_at": "2023-11-16T11:47:16+01:00",
-    "updated_at": "2023-11-16T15:23:07+01:00",
+    "updated_at": "2023-11-16T15:41:13+01:00",
     "media_id": "y71xzghazt6u",
     "duration": null,
     "canonical_section": {
@@ -386,7 +409,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/tech/6289952/storing-voorbij-je-kunt-weer-een-ov-fiets-huren.html",
+    "url": "/tech/6289952/storing-is-voorbij-je-kunt-weer-een-ov-fiets-huren.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/muziek/6289948/turkse-rechter-spreekt-rapper-murda-vrij-in-zaak-rond-songteksten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289944,
-    "slug": "arnhem-verplaatst-cruiseschepen-waarop-vluchtelingen-wonen-wegens-hoogwater",
-    "type": "article",
-    "title": "Arnhem verplaatst cruiseschepen waarop vluchtelingen wonen wegens hoogwater",
-    "subtitle": null,
-    "published_at": "2023-11-16T11:23:58+01:00",
-    "updated_at": "2023-11-16T11:23:59+01:00",
-    "media_id": "341xhvva4pm3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6289944/arnhem-verplaatst-cruiseschepen-waarop-vluchtelingen-wonen-wegens-hoogwater.html",
     "open_new_window": false,
     "partner": null
   }
