@@ -1,5 +1,74 @@
 [
   {
+    "id": 6290001,
+    "slug": "testrit-met-elektrische-auto-mislukt-volledig-in-china",
+    "type": "video",
+    "title": "Testrit met elektrische auto mislukt volledig in China",
+    "subtitle": "Video",
+    "published_at": "2023-11-16T16:48:28+01:00",
+    "updated_at": "2023-11-16T16:51:01+01:00",
+    "media_id": "bwexl0ga53ht",
+    "duration": "0:30",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6290001/testrit-met-elektrische-auto-mislukt-volledig-in-china.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6290000,
+    "slug": "bnnvara-schrapt-beelden-van-nepdate-uit-first-dates",
+    "type": "article",
+    "title": "BNNVARA schrapt beelden van nepdate uit First Dates",
+    "subtitle": null,
+    "published_at": "2023-11-16T16:40:42+01:00",
+    "updated_at": "2023-11-16T16:44:22+01:00",
+    "media_id": "inoxmx5a1c0l",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6290000/bnnvara-schrapt-beelden-van-nepdate-uit-first-dates.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6289997,
+    "slug": "negen-artiesten-lenen-hun-stemmen-voor-ai-liedjes-op-youtube",
+    "type": "article",
+    "title": "Negen artiesten lenen hun stemmen voor AI-liedjes op YouTube",
+    "subtitle": null,
+    "published_at": "2023-11-16T16:36:50+01:00",
+    "updated_at": "2023-11-16T16:36:51+01:00",
+    "media_id": "eztx1g4aziya",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6289997/negen-artiesten-lenen-hun-stemmen-voor-ai-liedjes-op-youtube.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6289998,
     "slug": "finland-gooit-vier-grensovergangen-met-rusland-dicht-vanwege-migranten",
     "type": "article",
@@ -282,7 +351,7 @@
     "title": "Benzineprijs zakt terug tot laagste niveau sinds juli door goedkopere olie",
     "subtitle": null,
     "published_at": "2023-11-16T13:06:45+01:00",
-    "updated_at": "2023-11-16T16:26:00+01:00",
+    "updated_at": "2023-11-16T16:47:38+01:00",
     "media_id": "2mcxk58adlkv",
     "duration": null,
     "canonical_section": {
@@ -374,8 +443,8 @@
     "title": "GP-weekend Las Vegas spectaculair geopend, maar kritiek is er ook",
     "subtitle": "NU+",
     "published_at": "2023-11-16T12:33:47+01:00",
-    "updated_at": "2023-11-16T16:19:31+01:00",
-    "media_id": "8w3xarhafm9s",
+    "updated_at": "2023-11-16T16:45:32+01:00",
+    "media_id": "hn0x072a89c9",
     "duration": null,
     "canonical_section": {
       "id": 1772449,
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/formule-1/6289921/gp-weekend-las-vegas-spectaculair-geopend-maar-kritiek-is-er-ook.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289959,
-    "slug": "hellofresh-keldert-op-beurs-na-problemen-in-vs",
-    "type": "article",
-    "title": "HelloFresh keldert op beurs na problemen in VS",
-    "subtitle": null,
-    "published_at": "2023-11-16T12:24:20+01:00",
-    "updated_at": "2023-11-16T12:24:22+01:00",
-    "media_id": "waux8imanosh",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6289959/hellofresh-keldert-op-beurs-na-problemen-in-vs.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289951,
-    "slug": "britse-oud-premier-cameron-begint-ministersklus-met-bezoek-aan-zelensky",
-    "type": "article",
-    "title": "Britse oud-premier Cameron begint ministersklus met bezoek aan Zelensky",
-    "subtitle": null,
-    "published_at": "2023-11-16T12:18:24+01:00",
-    "updated_at": "2023-11-16T12:18:25+01:00",
-    "media_id": "g1jx4pva4r83",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6289951/britse-oud-premier-cameron-begint-ministersklus-met-bezoek-aan-zelensky.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289952,
-    "slug": "storing-is-voorbij-je-kunt-weer-een-ov-fiets-huren",
-    "type": "article",
-    "title": "Storing is voorbij: je kunt weer een ov-fiets huren",
-    "subtitle": null,
-    "published_at": "2023-11-16T11:47:16+01:00",
-    "updated_at": "2023-11-16T15:41:13+01:00",
-    "media_id": "y71xzghazt6u",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6289952/storing-is-voorbij-je-kunt-weer-een-ov-fiets-huren.html",
     "open_new_window": false,
     "partner": null
   }
