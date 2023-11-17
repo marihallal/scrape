@@ -1,5 +1,28 @@
 [
   {
+    "id": 6290065,
+    "slug": "psv-reservespits-pepi-zorgt-met-weer-een-bevrijdende-goal-voor-unicum-bij-vs",
+    "type": "article",
+    "title": "PSV-reservespits Pepi zorgt met wéér een bevrijdende goal voor unicum bij VS",
+    "subtitle": null,
+    "published_at": "2023-11-17T08:48:13+01:00",
+    "updated_at": "2023-11-17T08:48:15+01:00",
+    "media_id": "ictxrlpar0pb",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6290065/psv-reservespits-pepi-zorgt-met-weer-een-bevrijdende-goal-voor-unicum-bij-vs.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6290060,
     "slug": "atletiekunie-vernoemt-nieuwe-talentprijs-naar-dafne-schippers",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Ferrari-teambaas woest na loskomen putdeksel: 'Dit is onacceptabel voor F1'",
     "subtitle": null,
     "published_at": "2023-11-17T08:06:24+01:00",
-    "updated_at": "2023-11-17T08:31:27+01:00",
+    "updated_at": "2023-11-17T08:35:13+01:00",
     "media_id": "fgoxvs6a7vc9",
     "duration": null,
     "canonical_section": {
@@ -47,12 +70,12 @@
   },
   {
     "id": 6290059,
-    "slug": "italie-verbiedt-de-verkoop-van-kweekvlees-uit-laboratorium",
+    "slug": "italie-verbiedt-verkoop-van-kweekvlees-verbreekt-relatie-tussen-land-en-mens",
     "type": "article",
-    "title": "Italië verbiedt de verkoop van kweekvlees uit laboratorium",
+    "title": "Italië verbiedt verkoop van kweekvlees: 'Verbreekt relatie tussen land en mens'",
     "subtitle": null,
     "published_at": "2023-11-17T08:02:01+01:00",
-    "updated_at": "2023-11-17T08:02:28+01:00",
+    "updated_at": "2023-11-17T08:49:18+01:00",
     "media_id": "o5xx293ave6i",
     "duration": null,
     "canonical_section": {
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6290059/italie-verbiedt-de-verkoop-van-kweekvlees-uit-laboratorium.html",
+    "url": "/economie/6290059/italie-verbiedt-verkoop-van-kweekvlees-verbreekt-relatie-tussen-land-en-mens.html",
     "open_new_window": false,
     "partner": null
   },
@@ -236,7 +259,7 @@
     "title": "Eerste training GP Las Vegas na acht minuten gestaakt omdat putdeksel loskomt",
     "subtitle": null,
     "published_at": "2023-11-17T05:56:36+01:00",
-    "updated_at": "2023-11-17T08:14:03+01:00",
+    "updated_at": "2023-11-17T08:34:15+01:00",
     "media_id": "eorxkzdazfdu",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/muziek/6290040/rapper-diddy-door-ex-vriendin-aangeklaagd-voor-verkrachting-en-mishandeling.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290039,
-    "slug": "ook-haarlem-biedt-excuses-aan-voor-slavernijverleden",
-    "type": "article",
-    "title": "Ook Haarlem biedt excuses aan voor slavernijverleden",
-    "subtitle": null,
-    "published_at": "2023-11-16T23:08:44+01:00",
-    "updated_at": "2023-11-16T23:29:37+01:00",
-    "media_id": "s0ix57qazfxe",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6290039/ook-haarlem-biedt-excuses-aan-voor-slavernijverleden.html",
     "open_new_window": false,
     "partner": null
   }
