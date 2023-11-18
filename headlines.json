@@ -1,12 +1,35 @@
 [
   {
+    "id": 6290331,
+    "slug": "oranje-hoopt-op-ek-ticket-tegen-ierland-moment-stilte-voor-oud-international-geels",
+    "type": "article",
+    "title": "Oranje hoopt op EK-ticket tegen Ierland, moment stilte voor oud-international Geels",
+    "subtitle": "Liveblog",
+    "published_at": "2023-11-18T19:41:36+01:00",
+    "updated_at": "2023-11-18T19:43:51+01:00",
+    "media_id": "49ix903adgob",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6290331/oranje-hoopt-op-ek-ticket-tegen-ierland-moment-stilte-voor-oud-international-geels.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6290330,
-    "slug": "hulpdiensten-werken-samen-na-ernstig-ongeluk-met-zeven-autos-bij-alkmaar",
+    "slug": "hulpdiensten-in-actie-na-ernstig-ongeluk-met-zeven-autos-bij-alkmaar",
     "type": "video",
-    "title": "Hulpdiensten werken samen na ernstig ongeluk met zeven auto's bij Alkmaar",
+    "title": "Hulpdiensten in actie na ernstig ongeluk met zeven auto's bij Alkmaar",
     "subtitle": "Video",
     "published_at": "2023-11-18T19:33:27+01:00",
-    "updated_at": "2023-11-18T19:33:28+01:00",
+    "updated_at": "2023-11-18T19:39:56+01:00",
     "media_id": "2r0x0cla1uhj",
     "duration": "0:36",
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/videos/6290330/hulpdiensten-werken-samen-na-ernstig-ongeluk-met-zeven-autos-bij-alkmaar.html",
+    "url": "/videos/6290330/hulpdiensten-in-actie-na-ernstig-ongeluk-met-zeven-autos-bij-alkmaar.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +52,7 @@
     "title": "De doelpuntrijke carrière van topspits Ruud Geels in tien foto's",
     "subtitle": "In beeld",
     "published_at": "2023-11-18T19:33:06+01:00",
-    "updated_at": "2023-11-18T19:33:07+01:00",
+    "updated_at": "2023-11-18T19:39:28+01:00",
     "media_id": "tf2xkl6ah3d8",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Oranje begint met De Vrij, Blind en Schouten aan EK-kwalificatieduel met Ierland",
     "subtitle": null,
     "published_at": "2023-11-18T19:31:37+01:00",
-    "updated_at": "2023-11-18T19:31:58+01:00",
+    "updated_at": "2023-11-18T19:41:18+01:00",
     "media_id": "b9mxabyaln26",
     "duration": null,
     "canonical_section": {
@@ -144,8 +167,8 @@
     "title": "Twee zwaargewonden en vier gewonden na ongeluk met zeven auto's bij Alkmaar",
     "subtitle": null,
     "published_at": "2023-11-18T18:13:32+01:00",
-    "updated_at": "2023-11-18T19:15:23+01:00",
-    "media_id": "bbcxgvyaxfes",
+    "updated_at": "2023-11-18T19:38:16+01:00",
+    "media_id": "msyx3u8asdt6",
     "duration": null,
     "canonical_section": {
       "id": 1779258,
@@ -374,7 +397,7 @@
     "title": "SpaceX lanceert  in Texas raket hoger dan de Domtoren",
     "subtitle": "Video",
     "published_at": "2023-11-18T16:24:52+01:00",
-    "updated_at": "2023-11-18T16:53:39+01:00",
+    "updated_at": "2023-11-18T19:44:58+01:00",
     "media_id": "k6zxnlsayq9i",
     "duration": "0:54",
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6290303/tientallen-doden-gemeld-na-bombardement-op-school-in-noord-gaza.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290302,
-    "slug": "grootste-raket-ooit-bereikt-voor-het-eerst-de-ruimte-maar-test-mislukt-alsnog",
-    "type": "article",
-    "title": "Grootste raket ooit bereikt voor het eerst de ruimte, maar test mislukt alsnog",
-    "subtitle": null,
-    "published_at": "2023-11-18T15:12:28+01:00",
-    "updated_at": "2023-11-18T16:25:22+01:00",
-    "media_id": "rt6x6rgaeco8",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779219,
-      "slug": "tech-wetenschap",
-      "type": "default",
-      "name": "Tech & Wetenschap",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech-wetenschap/6290302/grootste-raket-ooit-bereikt-voor-het-eerst-de-ruimte-maar-test-mislukt-alsnog.html",
     "open_new_window": false,
     "partner": null
   }
