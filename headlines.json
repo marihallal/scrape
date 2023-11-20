@@ -1,12 +1,104 @@
 [
   {
+    "id": 6290510,
+    "slug": "tijgermug-gespot-in-bijna-heel-nederland-maar-heeft-zich-nog-niet-gevestigd",
+    "type": "article",
+    "title": "Tijgermug gespot in bijna heel Nederland 'maar heeft zich nog niet gevestigd'",
+    "subtitle": null,
+    "published_at": "2023-11-20T12:27:53+01:00",
+    "updated_at": "2023-11-20T12:27:54+01:00",
+    "media_id": "zj6xqhqacdqi",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772536,
+      "slug": "dieren",
+      "type": "default",
+      "name": "Dieren",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/dieren/6290510/tijgermug-gespot-in-bijna-heel-nederland-maar-heeft-zich-nog-niet-gevestigd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6290498,
+    "slug": "reddingswerkers-boren-tunnels-voor-bouwvakkers-in-india-die-al-week-vastzitten",
+    "type": "article",
+    "title": "Reddingswerkers boren tunnels voor bouwvakkers in India die al week vastzitten",
+    "subtitle": null,
+    "published_at": "2023-11-20T12:22:37+01:00",
+    "updated_at": "2023-11-20T12:30:20+01:00",
+    "media_id": "w2sxx9laaslb",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6290498/reddingswerkers-boren-tunnels-voor-bouwvakkers-in-india-die-al-week-vastzitten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6290509,
+    "slug": "russell-brand-door-politie-verhoord-over-vermeend-seksueel-misbruik",
+    "type": "article",
+    "title": "Russell Brand door politie verhoord over vermeend seksueel misbruik",
+    "subtitle": null,
+    "published_at": "2023-11-20T12:22:09+01:00",
+    "updated_at": "2023-11-20T12:22:10+01:00",
+    "media_id": "5awxq0xa3li5",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6290509/russell-brand-door-politie-verhoord-over-vermeend-seksueel-misbruik.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6290494,
+    "slug": "bizar-weekend-bij-chatgpt-maker-eindigt-met-vertrek-ceo-naar-microsoft",
+    "type": "article",
+    "title": "Bizar weekend bij ChatGPT-maker eindigt met vertrek CEO naar Microsoft",
+    "subtitle": "NU+",
+    "published_at": "2023-11-20T12:07:48+01:00",
+    "updated_at": "2023-11-20T12:10:18+01:00",
+    "media_id": "i9bxconai3q5",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6290494/bizar-weekend-bij-chatgpt-maker-eindigt-met-vertrek-ceo-naar-microsoft.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6290500,
     "slug": "kritiek-op-kabinetsplan-om-huren-in-vrije-sector-aan-banden-te-leggen",
     "type": "article",
     "title": "Kritiek op kabinetsplan om huren in vrije sector aan banden te leggen",
     "subtitle": null,
     "published_at": "2023-11-20T12:00:19+01:00",
-    "updated_at": "2023-11-20T12:00:20+01:00",
+    "updated_at": "2023-11-20T12:07:15+01:00",
     "media_id": "btmxzdoaqjo6",
     "duration": null,
     "canonical_section": {
@@ -52,7 +144,7 @@
     "title": "Nyck de Vries rijdt in 2024 WEC-seizoen voor topteam Toyota, inclusief Le Mans",
     "subtitle": null,
     "published_at": "2023-11-20T11:40:32+01:00",
-    "updated_at": "2023-11-20T11:41:18+01:00",
+    "updated_at": "2023-11-20T12:22:20+01:00",
     "media_id": "2fbxlt6ayrs0",
     "duration": null,
     "canonical_section": {
@@ -75,7 +167,7 @@
     "title": "Otters treiteren staartloze krokodil in Singapore",
     "subtitle": "Video",
     "published_at": "2023-11-20T11:34:51+01:00",
-    "updated_at": "2023-11-20T11:48:12+01:00",
+    "updated_at": "2023-11-20T12:31:11+01:00",
     "media_id": "wdcxlkqaqqvh",
     "duration": "0:46",
     "canonical_section": {
@@ -139,12 +231,12 @@
   },
   {
     "id": 6290489,
-    "slug": "shakira-schikt-op-laatste-moment-met-belastingdienst-en-hoeft-cel-niet-in",
+    "slug": "shakira-schikt-op-laatste-moment-met-spaanse-belastingdienst-en-hoeft-cel-niet-in",
     "type": "article",
-    "title": "Shakira schikt op laatste moment met belastingdienst en hoeft cel niet in",
+    "title": "Shakira schikt op laatste moment met Spaanse belastingdienst en hoeft cel niet in",
     "subtitle": null,
     "published_at": "2023-11-20T11:03:32+01:00",
-    "updated_at": "2023-11-20T11:56:51+01:00",
+    "updated_at": "2023-11-20T12:12:41+01:00",
     "media_id": "wmix7qsa7ctm",
     "duration": null,
     "canonical_section": {
@@ -156,7 +248,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/achterklap/6290489/shakira-schikt-op-laatste-moment-met-belastingdienst-en-hoeft-cel-niet-in.html",
+    "url": "/achterklap/6290489/shakira-schikt-op-laatste-moment-met-spaanse-belastingdienst-en-hoeft-cel-niet-in.html",
     "open_new_window": false,
     "partner": null
   },
@@ -351,7 +443,7 @@
     "title": "Topman Sam Altman drie dagen na ontslag bij OpenAI naar Microsoft",
     "subtitle": null,
     "published_at": "2023-11-20T09:22:01+01:00",
-    "updated_at": "2023-11-20T10:41:54+01:00",
+    "updated_at": "2023-11-20T12:11:59+01:00",
     "media_id": "84txqxsaphrl",
     "duration": null,
     "canonical_section": {
@@ -364,98 +456,6 @@
       "partner": null
     },
     "url": "/tech/6290471/topman-sam-altman-drie-dagen-na-ontslag-bij-openai-naar-microsoft.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290469,
-    "slug": "lonen-stegen-in-oktober-fors-met-82-procent-maar-de-vraag-is-hoeveel-dat-zegt",
-    "type": "article",
-    "title": "Lonen stegen in oktober fors met 8,2 procent, maar de vraag is hoeveel dat zegt",
-    "subtitle": null,
-    "published_at": "2023-11-20T08:53:09+01:00",
-    "updated_at": "2023-11-20T11:43:47+01:00",
-    "media_id": "6vfxek0aw4zh",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6290469/lonen-stegen-in-oktober-fors-met-82-procent-maar-de-vraag-is-hoeveel-dat-zegt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290468,
-    "slug": "kankerbehandeling-bij-mannen-vaker-op-genezing-gericht-dan-bij-vrouwen",
-    "type": "article",
-    "title": "Kankerbehandeling bij mannen vaker op genezing gericht dan bij vrouwen",
-    "subtitle": null,
-    "published_at": "2023-11-20T08:46:49+01:00",
-    "updated_at": "2023-11-20T11:14:59+01:00",
-    "media_id": "x56xgs2ahflr",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6290468/kankerbehandeling-bij-mannen-vaker-op-genezing-gericht-dan-bij-vrouwen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290466,
-    "slug": "spaans-toptalent-gavi-mist-mogelijk-het-ek-we-zijn-er-allemaal-kapot-van",
-    "type": "article",
-    "title": "Spaans toptalent Gavi mist mogelijk het EK: 'We zijn er allemaal kapot van'",
-    "subtitle": null,
-    "published_at": "2023-11-20T08:26:38+01:00",
-    "updated_at": "2023-11-20T08:26:39+01:00",
-    "media_id": "euoxehaaqvyc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6290466/spaans-toptalent-gavi-mist-mogelijk-het-ek-we-zijn-er-allemaal-kapot-van.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290463,
-    "slug": "nicol-kremers-stelt-boek-uit-gaat-niet-goed-met-haar-sinds-rechtszaak",
-    "type": "article",
-    "title": "Nicol Kremers stelt boek uit: 'Gaat niet goed met haar sinds rechtszaak'",
-    "subtitle": null,
-    "published_at": "2023-11-20T08:25:39+01:00",
-    "updated_at": "2023-11-20T08:41:48+01:00",
-    "media_id": "npzxydyas1xr",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6290463/nicol-kremers-stelt-boek-uit-gaat-niet-goed-met-haar-sinds-rechtszaak.html",
     "open_new_window": false,
     "partner": null
   }
