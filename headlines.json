@@ -1,12 +1,35 @@
 [
   {
+    "id": 6290740,
+    "slug": "voetbaliconen-messi-en-ronaldo-in-februari-tegenover-elkaar-voor-last-dance",
+    "type": "article",
+    "title": "Voetbaliconen Messi en Ronaldo in februari tegenover elkaar voor 'last dance'",
+    "subtitle": null,
+    "published_at": "2023-11-21T20:31:55+01:00",
+    "updated_at": "2023-11-21T20:31:56+01:00",
+    "media_id": "3x8xf76aohz1",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6290740/voetbaliconen-messi-en-ronaldo-in-februari-tegenover-elkaar-voor-last-dance.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6290713,
     "slug": "nederland-zoekt-nieuwe-premier-bekijk-hier-alle-lijsttrekkers",
     "type": "article",
     "title": "Nederland zoekt nieuwe premier: bekijk hier alle lijsttrekkers",
     "subtitle": "NU+",
     "published_at": "2023-11-21T20:04:44+01:00",
-    "updated_at": "2023-11-21T20:04:46+01:00",
+    "updated_at": "2023-11-21T20:16:02+01:00",
     "media_id": "vvzxrmmahfge",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Nederlandse militairen in Irak onder vuur, maar inzet Nederland gaat door",
     "subtitle": null,
     "published_at": "2023-11-21T19:52:43+01:00",
-    "updated_at": "2023-11-21T19:52:45+01:00",
+    "updated_at": "2023-11-21T20:11:28+01:00",
     "media_id": "vrsxfy2asg2k",
     "duration": null,
     "canonical_section": {
@@ -139,12 +162,12 @@
   },
   {
     "id": 6290732,
-    "slug": "feyenoord-en-hoofd-opleiding-rini-coolen-uit-elkaar-na-verschillende-inzichten",
+    "slug": "feyenoord-en-hoofd-opleiding-coolen-uit-elkaar-vanwege-verschillende-inzichten",
     "type": "article",
-    "title": "Feyenoord en hoofd opleiding Rini Coolen uit elkaar na 'verschillende inzichten'",
+    "title": "Feyenoord en hoofd opleiding Coolen uit elkaar vanwege 'verschillende inzichten'",
     "subtitle": null,
     "published_at": "2023-11-21T19:40:18+01:00",
-    "updated_at": "2023-11-21T19:44:51+01:00",
+    "updated_at": "2023-11-21T20:29:16+01:00",
     "media_id": "mvnxd6iap4x0",
     "duration": null,
     "canonical_section": {
@@ -156,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6290732/feyenoord-en-hoofd-opleiding-rini-coolen-uit-elkaar-na-verschillende-inzichten.html",
+    "url": "/voetbal/6290732/feyenoord-en-hoofd-opleiding-coolen-uit-elkaar-vanwege-verschillende-inzichten.html",
     "open_new_window": false,
     "partner": null
   },
@@ -236,8 +259,8 @@
     "title": "Liveblog Oranje | Koeman gooit opstelling om voor kwalificatieduel met Gibraltar",
     "subtitle": null,
     "published_at": "2023-11-21T19:01:51+01:00",
-    "updated_at": "2023-11-21T20:00:34+01:00",
-    "media_id": "gf1xr2rakdh9",
+    "updated_at": "2023-11-21T20:32:11+01:00",
+    "media_id": "x2ax1lqa46a7",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6290710/excuses-nos-voor-geluid-koeman-in-uitzending-hadden-we-niet-moeten-doen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290709,
-    "slug": "hoe-41-indiers-al-tien-dagen-weten-te-overleven-in-een-tunnel",
-    "type": "video",
-    "title": "Hoe 41 Indiërs al tien dagen weten te overleven in een tunnel",
-    "subtitle": "Explainer",
-    "published_at": "2023-11-21T17:14:57+01:00",
-    "updated_at": "2023-11-21T17:36:20+01:00",
-    "media_id": "6ekxuqiav33t",
-    "duration": "2:02",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6290709/hoe-41-indiers-al-tien-dagen-weten-te-overleven-in-een-tunnel.html",
     "open_new_window": false,
     "partner": null
   }
