@@ -1,12 +1,35 @@
 [
   {
+    "id": 6290756,
+    "slug": "na-juridisch-geschil-keert-stripfiguur-guust-flater-terug-in-nieuw-album",
+    "type": "article",
+    "title": "Na juridisch geschil keert stripfiguur Guust Flater terug in nieuw album",
+    "subtitle": null,
+    "published_at": "2023-11-22T06:50:15+01:00",
+    "updated_at": "2023-11-22T06:50:16+01:00",
+    "media_id": "pfgxae1a3lwr",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772075,
+      "slug": "cultuur-overig",
+      "type": "default",
+      "name": "Boek & Cultuur",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/cultuur-overig/6290756/na-juridisch-geschil-keert-stripfiguur-guust-flater-terug-in-nieuw-album.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6290746,
     "slug": "nieuwe-politieke-partijen-aan-de-top-waar-vinden-ze-hun-kiezers",
     "type": "video",
     "title": "Nieuwe politieke partijen aan de top: Waar vinden ze hun kiezers?",
     "subtitle": "Explainer",
     "published_at": "2023-11-22T06:30:33+01:00",
-    "updated_at": "2023-11-22T06:30:34+01:00",
+    "updated_at": "2023-11-22T06:39:54+01:00",
     "media_id": "hztx9yea35xv",
     "duration": "1:30",
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Dikke jas nodig richting de stembus, paraplu kun je thuislaten",
     "subtitle": "Weerbericht",
     "published_at": "2023-11-22T05:30:45+01:00",
-    "updated_at": "2023-11-22T05:38:45+01:00",
+    "updated_at": "2023-11-22T06:43:30+01:00",
     "media_id": "is5xes7al4vv",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6290744/debutant-hato-gaat-boeken-in-als-op-een-na-jongste-oranjespeler-in-92-jaar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290742,
-    "slug": "netanyahu-israelische-gijzelaars-in-gaza-komen-in-groepjes-vrij",
-    "type": "article",
-    "title": "Netanyahu: Israëlische gijzelaars in Gaza komen in groepjes vrij",
-    "subtitle": null,
-    "published_at": "2023-11-21T21:11:16+01:00",
-    "updated_at": "2023-11-21T21:40:37+01:00",
-    "media_id": "w1uxkpha4jbg",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6290742/netanyahu-israelische-gijzelaars-in-gaza-komen-in-groepjes-vrij.html",
     "open_new_window": false,
     "partner": null
   }
