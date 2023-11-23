@@ -1,12 +1,58 @@
 [
   {
+    "id": 6290933,
+    "slug": "van-de-zandschulp-trapt-davis-cup-finals-af-tegen-arnaldi",
+    "type": "article",
+    "title": "Van de Zandschulp trapt Davis Cup Finals af tegen Arnaldi",
+    "subtitle": "Liveblog",
+    "published_at": "2023-11-23T09:47:34+01:00",
+    "updated_at": "2023-11-23T09:50:22+01:00",
+    "media_id": "9s0xg1nau2iy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6290933/van-de-zandschulp-trapt-davis-cup-finals-af-tegen-arnaldi.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6290918,
+    "slug": "scream-hoofdrolspelers-vertrekken-uit-horrorreeks-wat-is-er-aan-de-hand",
+    "type": "article",
+    "title": "Scream-hoofdrolspelers vertrekken uit horrorreeks: wat is er aan de hand?",
+    "subtitle": "NU+",
+    "published_at": "2023-11-23T09:47:26+01:00",
+    "updated_at": "2023-11-23T09:47:28+01:00",
+    "media_id": "iq4xnc4a51p5",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6290918/scream-hoofdrolspelers-vertrekken-uit-horrorreeks-wat-is-er-aan-de-hand.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6290929,
     "slug": "will-grace-acteur-eric-mccormack-gaat-na-26-jaar-scheiden",
     "type": "article",
     "title": "Will & Grace-acteur Eric McCormack gaat na 26 jaar scheiden",
     "subtitle": null,
     "published_at": "2023-11-23T09:35:21+01:00",
-    "updated_at": "2023-11-23T09:35:23+01:00",
+    "updated_at": "2023-11-23T09:45:19+01:00",
     "media_id": "denxi2eafr9m",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/tweede-kamerverkiezingen-2023/6290911/hoe-oude-rot-wilders-wel-handig-gebruikmaakt-van-vertrek-rutte.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290910,
-    "slug": "liveblog-verkiezingen-bijna-alle-stemmen-geteld-pvv-grote-winnaar",
-    "type": "article",
-    "title": "Liveblog verkiezingen | Bijna alle stemmen geteld, PVV grote winnaar",
-    "subtitle": null,
-    "published_at": "2023-11-23T03:40:50+01:00",
-    "updated_at": "2023-11-23T06:49:51+01:00",
-    "media_id": "ik9xp5ca2f4n",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779275,
-      "slug": "tweede-kamerverkiezingen-2023",
-      "type": "files",
-      "name": "Tweede Kamerverkiezingen 2023",
-      "style": "nu",
-      "media_id": "vh7x4xray27h",
-      "partner": null
-    },
-    "url": "/tweede-kamerverkiezingen-2023/6290910/liveblog-verkiezingen-bijna-alle-stemmen-geteld-pvv-grote-winnaar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290909,
-    "slug": "links-en-progressief-wil-verenigen-maar-waarschijnlijk-wel-in-oppositie",
-    "type": "article",
-    "title": "Links en progressief wil verenigen, maar waarschijnlijk wel in oppositie",
-    "subtitle": null,
-    "published_at": "2023-11-23T02:09:22+01:00",
-    "updated_at": "2023-11-23T07:46:32+01:00",
-    "media_id": "8d8xlg1af9qf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779275,
-      "slug": "tweede-kamerverkiezingen-2023",
-      "type": "files",
-      "name": "Tweede Kamerverkiezingen 2023",
-      "style": "nu",
-      "media_id": "vh7x4xray27h",
-      "partner": null
-    },
-    "url": "/tweede-kamerverkiezingen-2023/6290909/links-en-progressief-wil-verenigen-maar-waarschijnlijk-wel-in-oppositie.html",
     "open_new_window": false,
     "partner": null
   }
