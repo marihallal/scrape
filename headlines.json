@@ -1,5 +1,28 @@
 [
   {
+    "id": 6290911,
+    "slug": "hoe-oude-rot-wilders-wel-handig-gebruik-maakt-van-vertrek-rutte",
+    "type": "video",
+    "title": "Hoe 'oude rot' Wilders wél handig gebruik maakt van vertrek Rutte",
+    "subtitle": "Explainer",
+    "published_at": "2023-11-23T04:09:07+01:00",
+    "updated_at": "2023-11-23T04:09:07+01:00",
+    "media_id": "ic3xhz4ajg7f",
+    "duration": "2:38",
+    "canonical_section": {
+      "id": 1779275,
+      "slug": "tweede-kamerverkiezingen-2023",
+      "type": "files",
+      "name": "Tweede Kamerverkiezingen 2023",
+      "style": "nu",
+      "media_id": "vh7x4xray27h",
+      "partner": null
+    },
+    "url": "/tweede-kamerverkiezingen-2023/6290911/hoe-oude-rot-wilders-wel-handig-gebruik-maakt-van-vertrek-rutte.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6290910,
     "slug": "liveblog-verkiezingen-bijna-alle-stemmen-geteld-pvv-grote-winnaar",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tweede-kamerverkiezingen-2023/6290882/exitpoll-pvv-wint-met-afstand-verkiezingen-gl-pvda-groter-dan-de-vvd.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290881,
-    "slug": "dodelijke-explosie-in-auto-op-brug-tussen-canada-en-vs-lijkt-ongeluk",
-    "type": "article",
-    "title": "Dodelijke explosie in auto op brug tussen Canada en VS lijkt ongeluk",
-    "subtitle": null,
-    "published_at": "2023-11-22T20:50:22+01:00",
-    "updated_at": "2023-11-23T01:04:15+01:00",
-    "media_id": "d5nxipyagjcj",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6290881/dodelijke-explosie-in-auto-op-brug-tussen-canada-en-vs-lijkt-ongeluk.html",
     "open_new_window": false,
     "partner": null
   }
