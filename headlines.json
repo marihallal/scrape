@@ -1,12 +1,58 @@
 [
   {
-    "id": 6291160,
-    "slug": "horner-sprak-met-vader-hamilton-maar-het-werd-nooit-concreet",
+    "id": 6291165,
+    "slug": "tweede-minderjarige-verdachte-van-aanval-op-baudet-komt-vrij",
     "type": "article",
-    "title": "Horner sprak met vader Hamilton : 'Maar het werd nooit concreet'",
+    "title": "Tweede minderjarige verdachte van aanval op Baudet komt vrij",
+    "subtitle": null,
+    "published_at": "2023-11-24T13:59:18+01:00",
+    "updated_at": "2023-11-24T13:59:19+01:00",
+    "media_id": "7blxt7yakndd",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771437,
+      "slug": "politiek",
+      "type": "default",
+      "name": "Politiek",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/politiek/6291165/tweede-minderjarige-verdachte-van-aanval-op-baudet-komt-vrij.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6291155,
+    "slug": "chemours-vecht-opgelegde-dwangsom-aan-bij-rechter",
+    "type": "article",
+    "title": "Chemours vecht opgelegde dwangsom aan bij rechter",
+    "subtitle": null,
+    "published_at": "2023-11-24T13:44:24+01:00",
+    "updated_at": "2023-11-24T13:45:48+01:00",
+    "media_id": "dgix1jladlhq",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6291155/chemours-vecht-opgelegde-dwangsom-aan-bij-rechter.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6291160,
+    "slug": "horner-sprak-met-vader-van-hamilton-maar-het-werd-nooit-concreet",
+    "type": "article",
+    "title": "Horner sprak met vader van Hamilton: 'Maar het werd nooit concreet'",
     "subtitle": null,
     "published_at": "2023-11-24T13:29:36+01:00",
-    "updated_at": "2023-11-24T13:30:49+01:00",
+    "updated_at": "2023-11-24T13:53:44+01:00",
     "media_id": "q37xy18ar13x",
     "duration": null,
     "canonical_section": {
@@ -18,18 +64,18 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6291160/horner-sprak-met-vader-hamilton-maar-het-werd-nooit-concreet.html",
+    "url": "/formule-1/6291160/horner-sprak-met-vader-van-hamilton-maar-het-werd-nooit-concreet.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6291156,
-    "slug": "atleet-oscar-pistorius-komt-voorwaardelijk-vrij-na-moord-op-vriendin",
+    "slug": "atleet-oscar-pistorius-komt-tien-jaar-na-moord-op-vriendin-voorwaardelijk-vrij",
     "type": "article",
-    "title": "Atleet Oscar Pistorius komt voorwaardelijk vrij na moord op vriendin",
+    "title": "Atleet Oscar Pistorius komt tien jaar na moord op vriendin voorwaardelijk vrij",
     "subtitle": null,
     "published_at": "2023-11-24T13:25:58+01:00",
-    "updated_at": "2023-11-24T13:25:59+01:00",
+    "updated_at": "2023-11-24T13:58:58+01:00",
     "media_id": "oysxn82au2yp",
     "duration": null,
     "canonical_section": {
@@ -41,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6291156/atleet-oscar-pistorius-komt-voorwaardelijk-vrij-na-moord-op-vriendin.html",
+    "url": "/buitenland/6291156/atleet-oscar-pistorius-komt-tien-jaar-na-moord-op-vriendin-voorwaardelijk-vrij.html",
     "open_new_window": false,
     "partner": null
   },
@@ -75,7 +121,7 @@
     "title": "Direct veel chagrijn bij lijsttrekkers over verrassende zet van VVD",
     "subtitle": null,
     "published_at": "2023-11-24T13:10:50+01:00",
-    "updated_at": "2023-11-24T13:10:51+01:00",
+    "updated_at": "2023-11-24T13:40:20+01:00",
     "media_id": "oasx091arz93",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6291134/inwoners-assen-en-rolde-geadviseerd-drinkwater-te-koken-vanwege-poepbacterie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6291136,
-    "slug": "mclaren-gaat-tot-en-met-2030-door-met-motorleverancier-mercedes",
-    "type": "article",
-    "title": "McLaren gaat tot en met 2030 door met motorleverancier Mercedes",
-    "subtitle": null,
-    "published_at": "2023-11-24T11:07:39+01:00",
-    "updated_at": "2023-11-24T12:26:57+01:00",
-    "media_id": "argxicea299l",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6291136/mclaren-gaat-tot-en-met-2030-door-met-motorleverancier-mercedes.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6291135,
-    "slug": "bbc-komt-in-december-met-documentaire-over-eerste-jaar-van-charles-als-koning",
-    "type": "article",
-    "title": "BBC komt in december met documentaire over eerste jaar van Charles als koning",
-    "subtitle": null,
-    "published_at": "2023-11-24T11:03:29+01:00",
-    "updated_at": "2023-11-24T11:03:30+01:00",
-    "media_id": "62oxrztai2fy",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778775,
-      "slug": "koningshuis",
-      "type": "default",
-      "name": "Koningshuis",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/koningshuis/6291135/bbc-komt-in-december-met-documentaire-over-eerste-jaar-van-charles-als-koning.html",
     "open_new_window": false,
     "partner": null
   }
