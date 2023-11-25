@@ -1,12 +1,35 @@
 [
   {
+    "id": 6291259,
+    "slug": "politie-in-vs-geeft-bestuurders-kalkoen-in-plaats-van-waarschuwing",
+    "type": "video",
+    "title": "Politie in VS geeft bestuurders kalkoen in plaats van waarschuwing",
+    "subtitle": "Video",
+    "published_at": "2023-11-25T09:50:32+01:00",
+    "updated_at": "2023-11-25T09:50:33+01:00",
+    "media_id": "j1hx6udaws3e",
+    "duration": "0:47",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6291259/politie-in-vs-geeft-bestuurders-kalkoen-in-plaats-van-waarschuwing.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6291258,
     "slug": "driejarige-cruise-om-de-wereld-geannuleerd-bedrijf-blijkt-geen-schip-te-hebben",
     "type": "article",
     "title": "Driejarige cruise om de wereld geannuleerd: bedrijf blijkt geen schip te hebben",
     "subtitle": null,
     "published_at": "2023-11-25T09:23:18+01:00",
-    "updated_at": "2023-11-25T09:23:19+01:00",
+    "updated_at": "2023-11-25T09:33:45+01:00",
     "media_id": "lv4xplma9je1",
     "duration": null,
     "canonical_section": {
@@ -24,12 +47,12 @@
   },
   {
     "id": 6291257,
-    "slug": "inhalen-mag-niet-meer-in-pitsstraat-abu-dhabi-na-actie-verstappen",
+    "slug": "inhalen-in-pitsstraat-mag-na-actie-van-verstappen-niet-meer-in-abu-dhabi",
     "type": "article",
-    "title": "Inhalen mag niet meer in pitsstraat Abu Dhabi na actie Verstappen",
+    "title": "Inhalen in pitsstraat mag na actie van Verstappen niet meer in Abu Dhabi",
     "subtitle": null,
     "published_at": "2023-11-25T09:23:06+01:00",
-    "updated_at": "2023-11-25T09:25:07+01:00",
+    "updated_at": "2023-11-25T09:49:39+01:00",
     "media_id": "ktbx35fa8o9d",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6291257/inhalen-mag-niet-meer-in-pitsstraat-abu-dhabi-na-actie-verstappen.html",
+    "url": "/formule-1/6291257/inhalen-in-pitsstraat-mag-na-actie-van-verstappen-niet-meer-in-abu-dhabi.html",
     "open_new_window": false,
     "partner": null
   },
@@ -259,7 +282,7 @@
     "title": "Twente ontvangt PSV in 'hel van Enschede': 'Stadion doet iets met je'",
     "subtitle": "NU+",
     "published_at": "2023-11-25T05:16:16+01:00",
-    "updated_at": "2023-11-25T08:32:46+01:00",
+    "updated_at": "2023-11-25T09:46:05+01:00",
     "media_id": "d3vx501a826q",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6291242/spaanse-katholieke-kerk-gaat-alle-slachtoffers-van-misbruik-compensatie-betalen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6291241,
-    "slug": "kane-zet-doelpuntenreeks-voort-bij-zege-bayern-psg-wint-topper-tegen-monaco",
-    "type": "article",
-    "title": "Kane zet doelpuntenreeks voort bij zege Bayern, PSG wint topper tegen Monaco",
-    "subtitle": null,
-    "published_at": "2023-11-24T22:26:36+01:00",
-    "updated_at": "2023-11-24T23:57:10+01:00",
-    "media_id": "kb5xblzag6nt",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6291241/kane-zet-doelpuntenreeks-voort-bij-zege-bayern-psg-wint-topper-tegen-monaco.html",
     "open_new_window": false,
     "partner": null
   }
