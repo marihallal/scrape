@@ -1,12 +1,35 @@
 [
   {
+    "id": 6291332,
+    "slug": "van-gerwen-gooit-op-players-championship-finals-vier-na-hoogste-gemiddelde-ooit",
+    "type": "article",
+    "title": "Van Gerwen gooit op Players Championship Finals vier na hoogste gemiddelde ooit",
+    "subtitle": null,
+    "published_at": "2023-11-25T16:27:40+01:00",
+    "updated_at": "2023-11-25T16:27:41+01:00",
+    "media_id": "ilmx3sfayl4q",
+    "duration": null,
+    "canonical_section": {
+      "id": 1777376,
+      "slug": "darts",
+      "type": "default",
+      "name": "Darts",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/darts/6291332/van-gerwen-gooit-op-players-championship-finals-vier-na-hoogste-gemiddelde-ooit.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6291331,
     "slug": "live-eredivisie-feyenoord-telt-af-naar-stadsderby-tegen-excelsior",
     "type": "article",
     "title": "Live Eredivisie | Feyenoord telt af naar stadsderby tegen Excelsior",
     "subtitle": null,
     "published_at": "2023-11-25T16:16:07+01:00",
-    "updated_at": "2023-11-25T16:16:08+01:00",
+    "updated_at": "2023-11-25T16:28:12+01:00",
     "media_id": "tftxt0la93qv",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Verstappen pakt in Abu Dhabi pole voor laatste Grand Prix van het jaar",
     "subtitle": null,
     "published_at": "2023-11-25T16:02:36+01:00",
-    "updated_at": "2023-11-25T16:13:27+01:00",
+    "updated_at": "2023-11-25T16:21:20+01:00",
     "media_id": "masxgwsaxfg7",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Frenkie de Jong maakt na twee maanden blessureleed rentree bij puntenverlies Barça",
     "subtitle": null,
     "published_at": "2023-11-25T15:59:52+01:00",
-    "updated_at": "2023-11-25T16:09:07+01:00",
+    "updated_at": "2023-11-25T16:24:43+01:00",
     "media_id": "q7rxg5oaa9kf",
     "duration": null,
     "canonical_section": {
@@ -144,7 +167,7 @@
     "title": "Fraaie assist Aké niet genoeg voor Manchester City in topper tegen Liverpool",
     "subtitle": null,
     "published_at": "2023-11-25T15:41:29+01:00",
-    "updated_at": "2023-11-25T16:18:07+01:00",
+    "updated_at": "2023-11-25T16:27:54+01:00",
     "media_id": "ncmxvmbanfce",
     "duration": null,
     "canonical_section": {
@@ -259,7 +282,7 @@
     "title": "Veldrijdster Van Empel na rustperiode direct weer de beste in Kortrijk",
     "subtitle": null,
     "published_at": "2023-11-25T14:59:26+01:00",
-    "updated_at": "2023-11-25T16:17:40+01:00",
+    "updated_at": "2023-11-25T16:26:28+01:00",
     "media_id": "bhcxcqhayv4t",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/cultuur-overig/6291310/schrijfster-lydia-rood-wint-groot-dictee-luisteraars-maken-nog-minder-fouten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6291302,
-    "slug": "ierse-politie-verwacht-meer-rellen-en-arrestaties-na-steekpartij-in-dublin",
-    "type": "article",
-    "title": "Ierse politie verwacht meer rellen en arrestaties na steekpartij in Dublin",
-    "subtitle": null,
-    "published_at": "2023-11-25T13:04:23+01:00",
-    "updated_at": "2023-11-25T13:24:20+01:00",
-    "media_id": "pzdxnxdadka6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6291302/ierse-politie-verwacht-meer-rellen-en-arrestaties-na-steekpartij-in-dublin.html",
     "open_new_window": false,
     "partner": null
   }
