@@ -1,12 +1,35 @@
 [
   {
+    "id": 6291413,
+    "slug": "voormalig-bondscoach-van-engeland-terry-venables-80-overleden",
+    "type": "article",
+    "title": "Voormalig bondscoach van Engeland Terry Venables (80) overleden",
+    "subtitle": null,
+    "published_at": "2023-11-26T13:56:20+01:00",
+    "updated_at": "2023-11-26T13:56:22+01:00",
+    "media_id": "y76xexzapcsp",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6291413/voormalig-bondscoach-van-engeland-terry-venables-80-overleden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6291410,
     "slug": "live-formule-1-verstappen-begint-van-pole-aan-laatste-gp-van-het-jaar",
     "type": "article",
     "title": "Live Formule 1 | Verstappen begint van pole aan laatste GP van het jaar",
     "subtitle": null,
     "published_at": "2023-11-26T13:25:58+01:00",
-    "updated_at": "2023-11-26T13:30:04+01:00",
+    "updated_at": "2023-11-26T13:56:27+01:00",
     "media_id": "4ywxvfcav26y",
     "duration": null,
     "canonical_section": {
@@ -24,12 +47,12 @@
   },
   {
     "id": 6291409,
-    "slug": "douwe-bob-laat-zich-behandelen-aan-alcoholverslaving-die-alles-kapotmaakt",
+    "slug": "douwe-bob-laat-zich-behandelen-aan-alcoholverslaving-het-gaat-helemaal-mis",
     "type": "article",
-    "title": "Douwe Bob laat zich behandelen aan alcoholverslaving die 'alles kapotmaakt'",
+    "title": "Douwe Bob laat zich behandelen aan alcoholverslaving: 'Het gaat helemaal mis'",
     "subtitle": null,
     "published_at": "2023-11-26T13:04:36+01:00",
-    "updated_at": "2023-11-26T13:29:40+01:00",
+    "updated_at": "2023-11-26T13:53:10+01:00",
     "media_id": "e61xub3a7nca",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/achterklap/6291409/douwe-bob-laat-zich-behandelen-aan-alcoholverslaving-die-alles-kapotmaakt.html",
+    "url": "/achterklap/6291409/douwe-bob-laat-zich-behandelen-aan-alcoholverslaving-het-gaat-helemaal-mis.html",
     "open_new_window": false,
     "partner": null
   },
@@ -231,13 +254,13 @@
   },
   {
     "id": 6291396,
-    "slug": "live-eredivisie-almere-op-jacht-naar-gelijkmaker-tegen-heracles",
+    "slug": "live-eredivisie-heracles-blijft-maar-scoren-op-bezoek-bij-almere",
     "type": "article",
-    "title": "Live Eredivisie | Almere op jacht naar gelijkmaker tegen Heracles",
+    "title": "Live Eredivisie | Heracles blijft maar scoren op bezoek bij Almere",
     "subtitle": null,
     "published_at": "2023-11-26T11:48:15+01:00",
-    "updated_at": "2023-11-26T13:17:43+01:00",
-    "media_id": "ci5xlkea91u0",
+    "updated_at": "2023-11-26T13:55:33+01:00",
+    "media_id": "kzixijna44wj",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -248,7 +271,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6291396/live-eredivisie-almere-op-jacht-naar-gelijkmaker-tegen-heracles.html",
+    "url": "/voetbal/6291396/live-eredivisie-heracles-blijft-maar-scoren-op-bezoek-bij-almere.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6291384/instagram-in-vs-nu-ook-beschuldigd-van-illegaal-verzamelen-van-data-kinderen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6291381,
-    "slug": "vrouw-doodgereden-op-a1-nadat-ze-vermoedelijk-uitstapte-om-telefoon-te-zoeken",
-    "type": "article",
-    "title": "Vrouw doodgereden op A1 nadat ze vermoedelijk uitstapte om telefoon te zoeken",
-    "subtitle": null,
-    "published_at": "2023-11-26T09:53:14+01:00",
-    "updated_at": "2023-11-26T11:55:46+01:00",
-    "media_id": "c9lxbdxan37i",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6291381/vrouw-doodgereden-op-a1-nadat-ze-vermoedelijk-uitstapte-om-telefoon-te-zoeken.html",
     "open_new_window": false,
     "partner": null
   }
