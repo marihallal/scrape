@@ -1,12 +1,35 @@
 [
   {
+    "id": 6291391,
+    "slug": "bros-wint-jury-en-publieksprijs-van-cabaretfestival-cameretten",
+    "type": "article",
+    "title": "BRO'S wint jury- en publieksprijs van cabaretfestival Cameretten",
+    "subtitle": null,
+    "published_at": "2023-11-26T11:32:47+01:00",
+    "updated_at": "2023-11-26T11:32:49+01:00",
+    "media_id": "mtix923a0cct",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772075,
+      "slug": "cultuur-overig",
+      "type": "default",
+      "name": "Boek & Cultuur",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/cultuur-overig/6291391/bros-wint-jury-en-publieksprijs-van-cabaretfestival-cameretten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6291388,
     "slug": "dertien-bemanningsleden-vermist-na-zinken-vrachtschip-bij-grieks-eiland-lesbos",
     "type": "article",
     "title": "Dertien bemanningsleden vermist na zinken vrachtschip bij Grieks eiland Lesbos",
     "subtitle": null,
     "published_at": "2023-11-26T11:14:30+01:00",
-    "updated_at": "2023-11-26T11:20:57+01:00",
+    "updated_at": "2023-11-26T11:21:29+01:00",
     "media_id": "sqnxzdbagyq5",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/uitgelicht/6291369/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290991,
-    "slug": "hoe-groot-is-de-kans-op-nieuwe-verkiezingen-jullie-vragen-beantwoord",
-    "type": "article",
-    "title": "Hoe groot is de kans op nieuwe verkiezingen? Jullie vragen beantwoord",
-    "subtitle": "NU+",
-    "published_at": "2023-11-26T05:07:00+01:00",
-    "updated_at": "2023-11-26T10:12:30+01:00",
-    "media_id": "xluxvzrag8e8",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779135,
-      "slug": "vragenuur",
-      "type": "default",
-      "name": "Q&A's",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/vragenuur/6290991/hoe-groot-is-de-kans-op-nieuwe-verkiezingen-jullie-vragen-beantwoord.html",
     "open_new_window": false,
     "partner": null
   }
