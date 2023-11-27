@@ -1,5 +1,28 @@
 [
   {
+    "id": 6291544,
+    "slug": "van-der-voort-mist-voor-het-eerst-sinds-2001-wk-darts-na-mislukte-kwalificatie",
+    "type": "article",
+    "title": "Van der Voort mist voor het eerst sinds 2001 WK darts na mislukte kwalificatie",
+    "subtitle": null,
+    "published_at": "2023-11-27T14:46:00+01:00",
+    "updated_at": "2023-11-27T14:46:03+01:00",
+    "media_id": "xbsxt8bassbx",
+    "duration": null,
+    "canonical_section": {
+      "id": 1777376,
+      "slug": "darts",
+      "type": "default",
+      "name": "Darts",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/darts/6291544/van-der-voort-mist-voor-het-eerst-sinds-2001-wk-darts-na-mislukte-kwalificatie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6291532,
     "slug": "chemours-afval-uit-nederland-bedreigt-gezondheid-in-vs-vn-eist-verklaring",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Doden in Rusland en de Krim, stroomstoringen in Oekraïne door noodweer",
     "subtitle": null,
     "published_at": "2023-11-27T14:35:00+01:00",
-    "updated_at": "2023-11-27T14:35:01+01:00",
+    "updated_at": "2023-11-27T14:41:42+01:00",
     "media_id": "z57xxjaant6e",
     "duration": null,
     "canonical_section": {
@@ -93,12 +116,12 @@
   },
   {
     "id": 6291536,
-    "slug": "knvb-wijst-makkelie-aan-als-scheidsrechter-voor-topper-tussen-feyenoord-en-psv",
+    "slug": "knvb-kiest-makkelie-als-scheidsrechter-voor-topper-tussen-feyenoord-en-psv",
     "type": "article",
-    "title": "KNVB wijst Makkelie aan als scheidsrechter voor topper tussen Feyenoord en PSV",
+    "title": "KNVB kiest Makkelie als scheidsrechter voor topper tussen Feyenoord en PSV",
     "subtitle": null,
     "published_at": "2023-11-27T14:10:15+01:00",
-    "updated_at": "2023-11-27T14:10:46+01:00",
+    "updated_at": "2023-11-27T14:49:11+01:00",
     "media_id": "et6xz4ha2r8u",
     "duration": null,
     "canonical_section": {
@@ -110,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6291536/knvb-wijst-makkelie-aan-als-scheidsrechter-voor-topper-tussen-feyenoord-en-psv.html",
+    "url": "/voetbal/6291536/knvb-kiest-makkelie-als-scheidsrechter-voor-topper-tussen-feyenoord-en-psv.html",
     "open_new_window": false,
     "partner": null
   },
@@ -190,7 +213,7 @@
     "title": "Vanmiddag code geel vanwege sneeuw en gladheid, zware spits verwacht",
     "subtitle": null,
     "published_at": "2023-11-27T13:19:42+01:00",
-    "updated_at": "2023-11-27T14:35:13+01:00",
+    "updated_at": "2023-11-27T14:44:17+01:00",
     "media_id": "op6xjmfas7er",
     "duration": null,
     "canonical_section": {
@@ -305,7 +328,7 @@
     "title": "Hoe wordt een nieuwe verkenner gekozen?",
     "subtitle": "In 100 woorden",
     "published_at": "2023-11-27T12:13:20+01:00",
-    "updated_at": "2023-11-27T13:48:30+01:00",
+    "updated_at": "2023-11-27T14:43:52+01:00",
     "media_id": "9aoxlygaquf7",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/stelling/6291424/ik-kan-me-vinden-in-de-protesten-tegen-de-pvv.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6291513,
-    "slug": "vrijspraak-voor-brandstichting-in-amsterdamse-containerwoningen",
-    "type": "article",
-    "title": "Vrijspraak voor brandstichting in Amsterdamse containerwoningen",
-    "subtitle": null,
-    "published_at": "2023-11-27T11:11:18+01:00",
-    "updated_at": "2023-11-27T11:11:19+01:00",
-    "media_id": "3ryxprua6ye4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6291513/vrijspraak-voor-brandstichting-in-amsterdamse-containerwoningen.html",
     "open_new_window": false,
     "partner": null
   }
