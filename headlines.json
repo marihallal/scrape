@@ -1,5 +1,28 @@
 [
   {
+    "id": 6291746,
+    "slug": "met-wat-voor-zout-worden-wegen-gestrooid",
+    "type": "article",
+    "title": "Met wat voor zout worden wegen gestrooid?",
+    "subtitle": "In 100 woorden",
+    "published_at": "2023-11-28T19:51:45+01:00",
+    "updated_at": "2023-11-28T19:51:47+01:00",
+    "media_id": "ecwxjjia6i1e",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6291746/met-wat-voor-zout-worden-wegen-gestrooid.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6291740,
     "slug": "om-eist-20-jaar-cel-tegen-minderjarige-verdachte-huurmoord-van-zakenman",
     "type": "article",
@@ -47,12 +70,12 @@
   },
   {
     "id": 6291738,
-    "slug": "vrouw-vergiftigd-en-zelf-ook-doelwit-dit-is-de-oekraiense-spionnenchef",
+    "slug": "vrouw-vergiftigd-en-zelf-ook-doelwit-dit-is-kyrylo-budanov",
     "type": "video",
-    "title": "Vrouw vergiftigd en zelf óók doelwit: dit is de Oekraïense spionnenchef",
+    "title": "Vrouw vergiftigd en zelf ook doelwit: dit is Kyrylo Budanov",
     "subtitle": "Explainer",
     "published_at": "2023-11-28T19:01:33+01:00",
-    "updated_at": "2023-11-28T19:08:30+01:00",
+    "updated_at": "2023-11-28T19:42:05+01:00",
     "media_id": "698x1vxaxpem",
     "duration": "2:02",
     "canonical_section": {
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/algemeen/6291738/vrouw-vergiftigd-en-zelf-ook-doelwit-dit-is-de-oekraiense-spionnenchef.html",
+    "url": "/algemeen/6291738/vrouw-vergiftigd-en-zelf-ook-doelwit-dit-is-kyrylo-budanov.html",
     "open_new_window": false,
     "partner": null
   },
@@ -93,12 +116,12 @@
   },
   {
     "id": 6291730,
-    "slug": "skigebieden-beleven-beste-seizoensstart-sinds-2005-door-vroege-sneeuwval",
+    "slug": "hevige-sneeuwval-in-skigebieden-leidt-tot-beste-seizoensstart-sinds-2005",
     "type": "article",
-    "title": "Skigebieden beleven beste seizoensstart sinds 2005 door vroege sneeuwval",
+    "title": "Hevige sneeuwval in skigebieden leidt tot beste seizoensstart sinds 2005",
     "subtitle": null,
     "published_at": "2023-11-28T18:40:28+01:00",
-    "updated_at": "2023-11-28T18:40:29+01:00",
+    "updated_at": "2023-11-28T19:38:58+01:00",
     "media_id": "jv6x4jiaxe8r",
     "duration": null,
     "canonical_section": {
@@ -110,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6291730/skigebieden-beleven-beste-seizoensstart-sinds-2005-door-vroege-sneeuwval.html",
+    "url": "/buitenland/6291730/hevige-sneeuwval-in-skigebieden-leidt-tot-beste-seizoensstart-sinds-2005.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6291706/politie-onderzoekt-gemeentehuis-soest-na-explosie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6291702,
-    "slug": "oud-international-dirk-marcellis-begeleidt-darters-als-van-barneveld-op-wk",
-    "type": "article",
-    "title": "Oud-international Dirk Marcellis begeleidt darters als Van Barneveld op WK",
-    "subtitle": null,
-    "published_at": "2023-11-28T16:15:00+01:00",
-    "updated_at": "2023-11-28T16:57:52+01:00",
-    "media_id": "g1qx1szay1zk",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6291702/oud-international-dirk-marcellis-begeleidt-darters-als-van-barneveld-op-wk.html",
     "open_new_window": false,
     "partner": null
   }
