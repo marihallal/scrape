@@ -1,12 +1,58 @@
 [
   {
+    "id": 6291812,
+    "slug": "eerste-ijsdag-ligt-op-de-loer-met-temperaturen-ver-onder-de-nul",
+    "type": "article",
+    "title": "Eerste ijsdag ligt op de loer met temperaturen ver onder de nul",
+    "subtitle": null,
+    "published_at": "2023-11-29T10:49:45+01:00",
+    "updated_at": "2023-11-29T10:49:46+01:00",
+    "media_id": "4mpx9ooaki2e",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6291812/eerste-ijsdag-ligt-op-de-loer-met-temperaturen-ver-onder-de-nul.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6291815,
+    "slug": "botsing-trams-veroorzaakt-vertraging-in-leidschendam",
+    "type": "video",
+    "title": "Botsing trams veroorzaakt vertraging in Leidschendam",
+    "subtitle": "Video",
+    "published_at": "2023-11-29T10:49:22+01:00",
+    "updated_at": "2023-11-29T10:51:53+01:00",
+    "media_id": "gsyxvzyace3f",
+    "duration": "0:46",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6291815/botsing-trams-veroorzaakt-vertraging-in-leidschendam.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6291700,
     "slug": "asielzoeker-mag-langer-werken-hoogste-rechter-zet-streep-door-24-wekeneis",
     "type": "article",
     "title": "Asielzoeker mag langer werken: hoogste rechter zet streep door '24 wekeneis'",
     "subtitle": null,
     "published_at": "2023-11-29T10:21:58+01:00",
-    "updated_at": "2023-11-29T10:29:59+01:00",
+    "updated_at": "2023-11-29T10:51:06+01:00",
     "media_id": "c91xf6jap121",
     "duration": null,
     "canonical_section": {
@@ -29,7 +75,7 @@
     "title": "Aandelenkoers Philips gaat hard omlaag na waarschuwing toezichthouder VS",
     "subtitle": null,
     "published_at": "2023-11-29T10:18:09+01:00",
-    "updated_at": "2023-11-29T10:18:10+01:00",
+    "updated_at": "2023-11-29T10:36:29+01:00",
     "media_id": "wzexvbwa87ly",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6291778/charli-xcx-verloofd-met-the-1975-drummer-george-daniel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6291703,
-    "slug": "waarom-israelische-schepen-gekaapt-worden-op-rode-zee-vs-grijpt-in",
-    "type": "video",
-    "title": "Waarom Israëlische schepen gekaapt worden op Rode Zee: VS grijpt in",
-    "subtitle": "Explainer",
-    "published_at": "2023-11-29T06:30:49+01:00",
-    "updated_at": "2023-11-29T10:09:28+01:00",
-    "media_id": "xxdx453a0zr1",
-    "duration": "2:06",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6291703/waarom-israelische-schepen-gekaapt-worden-op-rode-zee-vs-grijpt-in.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6291776,
-    "slug": "af-en-toe-zon-maar-wel-een-dikke-jas-nodig-voor-winterse-buien",
-    "type": "article",
-    "title": "Af en toe zon, maar wel een dikke jas nodig voor winterse buien",
-    "subtitle": "Weerbericht",
-    "published_at": "2023-11-29T06:11:54+01:00",
-    "updated_at": "2023-11-29T06:24:53+01:00",
-    "media_id": "lj2xccwarxnn",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779283,
-      "slug": "weerbericht",
-      "type": "default",
-      "name": "Weerbericht",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/weerbericht/6291776/af-en-toe-zon-maar-wel-een-dikke-jas-nodig-voor-winterse-buien.html",
     "open_new_window": false,
     "partner": null
   }
