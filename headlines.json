@@ -1,5 +1,28 @@
 [
   {
+    "id": 6291850,
+    "slug": "stiekem-van-maan-en-goldband-meest-beluisterde-nummer-van-het-jaar-op-spotify",
+    "type": "article",
+    "title": "Stiekem van Maan en Goldband meest beluisterde nummer van het jaar op Spotify",
+    "subtitle": null,
+    "published_at": "2023-11-29T15:30:40+01:00",
+    "updated_at": "2023-11-29T15:30:44+01:00",
+    "media_id": "n15xn0haodkq",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6291850/stiekem-van-maan-en-goldband-meest-beluisterde-nummer-van-het-jaar-op-spotify.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6291853,
     "slug": "uefa-haalt-var-van-champions-league-duel-af-na-omstreden-penalty-voor-psg",
     "type": "article",
@@ -121,7 +144,7 @@
     "title": "Kans op aanslag in Duitsland 'aanzienlijk toegenomen' door Gazaconflict",
     "subtitle": null,
     "published_at": "2023-11-29T13:53:19+01:00",
-    "updated_at": "2023-11-29T13:53:21+01:00",
+    "updated_at": "2023-11-29T15:27:18+01:00",
     "media_id": "cbxxdaua4h9o",
     "duration": null,
     "canonical_section": {
@@ -139,12 +162,12 @@
   },
   {
     "id": 6291842,
-    "slug": "eneco-komt-met-contract-met-schommelende-stroomprijs-en-vaste-prijs-voor-gas",
+    "slug": "eneco-komt-met-nieuw-contract-schommelende-stroomprijs-vast-tarief-voor-gas",
     "type": "article",
-    "title": "Eneco komt met contract met schommelende stroomprijs en vaste prijs voor gas",
+    "title": "Eneco komt met nieuw contract: schommelende stroomprijs, vast tarief voor gas",
     "subtitle": null,
     "published_at": "2023-11-29T13:42:46+01:00",
-    "updated_at": "2023-11-29T15:07:31+01:00",
+    "updated_at": "2023-11-29T15:21:19+01:00",
     "media_id": "w8jxgwma3kvi",
     "duration": null,
     "canonical_section": {
@@ -156,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6291842/eneco-komt-met-contract-met-schommelende-stroomprijs-en-vaste-prijs-voor-gas.html",
+    "url": "/economie/6291842/eneco-komt-met-nieuw-contract-schommelende-stroomprijs-vast-tarief-voor-gas.html",
     "open_new_window": false,
     "partner": null
   },
@@ -328,7 +351,7 @@
     "title": "Met 'knie van zestigjarige' kan Polman eindelijk weer voluit handballen",
     "subtitle": "NU+",
     "published_at": "2023-11-29T12:13:18+01:00",
-    "updated_at": "2023-11-29T13:36:18+01:00",
+    "updated_at": "2023-11-29T15:29:38+01:00",
     "media_id": "nf5x572aqidy",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6291824/ajax-heeft-brobbey-terug-tegen-marseille-sutalo-en-vos-ontbreken-nog.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6291822,
-    "slug": "catherine-keyl-wil-klacht-indienen-tegen-arts-vanwege-verkeerde-diagnose",
-    "type": "article",
-    "title": "Catherine Keyl wil klacht indienen tegen arts vanwege verkeerde diagnose",
-    "subtitle": null,
-    "published_at": "2023-11-29T11:30:57+01:00",
-    "updated_at": "2023-11-29T14:14:25+01:00",
-    "media_id": "b6qxbj4aoh0b",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6291822/catherine-keyl-wil-klacht-indienen-tegen-arts-vanwege-verkeerde-diagnose.html",
     "open_new_window": false,
     "partner": null
   }
