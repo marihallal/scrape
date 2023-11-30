@@ -1,12 +1,35 @@
 [
   {
+    "id": 6291947,
+    "slug": "de-rijdende-rechter-verhuist-naar-omroep-max-en-krijgt-nieuwe-presentator",
+    "type": "article",
+    "title": "De Rijdende Rechter verhuist naar Omroep MAX en krijgt nieuwe presentator",
+    "subtitle": null,
+    "published_at": "2023-11-30T08:49:03+01:00",
+    "updated_at": "2023-11-30T08:49:04+01:00",
+    "media_id": "3mtxts5ap4o1",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6291947/de-rijdende-rechter-verhuist-naar-omroep-max-en-krijgt-nieuwe-presentator.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6291948,
     "slug": "nederlandse-staat-verkoopt-opnieuw-een-deel-van-zijn-belang-in-abn-amro",
     "type": "article",
-    "title": "Nederlandse staat verkoopt opnieuw een deel van zijn belang in ABN AMRO",
+    "title": "Nederlandse Staat verkoopt opnieuw een deel van zijn belang in ABN AMRO",
     "subtitle": null,
     "published_at": "2023-11-30T08:25:24+01:00",
-    "updated_at": "2023-11-30T08:25:26+01:00",
+    "updated_at": "2023-11-30T08:33:59+01:00",
     "media_id": "o76xrfba0265",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tech/6291855/chatgpt-staat-op-zijn-eerste-verjaardag-in-het-teken-van-interne-chaos.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6291619,
-    "slug": "zorg-is-voor-samenvoeging-kinderhartchirurgie-maar-niemand-wil-ervanaf",
-    "type": "article",
-    "title": "Zorg is voor samenvoeging kinderhartchirurgie, maar niemand wil ervanaf",
-    "subtitle": "NU+",
-    "published_at": "2023-11-30T05:01:49+01:00",
-    "updated_at": "2023-11-30T07:30:57+01:00",
-    "media_id": "3yixvzrajr0h",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6291619/zorg-is-voor-samenvoeging-kinderhartchirurgie-maar-niemand-wil-ervanaf.html",
     "open_new_window": false,
     "partner": null
   }
