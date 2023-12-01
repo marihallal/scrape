@@ -1,5 +1,28 @@
 [
   {
+    "id": 6292236,
+    "slug": "eerste-vrouwelijke-rechter-van-amerikaans-hooggerechtshof-overleden",
+    "type": "article",
+    "title": "Eerste vrouwelijke rechter van Amerikaans Hooggerechtshof overleden",
+    "subtitle": null,
+    "published_at": "2023-12-01T18:27:42+01:00",
+    "updated_at": "2023-12-01T18:27:43+01:00",
+    "media_id": "ngnxj0wa82m3",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6292236/eerste-vrouwelijke-rechter-van-amerikaans-hooggerechtshof-overleden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6292248,
     "slug": "verenigd-koninkrijk-mogelijk-op-aardappeldieet-na-extreem-natte-herfst",
     "type": "article",
@@ -47,12 +70,12 @@
   },
   {
     "id": 6292224,
-    "slug": "zelensky-wil-frontlinie-versneld-verstevigen-nu-donkere-winter-begint",
+    "slug": "oekraine-gaat-donkere-winter-tegemoet-zelensky-wil-frontlinie-versneld-verstevigen",
     "type": "article",
-    "title": "Zelensky wil frontlinie versneld verstevigen nu 'donkere winter' begint",
+    "title": "Oekraïne gaat 'donkere winter' tegemoet, Zelensky wil frontlinie versneld verstevigen",
     "subtitle": "Overzicht",
     "published_at": "2023-12-01T18:01:12+01:00",
-    "updated_at": "2023-12-01T18:13:15+01:00",
+    "updated_at": "2023-12-01T18:31:45+01:00",
     "media_id": "nfpx2grapeix",
     "duration": null,
     "canonical_section": {
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland-en-buitenland/6292224/zelensky-wil-frontlinie-versneld-verstevigen-nu-donkere-winter-begint.html",
+    "url": "/binnenland-en-buitenland/6292224/oekraine-gaat-donkere-winter-tegemoet-zelensky-wil-frontlinie-versneld-verstevigen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/klimaat/6292154/rutte-op-klimaattop-landen-moeten-klimaatbeloftes-nu-echt-gaan-waarmaken.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6292178,
-    "slug": "verkenningsfase-formatie-loopt-vertraging-op-plasterk-heeft-meer-tijd-nodig",
-    "type": "article",
-    "title": "Verkenningsfase formatie loopt vertraging op: Plasterk heeft meer tijd nodig",
-    "subtitle": null,
-    "published_at": "2023-12-01T15:05:18+01:00",
-    "updated_at": "2023-12-01T15:39:58+01:00",
-    "media_id": "eb3x05pawpn1",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771437,
-      "slug": "politiek",
-      "type": "default",
-      "name": "Politiek",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/politiek/6292178/verkenningsfase-formatie-loopt-vertraging-op-plasterk-heeft-meer-tijd-nodig.html",
     "open_new_window": false,
     "partner": null
   }
