@@ -1,5 +1,51 @@
 [
   {
+    "id": 6292368,
+    "slug": "live-ek-loting-oranje-en-koeman-tellen-in-hamburg-af-naar-groepsindeling",
+    "type": "article",
+    "title": "Live EK-loting | Oranje en Koeman tellen in Hamburg af naar groepsindeling",
+    "subtitle": null,
+    "published_at": "2023-12-02T17:35:48+01:00",
+    "updated_at": "2023-12-02T17:35:49+01:00",
+    "media_id": "fesxipcasyfh",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6292368/live-ek-loting-oranje-en-koeman-tellen-in-hamburg-af-naar-groepsindeling.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6292367,
+    "slug": "weghorst-scoort-opnieuw-voor-hoffenheim-simons-wint-met-rb-leipzig",
+    "type": "article",
+    "title": "Weghorst scoort opnieuw voor Hoffenheim, Simons wint met RB Leipzig",
+    "subtitle": null,
+    "published_at": "2023-12-02T17:28:07+01:00",
+    "updated_at": "2023-12-02T17:34:26+01:00",
+    "media_id": "nfqxwx3a5puz",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6292367/weghorst-scoort-opnieuw-voor-hoffenheim-simons-wint-met-rb-leipzig.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6292366,
     "slug": "grote-brand-verwoest-autogarage-in-friesland",
     "type": "video",
@@ -29,7 +75,7 @@
     "title": "Topmanagers Turkse Denizbank mogelijk betrokken bij fraudezaak voetballers",
     "subtitle": null,
     "published_at": "2023-12-02T17:18:46+01:00",
-    "updated_at": "2023-12-02T17:18:47+01:00",
+    "updated_at": "2023-12-02T17:26:34+01:00",
     "media_id": "78ax7prai12z",
     "duration": null,
     "canonical_section": {
@@ -52,7 +98,7 @@
     "title": "Filipijnen getroffen door zware aardbeving, waarschuwing voor tsunami",
     "subtitle": null,
     "published_at": "2023-12-02T17:04:52+01:00",
-    "updated_at": "2023-12-02T17:21:48+01:00",
+    "updated_at": "2023-12-02T17:31:15+01:00",
     "media_id": "31pxtfzar39t",
     "duration": null,
     "canonical_section": {
@@ -397,7 +443,7 @@
     "title": "Ook Nederland kan zich opmaken voor sneeuw en gladheid, zondag code geel",
     "subtitle": null,
     "published_at": "2023-12-02T14:30:36+01:00",
-    "updated_at": "2023-12-02T16:53:05+01:00",
+    "updated_at": "2023-12-02T17:35:15+01:00",
     "media_id": "i0bxjeoa22iw",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/binnenland-en-buitenland/6292343/ook-nederland-kan-zich-opmaken-voor-sneeuw-en-gladheid-zondag-code-geel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6292340,
-    "slug": "foutloze-van-empel-overklast-concurrentie-nieuwenhuis-boekt-tweede-zege-op-rij",
-    "type": "article",
-    "title": "Foutloze Van Empel overklast concurrentie, Nieuwenhuis boekt tweede zege op rij",
-    "subtitle": null,
-    "published_at": "2023-12-02T14:26:31+01:00",
-    "updated_at": "2023-12-02T16:51:37+01:00",
-    "media_id": "jbnxjw8ai9ws",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6292340/foutloze-van-empel-overklast-concurrentie-nieuwenhuis-boekt-tweede-zege-op-rij.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6292342,
-    "slug": "paus-is-aan-de-beterende-hand-maar-blijft-zondag-wel-binnen-tijdens-toespraak",
-    "type": "article",
-    "title": "Paus is aan de beterende hand, maar blijft zondag wel binnen tijdens toespraak",
-    "subtitle": null,
-    "published_at": "2023-12-02T14:16:49+01:00",
-    "updated_at": "2023-12-02T14:23:43+01:00",
-    "media_id": "4fax34eaml19",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6292342/paus-is-aan-de-beterende-hand-maar-blijft-zondag-wel-binnen-tijdens-toespraak.html",
     "open_new_window": false,
     "partner": null
   }
