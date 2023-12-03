@@ -1,5 +1,28 @@
 [
   {
+    "id": 6292413,
+    "slug": "klm-en-schiphol-waarschuwen-voor-annuleringen-en-vertragingen-door-sneeuwval",
+    "type": "article",
+    "title": "KLM en Schiphol waarschuwen voor annuleringen en vertragingen door sneeuwval",
+    "subtitle": null,
+    "published_at": "2023-12-03T09:31:59+01:00",
+    "updated_at": "2023-12-03T09:32:00+01:00",
+    "media_id": "r4fx773avimw",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6292413/klm-en-schiphol-waarschuwen-voor-annuleringen-en-vertragingen-door-sneeuwval.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6292410,
     "slug": "drie-doden-onder-wie-twee-kinderen-bij-ongeval-met-spookrijder-op-de-a1",
     "type": "article",
@@ -75,7 +98,7 @@
     "title": "Concert Madonna begon zaterdag in Amsterdam om 22.00 uur, minder klachten",
     "subtitle": null,
     "published_at": "2023-12-03T06:18:04+01:00",
-    "updated_at": "2023-12-03T08:36:25+01:00",
+    "updated_at": "2023-12-03T09:29:04+01:00",
     "media_id": "kyyx80rad2vr",
     "duration": null,
     "canonical_section": {
@@ -167,7 +190,7 @@
     "title": "Recordploeg PSV beleeft bij winst op Feyenoord beste seizoensstart deze eeuw",
     "subtitle": null,
     "published_at": "2023-12-03T05:19:24+01:00",
-    "updated_at": "2023-12-03T09:11:45+01:00",
+    "updated_at": "2023-12-03T09:22:24+01:00",
     "media_id": "gyexfdpanbm0",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6292392/etna-barst-uit-terwijl-krater-bedekt-is-met-sneeuw.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6292390,
-    "slug": "uitgesproken-volendam-aanvoerder-mirani-voelt-zich-verraden-door-team-jonk",
-    "type": "article",
-    "title": "Uitgesproken Volendam-aanvoerder Mirani voelt zich verraden door Team Jonk",
-    "subtitle": null,
-    "published_at": "2023-12-02T21:11:10+01:00",
-    "updated_at": "2023-12-03T08:59:57+01:00",
-    "media_id": "ixix3t3aj2hd",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6292390/uitgesproken-volendam-aanvoerder-mirani-voelt-zich-verraden-door-team-jonk.html",
     "open_new_window": false,
     "partner": null
   }
