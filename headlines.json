@@ -1,12 +1,35 @@
 [
   {
+    "id": 6292455,
+    "slug": "olympisch-kampioen-nuis-tweede-op-1500-meter-achter-stolz-in-stavanger",
+    "type": "article",
+    "title": "Olympisch kampioen Nuis tweede op 1.500 meter achter Stolz in Stavanger",
+    "subtitle": null,
+    "published_at": "2023-12-03T15:32:14+01:00",
+    "updated_at": "2023-12-03T15:32:16+01:00",
+    "media_id": "hsyxyv9a17o3",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772452,
+      "slug": "schaatsen",
+      "type": "default",
+      "name": "Schaatsen",
+      "style": "nusport",
+      "media_id": "5ktx9n6axubw",
+      "partner": null
+    },
+    "url": "/schaatsen/6292455/olympisch-kampioen-nuis-tweede-op-1500-meter-achter-stolz-in-stavanger.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6292453,
     "slug": "veldrijdster-brand-boekt-in-frankrijk-tweede-wereldbekerzege-op-rij",
     "type": "article",
     "title": "Veldrijdster Brand boekt in Frankrijk tweede wereldbekerzege op rij",
     "subtitle": null,
     "published_at": "2023-12-03T15:13:10+01:00",
-    "updated_at": "2023-12-03T15:13:13+01:00",
+    "updated_at": "2023-12-03T15:25:40+01:00",
     "media_id": "qcix9v6a3kld",
     "duration": null,
     "canonical_section": {
@@ -29,8 +52,8 @@
     "title": "Oud-Rusland-correspondent Peter d'Hamecourt op 77-jarige leeftijd overleden",
     "subtitle": null,
     "published_at": "2023-12-03T15:08:01+01:00",
-    "updated_at": "2023-12-03T15:18:37+01:00",
-    "media_id": "bdgx4qta5k5x",
+    "updated_at": "2023-12-03T15:27:41+01:00",
+    "media_id": "elaxghrapo6p",
     "duration": null,
     "canonical_section": {
       "id": 1771675,
@@ -52,7 +75,7 @@
     "title": "PSV breidt indrukwekkende zegereeks uit in De Kuip: 'Dit is iets heel bijzonders'",
     "subtitle": null,
     "published_at": "2023-12-03T15:01:29+01:00",
-    "updated_at": "2023-12-03T15:01:32+01:00",
+    "updated_at": "2023-12-03T15:23:20+01:00",
     "media_id": "8vgxjhaae0r9",
     "duration": null,
     "canonical_section": {
@@ -351,7 +374,7 @@
     "title": "Duitse kerstmarkten klagen dat ze veel geld kwijt zijn aan muziek",
     "subtitle": null,
     "published_at": "2023-12-03T11:30:03+01:00",
-    "updated_at": "2023-12-03T14:34:28+01:00",
+    "updated_at": "2023-12-03T15:30:42+01:00",
     "media_id": "8ufxiaoagdpe",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/muziek/6292424/kiss-kondigt-na-laatste-concert-aan-dat-hologrammen-het-overnemen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6292428,
-    "slug": "choukoud-loopt-onder-limiet-en-mag-deelnemen-aan-olympische-marathon-parijs",
-    "type": "article",
-    "title": "Choukoud loopt onder limiet en mag deelnemen aan olympische marathon Parijs",
-    "subtitle": null,
-    "published_at": "2023-12-03T10:59:24+01:00",
-    "updated_at": "2023-12-03T14:33:42+01:00",
-    "media_id": "rszxmgeabl3r",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6292428/choukoud-loopt-onder-limiet-en-mag-deelnemen-aan-olympische-marathon-parijs.html",
     "open_new_window": false,
     "partner": null
   }
