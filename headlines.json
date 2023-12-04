@@ -1,12 +1,35 @@
 [
   {
-    "id": 6292500,
-    "slug": "werk-en-schoolweek-begint-glibberend-door-sneeuw-en-bevroren-regen",
+    "id": 6292502,
+    "slug": "evi-hanssen-en-peter-heerschop-doen-mee-aan-de-slimste-mens",
     "type": "article",
-    "title": "Werk- en schoolweek begint glibberend door sneeuw en bevroren regen",
+    "title": "Evi Hanssen en Peter Heerschop doen mee aan De slimste mens",
+    "subtitle": null,
+    "published_at": "2023-12-04T06:19:15+01:00",
+    "updated_at": "2023-12-04T06:19:17+01:00",
+    "media_id": "9fcx7lia7b83",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6292502/evi-hanssen-en-peter-heerschop-doen-mee-aan-de-slimste-mens.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6292500,
+    "slug": "werk-en-schoolweek-begint-glad-door-sneeuw-en-bevroren-regen",
+    "type": "article",
+    "title": "Werk- en schoolweek begint glad door sneeuw en bevroren regen",
     "subtitle": "Weerbericht",
     "published_at": "2023-12-04T05:48:32+01:00",
-    "updated_at": "2023-12-04T05:48:33+01:00",
+    "updated_at": "2023-12-04T06:10:29+01:00",
     "media_id": "2joxyb6adch2",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/weerbericht/6292500/werk-en-schoolweek-begint-glibberend-door-sneeuw-en-bevroren-regen.html",
+    "url": "/weerbericht/6292500/werk-en-schoolweek-begint-glad-door-sneeuw-en-bevroren-regen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -121,7 +144,7 @@
     "title": "Nederlandse Staat voor rechter om houding in Gaza-oorlog: zo zit het",
     "subtitle": "NU+",
     "published_at": "2023-12-04T05:06:54+01:00",
-    "updated_at": "2023-12-04T05:06:55+01:00",
+    "updated_at": "2023-12-04T06:02:54+01:00",
     "media_id": "3qmxir8avb3b",
     "duration": null,
     "canonical_section": {
@@ -185,12 +208,12 @@
   },
   {
     "id": 6292498,
-    "slug": "stijging-omzet-in-auto-en-motorbranche-gaat-minder-hard-dan-eerder-dit-jaar",
+    "slug": "omzet-in-auto-en-motorbranche-stijgt-minder-hard-dan-eerder-dit-jaar",
     "type": "article",
-    "title": "Stijging omzet in auto- en motorbranche gaat minder hard dan eerder dit jaar",
+    "title": "Omzet in auto- en motorbranche stijgt minder hard dan eerder dit jaar",
     "subtitle": null,
     "published_at": "2023-12-04T00:09:25+01:00",
-    "updated_at": "2023-12-04T00:09:28+01:00",
+    "updated_at": "2023-12-04T06:19:23+01:00",
     "media_id": "mq7x1kzad1zz",
     "duration": null,
     "canonical_section": {
@@ -202,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6292498/stijging-omzet-in-auto-en-motorbranche-gaat-minder-hard-dan-eerder-dit-jaar.html",
+    "url": "/economie/6292498/omzet-in-auto-en-motorbranche-stijgt-minder-hard-dan-eerder-dit-jaar.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6292473/bosz-nadert-35-jaar-oud-record-met-psv-beste-groep-waarmee-ik-heb-gewerkt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6292487,
-    "slug": "koploper-leverkusen-blijft-dankzij-late-gelijkmaker-tegen-dortmund-ongeslagen",
-    "type": "article",
-    "title": "Koploper Leverkusen blijft dankzij late gelijkmaker tegen Dortmund ongeslagen",
-    "subtitle": null,
-    "published_at": "2023-12-03T19:27:35+01:00",
-    "updated_at": "2023-12-03T20:03:32+01:00",
-    "media_id": "vg6xjpka6tua",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6292487/koploper-leverkusen-blijft-dankzij-late-gelijkmaker-tegen-dortmund-ongeslagen.html",
     "open_new_window": false,
     "partner": null
   }
