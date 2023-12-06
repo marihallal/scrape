@@ -1,12 +1,35 @@
 [
   {
+    "id": 6292842,
+    "slug": "vrouwen-die-jong-ongesteld-worden-hebben-grotere-kans-op-diabetes-type-2",
+    "type": "article",
+    "title": "Vrouwen die jong ongesteld worden hebben grotere kans op diabetes type 2",
+    "subtitle": null,
+    "published_at": "2023-12-06T14:50:36+01:00",
+    "updated_at": "2023-12-06T14:50:40+01:00",
+    "media_id": "l59xshwa46a4",
+    "duration": null,
+    "canonical_section": {
+      "id": 478878,
+      "slug": "wetenschap",
+      "type": "default",
+      "name": "Wetenschap",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wetenschap/6292842/vrouwen-die-jong-ongesteld-worden-hebben-grotere-kans-op-diabetes-type-2.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6292887,
     "slug": "nadal-tempert-verwachtingen-voor-rentree-geen-idee-wat-mijn-niveau-is",
     "type": "article",
     "title": "Nadal tempert verwachtingen voor rentree: 'Geen idee wat mijn niveau is'",
     "subtitle": null,
     "published_at": "2023-12-06T14:20:24+01:00",
-    "updated_at": "2023-12-06T14:20:25+01:00",
+    "updated_at": "2023-12-06T14:44:45+01:00",
     "media_id": "ri2x6kkawjng",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Bayern haalt met Spaans talent Zaragoza nu al aanwinst voor volgend seizoen",
     "subtitle": null,
     "published_at": "2023-12-06T14:14:27+01:00",
-    "updated_at": "2023-12-06T14:14:29+01:00",
+    "updated_at": "2023-12-06T14:40:01+01:00",
     "media_id": "p1lx04oah043",
     "duration": null,
     "canonical_section": {
@@ -139,12 +162,12 @@
   },
   {
     "id": 6292875,
-    "slug": "teze-mist-psv-heerenveen-na-harde-botsing-met-hartman-veerman-twijfelgeval",
+    "slug": "psver-teze-en-feyenoorder-hartman-niet-inzetbaar-na-harde-botsing-in-topper",
     "type": "article",
-    "title": "Teze mist PSV-Heerenveen na harde botsing met Hartman, Veerman twijfelgeval",
+    "title": "PSV'er Teze en Feyenoorder Hartman niet inzetbaar na harde botsing in topper",
     "subtitle": null,
     "published_at": "2023-12-06T13:25:20+01:00",
-    "updated_at": "2023-12-06T13:25:21+01:00",
+    "updated_at": "2023-12-06T14:47:17+01:00",
     "media_id": "u8gxcfna5drg",
     "duration": null,
     "canonical_section": {
@@ -156,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6292875/teze-mist-psv-heerenveen-na-harde-botsing-met-hartman-veerman-twijfelgeval.html",
+    "url": "/voetbal/6292875/psver-teze-en-feyenoorder-hartman-niet-inzetbaar-na-harde-botsing-in-topper.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/muziek/6292710/heb-je-even-voor-mij-van-frans-bauer-wordt-20-zelfs-mick-jagger-is-fan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6292855,
-    "slug": "marieke-elsinga-laat-zich-opnieuw-met-qmusic-djs-opsluiten-in-q-escaperoom",
-    "type": "article",
-    "title": "Marieke Elsinga laat zich opnieuw met Qmusic-dj's opsluiten in Q-escaperoom",
-    "subtitle": null,
-    "published_at": "2023-12-06T11:47:50+01:00",
-    "updated_at": "2023-12-06T11:47:51+01:00",
-    "media_id": "vhjxrbia1dym",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6292855/marieke-elsinga-laat-zich-opnieuw-met-qmusic-djs-opsluiten-in-q-escaperoom.html",
     "open_new_window": false,
     "partner": null
   }
