@@ -1,12 +1,35 @@
 [
   {
+    "id": 6292815,
+    "slug": "angelina-jolie-wil-los-angeles-verlaten-hollywood-is-geen-gezonde-plek",
+    "type": "article",
+    "title": "Angelina Jolie wil Los Angeles verlaten: 'Hollywood is geen gezonde plek'",
+    "subtitle": null,
+    "published_at": "2023-12-06T08:11:48+01:00",
+    "updated_at": "2023-12-06T08:11:49+01:00",
+    "media_id": "irexffqa0ezb",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6292815/angelina-jolie-wil-los-angeles-verlaten-hollywood-is-geen-gezonde-plek.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6292817,
     "slug": "wiegman-moest-minutenlang-op-oranje-wachten-dachten-echt-dat-we-er-waren",
     "type": "article",
     "title": "Wiegman moest minutenlang op Oranje wachten: 'Dachten echt dat we er waren'",
     "subtitle": null,
     "published_at": "2023-12-06T07:51:16+01:00",
-    "updated_at": "2023-12-06T07:51:17+01:00",
+    "updated_at": "2023-12-06T08:05:19+01:00",
     "media_id": "gn5xincarxmo",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6292802/oranje-houdt-olympisch-ticket-in-zicht-na-krankzinnige-nations-league-ontknoping.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6292803,
-    "slug": "verrast-mercedes-verwerpt-alle-beschuldigingen-aan-adres-van-toto-wolff",
-    "type": "article",
-    "title": "Verrast Mercedes verwerpt alle beschuldigingen aan adres van Toto Wolff",
-    "subtitle": null,
-    "published_at": "2023-12-05T22:39:15+01:00",
-    "updated_at": "2023-12-05T23:34:25+01:00",
-    "media_id": "pfex9vsafl6p",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6292803/verrast-mercedes-verwerpt-alle-beschuldigingen-aan-adres-van-toto-wolff.html",
     "open_new_window": false,
     "partner": null
   }
