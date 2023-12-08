@@ -1,5 +1,28 @@
 [
   {
+    "id": 6293222,
+    "slug": "artiest-die-voor-nederland-naar-eurovisie-songfestival-gaat-maandag-bekend",
+    "type": "article",
+    "title": "Artiest die voor Nederland naar Eurovisie Songfestival gaat maandag bekend",
+    "subtitle": null,
+    "published_at": "2023-12-08T16:33:14+01:00",
+    "updated_at": "2023-12-08T16:33:16+01:00",
+    "media_id": "ln5xyrwayu29",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6293222/artiest-die-voor-nederland-naar-eurovisie-songfestival-gaat-maandag-bekend.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6293219,
     "slug": "hamilton-haalt-na-teleurstellende-week-uit-naar-fia-om-kwestie-wolff",
     "type": "article",
@@ -121,7 +144,7 @@
     "title": "Russen en Belarussen mogen onder neutrale vlag meedoen aan Spelen in Parijs",
     "subtitle": null,
     "published_at": "2023-12-08T15:38:28+01:00",
-    "updated_at": "2023-12-08T16:04:20+01:00",
+    "updated_at": "2023-12-08T16:24:26+01:00",
     "media_id": "f5xxelxaz741",
     "duration": null,
     "canonical_section": {
@@ -282,7 +305,7 @@
     "title": "Dost laat zich na roerige tijd weer zien bij NEC: 'Zijn speech was indrukwekkend'",
     "subtitle": null,
     "published_at": "2023-12-08T15:03:40+01:00",
-    "updated_at": "2023-12-08T15:49:03+01:00",
+    "updated_at": "2023-12-08T16:31:29+01:00",
     "media_id": "tbcx7ttaj2yp",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/muziek/6293192/doja-cat-treedt-in-juni-op-in-de-ziggo-dome.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6293188,
-    "slug": "hoekstra-op-klimaattop-moeten-stoppen-met-fossiele-brandstoffen-punt-uit",
-    "type": "article",
-    "title": "Hoekstra op klimaattop: 'Moeten stoppen met fossiele brandstoffen, punt uit'",
-    "subtitle": null,
-    "published_at": "2023-12-08T13:56:25+01:00",
-    "updated_at": "2023-12-08T15:19:49+01:00",
-    "media_id": "mv8x884assaw",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772754,
-      "slug": "klimaat",
-      "type": "default",
-      "name": "Klimaat",
-      "style": "nuzakelijk",
-      "media_id": "kf4x3b2agsxg",
-      "partner": null
-    },
-    "url": "/klimaat/6293188/hoekstra-op-klimaattop-moeten-stoppen-met-fossiele-brandstoffen-punt-uit.html",
     "open_new_window": false,
     "partner": null
   }
