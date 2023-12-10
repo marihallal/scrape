@@ -1,5 +1,28 @@
 [
   {
+    "id": 6293480,
+    "slug": "vvd-kamerlid-kamminga-ziet-af-van-kandidatuur-voorzitterschap-kamer",
+    "type": "article",
+    "title": "VVD-Kamerlid Kamminga ziet af van kandidatuur voorzitterschap Kamer",
+    "subtitle": null,
+    "published_at": "2023-12-10T21:48:47+01:00",
+    "updated_at": "2023-12-10T21:50:25+01:00",
+    "media_id": "klexb6vat1jc",
+    "duration": null,
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6293480/vvd-kamerlid-kamminga-ziet-af-van-kandidatuur-voorzitterschap-kamer.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6293479,
     "slug": "noorse-auteur-jon-fosse-ontvangt-nobelprijs-voor-literatuur",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6293454/sluwe-vos-steelt-drie-beveiligingscameras-in-vs.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6293451,
-    "slug": "arme-landen-willen-meer-klimaatsteun-in-ruil-voor-einde-aan-fossiele-brandstoffen",
-    "type": "article",
-    "title": "Arme landen willen meer klimaatsteun in ruil voor einde aan fossiele brandstoffen",
-    "subtitle": null,
-    "published_at": "2023-12-10T16:47:51+01:00",
-    "updated_at": "2023-12-10T18:50:20+01:00",
-    "media_id": "b2cxxura1oe3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772754,
-      "slug": "klimaat",
-      "type": "default",
-      "name": "Klimaat",
-      "style": "nuzakelijk",
-      "media_id": "kf4x3b2agsxg",
-      "partner": null
-    },
-    "url": "/klimaat/6293451/arme-landen-willen-meer-klimaatsteun-in-ruil-voor-einde-aan-fossiele-brandstoffen.html",
     "open_new_window": false,
     "partner": null
   }
