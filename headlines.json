@@ -1,12 +1,35 @@
 [
   {
+    "id": 6293424,
+    "slug": "nog-twee-lichamen-in-water-gevonden-bij-plek-van-dodelijk-ongeval-in-delft",
+    "type": "article",
+    "title": "Nog twee lichamen in water gevonden bij plek van dodelijk ongeval in Delft",
+    "subtitle": null,
+    "published_at": "2023-12-10T12:26:20+01:00",
+    "updated_at": "2023-12-10T12:30:41+01:00",
+    "media_id": "4flxlg8az1gk",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6293424/nog-twee-lichamen-in-water-gevonden-bij-plek-van-dodelijk-ongeval-in-delft.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6293423,
     "slug": "uiterst-rechtse-amerikaanse-complotdenker-alex-jones-weer-terug-op-x",
     "type": "article",
     "title": "Uiterst rechtse Amerikaanse complotdenker Alex Jones weer terug op X",
     "subtitle": null,
     "published_at": "2023-12-10T12:13:52+01:00",
-    "updated_at": "2023-12-10T12:13:53+01:00",
+    "updated_at": "2023-12-10T12:20:01+01:00",
     "media_id": "wnex6b6apqqe",
     "duration": null,
     "canonical_section": {
@@ -47,13 +70,13 @@
   },
   {
     "id": 6293417,
-    "slug": "live-eredivisie-go-ahead-treft-fc-utrecht-en-kan-ajax-weer-inhalen-op-ranglijst",
+    "slug": "live-eredivisie-fc-utrecht-van-jans-komt-op-voorsprong-bij-go-ahead-eagles",
     "type": "article",
-    "title": "Live Eredivisie | Go Ahead treft FC Utrecht en kan Ajax weer inhalen op ranglijst",
+    "title": "Live Eredivisie | FC Utrecht van Jans komt op voorsprong bij Go Ahead Eagles",
     "subtitle": null,
     "published_at": "2023-12-10T11:58:32+01:00",
-    "updated_at": "2023-12-10T12:11:48+01:00",
-    "media_id": "pf6xyoray1gt",
+    "updated_at": "2023-12-10T12:29:43+01:00",
+    "media_id": "9c4x1psa4kwh",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6293417/live-eredivisie-go-ahead-treft-fc-utrecht-en-kan-ajax-weer-inhalen-op-ranglijst.html",
+    "url": "/voetbal/6293417/live-eredivisie-fc-utrecht-van-jans-komt-op-voorsprong-bij-go-ahead-eagles.html",
     "open_new_window": false,
     "partner": null
   },
@@ -259,7 +282,7 @@
     "title": "Bestuurder overlijdt nadat auto te water raakt in Delft, passagier zwaargewond",
     "subtitle": null,
     "published_at": "2023-12-10T10:12:11+01:00",
-    "updated_at": "2023-12-10T11:00:32+01:00",
+    "updated_at": "2023-12-10T12:28:00+01:00",
     "media_id": "bnbx33mab8fn",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/dieren/6293401/grote-drukte-bij-de-egelopvang-meer-verzwakte-egels-dan-normaal.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6293397,
-    "slug": "concerttour-eras-van-taylor-swift-levert-historisch-hoge-opbrengst-op",
-    "type": "article",
-    "title": "Concerttour Eras van Taylor Swift levert historisch hoge opbrengst op",
-    "subtitle": null,
-    "published_at": "2023-12-10T07:12:42+01:00",
-    "updated_at": "2023-12-10T12:08:13+01:00",
-    "media_id": "xl1xv8iav83e",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6293397/concerttour-eras-van-taylor-swift-levert-historisch-hoge-opbrengst-op.html",
     "open_new_window": false,
     "partner": null
   }
