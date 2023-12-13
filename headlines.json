@@ -1,12 +1,58 @@
 [
   {
+    "id": 6293969,
+    "slug": "feyenoord-coach-slot-schrikt-van-repeterend-verhaal-in-champions-league",
+    "type": "article",
+    "title": "Feyenoord-coach Slot schrikt van 'repeterend verhaal' in Champions League",
+    "subtitle": null,
+    "published_at": "2023-12-13T23:52:14+01:00",
+    "updated_at": "2023-12-13T23:52:15+01:00",
+    "media_id": "tylxruzaani8",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6293969/feyenoord-coach-slot-schrikt-van-repeterend-verhaal-in-champions-league.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6293968,
+    "slug": "onderzoekers-ontdekken-dat-hormoon-oorzaak-is-van-zwangerschapsmisselijkheid",
+    "type": "article",
+    "title": "Onderzoekers ontdekken dat hormoon oorzaak is van zwangerschapsmisselijkheid",
+    "subtitle": null,
+    "published_at": "2023-12-13T23:46:30+01:00",
+    "updated_at": "2023-12-13T23:46:32+01:00",
+    "media_id": "0ahxp6sacqnf",
+    "duration": null,
+    "canonical_section": {
+      "id": 478878,
+      "slug": "wetenschap",
+      "type": "default",
+      "name": "Wetenschap",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wetenschap/6293968/onderzoekers-ontdekken-dat-hormoon-oorzaak-is-van-zwangerschapsmisselijkheid.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6293967,
     "slug": "feyenoord-loopt-flinke-geldsom-mis-door-verlies-bij-celtic-in-laatste-groepsduel-cl",
     "type": "article",
     "title": "Feyenoord loopt flinke geldsom mis door verlies bij Celtic in laatste groepsduel CL",
     "subtitle": null,
     "published_at": "2023-12-13T22:56:47+01:00",
-    "updated_at": "2023-12-13T23:22:45+01:00",
+    "updated_at": "2023-12-13T23:33:53+01:00",
     "media_id": "ua6xs6falqpd",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/politiek/6293945/flinke-kritiek-op-yesilgoz-om-motie-spreidingswet-asielopvang-smakeloos.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6293946,
-    "slug": "koning-en-zuid-koreaanse-president-eren-veteranen-in-amsterdam",
-    "type": "video",
-    "title": "Koning en Zuid-Koreaanse president eren veteranen in Amsterdam",
-    "subtitle": "Video",
-    "published_at": "2023-12-13T19:23:46+01:00",
-    "updated_at": "2023-12-13T19:23:47+01:00",
-    "media_id": "l6px4l5awmb3",
-    "duration": "0:50",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6293946/koning-en-zuid-koreaanse-president-eren-veteranen-in-amsterdam.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6293930,
-    "slug": "navo-verhoogt-defensiebudget-tot-dik-2-miljard-hebben-het-meer-dan-ooit-nodig",
-    "type": "article",
-    "title": "NAVO verhoogt defensiebudget tot dik 2 miljard: 'Hebben het meer dan ooit nodig'",
-    "subtitle": null,
-    "published_at": "2023-12-13T19:13:22+01:00",
-    "updated_at": "2023-12-13T21:24:23+01:00",
-    "media_id": "stvx86xat4lh",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6293930/navo-verhoogt-defensiebudget-tot-dik-2-miljard-hebben-het-meer-dan-ooit-nodig.html",
     "open_new_window": false,
     "partner": null
   }
