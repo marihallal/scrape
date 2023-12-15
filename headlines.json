@@ -1,12 +1,35 @@
 [
   {
+    "id": 6294223,
+    "slug": "tom-egbers-kampte-met-hartklachten-na-artikel-over-grensoverschrijdend-gedrag",
+    "type": "article",
+    "title": "Tom Egbers kampte met hartklachten na artikel over grensoverschrijdend gedrag",
+    "subtitle": null,
+    "published_at": "2023-12-15T14:51:40+01:00",
+    "updated_at": "2023-12-15T14:51:41+01:00",
+    "media_id": "j8fx6qxa7q75",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6294223/tom-egbers-kampte-met-hartklachten-na-artikel-over-grensoverschrijdend-gedrag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6294220,
     "slug": "psv-kan-in-kraker-tegen-az-mogelijk-weer-beschikken-over-belangrijk-drietal",
     "type": "article",
     "title": "PSV kan in kraker tegen AZ mogelijk weer beschikken over belangrijk drietal",
     "subtitle": null,
     "published_at": "2023-12-15T14:32:13+01:00",
-    "updated_at": "2023-12-15T14:32:14+01:00",
+    "updated_at": "2023-12-15T14:44:32+01:00",
     "media_id": "sakxllmavhds",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Journalistenvakbond is 'uiterst kritisch' over mogelijke fusie tussen DPG en RTL",
     "subtitle": null,
     "published_at": "2023-12-15T14:28:14+01:00",
-    "updated_at": "2023-12-15T14:28:15+01:00",
+    "updated_at": "2023-12-15T14:40:36+01:00",
     "media_id": "4v9x4cla7see",
     "duration": null,
     "canonical_section": {
@@ -162,12 +185,12 @@
   },
   {
     "id": 6294208,
-    "slug": "na-25-jaar-denkt-om-anders-over-mallorca-verdachten-belangrijke-stap",
+    "slug": "na-25-jaar-denkt-om-anders-over-mallorca-verdachten-dit-is-een-belangrijke-stap",
     "type": "article",
-    "title": "Na 2,5 jaar denkt OM anders over Mallorca-verdachten: 'Belangrijke stap'",
+    "title": "Na 2,5 jaar denkt OM anders over Mallorca-verdachten: 'Dit is een belangrijke stap'",
     "subtitle": null,
     "published_at": "2023-12-15T13:45:22+01:00",
-    "updated_at": "2023-12-15T13:45:24+01:00",
+    "updated_at": "2023-12-15T14:44:40+01:00",
     "media_id": "5xdxxwsa1sfh",
     "duration": null,
     "canonical_section": {
@@ -179,18 +202,18 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6294208/na-25-jaar-denkt-om-anders-over-mallorca-verdachten-belangrijke-stap.html",
+    "url": "/binnenland/6294208/na-25-jaar-denkt-om-anders-over-mallorca-verdachten-dit-is-een-belangrijke-stap.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6294213,
-    "slug": "russische-rente-stijgt-naar-16-procent-in-strijd-tegen-prijsstijgingen",
+    "slug": "rusland-worstelt-met-prijsstijgingen-en-verhoogt-rente-naar-16-procent",
     "type": "article",
-    "title": "Russische rente stijgt naar 16 procent in strijd tegen prijsstijgingen",
+    "title": "Rusland worstelt met prijsstijgingen en verhoogt rente naar 16 procent",
     "subtitle": null,
     "published_at": "2023-12-15T13:29:31+01:00",
-    "updated_at": "2023-12-15T13:48:40+01:00",
+    "updated_at": "2023-12-15T14:37:05+01:00",
     "media_id": "advxezhal8xa",
     "duration": null,
     "canonical_section": {
@@ -202,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6294213/russische-rente-stijgt-naar-16-procent-in-strijd-tegen-prijsstijgingen.html",
+    "url": "/economie/6294213/rusland-worstelt-met-prijsstijgingen-en-verhoogt-rente-naar-16-procent.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6294198/chinese-lichtsculpturen-maken-debuut-op-festival-in-parijs.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6294177,
-    "slug": "duet-maan-en-goldband-hoogste-nieuwkomer-top-2000-opmars-taylor-swift",
-    "type": "article",
-    "title": "Duet Maan en Goldband hoogste nieuwkomer Top 2000, opmars Taylor Swift",
-    "subtitle": null,
-    "published_at": "2023-12-15T11:50:57+01:00",
-    "updated_at": "2023-12-15T12:01:48+01:00",
-    "media_id": "9vzxz25aeufi",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6294177/duet-maan-en-goldband-hoogste-nieuwkomer-top-2000-opmars-taylor-swift.html",
     "open_new_window": false,
     "partner": null
   }
