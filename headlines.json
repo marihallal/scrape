@@ -1,12 +1,35 @@
 [
   {
+    "id": 6294502,
+    "slug": "ajax-gaat-met-kater-winterstop-in-maar-we-staan-vijfde-en-dat-was-ons-doel",
+    "type": "article",
+    "title": "Ajax gaat met kater winterstop in: 'Maar we staan vijfde en dat was ons doel'",
+    "subtitle": null,
+    "published_at": "2023-12-17T19:50:02+01:00",
+    "updated_at": "2023-12-17T19:50:03+01:00",
+    "media_id": "jwhxb65avb4k",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6294502/ajax-gaat-met-kater-winterstop-in-maar-we-staan-vijfde-en-dat-was-ons-doel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6294501,
     "slug": "frimpong-helpt-bundesliga-koploper-leverkusen-met-goal-aan-nieuwe-zege",
     "type": "article",
     "title": "Frimpong helpt Bundesliga-koploper Leverkusen met goal aan nieuwe zege",
     "subtitle": null,
     "published_at": "2023-12-17T19:26:41+01:00",
-    "updated_at": "2023-12-17T19:32:26+01:00",
+    "updated_at": "2023-12-17T19:34:37+01:00",
     "media_id": "7wrxqaga1n2h",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "PSV begint met Veerman, Schouten en Tillman aan Eredivisie-kraker tegen AZ",
     "subtitle": null,
     "published_at": "2023-12-17T18:59:13+01:00",
-    "updated_at": "2023-12-17T19:11:56+01:00",
+    "updated_at": "2023-12-17T19:35:52+01:00",
     "media_id": "tw7xllgagmwr",
     "duration": null,
     "canonical_section": {
@@ -139,12 +162,12 @@
   },
   {
     "id": 6294495,
-    "slug": "ajax-morst-punten-door-ongelooflijke-misser-berghuis-en-dubieus-doelpunt-pec",
+    "slug": "zwak-ajax-morst-punten-door-dubieus-doelpunt-pec-zwolle-in-slotfase",
     "type": "article",
-    "title": "Ajax morst punten door ongelooflijke misser Berghuis en dubieus doelpunt PEC",
+    "title": "Zwak Ajax morst punten door dubieus doelpunt PEC Zwolle in slotfase",
     "subtitle": null,
     "published_at": "2023-12-17T18:41:58+01:00",
-    "updated_at": "2023-12-17T19:16:46+01:00",
+    "updated_at": "2023-12-17T19:39:47+01:00",
     "media_id": "xczxarbaa04z",
     "duration": null,
     "canonical_section": {
@@ -156,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6294495/ajax-morst-punten-door-ongelooflijke-misser-berghuis-en-dubieus-doelpunt-pec.html",
+    "url": "/voetbal/6294495/zwak-ajax-morst-punten-door-dubieus-doelpunt-pec-zwolle-in-slotfase.html",
     "open_new_window": false,
     "partner": null
   },
@@ -213,7 +236,7 @@
     "title": "Live Premier League | Lees hier terug hoe Liverpool en United gelijkspeelden",
     "subtitle": null,
     "published_at": "2023-12-17T17:12:43+01:00",
-    "updated_at": "2023-12-17T19:31:44+01:00",
+    "updated_at": "2023-12-17T19:38:21+01:00",
     "media_id": "n5pxz9eab1jm",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6294471/hoogleraar-en-europadeskundige-mathieu-segers-47-overleden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6294479,
-    "slug": "wanhoop-en-scheldpartijen-bij-vitesse-na-blamage-zo-kan-het-echt-niet-langer",
-    "type": "article",
-    "title": "Wanhoop en scheldpartijen bij Vitesse na blamage: 'Zo kan het echt niet langer'",
-    "subtitle": null,
-    "published_at": "2023-12-17T15:51:10+01:00",
-    "updated_at": "2023-12-17T18:48:43+01:00",
-    "media_id": "9bhxkyaarniz",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6294479/wanhoop-en-scheldpartijen-bij-vitesse-na-blamage-zo-kan-het-echt-niet-langer.html",
     "open_new_window": false,
     "partner": null
   }
