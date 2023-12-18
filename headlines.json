@@ -1,5 +1,28 @@
 [
   {
+    "id": 6294629,
+    "slug": "oekraiense-generaal-minder-militaire-operaties-mogelijk-door-wapentekorten",
+    "type": "article",
+    "title": "Oekraïense generaal: Minder militaire operaties mogelijk door wapentekorten",
+    "subtitle": null,
+    "published_at": "2023-12-18T16:50:00+01:00",
+    "updated_at": "2023-12-18T16:50:02+01:00",
+    "media_id": "my7x840ag6du",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6294629/oekraiense-generaal-minder-militaire-operaties-mogelijk-door-wapentekorten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6294626,
     "slug": "vlammen-slaan-uit-zuid-koreaans-hotel-tijdens-grote-brand",
     "type": "video",
@@ -144,7 +167,7 @@
     "title": "Militairen krijgen taakstraffen voor schietongeval waarbij collega een arm verloor",
     "subtitle": null,
     "published_at": "2023-12-18T15:29:44+01:00",
-    "updated_at": "2023-12-18T15:29:45+01:00",
+    "updated_at": "2023-12-18T16:46:26+01:00",
     "media_id": "8p9xm36axwpa",
     "duration": null,
     "canonical_section": {
@@ -167,7 +190,7 @@
     "title": "Blue Band Roombeter wint Gouden Windei vanwege misleidende naam en wikkel",
     "subtitle": null,
     "published_at": "2023-12-18T15:23:26+01:00",
-    "updated_at": "2023-12-18T16:06:52+01:00",
+    "updated_at": "2023-12-18T16:50:38+01:00",
     "media_id": "4bcx6hoavizn",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6294591/nederlandse-economie-groeit-naar-verwachting-ook-volgend-jaar-nauwelijks.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6294593,
-    "slug": "ook-oliemaatschappij-bp-vaart-voorlopig-niet-meer-over-de-rode-zee",
-    "type": "article",
-    "title": "Ook oliemaatschappij BP vaart voorlopig niet meer over de Rode Zee",
-    "subtitle": null,
-    "published_at": "2023-12-18T13:00:02+01:00",
-    "updated_at": "2023-12-18T14:50:47+01:00",
-    "media_id": "ni1x18va9gme",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6294593/ook-oliemaatschappij-bp-vaart-voorlopig-niet-meer-over-de-rode-zee.html",
     "open_new_window": false,
     "partner": null
   }
