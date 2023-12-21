@@ -1,5 +1,28 @@
 [
   {
+    "id": 6295016,
+    "slug": "huisvestingscrisis-volgens-vn-gevolg-van-slecht-beleid-niet-van-migratie",
+    "type": "article",
+    "title": "Huisvestingscrisis volgens VN gevolg van slecht beleid, niet van migratie",
+    "subtitle": null,
+    "published_at": "2023-12-21T15:44:54+01:00",
+    "updated_at": "2023-12-21T15:45:04+01:00",
+    "media_id": "92jx0n3as36f",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6295016/huisvestingscrisis-volgens-vn-gevolg-van-slecht-beleid-niet-van-migratie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6295106,
     "slug": "verkeersagressie-in-brussel-bestuurder-dreigt-fietser-omver-te-rijden",
     "type": "video",
@@ -29,7 +52,7 @@
     "title": "Mariah Carey onbetwiste kerstkoningin op Spotify in Nederland",
     "subtitle": null,
     "published_at": "2023-12-21T15:32:31+01:00",
-    "updated_at": "2023-12-21T15:32:32+01:00",
+    "updated_at": "2023-12-21T15:38:40+01:00",
     "media_id": "1chx6usa0qy1",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Van Aert gaat bij Giro-debuut niet voor klassement en slaat Tour over",
     "subtitle": null,
     "published_at": "2023-12-21T15:06:33+01:00",
-    "updated_at": "2023-12-21T15:13:09+01:00",
+    "updated_at": "2023-12-21T15:35:21+01:00",
     "media_id": "sf3x77ma29e0",
     "duration": null,
     "canonical_section": {
@@ -208,12 +231,12 @@
   },
   {
     "id": 6295094,
-    "slug": "live-wk-darts-debutant-van-peer-heeft-nog-een-set-nodig-voor-fraaie-zege",
+    "slug": "live-wk-darts-reacties-na-fraaie-zege-debutant-van-peer-in-eerste-ronde",
     "type": "article",
-    "title": "Live WK darts | Debutant Van Peer heeft nog één set nodig voor fraaie zege",
+    "title": "Live WK darts | Reacties na fraaie zege debutant Van Peer in eerste ronde",
     "subtitle": null,
     "published_at": "2023-12-21T14:28:17+01:00",
-    "updated_at": "2023-12-21T15:32:00+01:00",
+    "updated_at": "2023-12-21T15:49:23+01:00",
     "media_id": "0yyxlyoa970h",
     "duration": null,
     "canonical_section": {
@@ -225,7 +248,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/darts/6295094/live-wk-darts-debutant-van-peer-heeft-nog-een-set-nodig-voor-fraaie-zege.html",
+    "url": "/darts/6295094/live-wk-darts-reacties-na-fraaie-zege-debutant-van-peer-in-eerste-ronde.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/marengo-proces/6295075/vertrek-ridouan-taghis-advocaten-leidt-niet-tot-vertraging-marengo-proces.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6295076,
-    "slug": "noorden-van-gaza-heeft-volgens-who-geen-enkel-werkend-ziekenhuis-meer",
-    "type": "article",
-    "title": "Noorden van Gaza heeft volgens WHO geen enkel werkend ziekenhuis meer",
-    "subtitle": null,
-    "published_at": "2023-12-21T12:58:49+01:00",
-    "updated_at": "2023-12-21T13:32:57+01:00",
-    "media_id": "li5xl70ahrxn",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772085,
-      "slug": "midden-oostenconflict",
-      "type": "default",
-      "name": "Oorlog Israël en Hamas",
-      "style": "nu",
-      "media_id": "m1oxeovaiadm",
-      "partner": null
-    },
-    "url": "/midden-oostenconflict/6295076/noorden-van-gaza-heeft-volgens-who-geen-enkel-werkend-ziekenhuis-meer.html",
     "open_new_window": false,
     "partner": null
   }
