@@ -1,5 +1,28 @@
 [
   {
+    "id": 6295203,
+    "slug": "acteurskoppel-robert-pattinson-en-suki-waterhouse-is-verloofd",
+    "type": "article",
+    "title": "Acteurskoppel Robert Pattinson en Suki Waterhouse is verloofd",
+    "subtitle": null,
+    "published_at": "2023-12-22T09:53:39+01:00",
+    "updated_at": "2023-12-22T09:54:42+01:00",
+    "media_id": "4u1xxd8ahrib",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6295203/acteurskoppel-robert-pattinson-en-suki-waterhouse-is-verloofd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6295197,
     "slug": "zalando-en-moederbedrijf-zijn-het-niet-eens-over-gebruik-van-plastic-verpakkingen",
     "type": "article",
@@ -121,7 +144,7 @@
     "title": "Overlast door hoogwater en nasleep storm Pia, stormvloedkeringen weer open",
     "subtitle": null,
     "published_at": "2023-12-22T09:03:52+01:00",
-    "updated_at": "2023-12-22T09:11:13+01:00",
+    "updated_at": "2023-12-22T09:57:48+01:00",
     "media_id": "z8sxnffacyki",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/het-woord/6295176/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6295169,
-    "slug": "van-aert-snapt-geruchten-over-giro-klassement-niet-nooit-over-nagedacht",
-    "type": "article",
-    "title": "Van Aert snapt geruchten over Giro-klassement niet: 'Nooit over nagedacht'",
-    "subtitle": "NU+",
-    "published_at": "2023-12-22T05:07:44+01:00",
-    "updated_at": "2023-12-22T05:13:17+01:00",
-    "media_id": "btdxg28a1ici",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6295169/van-aert-snapt-geruchten-over-giro-klassement-niet-nooit-over-nagedacht.html",
     "open_new_window": false,
     "partner": null
   }
