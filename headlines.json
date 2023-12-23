@@ -1,12 +1,81 @@
 [
   {
+    "id": 6295436,
+    "slug": "grote-zeeleeuw-struint-over-vismarkt-in-chili",
+    "type": "video",
+    "title": "Grote zeeleeuw struint over vismarkt in Chili",
+    "subtitle": "Video",
+    "published_at": "2023-12-23T18:50:18+01:00",
+    "updated_at": "2023-12-23T18:50:22+01:00",
+    "media_id": "zw3xy20a9uay",
+    "duration": "0:36",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6295436/grote-zeeleeuw-struint-over-vismarkt-in-chili.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6295430,
+    "slug": "verhoeven-verlengt-contact-bij-glory-met-3-jaar-en-doet-mee-aan-grand-prix",
+    "type": "article",
+    "title": "Verhoeven verlengt contact bij GLORY met 3 jaar en doet mee aan Grand Prix",
+    "subtitle": null,
+    "published_at": "2023-12-23T18:50:11+01:00",
+    "updated_at": "2023-12-23T18:50:12+01:00",
+    "media_id": "yh4xjxhavlro",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6295430/verhoeven-verlengt-contact-bij-glory-met-3-jaar-en-doet-mee-aan-grand-prix.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6295435,
+    "slug": "van-der-poel-heerst-in-eerste-duel-van-grote-drie-dit-is-beste-versie-van-mathieu",
+    "type": "article",
+    "title": "Van der Poel heerst in eerste duel van 'grote drie': 'Dit is beste versie van Mathieu'",
+    "subtitle": null,
+    "published_at": "2023-12-23T18:46:18+01:00",
+    "updated_at": "2023-12-23T18:46:19+01:00",
+    "media_id": "i8xx79vaqwpk",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6295435/van-der-poel-heerst-in-eerste-duel-van-grote-drie-dit-is-beste-versie-van-mathieu.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6295433,
     "slug": "luton-boekt-fraaie-zege-op-newcastle-en-eert-medici-voor-redden-leven-lockyer",
     "type": "article",
     "title": "Luton boekt fraaie zege op Newcastle en eert medici voor redden leven Lockyer",
     "subtitle": null,
     "published_at": "2023-12-23T18:12:28+01:00",
-    "updated_at": "2023-12-23T18:23:36+01:00",
+    "updated_at": "2023-12-23T18:33:40+01:00",
     "media_id": "lp6xvxyaey2s",
     "duration": null,
     "canonical_section": {
@@ -121,7 +190,7 @@
     "title": "Ten Hag gelooft in ommekeer United ondanks nieuwe zeperd: 'Gaven niets weg'",
     "subtitle": null,
     "published_at": "2023-12-23T17:21:50+01:00",
-    "updated_at": "2023-12-23T18:19:31+01:00",
+    "updated_at": "2023-12-23T18:35:39+01:00",
     "media_id": "0pmx4z5a6zt1",
     "duration": null,
     "canonical_section": {
@@ -328,7 +397,7 @@
     "title": "Van der Poel wint in Antwerpen ook eerste cross met Van Aert én Pidcock",
     "subtitle": null,
     "published_at": "2023-12-23T14:55:28+01:00",
-    "updated_at": "2023-12-23T17:29:40+01:00",
+    "updated_at": "2023-12-23T18:48:24+01:00",
     "media_id": "w56xzq9anydy",
     "duration": null,
     "canonical_section": {
@@ -374,7 +443,7 @@
     "title": "WK-debutant Veenstra op imposante wijze naar derde ronde en treft Van Gerwen",
     "subtitle": null,
     "published_at": "2023-12-23T14:23:10+01:00",
-    "updated_at": "2023-12-23T16:15:33+01:00",
+    "updated_at": "2023-12-23T18:50:33+01:00",
     "media_id": "b0txui4apfy0",
     "duration": null,
     "canonical_section": {
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/darts/6295413/wk-debutant-veenstra-op-imposante-wijze-naar-derde-ronde-en-treft-van-gerwen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6295412,
-    "slug": "voorjaar-vol-regen-en-kletsnatte-herfst-maken-van-2023-een-recordnat-jaar",
-    "type": "article",
-    "title": "Voorjaar vol regen en kletsnatte herfst maken van 2023 een recordnat jaar",
-    "subtitle": null,
-    "published_at": "2023-12-23T14:19:49+01:00",
-    "updated_at": "2023-12-23T14:25:20+01:00",
-    "media_id": "tpdxufwadbss",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6295412/voorjaar-vol-regen-en-kletsnatte-herfst-maken-van-2023-een-recordnat-jaar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6295409,
-    "slug": "praag-eert-slachtoffers-schietpartij-met-plein-vol-kaarsen",
-    "type": "video",
-    "title": "Praag eert slachtoffers schietpartij met plein vol kaarsen",
-    "subtitle": "Video",
-    "published_at": "2023-12-23T13:48:36+01:00",
-    "updated_at": "2023-12-23T14:25:54+01:00",
-    "media_id": "wnqx3ytakats",
-    "duration": "0:46",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6295409/praag-eert-slachtoffers-schietpartij-met-plein-vol-kaarsen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6295408,
-    "slug": "live-wk-darts-reacties-op-indrukwekkende-zege-veenstra",
-    "type": "article",
-    "title": "Live WK darts | Reacties op indrukwekkende zege Veenstra",
-    "subtitle": null,
-    "published_at": "2023-12-23T13:47:03+01:00",
-    "updated_at": "2023-12-23T15:02:13+01:00",
-    "media_id": "12mxnsbaoeds",
-    "duration": null,
-    "canonical_section": {
-      "id": 1777376,
-      "slug": "darts",
-      "type": "default",
-      "name": "Darts",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/darts/6295408/live-wk-darts-reacties-op-indrukwekkende-zege-veenstra.html",
     "open_new_window": false,
     "partner": null
   }
