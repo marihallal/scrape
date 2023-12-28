@@ -1,5 +1,28 @@
 [
   {
+    "id": 6295323,
+    "slug": "de-wagner-group-zette-poetin-voor-schut-wat-doen-de-strijders-nu",
+    "type": "video",
+    "title": "De Wagner Group zette Poetin voor schut: wat doen de strijders nu?",
+    "subtitle": "Explainer",
+    "published_at": "2023-12-28T06:20:24+01:00",
+    "updated_at": "2023-12-28T06:20:25+01:00",
+    "media_id": "r5ixlhkaa0a7",
+    "duration": "2:25",
+    "canonical_section": {
+      "id": 1778980,
+      "slug": "spanningen-oekraine",
+      "type": "default",
+      "name": "Oorlog in Oekraïne",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/spanningen-oekraine/6295323/de-wagner-group-zette-poetin-voor-schut-wat-doen-de-strijders-nu.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6295819,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -24,12 +47,12 @@
   },
   {
     "id": 6295818,
-    "slug": "schrik-niet-van-de-wolken-ze-houden-zich-meestal-koest",
+    "slug": "de-dag-laat-zich-perfect-omschrijven-door-twee-ws-wind-en-wolken",
     "type": "article",
-    "title": "Schrik niet van de wolken: ze houden zich meestal koest",
+    "title": "De dag laat zich perfect omschrijven door twee w's: wind en wolken",
     "subtitle": "Weerbericht",
     "published_at": "2023-12-28T05:32:40+01:00",
-    "updated_at": "2023-12-28T05:45:06+01:00",
+    "updated_at": "2023-12-28T06:07:59+01:00",
     "media_id": "njxx625atiaq",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/weerbericht/6295818/schrik-niet-van-de-wolken-ze-houden-zich-meestal-koest.html",
+    "url": "/weerbericht/6295818/de-dag-laat-zich-perfect-omschrijven-door-twee-ws-wind-en-wolken.html",
     "open_new_window": false,
     "partner": null
   },
@@ -144,7 +167,7 @@
     "title": "Van Gerwen voelde ontzag van 'uitmuntende' Veenstra: 'Misschien is hij te lief'",
     "subtitle": null,
     "published_at": "2023-12-28T00:03:42+01:00",
-    "updated_at": "2023-12-28T02:31:10+01:00",
+    "updated_at": "2023-12-28T06:15:39+01:00",
     "media_id": "5o7x4mjakisp",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6295800/man-kan-verlamde-hand-mogelijk-gebruiken-dankzij-zenuw-uit-geamputeerd-been.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6295801,
-    "slug": "amerikaan-schaatst-over-bevroren-wegdek-in-woonwijk",
-    "type": "video",
-    "title": "Amerikaan schaatst over bevroren wegdek in woonwijk",
-    "subtitle": "Video",
-    "published_at": "2023-12-27T19:33:59+01:00",
-    "updated_at": "2023-12-27T19:34:00+01:00",
-    "media_id": "2lwxgmfa0v0q",
-    "duration": "0:36",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6295801/amerikaan-schaatst-over-bevroren-wegdek-in-woonwijk.html",
     "open_new_window": false,
     "partner": null
   }
