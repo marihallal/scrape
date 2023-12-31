@@ -1,12 +1,35 @@
 [
   {
+    "id": 6296258,
+    "slug": "omwonende-filmt-kindervuurwerkshow-in-rotterdam",
+    "type": "video",
+    "title": "Omwonende filmt Kindervuurwerkshow in Rotterdam",
+    "subtitle": "Video",
+    "published_at": "2023-12-31T20:47:58+01:00",
+    "updated_at": "2023-12-31T20:48:50+01:00",
+    "media_id": "ikqx45aa5j6v",
+    "duration": "0:46",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6296258/omwonende-filmt-kindervuurwerkshow-in-rotterdam.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6296251,
     "slug": "zo-vieren-andere-landen-de-start-van-2024",
     "type": "article",
     "title": "Zo vieren andere landen de start van 2024",
     "subtitle": "In beeld",
     "published_at": "2023-12-31T20:16:15+01:00",
-    "updated_at": "2023-12-31T20:22:54+01:00",
+    "updated_at": "2023-12-31T20:46:12+01:00",
     "media_id": "0snxsozapzvh",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Steeds meer landen in 2024, Oudjaarsdag lijkt nog relatief rustig in Nederland",
     "subtitle": null,
     "published_at": "2023-12-31T20:03:16+01:00",
-    "updated_at": "2023-12-31T20:20:21+01:00",
+    "updated_at": "2023-12-31T20:49:32+01:00",
     "media_id": "1u4xyweay57i",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6296227/cristiano-ronaldo-troeft-haaland-mbappe-en-kane-af-en-is-topscorer-van-2023.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6296229,
-    "slug": "deze-bners-kregen-een-baby-in-2023",
-    "type": "article",
-    "title": "Deze BN'ers kregen een baby in 2023",
-    "subtitle": null,
-    "published_at": "2023-12-31T14:53:17+01:00",
-    "updated_at": "2023-12-31T15:02:24+01:00",
-    "media_id": "po4xif2aso92",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6296229/deze-bners-kregen-een-baby-in-2023.html",
     "open_new_window": false,
     "partner": null
   }
