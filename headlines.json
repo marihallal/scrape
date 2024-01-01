@@ -1,5 +1,28 @@
 [
   {
+    "id": 6296346,
+    "slug": "nog-meer-arrestaties-en-gewonden-wegens-onrustige-jaarwisseling",
+    "type": "article",
+    "title": "Nog meer arrestaties en gewonden wegens onrustige jaarwisseling",
+    "subtitle": null,
+    "published_at": "2024-01-01T20:48:59+01:00",
+    "updated_at": "2024-01-01T20:49:01+01:00",
+    "media_id": "5qlxjs6a9nip",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772236,
+      "slug": "jaarwisseling",
+      "type": "files",
+      "name": "Jaarwisseling",
+      "style": "nu",
+      "media_id": "m1oxc1gaswou",
+      "partner": null
+    },
+    "url": "/jaarwisseling/6296346/nog-meer-arrestaties-en-gewonden-wegens-onrustige-jaarwisseling.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6296345,
     "slug": "postcodekanjer-van-589-miljoen-euro-valt-in-geldermalsen",
     "type": "article",
@@ -93,13 +116,13 @@
   },
   {
     "id": 6296342,
-    "slug": "live-wk-darts-van-gerwen-komt-stroef-uit-de-startblokken-in-kwartfinale",
+    "slug": "live-wk-darts-van-gerwen-poetst-nipte-achterstand-fenomenaal-weg",
     "type": "article",
-    "title": "Live WK darts | Van Gerwen komt stroef uit de startblokken in kwartfinale",
+    "title": "Live WK darts | Van Gerwen poetst nipte achterstand fenomenaal weg",
     "subtitle": null,
     "published_at": "2024-01-01T19:30:51+01:00",
-    "updated_at": "2024-01-01T20:31:22+01:00",
-    "media_id": "trrxinqa94i5",
+    "updated_at": "2024-01-01T20:41:55+01:00",
+    "media_id": "q6lxldza8coa",
     "duration": null,
     "canonical_section": {
       "id": 1777376,
@@ -110,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/darts/6296342/live-wk-darts-van-gerwen-komt-stroef-uit-de-startblokken-in-kwartfinale.html",
+    "url": "/darts/6296342/live-wk-darts-van-gerwen-poetst-nipte-achterstand-fenomenaal-weg.html",
     "open_new_window": false,
     "partner": null
   },
@@ -323,13 +346,13 @@
   },
   {
     "id": 6296329,
-    "slug": "irene-schouten-verovert-voor-achtste-keer-op-rij-nationale-titel-marathonschaatsen",
+    "slug": "irene-schouten-pakt-in-geleend-schaatspak-achtste-nationale-marathontitel-op-rij",
     "type": "article",
-    "title": "Irene Schouten verovert voor achtste keer op rij nationale titel marathonschaatsen",
+    "title": "Irene Schouten pakt in geleend schaatspak achtste nationale marathontitel op rij",
     "subtitle": null,
     "published_at": "2024-01-01T16:45:13+01:00",
-    "updated_at": "2024-01-01T18:51:49+01:00",
-    "media_id": "wd9x25kagk5f",
+    "updated_at": "2024-01-01T20:44:01+01:00",
+    "media_id": "crsx64ua1q9v",
     "duration": null,
     "canonical_section": {
       "id": 1772452,
@@ -340,7 +363,7 @@
       "media_id": "5ktx9n6axubw",
       "partner": null
     },
-    "url": "/schaatsen/6296329/irene-schouten-verovert-voor-achtste-keer-op-rij-nationale-titel-marathonschaatsen.html",
+    "url": "/schaatsen/6296329/irene-schouten-pakt-in-geleend-schaatspak-achtste-nationale-marathontitel-op-rij.html",
     "open_new_window": false,
     "partner": null
   },
@@ -374,8 +397,8 @@
     "title": "Van der Poel heeft geen spijt van spuugincident: 'Ik laat niet alles gebeuren'",
     "subtitle": null,
     "published_at": "2024-01-01T16:24:20+01:00",
-    "updated_at": "2024-01-01T19:39:02+01:00",
-    "media_id": "ccqxqdra9t59",
+    "updated_at": "2024-01-01T20:45:32+01:00",
+    "media_id": "wpvxrjraa1de",
     "duration": null,
     "canonical_section": {
       "id": 1772339,
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/darts/6296317/dartssensatie-littler-16-blijft-verbazen-en-dendert-door-naar-halve-finales-wk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6296324,
-    "slug": "van-de-zandschulp-wint-onder-nieuwe-coach-eerste-partij-van-seizoen",
-    "type": "article",
-    "title": "Van de Zandschulp wint onder nieuwe coach eerste partij van seizoen",
-    "subtitle": null,
-    "published_at": "2024-01-01T15:41:54+01:00",
-    "updated_at": "2024-01-01T17:26:23+01:00",
-    "media_id": "0ixxzd0az02v",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6296324/van-de-zandschulp-wint-onder-nieuwe-coach-eerste-partij-van-seizoen.html",
     "open_new_window": false,
     "partner": null
   }
