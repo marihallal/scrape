@@ -1,12 +1,35 @@
 [
   {
-    "id": 6296486,
-    "slug": "ex-adoer-beugelsdijk-vervolgt-carriere-in-tweede-divisie-en-treft-maatje-immers",
+    "id": 6296489,
+    "slug": "dartsfenomeen-littler-16-zorgt-opnieuw-voor-sensatie-en-bereikt-finale-wk",
     "type": "article",
-    "title": "Ex-ADO'er Beugelsdijk vervolgt carrière in Tweede Divisie en treft maatje Immers",
+    "title": "Dartsfenomeen Littler (16) zorgt opnieuw voor sensatie en bereikt finale WK",
+    "subtitle": null,
+    "published_at": "2024-01-02T22:30:58+01:00",
+    "updated_at": "2024-01-02T22:31:03+01:00",
+    "media_id": "l01xgupa0z3m",
+    "duration": null,
+    "canonical_section": {
+      "id": 1777376,
+      "slug": "darts",
+      "type": "default",
+      "name": "Darts",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/darts/6296489/dartsfenomeen-littler-16-zorgt-opnieuw-voor-sensatie-en-bereikt-finale-wk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6296486,
+    "slug": "beugelsdijk-vervolgt-carriere-in-tweede-divisie-en-treft-immers-bij-scheveningen",
+    "type": "article",
+    "title": "Beugelsdijk vervolgt carrière in Tweede Divisie en treft Immers bij Scheveningen",
     "subtitle": null,
     "published_at": "2024-01-02T22:15:51+01:00",
-    "updated_at": "2024-01-02T22:15:52+01:00",
+    "updated_at": "2024-01-02T22:22:16+01:00",
     "media_id": "7gixyeyax41l",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6296486/ex-adoer-beugelsdijk-vervolgt-carriere-in-tweede-divisie-en-treft-maatje-immers.html",
+    "url": "/voetbal/6296486/beugelsdijk-vervolgt-carriere-in-tweede-divisie-en-treft-immers-bij-scheveningen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -116,12 +139,12 @@
   },
   {
     "id": 6296475,
-    "slug": "live-wk-darts-toptalent-littler-vergroot-voorsprong-in-halve-finale-tegen-cross",
+    "slug": "live-wk-darts-reacties-op-sensationele-zege-en-finaleplek-littler",
     "type": "article",
-    "title": "Live WK darts | Toptalent Littler vergroot voorsprong in halve finale tegen Cross",
+    "title": "Live WK darts | Reacties op sensationele zege én finaleplek Littler",
     "subtitle": null,
     "published_at": "2024-01-02T20:15:01+01:00",
-    "updated_at": "2024-01-02T22:10:01+01:00",
+    "updated_at": "2024-01-02T22:32:17+01:00",
     "media_id": "l01xgupa0z3m",
     "duration": null,
     "canonical_section": {
@@ -133,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/darts/6296475/live-wk-darts-toptalent-littler-vergroot-voorsprong-in-halve-finale-tegen-cross.html",
+    "url": "/darts/6296475/live-wk-darts-reacties-op-sensationele-zege-en-finaleplek-littler.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6296458/luchtbeelden-tonen-zware-schade-na-aardbeving-in-japan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6296456,
-    "slug": "vorig-jaar-minder-mensen-omgekomen-door-geweld-in-nederland-dan-jaar-ervoor",
-    "type": "article",
-    "title": "Vorig jaar minder mensen omgekomen door geweld in Nederland dan jaar ervoor",
-    "subtitle": null,
-    "published_at": "2024-01-02T17:07:23+01:00",
-    "updated_at": "2024-01-02T17:33:05+01:00",
-    "media_id": "smkx2siaicg2",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6296456/vorig-jaar-minder-mensen-omgekomen-door-geweld-in-nederland-dan-jaar-ervoor.html",
     "open_new_window": false,
     "partner": null
   }
