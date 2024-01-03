@@ -1,12 +1,35 @@
 [
   {
+    "id": 6296626,
+    "slug": "spits-kalinic-keert-voor-salaris-van-slechts-1-euro-terug-bij-jeugdliefde-hajduk-split",
+    "type": "article",
+    "title": "Spits Kalinic keert voor salaris van slechts 1 euro terug bij jeugdliefde Hajduk Split",
+    "subtitle": null,
+    "published_at": "2024-01-03T19:34:34+01:00",
+    "updated_at": "2024-01-03T19:34:35+01:00",
+    "media_id": "i0vxoa6a42ke",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6296626/spits-kalinic-keert-voor-salaris-van-slechts-1-euro-terug-bij-jeugdliefde-hajduk-split.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6296625,
     "slug": "kuijt-noemt-van-bommel-aartsrivaal-bij-start-nieuwe-klus-in-belgie",
     "type": "video",
     "title": "Kuijt noemt Van Bommel aartsrivaal bij start nieuwe klus in België",
     "subtitle": "Video",
     "published_at": "2024-01-03T19:20:05+01:00",
-    "updated_at": "2024-01-03T19:20:07+01:00",
+    "updated_at": "2024-01-03T19:26:33+01:00",
     "media_id": "h6ixt27asn5d",
     "duration": "0:34",
     "canonical_section": {
@@ -27,9 +50,9 @@
     "slug": "weer-hoogwater-in-nederland-ongeveer-dezelfde-schaal-als-rond-kerst",
     "type": "article",
     "title": "Weer hoogwater in Nederland: 'Ongeveer dezelfde schaal als rond Kerst'",
-    "subtitle": "NU+",
+    "subtitle": null,
     "published_at": "2024-01-03T19:17:02+01:00",
-    "updated_at": "2024-01-03T19:17:03+01:00",
+    "updated_at": "2024-01-03T19:27:12+01:00",
     "media_id": "0w2x7p6alukr",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6296595/dijk-in-maastricht-deels-weggespoeld-woonboten-ontruimd.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6296587,
-    "slug": "dierenbescherming-druk-met-vermissingen-en-noodgevallen-tijdens-jaarwisseling",
-    "type": "article",
-    "title": "Dierenbescherming druk met vermissingen en noodgevallen tijdens jaarwisseling",
-    "subtitle": null,
-    "published_at": "2024-01-03T15:58:38+01:00",
-    "updated_at": "2024-01-03T15:58:39+01:00",
-    "media_id": "kdvxqs3anh7u",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772536,
-      "slug": "dieren",
-      "type": "default",
-      "name": "Dieren",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/dieren/6296587/dierenbescherming-druk-met-vermissingen-en-noodgevallen-tijdens-jaarwisseling.html",
     "open_new_window": false,
     "partner": null
   }
