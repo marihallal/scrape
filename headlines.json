@@ -1,5 +1,51 @@
 [
   {
+    "id": 6296653,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2024-01-04T06:07:50+01:00",
+    "updated_at": "2024-01-04T06:07:51+01:00",
+    "media_id": "vunx81iava32",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779164,
+      "slug": "het-woord",
+      "type": "default",
+      "name": "Het Woord",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/het-woord/6296653/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6296652,
+    "slug": "losgeraakte-woonboot-in-maastricht-tegen-brug-geslagen-door-hoogwater",
+    "type": "article",
+    "title": "Losgeraakte woonboot in Maastricht tegen brug geslagen door hoogwater",
+    "subtitle": null,
+    "published_at": "2024-01-04T06:07:26+01:00",
+    "updated_at": "2024-01-04T06:07:27+01:00",
+    "media_id": "om6xzi7a8y1e",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6296652/losgeraakte-woonboot-in-maastricht-tegen-brug-geslagen-door-hoogwater.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6296651,
     "slug": "regen-en-korte-periodes-van-zonneschijn-wisselen-elkaar-af",
     "type": "article",
@@ -29,7 +75,7 @@
     "title": "Rechtbank VS geeft namen vrij van mensen die banden hadden met Jeffrey Epstein",
     "subtitle": null,
     "published_at": "2024-01-04T05:38:01+01:00",
-    "updated_at": "2024-01-04T05:38:03+01:00",
+    "updated_at": "2024-01-04T05:56:48+01:00",
     "media_id": "xkvxijyafoi5",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6296639/international-merel-van-dongen-kiest-voor-opvallende-overstap-naar-monterrey.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6296638,
-    "slug": "ondergelopen-affligem-boos-dat-meneer-de-burgemeester-samson-show-speelt",
-    "type": "article",
-    "title": "Ondergelopen Affligem boos dat 'meneer de burgemeester' Samson-show speelt",
-    "subtitle": null,
-    "published_at": "2024-01-03T21:41:29+01:00",
-    "updated_at": "2024-01-03T22:05:35+01:00",
-    "media_id": "uurxla9ad0hq",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772242,
-      "slug": "entertainment",
-      "type": "default",
-      "name": "Media en Cultuur",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/entertainment/6296638/ondergelopen-affligem-boos-dat-meneer-de-burgemeester-samson-show-speelt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6296636,
-    "slug": "windhoos-raast-over-gebouwen-in-belgie-en-richt-ravage-aan",
-    "type": "video",
-    "title": "Windhoos raast over gebouwen in België en richt ravage aan",
-    "subtitle": "Video",
-    "published_at": "2024-01-03T21:23:27+01:00",
-    "updated_at": "2024-01-03T21:23:28+01:00",
-    "media_id": "dz9xb46aqtve",
-    "duration": "0:45",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6296636/windhoos-raast-over-gebouwen-in-belgie-en-richt-ravage-aan.html",
     "open_new_window": false,
     "partner": null
   }
