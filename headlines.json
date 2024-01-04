@@ -1,12 +1,58 @@
 [
   {
+    "id": 6296683,
+    "slug": "man-vliegt-op-rechter-af-na-veroordeling-in-las-vegas",
+    "type": "video",
+    "title": "Man vliegt op rechter af na veroordeling in Las Vegas",
+    "subtitle": "Video",
+    "published_at": "2024-01-04T09:51:07+01:00",
+    "updated_at": "2024-01-04T09:51:09+01:00",
+    "media_id": "vhhxyqsadyq2",
+    "duration": "0:48",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6296683/man-vliegt-op-rechter-af-na-veroordeling-in-las-vegas.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6296677,
+    "slug": "inflatie-in-frankrijk-loopt-weer-op-prijzen-in-december-41-procent-hoger",
+    "type": "article",
+    "title": "Inflatie in Frankrijk loopt weer op: prijzen in december 4,1 procent hoger",
+    "subtitle": null,
+    "published_at": "2024-01-04T09:48:47+01:00",
+    "updated_at": "2024-01-04T09:48:48+01:00",
+    "media_id": "kh6x49jaq9gk",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6296677/inflatie-in-frankrijk-loopt-weer-op-prijzen-in-december-41-procent-hoger.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6296675,
     "slug": "schiphol-krimp-kan-volgens-topman-op-zn-vroegst-in-zomer-2025",
     "type": "article",
     "title": "Schiphol-krimp kan volgens topman op z'n vroegst in zomer 2025",
     "subtitle": null,
     "published_at": "2024-01-04T09:27:10+01:00",
-    "updated_at": "2024-01-04T09:27:11+01:00",
+    "updated_at": "2024-01-04T09:39:13+01:00",
     "media_id": "el1xvdkacte3",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/algemeen/6296599/einde-slaapproblemen-dankzij-deze-door-verzekering-vergoede-robot.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6296653,
-    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
-    "type": "article",
-    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
-    "subtitle": null,
-    "published_at": "2024-01-04T06:07:50+01:00",
-    "updated_at": "2024-01-04T06:07:51+01:00",
-    "media_id": "vunx81iava32",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779164,
-      "slug": "het-woord",
-      "type": "default",
-      "name": "Het Woord",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/het-woord/6296653/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6296652,
-    "slug": "losgeraakte-woonboot-in-maastricht-tegen-brug-geslagen-door-hoogwater",
-    "type": "article",
-    "title": "Losgeraakte woonboot in Maastricht tegen brug geslagen door hoogwater",
-    "subtitle": null,
-    "published_at": "2024-01-04T06:07:26+01:00",
-    "updated_at": "2024-01-04T07:25:10+01:00",
-    "media_id": "om6xzi7a8y1e",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6296652/losgeraakte-woonboot-in-maastricht-tegen-brug-geslagen-door-hoogwater.html",
     "open_new_window": false,
     "partner": null
   }
