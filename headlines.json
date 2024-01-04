@@ -1,5 +1,28 @@
 [
   {
+    "id": 6296759,
+    "slug": "new-york-klaagt-busvervoerders-aan-om-vervoer-migranten-uit-texas",
+    "type": "article",
+    "title": "New York klaagt busvervoerders aan om vervoer migranten uit Texas",
+    "subtitle": null,
+    "published_at": "2024-01-04T23:33:11+01:00",
+    "updated_at": "2024-01-04T23:33:12+01:00",
+    "media_id": "rf8xedga1ude",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6296759/new-york-klaagt-busvervoerders-aan-om-vervoer-migranten-uit-texas.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6296761,
     "slug": "vs-pro-iraanse-commandant-gedood-door-amerikaanse-aanval-in-irak",
     "type": "article",
@@ -234,9 +257,9 @@
     "slug": "mee-op-inspectie-vanwege-hoogwater-in-dertig-jaar-niet-eerder-meegemaakt",
     "type": "article",
     "title": "Mee op inspectie vanwege hoogwater: 'In dertig jaar niet eerder meegemaakt'",
-    "subtitle": null,
+    "subtitle": "NU+",
     "published_at": "2024-01-04T20:05:50+01:00",
-    "updated_at": "2024-01-04T20:05:51+01:00",
+    "updated_at": "2024-01-04T23:32:49+01:00",
     "media_id": "vacxoh7agkwa",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/media/6296748/proefkonijnen-keert-terug-op-tv-maar-nu-als-jeugdprogramma.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6296746,
-    "slug": "rover-maakt-timelapse-van-dag-op-mars",
-    "type": "video",
-    "title": "Rover maakt timelapse van dag op Mars",
-    "subtitle": "Video",
-    "published_at": "2024-01-04T18:43:40+01:00",
-    "updated_at": "2024-01-04T19:03:44+01:00",
-    "media_id": "bgrxk7uawcdp",
-    "duration": "0:34",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6296746/rover-maakt-timelapse-van-dag-op-mars.html",
     "open_new_window": false,
     "partner": null
   }
