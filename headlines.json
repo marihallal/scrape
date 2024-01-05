@@ -1,5 +1,51 @@
 [
   {
+    "id": 6296778,
+    "slug": "npo-en-rtl-niet-blij-dat-programmas-kijkcijfers-nog-op-oude-manier-melden",
+    "type": "article",
+    "title": "NPO en RTL niet blij dat programma's kijkcijfers nog op oude manier melden",
+    "subtitle": null,
+    "published_at": "2024-01-05T09:22:30+01:00",
+    "updated_at": "2024-01-05T09:22:31+01:00",
+    "media_id": "xcgxx2nawa5r",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6296778/npo-en-rtl-niet-blij-dat-programmas-kijkcijfers-nog-op-oude-manier-melden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6296776,
+    "slug": "mary-poppins-actrice-glynis-johns-overleden-op-honderdjarige-leeftijd",
+    "type": "article",
+    "title": "Mary Poppins-actrice Glynis Johns overleden op honderdjarige leeftijd",
+    "subtitle": null,
+    "published_at": "2024-01-05T08:58:35+01:00",
+    "updated_at": "2024-01-05T09:12:43+01:00",
+    "media_id": "yqzxpq5ajoma",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6296776/mary-poppins-actrice-glynis-johns-overleden-op-honderdjarige-leeftijd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6296777,
     "slug": "reddingswerkers-inspecteren-treinwrak-na-botsing-op-java",
     "type": "video",
@@ -144,7 +190,7 @@
     "title": "Inflatie nam in december af dankzij lagere energieprijzen",
     "subtitle": null,
     "published_at": "2024-01-05T07:05:23+01:00",
-    "updated_at": "2024-01-05T08:22:57+01:00",
+    "updated_at": "2024-01-05T09:06:08+01:00",
     "media_id": "y4lx2vaat13e",
     "duration": null,
     "canonical_section": {
@@ -167,7 +213,7 @@
     "title": "Zuid-Koreanen naar schuilkelders na Noord-Koreaanse provocatie",
     "subtitle": null,
     "published_at": "2024-01-05T06:37:32+01:00",
-    "updated_at": "2024-01-05T08:46:47+01:00",
+    "updated_at": "2024-01-05T08:57:16+01:00",
     "media_id": "m3jxex8ax3g4",
     "duration": null,
     "canonical_section": {
@@ -213,7 +259,7 @@
     "title": "'Blade Runner' Oscar Pistorius die vriendin vermoordde na 8,5 jaar vrijgelaten",
     "subtitle": null,
     "published_at": "2024-01-05T06:09:56+01:00",
-    "updated_at": "2024-01-05T08:45:10+01:00",
+    "updated_at": "2024-01-05T08:58:38+01:00",
     "media_id": "4qzxl1har1wh",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6296762/schlemiel-sinkgraven-helpt-fc-barcelona-in-blessuretijd-onbedoeld-aan-zege.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6296759,
-    "slug": "new-york-klaagt-busvervoerders-aan-om-vervoer-migranten-uit-texas",
-    "type": "article",
-    "title": "New York klaagt busvervoerders aan om vervoer migranten uit Texas",
-    "subtitle": null,
-    "published_at": "2024-01-04T23:33:11+01:00",
-    "updated_at": "2024-01-04T23:33:12+01:00",
-    "media_id": "rf8xedga1ude",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6296759/new-york-klaagt-busvervoerders-aan-om-vervoer-migranten-uit-texas.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6296761,
-    "slug": "vs-pro-iraanse-commandant-gedood-door-amerikaanse-aanval-in-irak",
-    "type": "article",
-    "title": "VS: pro-Iraanse commandant gedood door Amerikaanse aanval in Irak",
-    "subtitle": null,
-    "published_at": "2024-01-04T22:48:12+01:00",
-    "updated_at": "2024-01-04T23:21:11+01:00",
-    "media_id": "jryxg9yayuk5",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6296761/vs-pro-iraanse-commandant-gedood-door-amerikaanse-aanval-in-irak.html",
     "open_new_window": false,
     "partner": null
   }
