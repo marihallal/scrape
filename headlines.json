@@ -1,5 +1,28 @@
 [
   {
+    "id": 6296840,
+    "slug": "prijzen-van-basisvoedsel-10-procent-lager-dan-een-jaar-geleden",
+    "type": "article",
+    "title": "Prijzen van basisvoedsel 10 procent lager dan een jaar geleden",
+    "subtitle": null,
+    "published_at": "2024-01-05T14:50:49+01:00",
+    "updated_at": "2024-01-05T14:50:50+01:00",
+    "media_id": "vr4xqcfaxyy1",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6296840/prijzen-van-basisvoedsel-10-procent-lager-dan-een-jaar-geleden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6296833,
     "slug": "familievete-over-staatslot-eindigt-in-rechtbank-schoonvader-80-32-miljoen-rijker",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Gezicht van Jan Smit is niet bijzonder genoeg om als merk te registreren",
     "subtitle": null,
     "published_at": "2024-01-05T14:00:12+01:00",
-    "updated_at": "2024-01-05T14:00:13+01:00",
+    "updated_at": "2024-01-05T14:45:33+01:00",
     "media_id": "t9axw35a6scw",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6296805/liveblog-hoogwater-rijn-bereikt-zondag-opnieuw-hoogwaterpiek.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6296804,
-    "slug": "3fm-dj-jorien-renkema-stapt-over-naar-qmusic",
-    "type": "article",
-    "title": "3FM-dj Jorien Renkema stapt over naar Qmusic",
-    "subtitle": null,
-    "published_at": "2024-01-05T11:12:33+01:00",
-    "updated_at": "2024-01-05T11:49:48+01:00",
-    "media_id": "ahxxzi5avfdw",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6296804/3fm-dj-jorien-renkema-stapt-over-naar-qmusic.html",
     "open_new_window": false,
     "partner": null
   }
