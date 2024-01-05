@@ -1,5 +1,28 @@
 [
   {
+    "id": 6296767,
+    "slug": "pak-je-muts-maar-weer-uit-de-kast-want-het-wordt-kouder",
+    "type": "article",
+    "title": "Pak je muts maar weer uit de kast, want het wordt kouder",
+    "subtitle": "Weerbericht",
+    "published_at": "2024-01-05T05:50:47+01:00",
+    "updated_at": "2024-01-05T05:50:48+01:00",
+    "media_id": "0g0x3b3a6t30",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6296767/pak-je-muts-maar-weer-uit-de-kast-want-het-wordt-kouder.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6296766,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6296719/mee-op-inspectie-vanwege-hoogwater-heb-ik-niet-eerder-meegemaakt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6296670,
-    "slug": "recensieoverzicht-priscilla-krachtig-gespeelde-toxische-relatie-van-elvis",
-    "type": "article",
-    "title": "Recensieoverzicht Priscilla: 'Krachtig gespeelde toxische relatie van Elvis'",
-    "subtitle": null,
-    "published_at": "2024-01-04T19:59:15+01:00",
-    "updated_at": "2024-01-04T19:59:16+01:00",
-    "media_id": "rg3xxy7af26a",
-    "duration": null,
-    "canonical_section": {
-      "id": 127,
-      "slug": "film",
-      "type": "default",
-      "name": "Films & Series",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/film/6296670/recensieoverzicht-priscilla-krachtig-gespeelde-toxische-relatie-van-elvis.html",
     "open_new_window": false,
     "partner": null
   }
