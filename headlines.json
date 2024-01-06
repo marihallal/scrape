@@ -1,5 +1,28 @@
 [
   {
+    "id": 6296904,
+    "slug": "brazilie-ontslaat-bondscoach-diniz-na-drie-nederlagen-in-zes-wedstrijden",
+    "type": "article",
+    "title": "Brazilië ontslaat bondscoach Diniz na drie nederlagen in zes wedstrijden",
+    "subtitle": null,
+    "published_at": "2024-01-06T09:32:52+01:00",
+    "updated_at": "2024-01-06T09:32:54+01:00",
+    "media_id": "a6cxm92ayfal",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6296904/brazilie-ontslaat-bondscoach-diniz-na-drie-nederlagen-in-zes-wedstrijden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6296903,
     "slug": "hezbollah-meldt-grote-raketbeschieting-observatiepost-israel-vanuit-libanon",
     "type": "article",
@@ -305,7 +328,7 @@
     "title": "Hoogwater in Nederland: 'Ons land ligt op een beroerde plek'",
     "subtitle": null,
     "published_at": "2024-01-06T05:02:06+01:00",
-    "updated_at": "2024-01-06T05:02:07+01:00",
+    "updated_at": "2024-01-06T09:34:17+01:00",
     "media_id": "3c7xqz9adn37",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6296891/britten-worden-geevacueerd-vanwege-ernstige-overstomingen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6296890,
-    "slug": "zeilster-bouwmeester-begint-matig-aan-wk-en-strijd-om-olympisch-startbewijs",
-    "type": "article",
-    "title": "Zeilster Bouwmeester begint matig aan WK en strijd om olympisch startbewijs",
-    "subtitle": null,
-    "published_at": "2024-01-05T22:39:36+01:00",
-    "updated_at": "2024-01-05T22:43:32+01:00",
-    "media_id": "hrwx7epavzd1",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6296890/zeilster-bouwmeester-begint-matig-aan-wk-en-strijd-om-olympisch-startbewijs.html",
     "open_new_window": false,
     "partner": null
   }
