@@ -1,5 +1,28 @@
 [
   {
+    "id": 6297230,
+    "slug": "koningin-margrethe-maakt-met-kostuum-en-setontwerp-kans-op-deense-oscar",
+    "type": "article",
+    "title": "Koningin Margrethe maakt met kostuum- en setontwerp kans op 'Deense Oscar'",
+    "subtitle": null,
+    "published_at": "2024-01-09T13:59:43+01:00",
+    "updated_at": "2024-01-09T13:59:44+01:00",
+    "media_id": "hitxedna4w00",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6297230/koningin-margrethe-maakt-met-kostuum-en-setontwerp-kans-op-deense-oscar.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6297224,
     "slug": "winterswijk-dolblij-na-toewijzing-marathon-ik-verwacht-een-gekkenhuis",
     "type": "article",
@@ -190,7 +213,7 @@
     "title": "Vier zwaargewonden in Oostenrijk doordat skigondel naar beneden stort",
     "subtitle": null,
     "published_at": "2024-01-09T12:43:51+01:00",
-    "updated_at": "2024-01-09T12:51:43+01:00",
+    "updated_at": "2024-01-09T13:45:15+01:00",
     "media_id": "sbjxyp4a31ey",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6297204/aap-rocky-ontkent-met-wapen-op-collega-te-hebben-geschoten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297203,
-    "slug": "schaatsers-profiteren-van-vorst-en-betreden-ijs-in-friesland",
-    "type": "video",
-    "title": "Schaatsers profiteren van vorst en betreden ijs in Friesland",
-    "subtitle": "Video",
-    "published_at": "2024-01-09T10:37:31+01:00",
-    "updated_at": "2024-01-09T10:37:32+01:00",
-    "media_id": "o99xisyalxpy",
-    "duration": "0:50",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6297203/schaatsers-profiteren-van-vorst-en-betreden-ijs-in-friesland.html",
     "open_new_window": false,
     "partner": null
   }
