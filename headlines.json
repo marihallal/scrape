@@ -1,5 +1,51 @@
 [
   {
+    "id": 6297323,
+    "slug": "amerikanen-en-britten-slaan-grootste-houthi-aanval-in-rode-zee-tot-nu-toe-af",
+    "type": "article",
+    "title": "Amerikanen en Britten slaan grootste Houthi-aanval in Rode Zee tot nu toe af",
+    "subtitle": null,
+    "published_at": "2024-01-10T10:48:59+01:00",
+    "updated_at": "2024-01-10T10:49:00+01:00",
+    "media_id": "41yxmamaxv3p",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772085,
+      "slug": "midden-oostenconflict",
+      "type": "default",
+      "name": "Oorlog Israël en Hamas",
+      "style": "nu",
+      "media_id": "m1oxeovaiadm",
+      "partner": null
+    },
+    "url": "/midden-oostenconflict/6297323/amerikanen-en-britten-slaan-grootste-houthi-aanval-in-rode-zee-tot-nu-toe-af.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6297328,
+    "slug": "succescoach-bakker-moet-vertrekken-bij-ajax-vrouwen-ik-zag-dit-niet-aankomen",
+    "type": "article",
+    "title": "Succescoach Bakker moet vertrekken bij Ajax Vrouwen: 'Ik zag dit niet aankomen'",
+    "subtitle": null,
+    "published_at": "2024-01-10T10:46:47+01:00",
+    "updated_at": "2024-01-10T10:46:59+01:00",
+    "media_id": "eyox9lna5zxf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6297328/succescoach-bakker-moet-vertrekken-bij-ajax-vrouwen-ik-zag-dit-niet-aankomen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6297314,
     "slug": "bekijk-hier-of-het-ijs-bij-jou-in-de-buurt-dik-genoeg-is",
     "type": "article",
@@ -47,12 +93,12 @@
   },
   {
     "id": 6297320,
-    "slug": "schaatsers-trotseren-kou-op-fries-ijs-bij-zonsopkomst",
+    "slug": "dronebeelden-tonen-schaatsers-op-fries-ijs-bij-zonsopkomst",
     "type": "video",
-    "title": "Schaatsers trotseren kou op Fries ijs bij zonsopkomst",
+    "title": "Dronebeelden tonen schaatsers op Fries ijs bij zonsopkomst",
     "subtitle": "Video",
     "published_at": "2024-01-10T10:18:54+01:00",
-    "updated_at": "2024-01-10T10:21:44+01:00",
+    "updated_at": "2024-01-10T10:38:20+01:00",
     "media_id": "8hfxd8sa4luo",
     "duration": "0:46",
     "canonical_section": {
@@ -64,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/videos/6297320/schaatsers-trotseren-kou-op-fries-ijs-bij-zonsopkomst.html",
+    "url": "/videos/6297320/dronebeelden-tonen-schaatsers-op-fries-ijs-bij-zonsopkomst.html",
     "open_new_window": false,
     "partner": null
   },
@@ -236,7 +282,7 @@
     "title": "Laborant met genetische aandoening gebruikte jarenlang eigen zaad bij vruchtbaarheidskliniek",
     "subtitle": null,
     "published_at": "2024-01-10T08:52:06+01:00",
-    "updated_at": "2024-01-10T10:25:52+01:00",
+    "updated_at": "2024-01-10T10:48:20+01:00",
     "media_id": "vuhxkprac9mv",
     "duration": null,
     "canonical_section": {
@@ -305,7 +351,7 @@
     "title": "Minstens 31 Palestijnse journalisten zitten vast in Israëlische gevangenissen",
     "subtitle": null,
     "published_at": "2024-01-10T07:54:58+01:00",
-    "updated_at": "2024-01-10T08:32:04+01:00",
+    "updated_at": "2024-01-10T10:49:17+01:00",
     "media_id": "nzqxe33autzu",
     "duration": null,
     "canonical_section": {
@@ -351,7 +397,7 @@
     "title": "Koers bitcoin zakt in na onjuist bericht over beursgenoteerde bitcoinfondsen",
     "subtitle": null,
     "published_at": "2024-01-10T07:49:38+01:00",
-    "updated_at": "2024-01-10T08:09:03+01:00",
+    "updated_at": "2024-01-10T10:49:15+01:00",
     "media_id": "nyjxrr8azkyz",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6297290/hevig-winterweer-zorgt-voor-problemen-in-verenigde-staten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297291,
-    "slug": "verdachte-van-moord-rapper-tupac-mag-rechtszaak-in-huisarrest-afwachten",
-    "type": "article",
-    "title": "Verdachte van moord rapper Tupac mag rechtszaak in huisarrest afwachten",
-    "subtitle": null,
-    "published_at": "2024-01-10T07:01:37+01:00",
-    "updated_at": "2024-01-10T08:28:28+01:00",
-    "media_id": "4zwxebta8i1j",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6297291/verdachte-van-moord-rapper-tupac-mag-rechtszaak-in-huisarrest-afwachten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297240,
-    "slug": "waarom-het-neerhalen-van-goedkope-drones-de-vs-kopzorgen-geeft",
-    "type": "video",
-    "title": "Waarom het neerhalen van (goedkope) drones de VS kopzorgen geeft",
-    "subtitle": "Explainer",
-    "published_at": "2024-01-10T06:03:43+01:00",
-    "updated_at": "2024-01-10T06:04:14+01:00",
-    "media_id": "oejx1bdaxx8m",
-    "duration": "1:50",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6297240/waarom-het-neerhalen-van-goedkope-drones-de-vs-kopzorgen-geeft.html",
     "open_new_window": false,
     "partner": null
   }
