@@ -1,13 +1,36 @@
 [
   {
+    "id": 6297407,
+    "slug": "felle-trump-criticus-chris-christie-stapt-uit-amerikaanse-presidentsrace",
+    "type": "article",
+    "title": "Felle Trump-criticus Chris Christie stapt uit Amerikaanse presidentsrace",
+    "subtitle": null,
+    "published_at": "2024-01-10T23:57:37+01:00",
+    "updated_at": "2024-01-11T00:18:51+01:00",
+    "media_id": "v8fxg7ba6150",
+    "duration": null,
+    "canonical_section": {
+      "id": 1380734,
+      "slug": "verkiezingen-vs",
+      "type": "files",
+      "name": "Amerikaanse verkiezingen",
+      "style": "nu",
+      "media_id": "m1oxq8wabsoj",
+      "partner": null
+    },
+    "url": "/verkiezingen-vs/6297407/felle-trump-criticus-chris-christie-stapt-uit-amerikaanse-presidentsrace.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6297406,
     "slug": "feyenoorder-minteh-maakt-met-gambia-noodlanding-hadden-dood-kunnen-zijn",
     "type": "article",
     "title": "Feyenoorder Minteh maakt met Gambia noodlanding: 'Hadden dood kunnen zijn'",
     "subtitle": null,
     "published_at": "2024-01-10T23:52:31+01:00",
-    "updated_at": "2024-01-10T23:52:32+01:00",
-    "media_id": "nlgx945ahiqe",
+    "updated_at": "2024-01-11T00:04:22+01:00",
+    "media_id": "do7x1deapwaw",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/vragenoproep/6297366/hoe-ga-jij-om-met-het-telefoonverbod-in-de-klas-wij-zoeken-leraren.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297389,
-    "slug": "bosz-wil-feyenoord-hoop-ontnemen-op-titel-slot-gaat-zeggen-dat-het-nog-kan",
-    "type": "article",
-    "title": "Bosz wil Feyenoord hoop ontnemen op titel: 'Slot gaat zeggen dat het nog kan'",
-    "subtitle": null,
-    "published_at": "2024-01-10T19:49:53+01:00",
-    "updated_at": "2024-01-10T20:14:52+01:00",
-    "media_id": "ngqxsdfay8da",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6297389/bosz-wil-feyenoord-hoop-ontnemen-op-titel-slot-gaat-zeggen-dat-het-nog-kan.html",
     "open_new_window": false,
     "partner": null
   }
