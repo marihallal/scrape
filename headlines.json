@@ -1,5 +1,51 @@
 [
   {
+    "id": 6297455,
+    "slug": "duizenden-kilos-aan-kreeft-onderschept-in-hongkong",
+    "type": "video",
+    "title": "Duizenden kilo's aan kreeft onderschept in Hongkong",
+    "subtitle": "Video",
+    "published_at": "2024-01-11T11:37:23+01:00",
+    "updated_at": "2024-01-11T11:37:24+01:00",
+    "media_id": "98wx38fajjqn",
+    "duration": "0:39",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6297455/duizenden-kilos-aan-kreeft-onderschept-in-hongkong.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6297454,
+    "slug": "golven-slaan-tijdens-storm-op-autodek-van-amerikaanse-ferry",
+    "type": "video",
+    "title": "Golven slaan tijdens storm op autodek van Amerikaanse ferry",
+    "subtitle": "Video",
+    "published_at": "2024-01-11T11:28:49+01:00",
+    "updated_at": "2024-01-11T11:28:50+01:00",
+    "media_id": "5b4xj2eaic3k",
+    "duration": "0:29",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6297454/golven-slaan-tijdens-storm-op-autodek-van-amerikaanse-ferry.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6297449,
     "slug": "tuin-in-tasmanie-wint-prijs-voor-lelijkste-tuin-ter-wereld",
     "type": "article",
@@ -236,7 +282,7 @@
     "title": "Overbieden is weer normaal op de zeer krappe woningmarkt",
     "subtitle": null,
     "published_at": "2024-01-11T09:59:30+01:00",
-    "updated_at": "2024-01-11T11:24:18+01:00",
+    "updated_at": "2024-01-11T11:26:55+01:00",
     "media_id": "815xbr0abllf",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6297417/straatverbod-voor-ex-van-keke-palmer-is-met-een-half-jaar-verlengd.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297418,
-    "slug": "mourinho-neemt-het-op-voor-schlemiel-huijsen-strafschop-uit-modern-voetbal",
-    "type": "article",
-    "title": "Mourinho neemt het op voor schlemiel Huijsen: 'Strafschop uit modern voetbal'",
-    "subtitle": null,
-    "published_at": "2024-01-11T07:28:11+01:00",
-    "updated_at": "2024-01-11T10:55:45+01:00",
-    "media_id": "rh6xygaaoqbq",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6297418/mourinho-neemt-het-op-voor-schlemiel-huijsen-strafschop-uit-modern-voetbal.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297416,
-    "slug": "uit-eten-gaan-of-een-pilsje-bestellen-kostte-je-vorig-jaar-bijna-9-procent-meer",
-    "type": "article",
-    "title": "Uit eten gaan of een pilsje bestellen kostte je vorig jaar bijna 9 procent meer",
-    "subtitle": null,
-    "published_at": "2024-01-11T07:25:51+01:00",
-    "updated_at": "2024-01-11T09:32:15+01:00",
-    "media_id": "u27xjrmalfpd",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6297416/uit-eten-gaan-of-een-pilsje-bestellen-kostte-je-vorig-jaar-bijna-9-procent-meer.html",
     "open_new_window": false,
     "partner": null
   }
