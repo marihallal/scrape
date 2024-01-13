@@ -1,5 +1,28 @@
 [
   {
+    "id": 6297675,
+    "slug": "noorwegen-staat-toe-dat-mijnafval-in-fjorden-wordt-gedumpt",
+    "type": "article",
+    "title": "Noorwegen staat toe dat mijnafval in fjorden wordt gedumpt",
+    "subtitle": null,
+    "published_at": "2024-01-13T10:48:56+01:00",
+    "updated_at": "2024-01-13T10:48:57+01:00",
+    "media_id": "f0oxjcma6i7g",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6297675/noorwegen-staat-toe-dat-mijnafval-in-fjorden-wordt-gedumpt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6297668,
     "slug": "sneeuw-op-komst-geen-witte-kerst-lokaal-wel-witte-blue-monday",
     "type": "article",
@@ -328,7 +351,7 @@
     "title": "Waterpolosters spelen droomfinale bij EK: 'Een soort All-Star-wedstrijd'",
     "subtitle": "NU+",
     "published_at": "2024-01-13T05:22:52+01:00",
-    "updated_at": "2024-01-13T05:22:53+01:00",
+    "updated_at": "2024-01-13T10:41:44+01:00",
     "media_id": "sz9xcpnajhds",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/goed-nieuws/6297656/kaapverdie-als-eerste-west-afrikaanse-land-malariavrij-verklaard.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297655,
-    "slug": "microsoft-haalt-apple-op-laatste-dag-van-de-week-in-als-waardevolste-bedrijf",
-    "type": "article",
-    "title": "Microsoft haalt Apple op laatste dag van de week in als waardevolste bedrijf",
-    "subtitle": null,
-    "published_at": "2024-01-12T22:52:16+01:00",
-    "updated_at": "2024-01-13T09:21:19+01:00",
-    "media_id": "svvx12batutv",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6297655/microsoft-haalt-apple-op-laatste-dag-van-de-week-in-als-waardevolste-bedrijf.html",
     "open_new_window": false,
     "partner": null
   }
