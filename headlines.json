@@ -1,5 +1,28 @@
 [
   {
+    "id": 6297893,
+    "slug": "uwv-betaalt-vijfduizend-onterechte-boetes-terug",
+    "type": "article",
+    "title": "UWV betaalt vijfduizend onterechte boetes terug",
+    "subtitle": null,
+    "published_at": "2024-01-15T15:28:30+01:00",
+    "updated_at": "2024-01-15T15:30:54+01:00",
+    "media_id": "urrx1usan49a",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6297893/uwv-betaalt-vijfduizend-onterechte-boetes-terug.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6297888,
     "slug": "oekraine-claimt-neerhalen-kostbare-russische-vliegtuigen-bij-zee-van-azov",
     "type": "article",
@@ -24,12 +47,12 @@
   },
   {
     "id": 6297882,
-    "slug": "motief-erasmus-schutter-blijft-gissen-mensen-hebben-vreselijke-dingen-gezien",
+    "slug": "het-blijft-gissen-waarom-de-erasmus-schutter-zijn-gruwelijke-daden-pleegde",
     "type": "article",
-    "title": "Motief Erasmus-schutter blijft gissen: 'Mensen hebben vreselijke dingen gezien'",
+    "title": "Het blijft gissen waarom de Erasmus-schutter zijn 'gruwelijke' daden pleegde",
     "subtitle": null,
     "published_at": "2024-01-15T14:51:44+01:00",
-    "updated_at": "2024-01-15T15:15:39+01:00",
+    "updated_at": "2024-01-15T15:32:54+01:00",
     "media_id": "l1qxknoaw3mg",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6297882/motief-erasmus-schutter-blijft-gissen-mensen-hebben-vreselijke-dingen-gezien.html",
+    "url": "/binnenland/6297882/het-blijft-gissen-waarom-de-erasmus-schutter-zijn-gruwelijke-daden-pleegde.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6297866/mogelijke-opdrachtgever-twee-explosies-rotterdam-en-vlaardingen-opgepakt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297871,
-    "slug": "sneeuwbuien-kleuren-delen-van-nederland-wit",
-    "type": "video",
-    "title": "Sneeuwbuien kleuren delen van Nederland wit",
-    "subtitle": "Video",
-    "published_at": "2024-01-15T12:10:27+01:00",
-    "updated_at": "2024-01-15T12:10:28+01:00",
-    "media_id": "0t7x5gjac6ao",
-    "duration": "0:48",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6297871/sneeuwbuien-kleuren-delen-van-nederland-wit.html",
     "open_new_window": false,
     "partner": null
   }
