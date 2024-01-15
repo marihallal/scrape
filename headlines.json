@@ -1,5 +1,28 @@
 [
   {
+    "id": 6297878,
+    "slug": "rijkswaterstaat-verwacht-maandag-en-dinsdag-zeer-zware-spits-door-winterweer",
+    "type": "article",
+    "title": "Rijkswaterstaat verwacht maandag én dinsdag zeer zware spits door winterweer",
+    "subtitle": null,
+    "published_at": "2024-01-15T14:37:15+01:00",
+    "updated_at": "2024-01-15T14:37:16+01:00",
+    "media_id": "izvx9wla48n0",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6297878/rijkswaterstaat-verwacht-maandag-en-dinsdag-zeer-zware-spits-door-winterweer.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6297886,
     "slug": "arantxa-rus-33-doorbreekt-eindelijk-grand-slam-vloek-mijn-doel-is-top-dertig",
     "type": "article",
@@ -75,7 +98,7 @@
     "title": "Van schaatspret naar sneeuwpret: winterbeelden uit het hele land",
     "subtitle": "In beeld",
     "published_at": "2024-01-15T13:57:42+01:00",
-    "updated_at": "2024-01-15T13:57:44+01:00",
+    "updated_at": "2024-01-15T14:49:40+01:00",
     "media_id": "8zjxd6naizlz",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/media/6297864/wie-is-de-mol-krijgt-seizoen-met-onbekende-nederlanders.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297863,
-    "slug": "duitse-economie-is-vorig-jaar-met-03-procent-gekrompen",
-    "type": "article",
-    "title": "Duitse economie is vorig jaar met 0,3 procent gekrompen",
-    "subtitle": null,
-    "published_at": "2024-01-15T11:42:33+01:00",
-    "updated_at": "2024-01-15T12:07:28+01:00",
-    "media_id": "c6xxxjza4jg0",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6297863/duitse-economie-is-vorig-jaar-met-03-procent-gekrompen.html",
     "open_new_window": false,
     "partner": null
   }
