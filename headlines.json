@@ -1,5 +1,28 @@
 [
   {
+    "id": 6298026,
+    "slug": "lozano-kan-tegen-twente-eerste-minuten-voor-psv-maken-in-anderhalve-maand",
+    "type": "article",
+    "title": "Lozano kan tegen Twente eerste minuten voor PSV maken in anderhalve maand",
+    "subtitle": null,
+    "published_at": "2024-01-16T14:44:13+01:00",
+    "updated_at": "2024-01-16T14:44:14+01:00",
+    "media_id": "5dcx004aqukw",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6298026/lozano-kan-tegen-twente-eerste-minuten-voor-psv-maken-in-anderhalve-maand.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6298028,
     "slug": "omgevallen-boom-zorgt-voor-ravage-in-san-francisco",
     "type": "video",
@@ -167,7 +190,7 @@
     "title": "Water in grote rivieren stijgt komend weekend opnieuw",
     "subtitle": null,
     "published_at": "2024-01-16T13:34:18+01:00",
-    "updated_at": "2024-01-16T13:34:49+01:00",
+    "updated_at": "2024-01-16T14:50:25+01:00",
     "media_id": "tuvxwyga2z24",
     "duration": null,
     "canonical_section": {
@@ -208,12 +231,12 @@
   },
   {
     "id": 6298017,
-    "slug": "omstanders-filmen-aanhouding-na-dodelijk-incident-in-drenthe",
+    "slug": "omstanders-filmen-aanhouding-na-dodelijk-incident-in-weiteveen",
     "type": "video",
-    "title": "Omstanders filmen aanhouding na dodelijk incident in Drenthe",
+    "title": "Omstanders filmen aanhouding na dodelijk incident in Weiteveen",
     "subtitle": "Video",
     "published_at": "2024-01-16T13:32:36+01:00",
-    "updated_at": "2024-01-16T14:05:17+01:00",
+    "updated_at": "2024-01-16T14:41:36+01:00",
     "media_id": "ncaxnjeakzn7",
     "duration": "0:29",
     "canonical_section": {
@@ -225,7 +248,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/videos/6298017/omstanders-filmen-aanhouding-na-dodelijk-incident-in-drenthe.html",
+    "url": "/videos/6298017/omstanders-filmen-aanhouding-na-dodelijk-incident-in-weiteveen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -420,7 +443,7 @@
     "title": "Twee doden bij geweldsincident in Weiteveen, politie onderzoekt online video's",
     "subtitle": null,
     "published_at": "2024-01-16T12:04:42+01:00",
-    "updated_at": "2024-01-16T14:20:38+01:00",
+    "updated_at": "2024-01-16T14:45:32+01:00",
     "media_id": "kj0xm8yaxbm0",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6298006/twee-doden-bij-geweldsincident-in-weiteveen-politie-onderzoekt-online-videos.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298003,
-    "slug": "zonnebrand-werkt-minder-goed-in-de-praktijk-dan-in-het-laboratorium",
-    "type": "article",
-    "title": "Zonnebrand werkt minder goed in de praktijk dan in het laboratorium",
-    "subtitle": null,
-    "published_at": "2024-01-16T12:00:04+01:00",
-    "updated_at": "2024-01-16T12:00:05+01:00",
-    "media_id": "chixu4nasyy0",
-    "duration": null,
-    "canonical_section": {
-      "id": 1146768,
-      "slug": "gezondheid",
-      "type": "default",
-      "name": "Gezondheid",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/gezondheid/6298003/zonnebrand-werkt-minder-goed-in-de-praktijk-dan-in-het-laboratorium.html",
     "open_new_window": false,
     "partner": null
   }
