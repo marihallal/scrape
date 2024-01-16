@@ -1,12 +1,35 @@
 [
   {
+    "id": 6297949,
+    "slug": "griekspoor-knokt-zich-na-twee-sets-achterstand-naar-zege-op-australian-open",
+    "type": "article",
+    "title": "Griekspoor knokt zich na twee sets achterstand naar zege op Australian Open",
+    "subtitle": null,
+    "published_at": "2024-01-16T06:50:32+01:00",
+    "updated_at": "2024-01-16T06:50:40+01:00",
+    "media_id": "pqsxxx8a2xoi",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6297949/griekspoor-knokt-zich-na-twee-sets-achterstand-naar-zege-op-australian-open.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6297946,
     "slug": "opletten-in-de-ochtendspits-code-geel-wegens-gladheid",
     "type": "article",
     "title": "Opletten in de ochtendspits: code geel wegens gladheid",
     "subtitle": "Weerbericht",
     "published_at": "2024-01-16T06:00:26+01:00",
-    "updated_at": "2024-01-16T06:32:22+01:00",
+    "updated_at": "2024-01-16T06:50:27+01:00",
     "media_id": "hw6xovlaxwfy",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Donald Trump maakt favorietenrol waar bij voorverkiezing Iowa, DeSantis tweede",
     "subtitle": null,
     "published_at": "2024-01-16T05:58:39+01:00",
-    "updated_at": "2024-01-16T06:29:09+01:00",
+    "updated_at": "2024-01-16T06:39:40+01:00",
     "media_id": "9qcxybfaqqzc",
     "duration": null,
     "canonical_section": {
@@ -121,7 +144,7 @@
     "title": "Iran meldt aanvallen op 'anti-Iraanse doelen' in Syrië en Irak",
     "subtitle": null,
     "published_at": "2024-01-15T23:48:21+01:00",
-    "updated_at": "2024-01-15T23:48:22+01:00",
+    "updated_at": "2024-01-16T06:48:18+01:00",
     "media_id": "3w8xsl3an90s",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6297932/vrijwilligers-ruimen-enorme-hoeveelheid-sneeuw-op-in-amerikaans-stadion.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297930,
-    "slug": "steeds-meer-sneeuwbuien-en-daardoor-ook-gladheid-op-de-wegen",
-    "type": "article",
-    "title": "Steeds meer sneeuwbuien en daardoor ook gladheid op de wegen",
-    "subtitle": null,
-    "published_at": "2024-01-15T20:40:42+01:00",
-    "updated_at": "2024-01-15T23:29:17+01:00",
-    "media_id": "3bqxo9fakay9",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6297930/steeds-meer-sneeuwbuien-en-daardoor-ook-gladheid-op-de-wegen.html",
     "open_new_window": false,
     "partner": null
   }
