@@ -1,5 +1,28 @@
 [
   {
+    "id": 6298337,
+    "slug": "fc-barcelona-worstelt-zich-langs-derdeklasser-bij-jubileum-frenkie-de-jong",
+    "type": "article",
+    "title": "FC Barcelona worstelt zich langs derdeklasser bij jubileum Frenkie de Jong",
+    "subtitle": null,
+    "published_at": "2024-01-18T21:26:53+01:00",
+    "updated_at": "2024-01-18T21:26:54+01:00",
+    "media_id": "b3kxdrgaezn3",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6298337/fc-barcelona-worstelt-zich-langs-derdeklasser-bij-jubileum-frenkie-de-jong.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6298336,
     "slug": "spaanse-politie-rolt-grote-wietkwekerij-op-in-natuurpark",
     "type": "video",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6298319/rustige-dag-in-besneeuwd-limburg-komende-dagen-kan-het-overal-glad-zijn.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298318,
-    "slug": "ontslag-en-straffen-voor-agenten-vanwege-kwetsende-opmerkingen-in-groepschat",
-    "type": "article",
-    "title": "Ontslag en straffen voor agenten vanwege kwetsende opmerkingen in groepschat",
-    "subtitle": null,
-    "published_at": "2024-01-18T18:01:14+01:00",
-    "updated_at": "2024-01-18T18:13:55+01:00",
-    "media_id": "vs6xk2wakqe7",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6298318/ontslag-en-straffen-voor-agenten-vanwege-kwetsende-opmerkingen-in-groepschat.html",
     "open_new_window": false,
     "partner": null
   }
