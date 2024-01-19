@@ -1,5 +1,28 @@
 [
   {
+    "id": 6298357,
+    "slug": "philips-begint-zaak-tegen-start-up-over-ontwerp-van-elektrische-tandenborstel",
+    "type": "article",
+    "title": "Philips begint zaak tegen start-up over ontwerp van elektrische tandenborstel",
+    "subtitle": null,
+    "published_at": "2024-01-19T09:48:02+01:00",
+    "updated_at": "2024-01-19T09:48:03+01:00",
+    "media_id": "i3uxprmaif6i",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6298357/philips-begint-zaak-tegen-start-up-over-ontwerp-van-elektrische-tandenborstel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6298358,
     "slug": "griekspoor-weet-weinig-van-tegenstander-maar-alle-fransen-kunnen-tennissen",
     "type": "article",
@@ -98,7 +121,7 @@
     "title": "Consument met variabel contract ziet nog niets terug van lagere gasprijzen",
     "subtitle": null,
     "published_at": "2024-01-19T07:57:20+01:00",
-    "updated_at": "2024-01-19T08:14:34+01:00",
+    "updated_at": "2024-01-19T09:48:00+01:00",
     "media_id": "k2hxph0aboo8",
     "duration": null,
     "canonical_section": {
@@ -190,8 +213,8 @@
     "title": "Forse vertraging door gladheid op wegen na nacht vol ongelukken",
     "subtitle": null,
     "published_at": "2024-01-19T07:11:22+01:00",
-    "updated_at": "2024-01-19T09:06:14+01:00",
-    "media_id": "3c2x519ainva",
+    "updated_at": "2024-01-19T09:44:26+01:00",
+    "media_id": "g6gx3eqag5qc",
     "duration": null,
     "canonical_section": {
       "id": 1771435,
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/media/6298176/sascha-visser-hield-lil-kleine-op-afstand-bij-docu-was-op-mijn-hoede.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298131,
-    "slug": "vakbonden-maken-opmars-tienduizenden-nieuwe-leden-vanwege-hoge-inflatie",
-    "type": "article",
-    "title": "Vakbonden maken opmars: tienduizenden nieuwe leden vanwege hoge inflatie",
-    "subtitle": null,
-    "published_at": "2024-01-19T05:02:31+01:00",
-    "updated_at": "2024-01-19T05:02:32+01:00",
-    "media_id": "u2zx6d5a0stl",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6298131/vakbonden-maken-opmars-tienduizenden-nieuwe-leden-vanwege-hoge-inflatie.html",
     "open_new_window": false,
     "partner": null
   }
