@@ -1,12 +1,58 @@
 [
   {
-    "id": 6298546,
-    "slug": "reizigers-zitten-zes-uur-vast-in-eurostar-tussen-amsterdam-en-londen",
+    "id": 6298548,
+    "slug": "brabants-reddingsteam-haalt-hond-uit-deels-bevroren-water",
+    "type": "video",
+    "title": "Brabants reddingsteam haalt hond uit deels bevroren water",
+    "subtitle": "Video",
+    "published_at": "2024-01-20T14:49:55+01:00",
+    "updated_at": "2024-01-20T14:49:56+01:00",
+    "media_id": "746x3cyah168",
+    "duration": "0:41",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6298548/brabants-reddingsteam-haalt-hond-uit-deels-bevroren-water.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6298544,
+    "slug": "deel-van-spoor-tussen-utrecht-en-geldermalsen-is-verzakt",
     "type": "article",
-    "title": "Reizigers zitten zes uur vast in Eurostar tussen Amsterdam en Londen",
+    "title": "Deel van spoor tussen Utrecht en Geldermalsen is verzakt",
+    "subtitle": null,
+    "published_at": "2024-01-20T14:47:25+01:00",
+    "updated_at": "2024-01-20T14:47:25+01:00",
+    "media_id": "8r9xiwta48l4",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6298544/deel-van-spoor-tussen-utrecht-en-geldermalsen-is-verzakt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6298546,
+    "slug": "reizigers-zitten-zes-uur-vast-in-eurostar-trein-tussen-amsterdam-en-londen",
+    "type": "article",
+    "title": "Reizigers zitten zes uur vast in Eurostar-trein tussen Amsterdam en Londen",
     "subtitle": null,
     "published_at": "2024-01-20T14:27:21+01:00",
-    "updated_at": "2024-01-20T14:27:26+01:00",
+    "updated_at": "2024-01-20T14:41:40+01:00",
     "media_id": "velxx7ta76gb",
     "duration": null,
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6298546/reizigers-zitten-zes-uur-vast-in-eurostar-tussen-amsterdam-en-londen.html",
+    "url": "/buitenland/6298546/reizigers-zitten-zes-uur-vast-in-eurostar-trein-tussen-amsterdam-en-londen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +75,7 @@
     "title": "Italië gaat mogelijk deel staatspostbedrijf Poste Italiane verkopen",
     "subtitle": null,
     "published_at": "2024-01-20T14:08:12+01:00",
-    "updated_at": "2024-01-20T14:08:13+01:00",
+    "updated_at": "2024-01-20T14:40:04+01:00",
     "media_id": "d0rxflgajbl4",
     "duration": null,
     "canonical_section": {
@@ -282,7 +328,7 @@
     "title": "Van Gerwen wanhoopt niet na nederlaag tegen Littler: 'Ik zal hem ooit verslaan'",
     "subtitle": null,
     "published_at": "2024-01-20T12:25:59+01:00",
-    "updated_at": "2024-01-20T13:55:06+01:00",
+    "updated_at": "2024-01-20T14:34:09+01:00",
     "media_id": "y0hx3zmagjx7",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6298515/stoelendans-bij-az-afgerond-echteld-wordt-nieuwe-trainer-van-beloftenteam.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298513,
-    "slug": "dragqueen-is-verrast-als-echte-jennifer-lopez-podium-betreedt",
-    "type": "video",
-    "title": "Dragqueen is verrast als échte Jennifer Lopez podium betreedt",
-    "subtitle": "Video",
-    "published_at": "2024-01-20T11:16:32+01:00",
-    "updated_at": "2024-01-20T11:16:33+01:00",
-    "media_id": "82ixn1xaviav",
-    "duration": "0:33",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6298513/dragqueen-is-verrast-als-echte-jennifer-lopez-podium-betreedt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298495,
-    "slug": "argentinie-zet-familie-van-gezochte-ecuadoraanse-maffiabaas-uit-naar-ecuador",
-    "type": "article",
-    "title": "Argentinië zet familie van gezochte Ecuadoraanse maffiabaas uit naar Ecuador",
-    "subtitle": null,
-    "published_at": "2024-01-20T11:16:02+01:00",
-    "updated_at": "2024-01-20T11:53:26+01:00",
-    "media_id": "xrtxdiwaj2df",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6298495/argentinie-zet-familie-van-gezochte-ecuadoraanse-maffiabaas-uit-naar-ecuador.html",
     "open_new_window": false,
     "partner": null
   }
