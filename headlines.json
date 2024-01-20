@@ -1,5 +1,28 @@
 [
   {
+    "id": 6298550,
+    "slug": "topman-openai-sam-altman-zou-netwerk-van-chipfabrieken-willen-financieren",
+    "type": "article",
+    "title": "Topman OpenAI Sam Altman zou netwerk van chipfabrieken willen financieren",
+    "subtitle": null,
+    "published_at": "2024-01-20T15:10:12+01:00",
+    "updated_at": "2024-01-20T15:10:16+01:00",
+    "media_id": "vv8xrsba9arz",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6298550/topman-openai-sam-altman-zou-netwerk-van-chipfabrieken-willen-financieren.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6298548,
     "slug": "brabants-reddingsteam-haalt-hond-uit-deels-bevroren-water",
     "type": "video",
@@ -29,7 +52,7 @@
     "title": "Deel van spoor tussen Utrecht en Geldermalsen is verzakt",
     "subtitle": null,
     "published_at": "2024-01-20T14:47:25+01:00",
-    "updated_at": "2024-01-20T14:47:25+01:00",
+    "updated_at": "2024-01-20T15:16:07+01:00",
     "media_id": "8r9xiwta48l4",
     "duration": null,
     "canonical_section": {
@@ -259,7 +282,7 @@
     "title": "Na vrieskou komt storm Isha, piek maandag tijdens ochtendspits verwacht",
     "subtitle": null,
     "published_at": "2024-01-20T12:46:18+01:00",
-    "updated_at": "2024-01-20T13:21:45+01:00",
+    "updated_at": "2024-01-20T15:10:24+01:00",
     "media_id": "i6tx7f0a5tae",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tennis/6298518/mondiale-nummer-een-swiatek-laat-zich-door-tiener-verrassen-op-australian-open.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298515,
-    "slug": "stoelendans-bij-az-afgerond-echteld-wordt-nieuwe-trainer-van-beloftenteam",
-    "type": "article",
-    "title": "Stoelendans bij AZ afgerond: Echteld wordt nieuwe trainer van beloftenteam",
-    "subtitle": null,
-    "published_at": "2024-01-20T11:19:52+01:00",
-    "updated_at": "2024-01-20T12:13:20+01:00",
-    "media_id": "tucxu6ca0o5b",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6298515/stoelendans-bij-az-afgerond-echteld-wordt-nieuwe-trainer-van-beloftenteam.html",
     "open_new_window": false,
     "partner": null
   }
