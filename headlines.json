@@ -1,12 +1,35 @@
 [
   {
+    "id": 6298761,
+    "slug": "nederland-doet-met-ruim-5000-militairen-mee-aan-grote-navo-oefening",
+    "type": "article",
+    "title": "Nederland doet met ruim 5.000 militairen mee aan grote NAVO-oefening",
+    "subtitle": null,
+    "published_at": "2024-01-22T19:52:20+01:00",
+    "updated_at": "2024-01-22T19:52:21+01:00",
+    "media_id": "u5lxd9oaibpv",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6298761/nederland-doet-met-ruim-5000-militairen-mee-aan-grote-navo-oefening.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6298758,
     "slug": "3fm-dj-nellie-benner-in-verwachting-van-eerste-kind",
     "type": "article",
     "title": "3FM-dj Nellie Benner in verwachting van eerste kind",
     "subtitle": null,
     "published_at": "2024-01-22T19:21:29+01:00",
-    "updated_at": "2024-01-22T19:21:30+01:00",
+    "updated_at": "2024-01-22T19:48:14+01:00",
     "media_id": "ytqx7c0aqtqm",
     "duration": null,
     "canonical_section": {
@@ -236,8 +259,8 @@
     "title": "Jonna Fraser geeft in november voor het eerst concert in Ziggo Dome",
     "subtitle": null,
     "published_at": "2024-01-22T17:23:29+01:00",
-    "updated_at": "2024-01-22T19:24:42+01:00",
-    "media_id": "ei3xnsoak854",
+    "updated_at": "2024-01-22T19:44:33+01:00",
+    "media_id": "5a3xohna8e1p",
     "duration": null,
     "canonical_section": {
       "id": 868281,
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6298734/australie-stopt-wegens-misbruik-met-gouden-visa-voor-buitenlandse-investeerders.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298728,
-    "slug": "schiphol-verwacht-rest-van-de-dag-nog-vertragingen-door-storm-isha",
-    "type": "article",
-    "title": "Schiphol verwacht rest van de dag nog vertragingen door storm Isha",
-    "subtitle": null,
-    "published_at": "2024-01-22T15:01:37+01:00",
-    "updated_at": "2024-01-22T16:05:46+01:00",
-    "media_id": "znfxr3eaio6h",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6298728/schiphol-verwacht-rest-van-de-dag-nog-vertragingen-door-storm-isha.html",
     "open_new_window": false,
     "partner": null
   }
