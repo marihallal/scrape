@@ -1,5 +1,28 @@
 [
   {
+    "id": 6298888,
+    "slug": "doomdagklok-blijft-staan-op-zelfde-tijd-als-vorig-jaar",
+    "type": "article",
+    "title": "Doomdagklok blijft staan op zelfde tijd als vorig jaar",
+    "subtitle": null,
+    "published_at": "2024-01-23T20:51:06+01:00",
+    "updated_at": "2024-01-23T20:51:07+01:00",
+    "media_id": "g87x9o3ae80t",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779219,
+      "slug": "tech-wetenschap",
+      "type": "default",
+      "name": "Tech en Wetenschap",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech-wetenschap/6298888/doomdagklok-blijft-staan-op-zelfde-tijd-als-vorig-jaar.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6298885,
     "slug": "vitesse-scherpt-regels-kaartverkoop-aan-na-ongeregeldheden-tegen-feyenoord",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Palestijns voetbalelftal voor het eerst in historie naar knock-outfase Azië Cup",
     "subtitle": null,
     "published_at": "2024-01-23T20:07:29+01:00",
-    "updated_at": "2024-01-23T20:20:09+01:00",
+    "updated_at": "2024-01-23T20:34:44+01:00",
     "media_id": "sq5xcjja1wwj",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "99-jarige Nederlands-Canadese vrouw breekt drie wereldrecords zwemmen",
     "subtitle": null,
     "published_at": "2024-01-23T19:23:55+01:00",
-    "updated_at": "2024-01-23T20:21:35+01:00",
+    "updated_at": "2024-01-23T20:43:12+01:00",
     "media_id": "ekdxzssakju4",
     "duration": null,
     "canonical_section": {
@@ -213,7 +236,7 @@
     "title": "Kabinet wil voor zomer bijna 3 miljard euro vrijmaken voor aanpak stikstof",
     "subtitle": null,
     "published_at": "2024-01-23T18:12:46+01:00",
-    "updated_at": "2024-01-23T20:18:41+01:00",
+    "updated_at": "2024-01-23T20:40:02+01:00",
     "media_id": "0gixbfoagrlz",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6298867/surfers-trotseren-enorme-golven-in-portugal.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298847,
-    "slug": "storing-utrecht-cs-was-nare-samenloop-van-omstandigheden-back-up-viel-uit",
-    "type": "article",
-    "title": "Storing Utrecht CS was nare samenloop van omstandigheden: back-up viel uit",
-    "subtitle": null,
-    "published_at": "2024-01-23T16:25:11+01:00",
-    "updated_at": "2024-01-23T16:44:00+01:00",
-    "media_id": "35pxu0labgl6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6298847/storing-utrecht-cs-was-nare-samenloop-van-omstandigheden-back-up-viel-uit.html",
     "open_new_window": false,
     "partner": null
   }
