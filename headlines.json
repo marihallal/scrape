@@ -1,12 +1,58 @@
 [
   {
+    "id": 6298812,
+    "slug": "froukje-geeft-in-november-twee-concerten-in-afas-live",
+    "type": "article",
+    "title": "Froukje geeft in november twee concerten in AFAS Live",
+    "subtitle": null,
+    "published_at": "2024-01-23T10:46:05+01:00",
+    "updated_at": "2024-01-23T10:46:33+01:00",
+    "media_id": "fi2x4qaal35g",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6298812/froukje-geeft-in-november-twee-concerten-in-afas-live.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6292860,
+    "slug": "grand-prix-van-spanje-wordt-vanaf-2026-gehouden-op-stratencircuit-in-madrid",
+    "type": "article",
+    "title": "Grand Prix van Spanje wordt vanaf 2026 gehouden op stratencircuit in Madrid",
+    "subtitle": null,
+    "published_at": "2024-01-23T10:39:35+01:00",
+    "updated_at": "2024-01-23T10:45:43+01:00",
+    "media_id": "njoxij1addpf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Formule 1",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6292860/grand-prix-van-spanje-wordt-vanaf-2026-gehouden-op-stratencircuit-in-madrid.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6298810,
     "slug": "djokovic-komt-moeizame-start-te-boven-en-bereikt-halve-finales-australian-open",
     "type": "article",
     "title": "Djokovic komt moeizame start te boven en bereikt halve finales Australian Open",
     "subtitle": null,
     "published_at": "2024-01-23T10:32:08+01:00",
-    "updated_at": "2024-01-23T10:33:18+01:00",
+    "updated_at": "2024-01-23T10:44:30+01:00",
     "media_id": "g6qxzuba8rcg",
     "duration": null,
     "canonical_section": {
@@ -121,7 +167,7 @@
     "title": "Journalisten jouwen Ghanees team uit, Kudus radeloos na deceptie op Afrika Cup",
     "subtitle": null,
     "published_at": "2024-01-23T09:52:02+01:00",
-    "updated_at": "2024-01-23T09:55:20+01:00",
+    "updated_at": "2024-01-23T10:46:45+01:00",
     "media_id": "m47xehua392l",
     "duration": null,
     "canonical_section": {
@@ -144,7 +190,7 @@
     "title": "Vanavond en vannacht opnieuw zware windstoten, code geel in kustprovincies",
     "subtitle": null,
     "published_at": "2024-01-23T09:49:45+01:00",
-    "updated_at": "2024-01-23T09:49:46+01:00",
+    "updated_at": "2024-01-23T10:40:03+01:00",
     "media_id": "dtpxm7eajkue",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6298784/man-die-probeerde-in-te-breken-bij-taylor-swift-opnieuw-gearresteerd.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298783,
-    "slug": "coco-gauff-bereikt-na-tennisgevecht-van-drie-uur-halve-finales-australian-open",
-    "type": "article",
-    "title": "Coco Gauff bereikt na tennisgevecht van drie uur halve finales Australian Open",
-    "subtitle": null,
-    "published_at": "2024-01-23T07:06:00+01:00",
-    "updated_at": "2024-01-23T07:47:26+01:00",
-    "media_id": "gkqxfrcajg8k",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6298783/coco-gauff-bereikt-na-tennisgevecht-van-drie-uur-halve-finales-australian-open.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298782,
-    "slug": "billy-joel-komt-na-zeventien-jaar-met-nieuwe-single",
-    "type": "article",
-    "title": "Billy Joel komt na zeventien jaar met nieuwe single",
-    "subtitle": null,
-    "published_at": "2024-01-23T06:43:28+01:00",
-    "updated_at": "2024-01-23T06:49:05+01:00",
-    "media_id": "hxoxyzuazwq1",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6298782/billy-joel-komt-na-zeventien-jaar-met-nieuwe-single.html",
     "open_new_window": false,
     "partner": null
   }
