@@ -1,5 +1,28 @@
 [
   {
+    "id": 6292535,
+    "slug": "leclerc-ligt-met-nieuwe-verbintenis-langer-vast-bij-ferrari",
+    "type": "article",
+    "title": "Leclerc ligt met nieuwe verbintenis langer vast bij Ferrari",
+    "subtitle": null,
+    "published_at": "2024-01-25T14:37:06+01:00",
+    "updated_at": "2024-01-25T14:49:58+01:00",
+    "media_id": "x1wxltsayfu0",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Formule 1",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6292535/leclerc-ligt-met-nieuwe-verbintenis-langer-vast-bij-ferrari.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6299089,
     "slug": "man-doet-aangifte-van-gestolen-auto-wordt-opgepakt-wegens-cocaine-in-voertuig",
     "type": "article",
@@ -24,12 +47,12 @@
   },
   {
     "id": 6299090,
-    "slug": "ecb-houdt-rente-weer-gelijk-inflatie-is-nog-niet-genoeg-afgeremd",
+    "slug": "ecb-houdt-rente-opnieuw-gelijk-inflatie-is-nog-niet-genoeg-afgeremd",
     "type": "article",
-    "title": "ECB houdt rente weer gelijk, inflatie is nog niet genoeg afgeremd",
+    "title": "ECB houdt rente opnieuw gelijk: inflatie is nog niet genoeg afgeremd",
     "subtitle": null,
     "published_at": "2024-01-25T14:25:49+01:00",
-    "updated_at": "2024-01-25T14:31:31+01:00",
+    "updated_at": "2024-01-25T14:45:55+01:00",
     "media_id": "6cvxu2lapzlg",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6299090/ecb-houdt-rente-weer-gelijk-inflatie-is-nog-niet-genoeg-afgeremd.html",
+    "url": "/economie/6299090/ecb-houdt-rente-opnieuw-gelijk-inflatie-is-nog-niet-genoeg-afgeremd.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +75,7 @@
     "title": "Oud-preses Spaanse bond Rubiales moet vrezen voor celstraf na omstreden kus",
     "subtitle": null,
     "published_at": "2024-01-25T14:23:48+01:00",
-    "updated_at": "2024-01-25T14:27:39+01:00",
+    "updated_at": "2024-01-25T14:47:04+01:00",
     "media_id": "xxyxt6iax2c2",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Rijksrecherche doet oriënterend onderzoek naar Khalid Kasem",
     "subtitle": null,
     "published_at": "2024-01-25T14:20:34+01:00",
-    "updated_at": "2024-01-25T14:35:08+01:00",
+    "updated_at": "2024-01-25T14:42:17+01:00",
     "media_id": "gyhxb4da553f",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6299072/peter-bosz-reageert-boos-op-persconferentie-om-uitblijven-penalty.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6299071,
-    "slug": "bnnvara-zendt-documentaire-uit-over-nalatenschap-els-borst",
-    "type": "article",
-    "title": "BNNVARA zendt documentaire uit over nalatenschap Els Borst",
-    "subtitle": null,
-    "published_at": "2024-01-25T11:52:50+01:00",
-    "updated_at": "2024-01-25T11:52:51+01:00",
-    "media_id": "jjsxj0ia7x7d",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6299071/bnnvara-zendt-documentaire-uit-over-nalatenschap-els-borst.html",
     "open_new_window": false,
     "partner": null
   }
