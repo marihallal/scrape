@@ -1,12 +1,58 @@
 [
   {
+    "id": 6299344,
+    "slug": "ex-vrouw-van-jeff-bezos-verkoopt-bijna-10-miljard-dollar-aan-amazon-aandelen",
+    "type": "article",
+    "title": "Ex-vrouw van Jeff Bezos verkoopt bijna 10 miljard dollar aan Amazon-aandelen",
+    "subtitle": null,
+    "published_at": "2024-01-27T13:52:40+01:00",
+    "updated_at": "2024-01-27T13:52:41+01:00",
+    "media_id": "o3bxkhzas1bh",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6299344/ex-vrouw-van-jeff-bezos-verkoopt-bijna-10-miljard-dollar-aan-amazon-aandelen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6299342,
+    "slug": "topman-deutsche-bank-waarschuwt-dat-extreemrechts-duitse-economie-kan-schaden",
+    "type": "article",
+    "title": "Topman Deutsche Bank waarschuwt dat extreemrechts Duitse economie kan schaden",
+    "subtitle": null,
+    "published_at": "2024-01-27T13:44:27+01:00",
+    "updated_at": "2024-01-27T13:44:29+01:00",
+    "media_id": "5pyx1wuachyo",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6299342/topman-deutsche-bank-waarschuwt-dat-extreemrechts-duitse-economie-kan-schaden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6299340,
     "slug": "boerenvakbond-frankrijk-wil-na-het-weekend-blokkade-van-parijs-organiseren",
     "type": "article",
     "title": "Boerenvakbond Frankrijk wil na het weekend 'blokkade van Parijs' organiseren",
     "subtitle": null,
     "published_at": "2024-01-27T13:26:14+01:00",
-    "updated_at": "2024-01-27T13:26:15+01:00",
+    "updated_at": "2024-01-27T13:39:41+01:00",
     "media_id": "qevx6fcap3mj",
     "duration": null,
     "canonical_section": {
@@ -24,12 +70,12 @@
   },
   {
     "id": 6299339,
-    "slug": "van-barneveld-snapt-impact-boegeroep-wilde-ook-terug-naar-mn-moedertje",
+    "slug": "van-barneveld-over-boegeroep-richting-cross-wilde-ook-ooit-terug-naar-mn-moedertje",
     "type": "article",
-    "title": "Van Barneveld snapt impact boegeroep: 'Wilde ook terug naar m'n moedertje'",
+    "title": "Van Barneveld over boegeroep richting Cross: 'Wilde ook ooit terug naar m’n moedertje'",
     "subtitle": null,
     "published_at": "2024-01-27T13:21:32+01:00",
-    "updated_at": "2024-01-27T13:26:07+01:00",
+    "updated_at": "2024-01-27T13:51:30+01:00",
     "media_id": "dqsx4p5algo2",
     "duration": null,
     "canonical_section": {
@@ -41,18 +87,18 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport-overig/6299339/van-barneveld-snapt-impact-boegeroep-wilde-ook-terug-naar-mn-moedertje.html",
+    "url": "/sport-overig/6299339/van-barneveld-over-boegeroep-richting-cross-wilde-ook-ooit-terug-naar-mn-moedertje.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6299088,
-    "slug": "wifigebruik-in-de-trein-is-gehalveerd-maar-zit-nog-niet-op-dood-spoor",
+    "slug": "wifigebruik-op-het-spoor-daalt-in-sneltreinvaart",
     "type": "article",
-    "title": "Wifigebruik in de trein is gehalveerd, maar zit nog niet op dood spoor",
+    "title": "Wifigebruik op het spoor daalt in sneltreinvaart",
     "subtitle": "NU+",
     "published_at": "2024-01-27T13:05:27+01:00",
-    "updated_at": "2024-01-27T13:05:27+01:00",
+    "updated_at": "2024-01-27T13:39:08+01:00",
     "media_id": "2noxm9ma5jae",
     "duration": null,
     "canonical_section": {
@@ -64,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/tech/6299088/wifigebruik-in-de-trein-is-gehalveerd-maar-zit-nog-niet-op-dood-spoor.html",
+    "url": "/tech/6299088/wifigebruik-op-het-spoor-daalt-in-sneltreinvaart.html",
     "open_new_window": false,
     "partner": null
   },
@@ -139,24 +185,24 @@
   },
   {
     "id": 6299228,
-    "slug": "heeft-kweekvlees-dezelfde-voedingswaarden-als-normaal-vlees",
+    "slug": "heeft-kweekvlees-dezelfde-voedingswaarde-als-normaal-vlees",
     "type": "article",
-    "title": "Heeft kweekvlees dezelfde voedingswaarden als normaal vlees?",
+    "title": "Heeft kweekvlees dezelfde voedingswaarde als normaal vlees?",
     "subtitle": "In 100 woorden",
     "published_at": "2024-01-27T11:39:42+01:00",
-    "updated_at": "2024-01-27T11:39:45+01:00",
+    "updated_at": "2024-01-27T13:49:30+01:00",
     "media_id": "73jxbpta2t26",
     "duration": null,
     "canonical_section": {
-      "id": 1779219,
-      "slug": "tech-wetenschap",
+      "id": 1779003,
+      "slug": "gebaseerd-op-jullie-vragen",
       "type": "default",
-      "name": "Tech en Wetenschap",
-      "style": "nutech",
+      "name": "Gebaseerd op NUjij",
+      "style": "nu",
       "media_id": null,
       "partner": null
     },
-    "url": "/tech-wetenschap/6299228/heeft-kweekvlees-dezelfde-voedingswaarden-als-normaal-vlees.html",
+    "url": "/gebaseerd-op-jullie-vragen/6299228/heeft-kweekvlees-dezelfde-voedingswaarde-als-normaal-vlees.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6299293/live-australian-open-reacties-na-tweede-australian-open-titel-op-rij-voor-sabalenka.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6299292,
-    "slug": "lotte-verbeek-in-film-over-neurenbergproces-met-russell-crowe-en-rami-malek",
-    "type": "article",
-    "title": "Lotte Verbeek in film over Neurenbergproces met Russell Crowe en Rami Malek",
-    "subtitle": null,
-    "published_at": "2024-01-27T09:31:40+01:00",
-    "updated_at": "2024-01-27T10:19:18+01:00",
-    "media_id": "htxx6tyamkuq",
-    "duration": null,
-    "canonical_section": {
-      "id": 127,
-      "slug": "film",
-      "type": "default",
-      "name": "Films & Series",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/film/6299292/lotte-verbeek-in-film-over-neurenbergproces-met-russell-crowe-en-rami-malek.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6299288,
-    "slug": "wielrenster-reijnhout-19-verrast-in-australie-en-breekt-worldtour-record",
-    "type": "article",
-    "title": "Wielrenster Reijnhout (19) verrast in Australië en breekt WorldTour-record",
-    "subtitle": null,
-    "published_at": "2024-01-27T09:25:52+01:00",
-    "updated_at": "2024-01-27T13:25:51+01:00",
-    "media_id": "srqxri2alq19",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6299288/wielrenster-reijnhout-19-verrast-in-australie-en-breekt-worldtour-record.html",
     "open_new_window": false,
     "partner": null
   }
