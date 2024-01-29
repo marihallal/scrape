@@ -1,12 +1,35 @@
 [
   {
+    "id": 6299499,
+    "slug": "belgische-boeren-steken-stro-en-banden-in-brand-op-snelweg",
+    "type": "video",
+    "title": "Belgische boeren steken stro en banden in brand op snelweg",
+    "subtitle": "Video",
+    "published_at": "2024-01-29T09:50:48+01:00",
+    "updated_at": "2024-01-29T09:50:49+01:00",
+    "media_id": "hp6xnxnall1y",
+    "duration": "0:47",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6299499/belgische-boeren-steken-stro-en-banden-in-brand-op-snelweg.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6299492,
     "slug": "nederlanders-potten-meer-geld-op-sinds-rentes-zijn-gestegen",
     "type": "article",
     "title": "Nederlanders potten meer geld op sinds rentes zijn gestegen",
     "subtitle": null,
     "published_at": "2024-01-29T09:31:26+01:00",
-    "updated_at": "2024-01-29T09:31:36+01:00",
+    "updated_at": "2024-01-29T09:51:07+01:00",
     "media_id": "tqox7pkavwqu",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "William Spaaij speelt dit jaar Jezus in The Passion, Angela Schijf vertolkt rol Maria",
     "subtitle": null,
     "published_at": "2024-01-29T07:23:49+01:00",
-    "updated_at": "2024-01-29T08:29:13+01:00",
+    "updated_at": "2024-01-29T09:49:53+01:00",
     "media_id": "ojaxuosakiwg",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6299475/gemeenten-houden-rekening-met-lange-wachttijden-in-paspoortpiek.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6299474,
-    "slug": "man-opent-nooddeur-van-vertraagd-mexicaans-vliegtuig-en-wandelt-over-vleugel",
-    "type": "article",
-    "title": "Man opent nooddeur van vertraagd Mexicaans vliegtuig en wandelt over vleugel",
-    "subtitle": null,
-    "published_at": "2024-01-29T00:33:39+01:00",
-    "updated_at": "2024-01-29T06:40:43+01:00",
-    "media_id": "kkfxrfaa3of4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6299474/man-opent-nooddeur-van-vertraagd-mexicaans-vliegtuig-en-wandelt-over-vleugel.html",
     "open_new_window": false,
     "partner": null
   }
