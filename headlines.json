@@ -1,5 +1,28 @@
 [
   {
+    "id": 6299565,
+    "slug": "fc-twente-rondt-gevoelige-overstap-spits-ugalde-naar-spartak-moskou-af",
+    "type": "article",
+    "title": "FC Twente rondt gevoelige overstap spits Ugalde naar Spartak Moskou af",
+    "subtitle": null,
+    "published_at": "2024-01-29T18:49:32+01:00",
+    "updated_at": "2024-01-29T18:49:33+01:00",
+    "media_id": "f4mxvb9a6j32",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6299565/fc-twente-rondt-gevoelige-overstap-spits-ugalde-naar-spartak-moskou-af.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6299562,
     "slug": "nederlandse-boksbond-en-directeur-meijer-kort-na-opmerkelijk-plan-uit-elkaar",
     "type": "article",
@@ -116,12 +139,12 @@
   },
   {
     "id": 6299534,
-    "slug": "kabinet-en-tweede-kamer-wijzen-bij-miljoenenbesparing-jeugdzorg-naar-elkaar",
+    "slug": "jeugdzorg-moet-511-miljoen-euro-bezuinigen-maar-niemand-wil-dat-besluit-nemen",
     "type": "article",
-    "title": "Kabinet en Tweede Kamer wijzen bij miljoenenbesparing jeugdzorg naar elkaar",
+    "title": "Jeugdzorg moet 511 miljoen euro bezuinigen maar niemand wil dat besluit nemen",
     "subtitle": null,
     "published_at": "2024-01-29T17:43:32+01:00",
-    "updated_at": "2024-01-29T18:18:54+01:00",
+    "updated_at": "2024-01-29T18:36:53+01:00",
     "media_id": "p6dx4anazc8j",
     "duration": null,
     "canonical_section": {
@@ -133,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/politiek/6299534/kabinet-en-tweede-kamer-wijzen-bij-miljoenenbesparing-jeugdzorg-naar-elkaar.html",
+    "url": "/politiek/6299534/jeugdzorg-moet-511-miljoen-euro-bezuinigen-maar-niemand-wil-dat-besluit-nemen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -305,7 +328,7 @@
     "title": "Koning Charles ontslagen uit ziekenhuis na prostaatoperatie",
     "subtitle": null,
     "published_at": "2024-01-29T16:38:01+01:00",
-    "updated_at": "2024-01-29T16:38:02+01:00",
+    "updated_at": "2024-01-29T18:50:10+01:00",
     "media_id": "kxmxv1mahux2",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6299541/tijdcapsule-gevonden-tijdens-renovatie-binnenhof-uniek-kijkje-in-geschiedenis.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6299545,
-    "slug": "kunstrijdster-valieva-17-wordt-voor-vier-jaar-geschorst-en-is-olympisch-goud-kwijt",
-    "type": "article",
-    "title": "Kunstrijdster Valieva (17) wordt voor vier jaar geschorst en is olympisch goud kwijt",
-    "subtitle": null,
-    "published_at": "2024-01-29T15:35:31+01:00",
-    "updated_at": "2024-01-29T17:22:40+01:00",
-    "media_id": "1dbx1bxagjid",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6299545/kunstrijdster-valieva-17-wordt-voor-vier-jaar-geschorst-en-is-olympisch-goud-kwijt.html",
     "open_new_window": false,
     "partner": null
   }
