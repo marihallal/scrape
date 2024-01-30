@@ -1,12 +1,58 @@
 [
   {
-    "id": 6299670,
-    "slug": "tweede-kamer-wil-definitief-geen-commercieel-verkeer-op-lelystad-airport",
+    "id": 6299672,
+    "slug": "amsterdamse-godmother-en-vijf-anderen-opgepakt-in-internationaal-onderzoek",
     "type": "article",
-    "title": "Tweede Kamer wil definitief geen commercieel verkeer op Lelystad Airport",
+    "title": "Amsterdamse 'Godmother' en vijf anderen opgepakt in internationaal onderzoek",
+    "subtitle": null,
+    "published_at": "2024-01-30T16:44:53+01:00",
+    "updated_at": "2024-01-30T16:44:55+01:00",
+    "media_id": "16rxbboav1ly",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6299672/amsterdamse-godmother-en-vijf-anderen-opgepakt-in-internationaal-onderzoek.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6299671,
+    "slug": "ed-sheeran-speelt-voor-katten-in-japans-cafe",
+    "type": "video",
+    "title": "Ed Sheeran speelt voor katten in Japans café",
+    "subtitle": "Video",
+    "published_at": "2024-01-30T16:33:18+01:00",
+    "updated_at": "2024-01-30T16:33:23+01:00",
+    "media_id": "qucxrrwa1zz1",
+    "duration": "0:26",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6299671/ed-sheeran-speelt-voor-katten-in-japans-cafe.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6299670,
+    "slug": "tweede-kamer-wil-definitief-geen-commercieel-vliegverkeer-op-lelystad-airport",
+    "type": "article",
+    "title": "Tweede Kamer wil definitief geen commercieel vliegverkeer op Lelystad Airport",
     "subtitle": null,
     "published_at": "2024-01-30T16:28:34+01:00",
-    "updated_at": "2024-01-30T16:28:35+01:00",
+    "updated_at": "2024-01-30T16:50:40+01:00",
     "media_id": "yjtx68pao8q0",
     "duration": null,
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6299670/tweede-kamer-wil-definitief-geen-commercieel-verkeer-op-lelystad-airport.html",
+    "url": "/economie/6299670/tweede-kamer-wil-definitief-geen-commercieel-vliegverkeer-op-lelystad-airport.html",
     "open_new_window": false,
     "partner": null
   },
@@ -305,7 +351,7 @@
     "title": "180 uur taakstraf voor geweld tegen KOZP-demonstranten in Staphorst",
     "subtitle": null,
     "published_at": "2024-01-30T13:56:47+01:00",
-    "updated_at": "2024-01-30T14:19:48+01:00",
+    "updated_at": "2024-01-30T16:45:26+01:00",
     "media_id": "mtcxbd6abui4",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6299634/pakistaanse-oud-premier-khan-krijgt-tien-jaar-cel-voor-lekken-staatsgeheim.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6299635,
-    "slug": "explosie-in-rotterdam-zo-hard-dat-iemand-met-bank-en-al-naar-beneden-viel",
-    "type": "article",
-    "title": "Explosie in Rotterdam zo hard dat 'iemand met bank en al naar beneden viel'",
-    "subtitle": null,
-    "published_at": "2024-01-30T12:48:25+01:00",
-    "updated_at": "2024-01-30T15:52:14+01:00",
-    "media_id": "3suxn98akwdc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6299635/explosie-in-rotterdam-zo-hard-dat-iemand-met-bank-en-al-naar-beneden-viel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6299639,
-    "slug": "grote-fietsenfabrikant-accell-schrapt-tot-150-banen-in-heerenveen",
-    "type": "article",
-    "title": "Grote fietsenfabrikant Accell schrapt tot 150 banen in Heerenveen",
-    "subtitle": null,
-    "published_at": "2024-01-30T12:40:26+01:00",
-    "updated_at": "2024-01-30T14:11:42+01:00",
-    "media_id": "pdtxoz3aldk3",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6299639/grote-fietsenfabrikant-accell-schrapt-tot-150-banen-in-heerenveen.html",
     "open_new_window": false,
     "partner": null
   }
