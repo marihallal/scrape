@@ -1,5 +1,28 @@
 [
   {
+    "id": 6299712,
+    "slug": "claudia-de-breij-was-overspannen-ik-lag-er-even-helemaal-af",
+    "type": "article",
+    "title": "Claudia de Breij was overspannen: 'Ik lag er even helemaal af'",
+    "subtitle": null,
+    "published_at": "2024-01-31T06:26:07+01:00",
+    "updated_at": "2024-01-31T06:26:08+01:00",
+    "media_id": "bq6xlnia9ure",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6299712/claudia-de-breij-was-overspannen-ik-lag-er-even-helemaal-af.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6299711,
     "slug": "prinses-beatrix-brengt-86e-verjaardag-door-in-huiselijke-kring",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Is Windows op zijn retour? Veel basisschoolleerlingen leren met Chrome",
     "subtitle": "NU+",
     "published_at": "2024-01-31T05:30:46+01:00",
-    "updated_at": "2024-01-31T05:51:02+01:00",
+    "updated_at": "2024-01-31T06:23:28+01:00",
     "media_id": "hanx7hjazziz",
     "duration": null,
     "canonical_section": {
@@ -208,12 +231,12 @@
   },
   {
     "id": 6299706,
-    "slug": "rechter-schrapt-miljardenbonus-elon-musk-hoogte-van-zijn-fortuin-nu-onzeker",
+    "slug": "rechter-schrapt-miljardenbonus-elon-musk-omvang-van-zijn-fortuin-nu-onzeker",
     "type": "article",
-    "title": "Rechter schrapt miljardenbonus Elon Musk, hoogte van zijn fortuin nu onzeker",
+    "title": "Rechter schrapt miljardenbonus Elon Musk, omvang van zijn fortuin nu onzeker",
     "subtitle": null,
     "published_at": "2024-01-30T23:53:42+01:00",
-    "updated_at": "2024-01-30T23:55:21+01:00",
+    "updated_at": "2024-01-31T06:29:47+01:00",
     "media_id": "nafxln6ajf6t",
     "duration": null,
     "canonical_section": {
@@ -225,7 +248,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6299706/rechter-schrapt-miljardenbonus-elon-musk-hoogte-van-zijn-fortuin-nu-onzeker.html",
+    "url": "/economie/6299706/rechter-schrapt-miljardenbonus-elon-musk-omvang-van-zijn-fortuin-nu-onzeker.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6299700/na-albert-heijn-neemt-ook-jumbo-afscheid-van-muntjes-voor-winkelwagens.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6299698,
-    "slug": "west-side-story-ster-chita-rivera-91-overleden",
-    "type": "article",
-    "title": "West Side Story-ster Chita Rivera (91) overleden",
-    "subtitle": null,
-    "published_at": "2024-01-30T22:03:59+01:00",
-    "updated_at": "2024-01-30T22:11:20+01:00",
-    "media_id": "i9ox3ysa4jmf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772242,
-      "slug": "entertainment",
-      "type": "default",
-      "name": "Media en Cultuur",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/entertainment/6299698/west-side-story-ster-chita-rivera-91-overleden.html",
     "open_new_window": false,
     "partner": null
   }
