@@ -1,13 +1,59 @@
 [
   {
+    "id": 6299800,
+    "slug": "eagles-geven-tijdens-afscheidstour-extra-show-in-gelredome",
+    "type": "article",
+    "title": "Eagles geven tijdens afscheidstour extra show in GelreDome",
+    "subtitle": null,
+    "published_at": "2024-01-31T16:49:31+01:00",
+    "updated_at": "2024-01-31T16:49:32+01:00",
+    "media_id": "y0cxvf6a5k5h",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6299800/eagles-geven-tijdens-afscheidstour-extra-show-in-gelredome.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6299802,
+    "slug": "andretti-voorlopig-niet-welkom-als-elfde-team-in-formule-1",
+    "type": "article",
+    "title": "Andretti voorlopig niet welkom als elfde team in Formule 1",
+    "subtitle": null,
+    "published_at": "2024-01-31T16:48:30+01:00",
+    "updated_at": "2024-01-31T16:48:37+01:00",
+    "media_id": "zdrx4wzazkqv",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Formule 1",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6299802/andretti-voorlopig-niet-welkom-als-elfde-team-in-formule-1.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6299795,
     "slug": "politie-en-nabestaanden-halen-lichaam-van-vermiste-man-uit-verwoest-pand-in-rotterdam",
     "type": "article",
     "title": "Politie en nabestaanden halen lichaam van vermiste man uit verwoest pand in Rotterdam",
     "subtitle": null,
     "published_at": "2024-01-31T16:31:35+01:00",
-    "updated_at": "2024-01-31T16:31:39+01:00",
-    "media_id": "00kx45waeqcp",
+    "updated_at": "2024-01-31T16:39:47+01:00",
+    "media_id": "2t6xavaasipr",
     "duration": null,
     "canonical_section": {
       "id": 1771435,
@@ -75,7 +121,7 @@
     "title": "Rusland vrijgesproken van financieren terrorisme in Oekraïne, waar MH17 werd neergehaald",
     "subtitle": null,
     "published_at": "2024-01-31T16:03:32+01:00",
-    "updated_at": "2024-01-31T16:21:24+01:00",
+    "updated_at": "2024-01-31T16:47:01+01:00",
     "media_id": "pomxz9maq1gg",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/videos/6299778/om-eist-levenslange-straffen-voor-ontwrichtende-moord-op-peter-r-de-vries.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6299767,
-    "slug": "arrestaties-bij-boerenprotesten-in-frankrijk-ook-in-belgie-weer-acties",
-    "type": "article",
-    "title": "Arrestaties bij boerenprotesten in Frankrijk, ook in België weer acties",
-    "subtitle": null,
-    "published_at": "2024-01-31T14:11:38+01:00",
-    "updated_at": "2024-01-31T14:11:40+01:00",
-    "media_id": "hvuxj47a3e56",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6299767/arrestaties-bij-boerenprotesten-in-frankrijk-ook-in-belgie-weer-acties.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6299739,
-    "slug": "ook-nederlanders-in-buitenland-moeten-langer-wachten-door-paspoortpiek",
-    "type": "article",
-    "title": "Ook Nederlanders in buitenland moeten langer wachten door paspoortpiek",
-    "subtitle": null,
-    "published_at": "2024-01-31T14:10:01+01:00",
-    "updated_at": "2024-01-31T14:25:38+01:00",
-    "media_id": "hkvx9lyalkt7",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779258,
-      "slug": "binnenland-en-buitenland",
-      "type": "default",
-      "name": "Binnen- en buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland-en-buitenland/6299739/ook-nederlanders-in-buitenland-moeten-langer-wachten-door-paspoortpiek.html",
     "open_new_window": false,
     "partner": null
   }
