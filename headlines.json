@@ -1,12 +1,58 @@
 [
   {
+    "id": 6299871,
+    "slug": "is-de-npo-veilig-genoeg-onderzoekers-delen-hun-conclusies",
+    "type": "video",
+    "title": "Is de NPO veilig genoeg? Onderzoekers delen hun conclusies",
+    "subtitle": "Livestream",
+    "published_at": "2024-02-01T10:30:23+01:00",
+    "updated_at": "2024-02-01T10:30:24+01:00",
+    "media_id": "4p2xz8faulvu",
+    "duration": "0:01",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6299871/is-de-npo-veilig-genoeg-onderzoekers-delen-hun-conclusies.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6299868,
+    "slug": "politie-zet-traangas-in-bij-massaal-boerenprotest-in-brussel",
+    "type": "article",
+    "title": "Politie zet traangas in bij massaal boerenprotest in Brussel",
+    "subtitle": null,
+    "published_at": "2024-02-01T10:23:41+01:00",
+    "updated_at": "2024-02-01T10:23:42+01:00",
+    "media_id": "avfxs7xazcne",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6299868/politie-zet-traangas-in-bij-massaal-boerenprotest-in-brussel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6299870,
     "slug": "spectaculaire-f1-transfer-in-de-maak-ferrari-wil-hamilton-strikken-voor-2025",
     "type": "article",
     "title": "Spectaculaire F1-transfer in de maak: Ferrari wil Hamilton strikken voor 2025",
     "subtitle": null,
     "published_at": "2024-02-01T10:03:24+01:00",
-    "updated_at": "2024-02-01T10:19:02+01:00",
+    "updated_at": "2024-02-01T10:31:53+01:00",
     "media_id": "r8fxzeba99op",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/economie/6299846/het-leven-is-weer-duurder-geworden-energiekosten-zorgen-voor-hogere-inflatie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6299845,
-    "slug": "russell-brand-over-seksueel-wangedrag-heb-me-belachelijk-gedragen",
-    "type": "article",
-    "title": "Russell Brand over seksueel wangedrag: 'Heb me belachelijk gedragen'",
-    "subtitle": null,
-    "published_at": "2024-02-01T06:44:37+01:00",
-    "updated_at": "2024-02-01T08:01:25+01:00",
-    "media_id": "ioixv0namvgg",
-    "duration": null,
-    "canonical_section": {
-      "id": 127,
-      "slug": "film",
-      "type": "default",
-      "name": "Films & Series",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/film/6299845/russell-brand-over-seksueel-wangedrag-heb-me-belachelijk-gedragen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6299844,
-    "slug": "zes-gewonden-bij-vermoedelijke-zuuraanval-op-vrouw-en-kinderen-in-londen",
-    "type": "article",
-    "title": "Zes gewonden bij vermoedelijke zuuraanval op vrouw en kinderen in Londen",
-    "subtitle": null,
-    "published_at": "2024-02-01T06:25:54+01:00",
-    "updated_at": "2024-02-01T07:24:42+01:00",
-    "media_id": "scgx9abait5j",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6299844/zes-gewonden-bij-vermoedelijke-zuuraanval-op-vrouw-en-kinderen-in-londen.html",
     "open_new_window": false,
     "partner": null
   }
