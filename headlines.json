@@ -1,5 +1,51 @@
 [
   {
+    "id": 6299772,
+    "slug": "waarom-drie-keer-zoveel-asielzoekers-in-2023-een-werkvergunning-kregen",
+    "type": "article",
+    "title": "Waarom drie keer zoveel asielzoekers in 2023 een werkvergunning kregen",
+    "subtitle": null,
+    "published_at": "2024-02-01T12:27:00+01:00",
+    "updated_at": "2024-02-01T12:27:01+01:00",
+    "media_id": "ovax9xmaeyrw",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6299772/waarom-drie-keer-zoveel-asielzoekers-in-2023-een-werkvergunning-kregen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6299899,
+    "slug": "dick-schreuder-biedt-veldwijk-bij-castellon-nieuwe-kans-na-ontslag-in-zuid-korea",
+    "type": "article",
+    "title": "Dick Schreuder biedt Veldwijk bij Castellón nieuwe kans na ontslag in Zuid-Korea",
+    "subtitle": null,
+    "published_at": "2024-02-01T12:23:21+01:00",
+    "updated_at": "2024-02-01T12:29:00+01:00",
+    "media_id": "22nxb41azq7a",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6299899/dick-schreuder-biedt-veldwijk-bij-castellon-nieuwe-kans-na-ontslag-in-zuid-korea.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6299895,
     "slug": "ploeg-van-tietema-krijgt-in-amstel-gold-race-eerste-kans-op-hoogste-niveau",
     "type": "article",
@@ -47,12 +93,12 @@
   },
   {
     "id": 6299867,
-    "slug": "het-moet-voor-alle-vluchtelingen-makkelijker-worden-om-te-werken",
+    "slug": "het-moet-voor-asielzoekers-makkelijker-worden-om-te-werken",
     "type": "article",
-    "title": "'Het moet voor alle vluchtelingen makkelijker worden om te werken'",
+    "title": "'Het moet voor asielzoekers makkelijker worden om te werken'",
     "subtitle": "Stelling",
     "published_at": "2024-02-01T11:37:47+01:00",
-    "updated_at": "2024-02-01T12:04:54+01:00",
+    "updated_at": "2024-02-01T12:33:07+01:00",
     "media_id": "zxfxjjqajwrn",
     "duration": null,
     "canonical_section": {
@@ -64,18 +110,18 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/stelling/6299867/het-moet-voor-alle-vluchtelingen-makkelijker-worden-om-te-werken.html",
+    "url": "/stelling/6299867/het-moet-voor-asielzoekers-makkelijker-worden-om-te-werken.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6299890,
-    "slug": "hongarije-gaat-na-lang-dwarsliggen-akkoord-met-miljardensteun-eu-aan-oekraine",
+    "slug": "oekraine-krijgt-miljardensteun-van-eu-nu-ook-dwarsligger-hongarije-akkoord-is",
     "type": "article",
-    "title": "Hongarije gaat na lang dwarsliggen akkoord met miljardensteun EU aan Oekraïne",
+    "title": "Oekraïne krijgt miljardensteun van EU nu ook dwarsligger Hongarije akkoord is",
     "subtitle": null,
     "published_at": "2024-02-01T11:36:01+01:00",
-    "updated_at": "2024-02-01T12:06:59+01:00",
+    "updated_at": "2024-02-01T12:30:47+01:00",
     "media_id": "v7kxlsaavjh2",
     "duration": null,
     "canonical_section": {
@@ -87,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6299890/hongarije-gaat-na-lang-dwarsliggen-akkoord-met-miljardensteun-eu-aan-oekraine.html",
+    "url": "/buitenland/6299890/oekraine-krijgt-miljardensteun-van-eu-nu-ook-dwarsligger-hongarije-akkoord-is.html",
     "open_new_window": false,
     "partner": null
   },
@@ -190,19 +236,19 @@
     "title": "Drie kwart NPO-medewerkers ervoer wangedrag, ook sprake van fysiek geweld",
     "subtitle": null,
     "published_at": "2024-02-01T10:50:38+01:00",
-    "updated_at": "2024-02-01T12:13:09+01:00",
+    "updated_at": "2024-02-01T12:32:25+01:00",
     "media_id": "sdjxe2ma951d",
     "duration": null,
     "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
+      "id": 1771675,
+      "slug": "media",
       "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
+      "name": "Media",
+      "style": "nuuit",
       "media_id": null,
       "partner": null
     },
-    "url": "/algemeen/6299879/drie-kwart-npo-medewerkers-ervoer-wangedrag-ook-sprake-van-fysiek-geweld.html",
+    "url": "/media/6299879/drie-kwart-npo-medewerkers-ervoer-wangedrag-ook-sprake-van-fysiek-geweld.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6299859/weer-tientallen-verwaarloosde-dieren-weggehaald-bij-hardleerse-limburgse.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6299653,
-    "slug": "koks-vliegen-elkaar-aan-in-the-bear-hoe-realistisch-is-de-restaurantserie",
-    "type": "article",
-    "title": "Koks vliegen elkaar aan in The Bear: hoe realistisch is de restaurantserie?",
-    "subtitle": "NU+",
-    "published_at": "2024-02-01T08:59:27+01:00",
-    "updated_at": "2024-02-01T11:56:32+01:00",
-    "media_id": "tlwxxfaarr4h",
-    "duration": null,
-    "canonical_section": {
-      "id": 127,
-      "slug": "film",
-      "type": "default",
-      "name": "Films & Series",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/film/6299653/koks-vliegen-elkaar-aan-in-the-bear-hoe-realistisch-is-de-restaurantserie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6299858,
-    "slug": "blokker-eigenaar-krijgt-speelgoedwinkel-intertoys-niet-verkocht",
-    "type": "article",
-    "title": "Blokker-eigenaar krijgt speelgoedwinkel Intertoys niet verkocht",
-    "subtitle": null,
-    "published_at": "2024-02-01T08:58:47+01:00",
-    "updated_at": "2024-02-01T09:50:21+01:00",
-    "media_id": "sn7xp4may2m1",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6299858/blokker-eigenaar-krijgt-speelgoedwinkel-intertoys-niet-verkocht.html",
     "open_new_window": false,
     "partner": null
   }
