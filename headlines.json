@@ -1,5 +1,28 @@
 [
   {
+    "id": 6300117,
+    "slug": "grote-brand-uitgebroken-bij-bedrijf-in-poeldijk",
+    "type": "video",
+    "title": "Grote brand uitgebroken bij bedrijf in Poeldijk",
+    "subtitle": "Video",
+    "published_at": "2024-02-02T22:30:42+01:00",
+    "updated_at": "2024-02-02T22:30:43+01:00",
+    "media_id": "nmoxc9ta2f17",
+    "duration": "0:40",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6300117/grote-brand-uitgebroken-bij-bedrijf-in-poeldijk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6300116,
     "slug": "koploper-willem-ii-ziet-ado-dichterbij-komen-door-derde-gelijkspel-op-rij",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "President Turkse centrale bank treedt na een half jaar al af",
     "subtitle": null,
     "published_at": "2024-02-02T22:01:21+01:00",
-    "updated_at": "2024-02-02T22:12:47+01:00",
+    "updated_at": "2024-02-02T22:25:33+01:00",
     "media_id": "pyqxgs4amflb",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Schouten wint eindelijk weer WB-goud en beleeft uitstekende generale voor WK",
     "subtitle": null,
     "published_at": "2024-02-02T22:00:37+01:00",
-    "updated_at": "2024-02-02T22:07:31+01:00",
+    "updated_at": "2024-02-02T22:16:19+01:00",
     "media_id": "yc6xkvyaxpxi",
     "duration": null,
     "canonical_section": {
@@ -75,8 +98,8 @@
     "title": "Opnieuw spontane boerenprotesten, zeker twee snelwegen geblokkeerd",
     "subtitle": null,
     "published_at": "2024-02-02T21:57:37+01:00",
-    "updated_at": "2024-02-02T22:11:31+01:00",
-    "media_id": "exxx6i7a1jya",
+    "updated_at": "2024-02-02T22:26:37+01:00",
+    "media_id": "m0sxtdcanjpv",
     "duration": null,
     "canonical_section": {
       "id": 1779258,
@@ -98,8 +121,8 @@
     "title": "Driouech kan Excelsior dag na transfersoap niet behoeden voor verlies in Almere",
     "subtitle": null,
     "published_at": "2024-02-02T21:51:24+01:00",
-    "updated_at": "2024-02-02T22:01:31+01:00",
-    "media_id": "x4exbwua6qf1",
+    "updated_at": "2024-02-02T22:27:23+01:00",
+    "media_id": "uhbx1kkajr39",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -323,12 +346,12 @@
   },
   {
     "id": 6300032,
-    "slug": "vier-vragen-over-vetorecht-in-europese-unie-lang-niet-alles-is-te-vetoen",
+    "slug": "vetorecht-in-de-europese-unie-waarom-een-land-een-voorstel-kan-stoppen",
     "type": "article",
-    "title": "Vier vragen over vetorecht in Europese Unie: 'Lang niet alles is te vetoën'",
+    "title": "Vetorecht in de Europese Unie: waarom één land een voorstel kan stoppen",
     "subtitle": "NU+",
     "published_at": "2024-02-02T19:52:28+01:00",
-    "updated_at": "2024-02-02T20:27:07+01:00",
+    "updated_at": "2024-02-02T22:19:39+01:00",
     "media_id": "4fqxaauaahgs",
     "duration": null,
     "canonical_section": {
@@ -340,7 +363,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/gebaseerd-op-jullie-vragen/6300032/vier-vragen-over-vetorecht-in-europese-unie-lang-niet-alles-is-te-vetoen.html",
+    "url": "/gebaseerd-op-jullie-vragen/6300032/vetorecht-in-de-europese-unie-waarom-een-land-een-voorstel-kan-stoppen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tech-wetenschap/6300099/exoplaneet-ontdekt-met-ruim-563000-kilometer-lange-staart.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300098,
-    "slug": "terugkeer-overmars-bij-ajax-is-volgens-rvc-voorzitter-van-praag-onbespreekbaar",
-    "type": "article",
-    "title": "Terugkeer Overmars bij Ajax is volgens rvc-voorzitter Van Praag onbespreekbaar",
-    "subtitle": null,
-    "published_at": "2024-02-02T19:38:07+01:00",
-    "updated_at": "2024-02-02T20:23:41+01:00",
-    "media_id": "hivxn4oa4l2t",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6300098/terugkeer-overmars-bij-ajax-is-volgens-rvc-voorzitter-van-praag-onbespreekbaar.html",
     "open_new_window": false,
     "partner": null
   }
