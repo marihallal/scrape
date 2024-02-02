@@ -1,12 +1,58 @@
 [
   {
+    "id": 6300082,
+    "slug": "voor-653-miljoen-aan-achterstallige-belastingaanslagen-in-amsterdam-en-het-gooi",
+    "type": "article",
+    "title": "Voor 653 miljoen aan achterstallige belastingaanslagen in Amsterdam en het Gooi",
+    "subtitle": null,
+    "published_at": "2024-02-02T17:31:08+01:00",
+    "updated_at": "2024-02-02T17:31:09+01:00",
+    "media_id": "3qaxr7car8ln",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6300082/voor-653-miljoen-aan-achterstallige-belastingaanslagen-in-amsterdam-en-het-gooi.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6300083,
+    "slug": "grijs-met-af-en-toe-een-spatje-regen",
+    "type": "article",
+    "title": "Grijs met af en toe een spatje regen",
+    "subtitle": "Weekendweerbericht",
+    "published_at": "2024-02-02T17:24:51+01:00",
+    "updated_at": "2024-02-02T17:24:52+01:00",
+    "media_id": "6p5xj5fanp57",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6300083/grijs-met-af-en-toe-een-spatje-regen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6300058,
     "slug": "recensieoverzicht-verliefd-op-bali-geestige-en-prettig-voortkabbelende-komedie",
     "type": "article",
     "title": "Recensieoverzicht Verliefd op Bali: 'Geestige en prettig voortkabbelende komedie'",
     "subtitle": null,
     "published_at": "2024-02-02T17:22:09+01:00",
-    "updated_at": "2024-02-02T17:22:11+01:00",
+    "updated_at": "2024-02-02T17:29:44+01:00",
     "media_id": "gz7x0sgaexqk",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/wetenschap/6300056/oeroude-tombe-gevonden-in-zweden-maar-alle-skeletten-missen-schedel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300060,
-    "slug": "hond-in-vs-komt-vast-te-zitten-in-auto-na-jacht-op-kat",
-    "type": "video",
-    "title": "Hond in VS komt vast te zitten in auto na jacht op kat",
-    "subtitle": "Video",
-    "published_at": "2024-02-02T14:33:35+01:00",
-    "updated_at": "2024-02-02T14:33:36+01:00",
-    "media_id": "lk2xr1ma90ea",
-    "duration": "0:47",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6300060/hond-in-vs-komt-vast-te-zitten-in-auto-na-jacht-op-kat.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300055,
-    "slug": "bij-veel-restaurants-is-informatie-over-allergenen-zwaar-onder-de-maat",
-    "type": "article",
-    "title": "Bij veel restaurants is informatie over allergenen zwaar onder de maat",
-    "subtitle": null,
-    "published_at": "2024-02-02T14:33:09+01:00",
-    "updated_at": "2024-02-02T16:32:06+01:00",
-    "media_id": "pmdx2toa0d2r",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6300055/bij-veel-restaurants-is-informatie-over-allergenen-zwaar-onder-de-maat.html",
     "open_new_window": false,
     "partner": null
   }
