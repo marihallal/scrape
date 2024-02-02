@@ -1,12 +1,35 @@
 [
   {
+    "id": 6300112,
+    "slug": "driouech-kan-excelsior-dag-na-transfersoap-niet-behoeden-voor-verlies-in-almere",
+    "type": "article",
+    "title": "Driouech kan Excelsior dag na transfersoap niet behoeden voor verlies in Almere",
+    "subtitle": null,
+    "published_at": "2024-02-02T21:51:24+01:00",
+    "updated_at": "2024-02-02T21:51:25+01:00",
+    "media_id": "x4exbwua6qf1",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6300112/driouech-kan-excelsior-dag-na-transfersoap-niet-behoeden-voor-verlies-in-almere.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6300111,
     "slug": "rocky-acteur-carl-weathers-op-76-jarige-leeftijd-overleden",
     "type": "article",
     "title": "Rocky-acteur Carl Weathers op 76-jarige leeftijd overleden",
     "subtitle": null,
     "published_at": "2024-02-02T21:28:14+01:00",
-    "updated_at": "2024-02-02T21:28:15+01:00",
+    "updated_at": "2024-02-02T21:49:34+01:00",
     "media_id": "awjxc4ua2smb",
     "duration": null,
     "canonical_section": {
@@ -369,12 +392,12 @@
   },
   {
     "id": 6300095,
-    "slug": "live-eredivisie-almere-city-draait-achterstand-om-tegen-excelsior",
+    "slug": "live-eredivisie-almere-city-lijkt-op-weg-naar-winst-tegen-excelsior",
     "type": "article",
-    "title": "Live Eredivisie | Almere City draait achterstand om tegen Excelsior",
+    "title": "Live Eredivisie | Almere City lijkt op weg naar winst tegen Excelsior",
     "subtitle": null,
     "published_at": "2024-02-02T19:10:04+01:00",
-    "updated_at": "2024-02-02T21:29:37+01:00",
+    "updated_at": "2024-02-02T21:44:39+01:00",
     "media_id": "pnoxjbqawsks",
     "duration": null,
     "canonical_section": {
@@ -386,7 +409,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6300095/live-eredivisie-almere-city-draait-achterstand-om-tegen-excelsior.html",
+    "url": "/voetbal/6300095/live-eredivisie-almere-city-lijkt-op-weg-naar-winst-tegen-excelsior.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6300094/ajax-vroeg-overmars-na-grensoverschrijdend-gedrag-twee-keer-om-terug-te-keren.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300093,
-    "slug": "schoenen-van-michael-jordan-na-veiling-duurste-gedragen-schoenen-ooit",
-    "type": "article",
-    "title": "Schoenen van Michael Jordan na veiling duurste gedragen schoenen ooit",
-    "subtitle": null,
-    "published_at": "2024-02-02T18:18:28+01:00",
-    "updated_at": "2024-02-02T21:17:56+01:00",
-    "media_id": "brqx4qya4dan",
-    "duration": null,
-    "canonical_section": {
-      "id": 937692,
-      "slug": "opmerkelijk",
-      "type": "default",
-      "name": "Opmerkelijk",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/opmerkelijk/6300093/schoenen-van-michael-jordan-na-veiling-duurste-gedragen-schoenen-ooit.html",
     "open_new_window": false,
     "partner": null
   }
