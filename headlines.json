@@ -1,12 +1,35 @@
 [
   {
+    "id": 6300273,
+    "slug": "grote-storing-met-veel-regen-komt-boven-ons-land-te-hangen",
+    "type": "article",
+    "title": "Grote storing met veel regen komt boven ons land te hangen",
+    "subtitle": "Weekweerbericht",
+    "published_at": "2024-02-04T18:23:09+01:00",
+    "updated_at": "2024-02-04T18:30:06+01:00",
+    "media_id": "mesx0joarj4j",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6300273/grote-storing-met-veel-regen-komt-boven-ons-land-te-hangen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6300295,
     "slug": "persoonlijk-drama-bijlow-is-voor-slot-niet-de-enige-smet-op-zege-feyenoord",
     "type": "article",
     "title": "'Persoonlijk drama' Bijlow is voor Slot niet de enige smet op zege Feyenoord",
     "subtitle": null,
     "published_at": "2024-02-04T18:17:32+01:00",
-    "updated_at": "2024-02-04T18:17:33+01:00",
+    "updated_at": "2024-02-04T18:26:21+01:00",
     "media_id": "qxdxuxmajvq8",
     "duration": null,
     "canonical_section": {
@@ -98,8 +121,8 @@
     "title": "Waterpolosters Oranje openen WK als titelverdediger met nipt verlies tegen VS",
     "subtitle": null,
     "published_at": "2024-02-04T17:51:17+01:00",
-    "updated_at": "2024-02-04T18:10:36+01:00",
-    "media_id": "tdmxvnlab7mp",
+    "updated_at": "2024-02-04T18:24:30+01:00",
+    "media_id": "aswxo7laibfz",
     "duration": null,
     "canonical_section": {
       "id": 1772456,
@@ -236,7 +259,7 @@
     "title": "Broers Booth grijpen hoofdrol bij spectaculaire zege FC Utrecht op FC Volendam",
     "subtitle": null,
     "published_at": "2024-02-04T16:28:51+01:00",
-    "updated_at": "2024-02-04T16:53:28+01:00",
+    "updated_at": "2024-02-04T18:29:13+01:00",
     "media_id": "7pvxboxak2so",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wielrennen/6300279/van-der-poel-verovert-zesde-wereldtitel-veldrijden-na-galavoorstelling-in-tabor.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300276,
-    "slug": "bijlow-loopt-opnieuw-blessure-op-en-verlaat-in-tranen-het-veld-bij-az-feyenoord",
-    "type": "article",
-    "title": "Bijlow loopt opnieuw blessure op en verlaat in tranen het veld bij AZ-Feyenoord",
-    "subtitle": null,
-    "published_at": "2024-02-04T15:18:55+01:00",
-    "updated_at": "2024-02-04T16:29:56+01:00",
-    "media_id": "5z8xeriafvn4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6300276/bijlow-loopt-opnieuw-blessure-op-en-verlaat-in-tranen-het-veld-bij-az-feyenoord.html",
     "open_new_window": false,
     "partner": null
   }
