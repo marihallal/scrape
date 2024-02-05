@@ -1,5 +1,28 @@
 [
   {
+    "id": 6300426,
+    "slug": "vijftig-mensen-bij-emotionele-bijeenkomst-vanwege-explosie-rotterdam",
+    "type": "article",
+    "title": "Vijftig mensen bij 'emotionele bijeenkomst' vanwege explosie Rotterdam",
+    "subtitle": null,
+    "published_at": "2024-02-05T23:41:28+01:00",
+    "updated_at": "2024-02-05T23:41:29+01:00",
+    "media_id": "pxjx85fajvf9",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6300426/vijftig-mensen-bij-emotionele-bijeenkomst-vanwege-explosie-rotterdam.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6300421,
     "slug": "manchester-city-wint-ondanks-assist-van-uitblinkende-keeper-flekken-in-brentford",
     "type": "article",
@@ -144,7 +167,7 @@
     "title": "Meerdere wegen dicht door nieuwe boerenacties, politie meldt onveilige situaties",
     "subtitle": null,
     "published_at": "2024-02-05T21:48:27+01:00",
-    "updated_at": "2024-02-05T23:18:55+01:00",
+    "updated_at": "2024-02-05T23:45:13+01:00",
     "media_id": "kqtxe50a0hhx",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6300408/ten-hag-is-united-verdediger-martinez-opnieuw-langere-tijd-kwijt-met-blessure.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300407,
-    "slug": "enorme-paddenstoelwolk-stijgt-boven-chinese-fabriek-uit-na-explosie",
-    "type": "video",
-    "title": "Enorme paddenstoelwolk stijgt boven Chinese fabriek uit na explosie",
-    "subtitle": "Video",
-    "published_at": "2024-02-05T19:17:10+01:00",
-    "updated_at": "2024-02-05T19:17:11+01:00",
-    "media_id": "kvpxk4caa9kg",
-    "duration": "0:30",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6300407/enorme-paddenstoelwolk-stijgt-boven-chinese-fabriek-uit-na-explosie.html",
     "open_new_window": false,
     "partner": null
   }
