@@ -1,5 +1,28 @@
 [
   {
+    "id": 6300536,
+    "slug": "kroongetuige-nabil-b-gehoord-uitstel-uitspraak-marengo-hangt-nog-in-de-lucht",
+    "type": "article",
+    "title": "Kroongetuige Nabil B. gehoord, uitstel uitspraak Marengo hangt nog in de lucht",
+    "subtitle": null,
+    "published_at": "2024-02-06T21:30:27+01:00",
+    "updated_at": "2024-02-06T21:30:29+01:00",
+    "media_id": "vatxtcoahwms",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779354,
+      "slug": "misdaad",
+      "type": "default",
+      "name": "Misdaad",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/misdaad/6300536/kroongetuige-nabil-b-gehoord-uitstel-uitspraak-marengo-hangt-nog-in-de-lucht.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6300564,
     "slug": "brandweer-redt-herten-uit-bevroren-meer-in-vs",
     "type": "video",
@@ -144,7 +167,7 @@
     "title": "Sainz niet verrast door keuze Ferrari voor Hamilton: 'Wist al een aantal dingen'",
     "subtitle": null,
     "published_at": "2024-02-06T20:07:43+01:00",
-    "updated_at": "2024-02-06T20:13:31+01:00",
+    "updated_at": "2024-02-06T21:22:04+01:00",
     "media_id": "zq5xtguahx3d",
     "duration": null,
     "canonical_section": {
@@ -213,7 +236,7 @@
     "title": "NSC wil niet verder praten met PVV, VVD en BBB, deze fase van kabinetsformatie mislukt",
     "subtitle": null,
     "published_at": "2024-02-06T19:55:40+01:00",
-    "updated_at": "2024-02-06T20:47:43+01:00",
+    "updated_at": "2024-02-06T21:21:09+01:00",
     "media_id": "r9kx3y2ac20t",
     "duration": null,
     "canonical_section": {
@@ -254,12 +277,12 @@
   },
   {
     "id": 6300555,
-    "slug": "live-knvb-beker-ado-jaagt-na-rust-op-gelijkmaker-tegen-nec-in-kwartfinale",
+    "slug": "live-knvb-beker-ado-moet-hopen-op-wonder-na-nieuwe-treffer-nec-in-kwartfinale",
     "type": "article",
-    "title": "Live KNVB-beker | ADO jaagt na rust op gelijkmaker tegen NEC in kwartfinale",
+    "title": "Live KNVB-beker | ADO moet hopen op wonder na nieuwe treffer NEC in kwartfinale",
     "subtitle": null,
     "published_at": "2024-02-06T19:38:31+01:00",
-    "updated_at": "2024-02-06T21:07:38+01:00",
+    "updated_at": "2024-02-06T21:19:29+01:00",
     "media_id": "giwxz6tac9zw",
     "duration": null,
     "canonical_section": {
@@ -271,7 +294,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6300555/live-knvb-beker-ado-jaagt-na-rust-op-gelijkmaker-tegen-nec-in-kwartfinale.html",
+    "url": "/voetbal/6300555/live-knvb-beker-ado-moet-hopen-op-wonder-na-nieuwe-treffer-nec-in-kwartfinale.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tennis/6300548/boris-becker-stopt-wegens-drukke-agenda-al-na-35-maand-als-coach-van-rune.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300541,
-    "slug": "aex-index-bereikt-hoogste-slotstand-ooit-door-goede-beursdag",
-    "type": "article",
-    "title": "AEX-index bereikt hoogste slotstand ooit door goede beursdag",
-    "subtitle": null,
-    "published_at": "2024-02-06T18:16:28+01:00",
-    "updated_at": "2024-02-06T19:34:04+01:00",
-    "media_id": "9eqx985aunm0",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6300541/aex-index-bereikt-hoogste-slotstand-ooit-door-goede-beursdag.html",
     "open_new_window": false,
     "partner": null
   }
