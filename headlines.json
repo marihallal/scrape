@@ -1,5 +1,28 @@
 [
   {
+    "id": 6300548,
+    "slug": "boris-becker-stopt-wegens-drukke-agenda-al-na-35-maand-als-coach-van-rune",
+    "type": "article",
+    "title": "Boris Becker stopt wegens drukke agenda al na 3,5 maand als coach van Rune",
+    "subtitle": null,
+    "published_at": "2024-02-06T18:24:15+01:00",
+    "updated_at": "2024-02-06T18:24:17+01:00",
+    "media_id": "aqwx6tva86f2",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6300548/boris-becker-stopt-wegens-drukke-agenda-al-na-35-maand-als-coach-van-rune.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6300541,
     "slug": "aex-index-bereikt-hoogste-slotstand-ooit-door-goede-beursdag",
     "type": "article",
@@ -75,7 +98,7 @@
     "title": "Jordanië stunt tegen Zuid-Korea en schrijft geschiedenis met finaleplek Azië Cup",
     "subtitle": null,
     "published_at": "2024-02-06T18:00:02+01:00",
-    "updated_at": "2024-02-06T18:16:18+01:00",
+    "updated_at": "2024-02-06T18:20:09+01:00",
     "media_id": "9wsx4acafxeu",
     "duration": null,
     "canonical_section": {
@@ -190,7 +213,7 @@
     "title": "Vitesse zet jeugdtrainer Patrick Ax op non-actief na incident met speler",
     "subtitle": null,
     "published_at": "2024-02-06T17:20:32+01:00",
-    "updated_at": "2024-02-06T17:56:00+01:00",
+    "updated_at": "2024-02-06T18:22:48+01:00",
     "media_id": "azixhbuakwgr",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6300479/boerenprotesten-leidden-maandagavond-tot-meerdere-ongelukken-op-de-weg.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300515,
-    "slug": "huurwet-aangepast-om-beleggers-in-nieuwbouwwoningen-tegemoet-te-komen",
-    "type": "article",
-    "title": "Huurwet aangepast om beleggers in nieuwbouwwoningen tegemoet te komen",
-    "subtitle": null,
-    "published_at": "2024-02-06T15:48:57+01:00",
-    "updated_at": "2024-02-06T17:12:14+01:00",
-    "media_id": "ee7xew8ajx4d",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6300515/huurwet-aangepast-om-beleggers-in-nieuwbouwwoningen-tegemoet-te-komen.html",
     "open_new_window": false,
     "partner": null
   }
