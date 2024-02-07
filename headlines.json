@@ -6,7 +6,7 @@
     "title": "Grote brand legt loods in de as in Kloetinge",
     "subtitle": "Video",
     "published_at": "2024-02-07T07:21:33+01:00",
-    "updated_at": "2024-02-07T07:21:34+01:00",
+    "updated_at": "2024-02-07T07:25:57+01:00",
     "media_id": "v9exu97abbfn",
     "duration": "0:51",
     "canonical_section": {
@@ -29,7 +29,7 @@
     "title": "Hulpsite voor geldzaken ziet drie keer zoveel bezoekers voor hulp bij toeslagen",
     "subtitle": null,
     "published_at": "2024-02-07T07:21:07+01:00",
-    "updated_at": "2024-02-07T07:21:08+01:00",
+    "updated_at": "2024-02-07T07:28:18+01:00",
     "media_id": "yevxqbwa2qlm",
     "duration": null,
     "canonical_section": {
@@ -52,7 +52,7 @@
     "title": "Klaver sprint met snelle tijd naar zege op 400 meter in het Poolse Torun",
     "subtitle": "Video",
     "published_at": "2024-02-07T07:17:49+01:00",
-    "updated_at": "2024-02-07T07:17:50+01:00",
+    "updated_at": "2024-02-07T07:30:14+01:00",
     "media_id": "30pxqr6a9e39",
     "duration": "2:45",
     "canonical_section": {
@@ -75,7 +75,7 @@
     "title": "Biden wint ook tweede Democratische voorverkiezingen met ruime voorsprong",
     "subtitle": null,
     "published_at": "2024-02-07T07:16:58+01:00",
-    "updated_at": "2024-02-07T07:16:59+01:00",
+    "updated_at": "2024-02-07T07:25:41+01:00",
     "media_id": "rcixo2na03gp",
     "duration": null,
     "canonical_section": {
@@ -208,12 +208,12 @@
   },
   {
     "id": 6300575,
-    "slug": "regenachtig-in-het-zuiden-ruimte-voor-zon-in-de-rest-van-het-land",
+    "slug": "weerbericht-regenachtig-in-het-zuiden-ruimte-voor-zon-in-de-rest-van-het-land",
     "type": "article",
-    "title": "Regenachtig in het zuiden, ruimte voor zon in de rest van het land",
-    "subtitle": "Weerbericht",
+    "title": "Weerbericht: Regenachtig in het zuiden, ruimte voor zon in de rest van het land",
+    "subtitle": null,
     "published_at": "2024-02-07T05:55:36+01:00",
-    "updated_at": "2024-02-07T06:24:58+01:00",
+    "updated_at": "2024-02-07T07:25:25+01:00",
     "media_id": "ikfxolua2ob7",
     "duration": null,
     "canonical_section": {
@@ -225,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/weerbericht/6300575/regenachtig-in-het-zuiden-ruimte-voor-zon-in-de-rest-van-het-land.html",
+    "url": "/weerbericht/6300575/weerbericht-regenachtig-in-het-zuiden-ruimte-voor-zon-in-de-rest-van-het-land.html",
     "open_new_window": false,
     "partner": null
   },
