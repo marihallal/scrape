@@ -1,5 +1,28 @@
 [
   {
+    "id": 6300807,
+    "slug": "extra-beveiliging-bij-israelische-ambassade-gevolg-van-uiterst-serieuze-dreiging",
+    "type": "article",
+    "title": "Extra beveiliging bij Israëlische ambassade gevolg van 'uiterst serieuze' dreiging",
+    "subtitle": null,
+    "published_at": "2024-02-08T17:36:21+01:00",
+    "updated_at": "2024-02-08T17:36:27+01:00",
+    "media_id": "gvzxkn9akexw",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6300807/extra-beveiliging-bij-israelische-ambassade-gevolg-van-uiterst-serieuze-dreiging.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6300802,
     "slug": "experts-waarschuwen-voor-schadelijke-behandelingen-tegen-leerstoornissen",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Deze factoren bepalen of je kind gaat stotteren of niet",
     "subtitle": "Video",
     "published_at": "2024-02-08T17:02:20+01:00",
-    "updated_at": "2024-02-08T17:02:21+01:00",
+    "updated_at": "2024-02-08T17:27:23+01:00",
     "media_id": "v33xi81aojq3",
     "duration": "5:24",
     "canonical_section": {
@@ -328,7 +351,7 @@
     "title": "Vijf Amerikaanse militairen omgekomen bij helikoptercrash in Californië",
     "subtitle": null,
     "published_at": "2024-02-08T15:17:01+01:00",
-    "updated_at": "2024-02-08T15:17:02+01:00",
+    "updated_at": "2024-02-08T17:29:50+01:00",
     "media_id": "up7xpu0ay2oz",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6300787/heistelling-ligt-op-zn-kant-na-dodelijk-ongeluk-in-rotterdam.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300783,
-    "slug": "diederik-ebbinge-maakt-musical-over-de-jordaan",
-    "type": "article",
-    "title": "Diederik Ebbinge maakt musical over de Jordaan",
-    "subtitle": null,
-    "published_at": "2024-02-08T14:35:30+01:00",
-    "updated_at": "2024-02-08T15:16:43+01:00",
-    "media_id": "ni9x6reaqr46",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772075,
-      "slug": "cultuur-overig",
-      "type": "default",
-      "name": "Boek & Cultuur",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/cultuur-overig/6300783/diederik-ebbinge-maakt-musical-over-de-jordaan.html",
     "open_new_window": false,
     "partner": null
   }
