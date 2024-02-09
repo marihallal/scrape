@@ -1,5 +1,28 @@
 [
   {
+    "id": 6300923,
+    "slug": "president-poetin-geeft-zeldzaam-interview-megafoon-voor-russische-visie",
+    "type": "article",
+    "title": "President Poetin geeft zeldzaam interview: 'Megafoon voor Russische visie'",
+    "subtitle": "NU+",
+    "published_at": "2024-02-09T16:23:10+01:00",
+    "updated_at": "2024-02-09T16:23:11+01:00",
+    "media_id": "4ioxo4qacoo1",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772242,
+      "slug": "entertainment",
+      "type": "default",
+      "name": "Media en Cultuur",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/entertainment/6300923/president-poetin-geeft-zeldzaam-interview-megafoon-voor-russische-visie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6300936,
     "slug": "gehavend-ajax-mist-ook-rensch-in-heerenveen-berghuis-draagt-aanvoerdersband",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Feyenoord-verdediger Trauner weken aan de kant met bovenbeenblessure",
     "subtitle": null,
     "published_at": "2024-02-09T16:16:31+01:00",
-    "updated_at": "2024-02-09T16:16:33+01:00",
+    "updated_at": "2024-02-09T16:30:27+01:00",
     "media_id": "i57xtkja2ji1",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "NTR zendt in 2015 opgenomen interview met Dries van Agt voor het eerst uit",
     "subtitle": null,
     "published_at": "2024-02-09T16:01:34+01:00",
-    "updated_at": "2024-02-09T16:01:35+01:00",
+    "updated_at": "2024-02-09T16:26:05+01:00",
     "media_id": "7ggx6sqah82k",
     "duration": null,
     "canonical_section": {
@@ -167,7 +190,7 @@
     "title": "Afschaffen van toeslagen is haalbaar, maar ook duur, moeilijk en risicovol",
     "subtitle": null,
     "published_at": "2024-02-09T15:41:51+01:00",
-    "updated_at": "2024-02-09T16:14:13+01:00",
+    "updated_at": "2024-02-09T16:18:13+01:00",
     "media_id": "a1yxrzka6ht0",
     "duration": null,
     "canonical_section": {
@@ -328,7 +351,7 @@
     "title": "Goed nieuws voor PSV: Veerman, Tillman en Pepi fit voor duel met FC Volendam",
     "subtitle": null,
     "published_at": "2024-02-09T14:13:21+01:00",
-    "updated_at": "2024-02-09T16:17:05+01:00",
+    "updated_at": "2024-02-09T16:19:19+01:00",
     "media_id": "rl6x6e8ayiso",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6300895/knvb-ziet-proef-met-blauwe-kaart-wel-zitten-kan-zorgen-voor-duidelijkheid.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300912,
-    "slug": "een-op-tien-rijksambtenaren-maakte-racisme-op-de-werkvloer-mee",
-    "type": "article",
-    "title": "Een op tien rijksambtenaren maakte racisme op de werkvloer mee",
-    "subtitle": null,
-    "published_at": "2024-02-09T14:02:14+01:00",
-    "updated_at": "2024-02-09T15:43:01+01:00",
-    "media_id": "6y9xbhsa6d4c",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6300912/een-op-tien-rijksambtenaren-maakte-racisme-op-de-werkvloer-mee.html",
     "open_new_window": false,
     "partner": null
   }
