@@ -1,5 +1,28 @@
 [
   {
+    "id": 6301150,
+    "slug": "live-afrika-cup-nigeria-en-ivoorkust-beginnen-aan-finale",
+    "type": "article",
+    "title": "Live Afrika Cup | Nigeria en Ivoorkust beginnen aan finale",
+    "subtitle": null,
+    "published_at": "2024-02-11T20:46:20+01:00",
+    "updated_at": "2024-02-11T20:46:21+01:00",
+    "media_id": "neexba6am0o0",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6301150/live-afrika-cup-nigeria-en-ivoorkust-beginnen-aan-finale.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6301149,
     "slug": "centrumrechtse-kandidaat-wint-finse-presidentsverkiezingen",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Estafettezwemsters stomverbaasd na WK-goud: 'Holy shit, wat is hier gebeurd?'",
     "subtitle": null,
     "published_at": "2024-02-11T20:25:55+01:00",
-    "updated_at": "2024-02-11T20:25:56+01:00",
+    "updated_at": "2024-02-11T20:33:44+01:00",
     "media_id": "xyuxru3azz0r",
     "duration": null,
     "canonical_section": {
@@ -98,8 +121,8 @@
     "title": "Stroomstoring in carnaval vierend Oss verholpen",
     "subtitle": null,
     "published_at": "2024-02-11T18:56:03+01:00",
-    "updated_at": "2024-02-11T20:17:51+01:00",
-    "media_id": "4jixeexa0925",
+    "updated_at": "2024-02-11T20:37:43+01:00",
+    "media_id": "ssuxajyawdsc",
     "duration": null,
     "canonical_section": {
       "id": 1771435,
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6301129/ajax-verzuimt-top-vier-binnen-te-dringen-door-pijnlijke-nederlaag-bij-heerenveen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6301131,
-    "slug": "binnenstad-maastricht-wordt-overgenomen-door-carnavalsvierders",
-    "type": "video",
-    "title": "Binnenstad Maastricht wordt overgenomen door carnavalsvierders",
-    "subtitle": "Video",
-    "published_at": "2024-02-11T16:27:04+01:00",
-    "updated_at": "2024-02-11T16:29:19+01:00",
-    "media_id": "09pxhznaob5r",
-    "duration": "0:51",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6301131/binnenstad-maastricht-wordt-overgenomen-door-carnavalsvierders.html",
     "open_new_window": false,
     "partner": null
   }
