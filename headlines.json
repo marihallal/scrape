@@ -1,12 +1,35 @@
 [
   {
-    "id": 6301196,
-    "slug": "nederland-moet-van-rechter-stoppen-met-leveren-van-onderdelen-f-35-aan-israel",
+    "id": 6301193,
+    "slug": "acdc-geeft-na-bijna-tien-jaar-weer-een-concert-op-nederlandse-bodem",
     "type": "article",
-    "title": "Nederland moet van rechter stoppen met leveren van onderdelen F-35 aan Israël",
+    "title": "AC/DC geeft na bijna tien jaar weer een concert op Nederlandse bodem",
+    "subtitle": null,
+    "published_at": "2024-02-12T10:48:05+01:00",
+    "updated_at": "2024-02-12T10:48:07+01:00",
+    "media_id": "nz3xinlak6yz",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6301193/acdc-geeft-na-bijna-tien-jaar-weer-een-concert-op-nederlandse-bodem.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6301196,
+    "slug": "nederland-moet-stoppen-met-leveren-van-onderdelen-f-35-aan-israel",
+    "type": "article",
+    "title": "Nederland moet stoppen met leveren van onderdelen F-35 aan Israël",
     "subtitle": null,
     "published_at": "2024-02-12T10:29:47+01:00",
-    "updated_at": "2024-02-12T10:34:41+01:00",
+    "updated_at": "2024-02-12T10:51:40+01:00",
     "media_id": "339x8afapeks",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6301196/nederland-moet-van-rechter-stoppen-met-leveren-van-onderdelen-f-35-aan-israel.html",
+    "url": "/buitenland/6301196/nederland-moet-stoppen-met-leveren-van-onderdelen-f-35-aan-israel.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +75,7 @@
     "title": "Omtzigt noemt met appje uit formatie stappen 'niet de meest chique manier'",
     "subtitle": null,
     "published_at": "2024-02-12T10:18:48+01:00",
-    "updated_at": "2024-02-12T10:24:52+01:00",
+    "updated_at": "2024-02-12T10:41:38+01:00",
     "media_id": "widxa68aj5z3",
     "duration": null,
     "canonical_section": {
@@ -98,8 +121,8 @@
     "title": "Brabantse carnavalswagen in de kreukels na botsing met trein",
     "subtitle": "Video",
     "published_at": "2024-02-12T09:57:30+01:00",
-    "updated_at": "2024-02-12T09:57:32+01:00",
-    "media_id": "sl3xc7pams6i",
+    "updated_at": "2024-02-12T10:36:53+01:00",
+    "media_id": "pykxqgtavbil",
     "duration": "0:39",
     "canonical_section": {
       "id": 1772431,
@@ -190,7 +213,7 @@
     "title": "Trein botst tegen carnavalswagen in Oss, machinist gewond en geen treinverkeer",
     "subtitle": null,
     "published_at": "2024-02-12T08:37:44+01:00",
-    "updated_at": "2024-02-12T09:50:37+01:00",
+    "updated_at": "2024-02-12T10:50:43+01:00",
     "media_id": "4ndx4oaaehi8",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/midden-oostenconflict/6301167/israel-bombardeert-rafah-opnieuw-en-zegt-twee-gijzelaars-gered-te-hebben.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6301165,
-    "slug": "beyonce-kondigt-nieuw-album-aan-tijdens-super-bowl-eerste-twee-nummers-al-uit",
-    "type": "article",
-    "title": "Beyoncé kondigt nieuw album aan tijdens Super Bowl, eerste twee nummers al uit",
-    "subtitle": null,
-    "published_at": "2024-02-12T06:58:42+01:00",
-    "updated_at": "2024-02-12T10:34:04+01:00",
-    "media_id": "nowxct5alpnt",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6301165/beyonce-kondigt-nieuw-album-aan-tijdens-super-bowl-eerste-twee-nummers-al-uit.html",
     "open_new_window": false,
     "partner": null
   }
