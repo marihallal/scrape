@@ -1,5 +1,51 @@
 [
   {
+    "id": 6301219,
+    "slug": "hubble-telescoop-vindt-sterrenstelsels-die-samen-een-parelketting-vormen",
+    "type": "article",
+    "title": "Hubble-telescoop vindt sterrenstelsels die samen een 'parelketting' vormen",
+    "subtitle": null,
+    "published_at": "2024-02-12T13:31:38+01:00",
+    "updated_at": "2024-02-12T13:31:40+01:00",
+    "media_id": "ipzxm80adfas",
+    "duration": null,
+    "canonical_section": {
+      "id": 478878,
+      "slug": "wetenschap",
+      "type": "default",
+      "name": "Wetenschap",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wetenschap/6301219/hubble-telescoop-vindt-sterrenstelsels-die-samen-een-parelketting-vormen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6301218,
+    "slug": "bekijk-eerste-beelden-musicalfilm-wicked-met-ariana-grande-en-cynthia-erivo",
+    "type": "video",
+    "title": "Bekijk eerste beelden musicalfilm Wicked met Ariana Grande en Cynthia Erivo",
+    "subtitle": "Video",
+    "published_at": "2024-02-12T13:07:06+01:00",
+    "updated_at": "2024-02-12T13:32:39+01:00",
+    "media_id": "ri3x3spao79q",
+    "duration": "0:58",
+    "canonical_section": {
+      "id": 1772242,
+      "slug": "entertainment",
+      "type": "default",
+      "name": "Media en Cultuur",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/entertainment/6301218/bekijk-eerste-beelden-musicalfilm-wicked-met-ariana-grande-en-cynthia-erivo.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6301209,
     "slug": "zeg-jij-weleens-iets-belangrijks-af-met-een-appje",
     "type": "article",
@@ -98,7 +144,7 @@
     "title": "AZ-directeur Eenhoorn vertrekt na dit seizoen: 'Metaalmoeheid treedt in'",
     "subtitle": null,
     "published_at": "2024-02-12T12:03:07+01:00",
-    "updated_at": "2024-02-12T12:47:14+01:00",
+    "updated_at": "2024-02-12T12:58:57+01:00",
     "media_id": "gnnxfnyatoi1",
     "duration": null,
     "canonical_section": {
@@ -328,7 +374,7 @@
     "title": "Omtzigt noemt met appje uit formatie stappen 'niet de meest chique manier'",
     "subtitle": null,
     "published_at": "2024-02-12T10:18:48+01:00",
-    "updated_at": "2024-02-12T11:46:03+01:00",
+    "updated_at": "2024-02-12T13:02:41+01:00",
     "media_id": "d5vxftka24tm",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/formule-1/6301146/aston-martin-zet-hoog-in-met-nieuwe-amr24-red-bull-is-niet-onverslaanbaar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6301179,
-    "slug": "samenvatting-fc-barcelona-morst-punten-in-spektakelstuk-tegen-granada-3-3",
-    "type": "video",
-    "title": "Samenvatting: FC Barcelona morst punten in spektakelstuk tegen Granada (3-3)",
-    "subtitle": "Video",
-    "published_at": "2024-02-12T09:11:36+01:00",
-    "updated_at": "2024-02-12T09:11:38+01:00",
-    "media_id": "gitxmnjakspj",
-    "duration": "11:45",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6301179/samenvatting-fc-barcelona-morst-punten-in-spektakelstuk-tegen-granada-3-3.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6301178,
-    "slug": "samenvatting-oud-ajacied-haller-gidst-ivoorkust-naar-winst-afrika-cup-2-1",
-    "type": "video",
-    "title": "Samenvatting: Oud-Ajacied Haller gidst Ivoorkust naar winst Afrika Cup (2-1)",
-    "subtitle": "Video",
-    "published_at": "2024-02-12T09:06:48+01:00",
-    "updated_at": "2024-02-12T09:06:50+01:00",
-    "media_id": "bh9x1shaycp2",
-    "duration": "12:04",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6301178/samenvatting-oud-ajacied-haller-gidst-ivoorkust-naar-winst-afrika-cup-2-1.html",
     "open_new_window": false,
     "partner": null
   }
