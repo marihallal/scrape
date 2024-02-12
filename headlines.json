@@ -1,5 +1,51 @@
 [
   {
+    "id": 6301278,
+    "slug": "draak-van-drones-cirkelt-rond-wolkenkrabber-in-dubai",
+    "type": "video",
+    "title": "Draak van drones cirkelt rond wolkenkrabber in Dubai",
+    "subtitle": "Video",
+    "published_at": "2024-02-12T21:31:38+01:00",
+    "updated_at": "2024-02-12T21:31:39+01:00",
+    "media_id": "pwcx6xiai5wr",
+    "duration": "0:46",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6301278/draak-van-drones-cirkelt-rond-wolkenkrabber-in-dubai.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6301277,
+    "slug": "drietal-opgepakt-voor-ontvoering-94-jarige-man-uit-hilversum",
+    "type": "article",
+    "title": "Drietal opgepakt voor ontvoering 94-jarige man uit Hilversum",
+    "subtitle": null,
+    "published_at": "2024-02-12T21:26:05+01:00",
+    "updated_at": "2024-02-12T21:26:38+01:00",
+    "media_id": "v1rxcs8ai6rz",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6301277/drietal-opgepakt-voor-ontvoering-94-jarige-man-uit-hilversum.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6301274,
     "slug": "hooikoorts-op-de-loer-doordat-bloei-planten-en-bomen-eerder-begint",
     "type": "article",
@@ -24,12 +70,12 @@
   },
   {
     "id": 6301275,
-    "slug": "lichte-toename-in-aantal-koperdiefstallen-duitsland-wel-miljoenenschade",
+    "slug": "aantal-koperdiefstallen-op-duits-spoor-licht-toegenomen-wel-miljoenenschade",
     "type": "article",
-    "title": "Lichte toename in aantal koperdiefstallen Duitsland, wel miljoenenschade",
+    "title": "Aantal koperdiefstallen op Duits spoor licht toegenomen, wel miljoenenschade",
     "subtitle": null,
     "published_at": "2024-02-12T21:15:36+01:00",
-    "updated_at": "2024-02-12T21:15:40+01:00",
+    "updated_at": "2024-02-12T21:25:56+01:00",
     "media_id": "mauxwj7al8j3",
     "duration": null,
     "canonical_section": {
@@ -41,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6301275/lichte-toename-in-aantal-koperdiefstallen-duitsland-wel-miljoenenschade.html",
+    "url": "/economie/6301275/aantal-koperdiefstallen-op-duits-spoor-licht-toegenomen-wel-miljoenenschade.html",
     "open_new_window": false,
     "partner": null
   },
@@ -374,7 +420,7 @@
     "title": "Waterpolosters al na half jaar onttroond als wereldkampioen door verlies in thriller",
     "subtitle": null,
     "published_at": "2024-02-12T18:16:56+01:00",
-    "updated_at": "2024-02-12T19:24:34+01:00",
+    "updated_at": "2024-02-12T21:32:13+01:00",
     "media_id": "yfpx3fea81im",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/economie/6301260/tesla-fabriek-in-duitsland-draait-weer-op-volle-toeren-na-leveringsproblemen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6301247,
-    "slug": "advies-aan-kabinet-afschaffen-fossiele-subsidies-slechts-beperkt-mogelijk",
-    "type": "article",
-    "title": "Advies aan kabinet: 'Afschaffen fossiele subsidies slechts beperkt mogelijk'",
-    "subtitle": null,
-    "published_at": "2024-02-12T17:36:36+01:00",
-    "updated_at": "2024-02-12T20:29:44+01:00",
-    "media_id": "11fxmqnalpf4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772754,
-      "slug": "klimaat",
-      "type": "default",
-      "name": "Klimaat",
-      "style": "nuzakelijk",
-      "media_id": "kf4x3b2agsxg",
-      "partner": null
-    },
-    "url": "/klimaat/6301247/advies-aan-kabinet-afschaffen-fossiele-subsidies-slechts-beperkt-mogelijk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6301255,
-    "slug": "nieuw-kabinet-moet-volgens-experts-hypotheekrenteaftrek-afbouwen",
-    "type": "article",
-    "title": "Nieuw kabinet moet volgens experts hypotheekrenteaftrek afbouwen",
-    "subtitle": null,
-    "published_at": "2024-02-12T17:26:19+01:00",
-    "updated_at": "2024-02-12T18:07:43+01:00",
-    "media_id": "goyx557ak4z5",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6301255/nieuw-kabinet-moet-volgens-experts-hypotheekrenteaftrek-afbouwen.html",
     "open_new_window": false,
     "partner": null
   }
