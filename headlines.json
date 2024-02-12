@@ -1,5 +1,28 @@
 [
   {
+    "id": 6301164,
+    "slug": "amazon-verwijdert-ai-boeken-over-zieke-koning-charles",
+    "type": "article",
+    "title": "Amazon verwijdert AI-boeken over zieke koning Charles",
+    "subtitle": null,
+    "published_at": "2024-02-12T06:32:04+01:00",
+    "updated_at": "2024-02-12T06:32:05+01:00",
+    "media_id": "sucxx3qa8cur",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778775,
+      "slug": "koningshuis",
+      "type": "default",
+      "name": "Koningshuis",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/koningshuis/6301164/amazon-verwijdert-ai-boeken-over-zieke-koning-charles.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6300628,
     "slug": "duizenden-ondernemers-in-winkelstraat-stoppen-om-schulden-te-voorkomen",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Sterspeler Mahomes leidt Kansas City Chiefs naar tweede Super Bowl-winst op rij",
     "subtitle": null,
     "published_at": "2024-02-12T05:45:32+01:00",
-    "updated_at": "2024-02-12T05:56:33+01:00",
+    "updated_at": "2024-02-12T06:26:38+01:00",
     "media_id": "ht4xdttaqsmy",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Is het slecht om hele hete thee of koffie te drinken?",
     "subtitle": "In 100 woorden ",
     "published_at": "2024-02-12T05:09:26+01:00",
-    "updated_at": "2024-02-12T05:09:28+01:00",
+    "updated_at": "2024-02-12T06:32:04+01:00",
     "media_id": "assxeieaf0i6",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6301148/estafettezwemsters-stomverbaasd-na-wk-goud-holy-shit-wat-is-hier-gebeurd.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6301147,
-    "slug": "bosz-ziet-psv-tegen-volendam-groeien-richting-topvorm-dit-was-lekker",
-    "type": "article",
-    "title": "Bosz ziet PSV tegen Volendam groeien richting topvorm: 'Dit was lekker'",
-    "subtitle": null,
-    "published_at": "2024-02-11T20:03:58+01:00",
-    "updated_at": "2024-02-11T20:04:00+01:00",
-    "media_id": "b56xe3iapmtr",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6301147/bosz-ziet-psv-tegen-volendam-groeien-richting-topvorm-dit-was-lekker.html",
     "open_new_window": false,
     "partner": null
   }
