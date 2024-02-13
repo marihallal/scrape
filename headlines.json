@@ -1,12 +1,35 @@
 [
   {
+    "id": 6301413,
+    "slug": "hurkacz-ontsnapt-op-abn-amro-open-en-treft-griekspoor-in-tweede-ronde",
+    "type": "article",
+    "title": "Hurkacz ontsnapt op ABN AMRO Open en treft Griekspoor in tweede ronde",
+    "subtitle": null,
+    "published_at": "2024-02-13T23:51:34+01:00",
+    "updated_at": "2024-02-13T23:51:39+01:00",
+    "media_id": "w7rxyh5ax2yp",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6301413/hurkacz-ontsnapt-op-abn-amro-open-en-treft-griekspoor-in-tweede-ronde.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6301412,
     "slug": "politie-onderzoekt-verdacht-pakket-bij-woning-israelische-ambassadeur-in-den-haag",
     "type": "article",
     "title": "Politie onderzoekt verdacht pakket bij woning Israëlische ambassadeur in Den Haag",
     "subtitle": null,
     "published_at": "2024-02-13T23:26:14+01:00",
-    "updated_at": "2024-02-13T23:31:51+01:00",
+    "updated_at": "2024-02-13T23:50:02+01:00",
     "media_id": "rp0xzd9apn82",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Manchester City wint ondanks treffer oud-NEC'er Mattsson van FC Kopenhagen",
     "subtitle": null,
     "published_at": "2024-02-13T22:58:47+01:00",
-    "updated_at": "2024-02-13T23:25:53+01:00",
+    "updated_at": "2024-02-13T23:38:40+01:00",
     "media_id": "nezxpqga52ht",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Van Boekel en Higler spelen als VAR hoofdrol bij kleine CL-zege Real op Leipzig",
     "subtitle": null,
     "published_at": "2024-02-13T22:53:38+01:00",
-    "updated_at": "2024-02-13T23:24:26+01:00",
+    "updated_at": "2024-02-13T23:41:49+01:00",
     "media_id": "knux6dyatsu5",
     "duration": null,
     "canonical_section": {
@@ -282,7 +305,7 @@
     "title": "Live Champions League | Reacties na zeges Real Madrid en Manchester City",
     "subtitle": null,
     "published_at": "2024-02-13T20:18:00+01:00",
-    "updated_at": "2024-02-13T22:57:05+01:00",
+    "updated_at": "2024-02-13T23:38:07+01:00",
     "media_id": "qgvxah9am9u3",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6301366/vijf-vragen-over-het-vonnis-dat-levering-f-35-onderdelen-aan-israel-stopzet.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6301392,
-    "slug": "geemotioneerde-toussaint-ging-niet-goed-met-druk-om-op-100-meter-rugslag",
-    "type": "article",
-    "title": "Geëmotioneerde Toussaint 'ging niet goed met druk om' op 100 meter rugslag",
-    "subtitle": null,
-    "published_at": "2024-02-13T19:10:36+01:00",
-    "updated_at": "2024-02-13T19:12:56+01:00",
-    "media_id": "gw7xk75a6fpn",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6301392/geemotioneerde-toussaint-ging-niet-goed-met-druk-om-op-100-meter-rugslag.html",
     "open_new_window": false,
     "partner": null
   }
