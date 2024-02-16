@@ -1,12 +1,58 @@
 [
   {
+    "id": 6301743,
+    "slug": "nederland-hoopt-op-mooi-zwemavondje-met-langverwacht-individueel-wk-goud",
+    "type": "article",
+    "title": "Nederland hoopt op 'mooi zwemavondje' met langverwacht individueel WK-goud",
+    "subtitle": null,
+    "published_at": "2024-02-16T10:50:31+01:00",
+    "updated_at": "2024-02-16T10:50:33+01:00",
+    "media_id": "brax1tcafa8j",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6301743/nederland-hoopt-op-mooi-zwemavondje-met-langverwacht-individueel-wk-goud.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6301750,
+    "slug": "einde-in-zicht-voor-nedcar-fabriek-in-born-laatste-autos-verlaten-productiehal",
+    "type": "article",
+    "title": "Einde in zicht voor Nedcar-fabriek in Born: laatste auto's verlaten productiehal",
+    "subtitle": null,
+    "published_at": "2024-02-16T10:48:52+01:00",
+    "updated_at": "2024-02-16T10:48:53+01:00",
+    "media_id": "tagxb7rab3fu",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6301750/einde-in-zicht-voor-nedcar-fabriek-in-born-laatste-autos-verlaten-productiehal.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6301745,
-    "slug": "bedreigde-walvis-spoelt-vermagerd-aan-op-strand-in-vs",
+    "slug": "bedreigde-walvis-spoelt-dood-aan-op-strand-in-vs",
     "type": "video",
-    "title": "Bedreigde walvis spoelt vermagerd aan op strand in VS",
+    "title": "Bedreigde walvis spoelt dood aan op strand in VS",
     "subtitle": "Video",
     "published_at": "2024-02-16T10:17:55+01:00",
-    "updated_at": "2024-02-16T10:19:26+01:00",
+    "updated_at": "2024-02-16T10:33:34+01:00",
     "media_id": "wsix55fa103x",
     "duration": "0:38",
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/videos/6301745/bedreigde-walvis-spoelt-vermagerd-aan-op-strand-in-vs.html",
+    "url": "/videos/6301745/bedreigde-walvis-spoelt-dood-aan-op-strand-in-vs.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +75,7 @@
     "title": "Toezichthouder ACM onderzoekt hoogte van terugleverkosten bij zonnepanelen",
     "subtitle": null,
     "published_at": "2024-02-16T09:53:46+01:00",
-    "updated_at": "2024-02-16T10:20:09+01:00",
+    "updated_at": "2024-02-16T10:51:43+01:00",
     "media_id": "o9uxu92aau7t",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/videos/6301726/dronken-bestuurder-boort-auto-in-engels-restaurant.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6301650,
-    "slug": "vrees-voor-huizenkoper-die-hypotheekrente-steeds-korter-vastzet",
-    "type": "article",
-    "title": "Vrees voor huizenkoper die hypotheekrente steeds korter vastzet",
-    "subtitle": null,
-    "published_at": "2024-02-16T06:22:26+01:00",
-    "updated_at": "2024-02-16T07:30:19+01:00",
-    "media_id": "exexna6aqm0h",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6301650/vrees-voor-huizenkoper-die-hypotheekrente-steeds-korter-vastzet.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6301724,
-    "slug": "vlaamse-regering-sluit-na-lang-onderhandelen-akkoord-met-boeren",
-    "type": "article",
-    "title": "Vlaamse regering sluit na lang onderhandelen akkoord met boeren",
-    "subtitle": null,
-    "published_at": "2024-02-16T05:54:33+01:00",
-    "updated_at": "2024-02-16T09:43:36+01:00",
-    "media_id": "95ixwrlauhdm",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779258,
-      "slug": "binnenland-en-buitenland",
-      "type": "default",
-      "name": "Binnen- en buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland-en-buitenland/6301724/vlaamse-regering-sluit-na-lang-onderhandelen-akkoord-met-boeren.html",
     "open_new_window": false,
     "partner": null
   }
