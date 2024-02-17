@@ -1,5 +1,28 @@
 [
   {
+    "id": 6301949,
+    "slug": "de-minaur-walst-over-oud-winnaar-dimitrov-heen-en-is-eerste-finalist-in-ahoy",
+    "type": "article",
+    "title": "De Minaur walst over oud-winnaar Dimitrov heen en is eerste finalist in Ahoy",
+    "subtitle": null,
+    "published_at": "2024-02-17T16:41:54+01:00",
+    "updated_at": "2024-02-17T16:50:51+01:00",
+    "media_id": "19nx1mwasfu7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6301949/de-minaur-walst-over-oud-winnaar-dimitrov-heen-en-is-eerste-finalist-in-ahoy.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6301938,
     "slug": "jullie-vragen-over-navalny-hoe-aannemelijk-is-onafhankelijk-onderzoek",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Zelensky stelt dat Rusland Avdiivka niet heeft veroverd ondanks vertrek Oekraïne",
     "subtitle": null,
     "published_at": "2024-02-17T16:27:52+01:00",
-    "updated_at": "2024-02-17T16:30:58+01:00",
+    "updated_at": "2024-02-17T16:34:36+01:00",
     "media_id": "dsyxc4ua4pno",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Schulting verovert zilver op 1.500 meter in laatste wedstrijd voor WK",
     "subtitle": null,
     "published_at": "2024-02-17T16:17:33+01:00",
-    "updated_at": "2024-02-17T16:30:48+01:00",
+    "updated_at": "2024-02-17T16:36:40+01:00",
     "media_id": "tccxzn6anbcc",
     "duration": null,
     "canonical_section": {
@@ -116,13 +139,13 @@
   },
   {
     "id": 6301944,
-    "slug": "memphis-bekroont-late-invalbeurt-met-fraaie-treffer-voor-atletico-tegen-las-palmas",
+    "slug": "memphis-bekroont-invalbeurt-met-fraaie-treffer-voor-atletico-tegen-las-palmas",
     "type": "article",
-    "title": "Memphis bekroont late invalbeurt met fraaie treffer voor Atlético tegen Las Palmas",
+    "title": "Memphis bekroont invalbeurt met fraaie treffer voor Atlético tegen Las Palmas",
     "subtitle": null,
     "published_at": "2024-02-17T16:05:12+01:00",
-    "updated_at": "2024-02-17T16:23:09+01:00",
-    "media_id": "gevxpobaa3fz",
+    "updated_at": "2024-02-17T16:40:49+01:00",
+    "media_id": "opmxsy5ao1tz",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -133,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6301944/memphis-bekroont-late-invalbeurt-met-fraaie-treffer-voor-atletico-tegen-las-palmas.html",
+    "url": "/voetbal/6301944/memphis-bekroont-invalbeurt-met-fraaie-treffer-voor-atletico-tegen-las-palmas.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6301931/taylor-swift-zorgt-met-optredens-voor-boost-australische-economie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6301912,
-    "slug": "oudere-broers-wezen-griekspoor-de-weg-tuurlijk-kan-hij-sinner-verslaan",
-    "type": "article",
-    "title": "Oudere broers wezen Griekspoor de weg: 'Tuurlijk kan hij Sinner verslaan'",
-    "subtitle": "NU+",
-    "published_at": "2024-02-17T13:32:55+01:00",
-    "updated_at": "2024-02-17T15:44:41+01:00",
-    "media_id": "deaxh4pagmii",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6301912/oudere-broers-wezen-griekspoor-de-weg-tuurlijk-kan-hij-sinner-verslaan.html",
     "open_new_window": false,
     "partner": null
   }
