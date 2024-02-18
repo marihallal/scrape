@@ -1,5 +1,28 @@
 [
   {
+    "id": 6302047,
+    "slug": "beune-houdt-schouten-verrassend-van-historische-wereldtitel-op-5-kilometer",
+    "type": "article",
+    "title": "Beune houdt Schouten verrassend van historische wereldtitel op 5 kilometer",
+    "subtitle": null,
+    "published_at": "2024-02-18T20:49:37+01:00",
+    "updated_at": "2024-02-18T20:49:39+01:00",
+    "media_id": "my6x4jda2rry",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772452,
+      "slug": "schaatsen",
+      "type": "default",
+      "name": "Schaatsen",
+      "style": "nusport",
+      "media_id": "5ktx9n6axubw",
+      "partner": null
+    },
+    "url": "/schaatsen/6302047/beune-houdt-schouten-verrassend-van-historische-wereldtitel-op-5-kilometer.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6302048,
     "slug": "huijsen-18-helpt-roma-met-prachtgoal-aan-zege-richting-return-tegen-feyenoord",
     "type": "article",
@@ -93,12 +116,12 @@
   },
   {
     "id": 6302041,
-    "slug": "live-schaatsen-schouten-gaat-op-5000-meter-voor-vierde-titel-op-wk-afstanden",
+    "slug": "live-schaatsen-reacties-na-verrassende-wereldtitel-beune-op-5000-meter",
     "type": "article",
-    "title": "Live schaatsen | Schouten gaat op 5.000 meter voor vierde titel op WK afstanden",
+    "title": "Live schaatsen | Reacties na verrassende wereldtitel Beune op 5.000 meter",
     "subtitle": null,
     "published_at": "2024-02-18T19:27:57+01:00",
-    "updated_at": "2024-02-18T20:21:22+01:00",
+    "updated_at": "2024-02-18T20:50:25+01:00",
     "media_id": "lswxdxlandki",
     "duration": null,
     "canonical_section": {
@@ -110,7 +133,7 @@
       "media_id": "5ktx9n6axubw",
       "partner": null
     },
-    "url": "/schaatsen/6302041/live-schaatsen-schouten-gaat-op-5000-meter-voor-vierde-titel-op-wk-afstanden.html",
+    "url": "/schaatsen/6302041/live-schaatsen-reacties-na-verrassende-wereldtitel-beune-op-5000-meter.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6302018/ajax-krijgt-nieuwe-tik-in-eredivisie-door-late-gelijkmaker-nec.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302028,
-    "slug": "degradatiezorgen-vitesse-en-fc-volendam-houden-aan-door-gelijkspel",
-    "type": "article",
-    "title": "Degradatiezorgen Vitesse en FC Volendam houden aan door gelijkspel",
-    "subtitle": null,
-    "published_at": "2024-02-18T16:24:04+01:00",
-    "updated_at": "2024-02-18T18:10:37+01:00",
-    "media_id": "ik1xicna2seg",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6302028/degradatiezorgen-vitesse-en-fc-volendam-houden-aan-door-gelijkspel.html",
     "open_new_window": false,
     "partner": null
   }
