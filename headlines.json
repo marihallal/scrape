@@ -1,5 +1,74 @@
 [
   {
+    "id": 6302131,
+    "slug": "nederland-trekt-zich-terug-uit-miss-universe-verkiezing-na-wisseling-organisatie",
+    "type": "article",
+    "title": "Nederland trekt zich terug uit Miss Universe-verkiezing na wisseling organisatie",
+    "subtitle": null,
+    "published_at": "2024-02-19T14:50:10+01:00",
+    "updated_at": "2024-02-19T14:50:12+01:00",
+    "media_id": "1tzxkn2ao0pc",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6302131/nederland-trekt-zich-terug-uit-miss-universe-verkiezing-na-wisseling-organisatie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6302132,
+    "slug": "italie-introduceert-als-eerste-in-europa-robothond-voor-politie",
+    "type": "video",
+    "title": "Italië introduceert als eerste in Europa robothond voor politie",
+    "subtitle": "Video",
+    "published_at": "2024-02-19T14:50:08+01:00",
+    "updated_at": "2024-02-19T14:50:09+01:00",
+    "media_id": "fgvxjkqa9o65",
+    "duration": "0:50",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6302132/italie-introduceert-als-eerste-in-europa-robothond-voor-politie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6302128,
+    "slug": "psv-gaat-aanvallen-in-cl-kraker-tegen-dortmund-anders-zijn-we-kansloos",
+    "type": "article",
+    "title": "PSV gaat aanvallen in CL-kraker tegen Dortmund: 'Anders zijn we kansloos'",
+    "subtitle": null,
+    "published_at": "2024-02-19T14:40:53+01:00",
+    "updated_at": "2024-02-19T14:40:54+01:00",
+    "media_id": "skcx78ialm44",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6302128/psv-gaat-aanvallen-in-cl-kraker-tegen-dortmund-anders-zijn-we-kansloos.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6302127,
     "slug": "flemming-krijgt-als-eerste-artiest-in-nederland-diamanten-plaat",
     "type": "article",
@@ -52,7 +121,7 @@
     "title": "Wolven graven doorgang door dik pak sneeuw",
     "subtitle": "Video",
     "published_at": "2024-02-19T13:42:00+01:00",
-    "updated_at": "2024-02-19T13:48:56+01:00",
+    "updated_at": "2024-02-19T14:46:46+01:00",
     "media_id": "0k4xteia1xbb",
     "duration": "0:47",
     "canonical_section": {
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6302109/verdachte-van-fatale-aanval-bij-beroemd-duits-kasteel-legt-bekentenis-af.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302103,
-    "slug": "bryan-adams-geeft-begin-oktober-concert-in-rotterdam-ahoy",
-    "type": "article",
-    "title": "Bryan Adams geeft begin oktober concert in Rotterdam Ahoy",
-    "subtitle": null,
-    "published_at": "2024-02-19T11:18:34+01:00",
-    "updated_at": "2024-02-19T12:33:00+01:00",
-    "media_id": "npvxlsoavrf6",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6302103/bryan-adams-geeft-begin-oktober-concert-in-rotterdam-ahoy.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302094,
-    "slug": "niet-meer-accijns-op-benzine-maar-de-prijs-stijgt-wel",
-    "type": "article",
-    "title": "Niet meer accijns op benzine maar de prijs stijgt wel",
-    "subtitle": null,
-    "published_at": "2024-02-19T11:13:50+01:00",
-    "updated_at": "2024-02-19T13:57:17+01:00",
-    "media_id": "bmgxo7pa4ap2",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6302094/niet-meer-accijns-op-benzine-maar-de-prijs-stijgt-wel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302104,
-    "slug": "bemanning-moet-brits-schip-verlaten-na-aanval-door-houthi-rebellen",
-    "type": "article",
-    "title": "Bemanning moet Brits schip verlaten na aanval door Houthi-rebellen",
-    "subtitle": null,
-    "published_at": "2024-02-19T11:08:31+01:00",
-    "updated_at": "2024-02-19T11:58:18+01:00",
-    "media_id": "0ncxg80a3jqq",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6302104/bemanning-moet-brits-schip-verlaten-na-aanval-door-houthi-rebellen.html",
     "open_new_window": false,
     "partner": null
   }
