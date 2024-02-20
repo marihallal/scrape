@@ -1,5 +1,28 @@
 [
   {
+    "id": 6302186,
+    "slug": "weerbericht-het-grijze-zachte-weer-zet-dinsdag-door",
+    "type": "article",
+    "title": "Weerbericht | Het grijze zachte weer zet dinsdag door",
+    "subtitle": null,
+    "published_at": "2024-02-20T05:52:29+01:00",
+    "updated_at": "2024-02-20T05:52:30+01:00",
+    "media_id": "k7dx52oab6ta",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6302186/weerbericht-het-grijze-zachte-weer-zet-dinsdag-door.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6302185,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6302169/nieuw-onderzoek-kan-politie-wapen-geven-om-lachgas-in-verkeer-te-bestrijden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302167,
-    "slug": "synagoge-middelburg-door-zeer-jonge-jongen-beklad-met-hakenkruizen",
-    "type": "video",
-    "title": "Synagoge Middelburg door 'zeer jonge jongen' beklad met hakenkruizen",
-    "subtitle": "Video",
-    "published_at": "2024-02-19T19:02:57+01:00",
-    "updated_at": "2024-02-19T19:02:59+01:00",
-    "media_id": "cnixospau7g9",
-    "duration": "0:36",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6302167/synagoge-middelburg-door-zeer-jonge-jongen-beklad-met-hakenkruizen.html",
     "open_new_window": false,
     "partner": null
   }
