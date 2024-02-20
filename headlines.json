@@ -1,12 +1,35 @@
 [
   {
+    "id": 6302295,
+    "slug": "psv-start-met-bakayoko-en-zonder-ramalho-in-cl-kraker-dortmund-met-malen",
+    "type": "article",
+    "title": "PSV start met Bakayoko en zonder Ramalho in CL-kraker, Dortmund met Malen",
+    "subtitle": null,
+    "published_at": "2024-02-20T19:53:05+01:00",
+    "updated_at": "2024-02-20T19:53:06+01:00",
+    "media_id": "tbix7csa7v8e",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6302295/psv-start-met-bakayoko-en-zonder-ramalho-in-cl-kraker-dortmund-met-malen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6302291,
     "slug": "live-champions-league-aftellen-naar-kraker-tussen-psv-en-borussia-dortmund",
     "type": "article",
     "title": "Live Champions League | Aftellen naar kraker tussen PSV en Borussia Dortmund",
     "subtitle": null,
     "published_at": "2024-02-20T19:15:17+01:00",
-    "updated_at": "2024-02-20T19:15:19+01:00",
+    "updated_at": "2024-02-20T19:45:34+01:00",
     "media_id": "7ulxxg6aar4k",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Frenkie de Jong haalt uit na geruchten over vertrek: 'Jullie moeten je schamen'",
     "subtitle": null,
     "published_at": "2024-02-20T19:04:30+01:00",
-    "updated_at": "2024-02-20T19:26:40+01:00",
+    "updated_at": "2024-02-20T19:45:53+01:00",
     "media_id": "ktqxhtpakevx",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "'Noodoplossing' in Biddinghuizen moet druk op azc Ter Apel even verlichten",
     "subtitle": null,
     "published_at": "2024-02-20T18:58:10+01:00",
-    "updated_at": "2024-02-20T19:16:13+01:00",
+    "updated_at": "2024-02-20T19:44:20+01:00",
     "media_id": "9x5xwisayjis",
     "duration": null,
     "canonical_section": {
@@ -397,7 +420,7 @@
     "title": "A1 bij Hoevelaken tot laat in de avond dicht vanwege dodelijk ongeluk",
     "subtitle": null,
     "published_at": "2024-02-20T16:50:42+01:00",
-    "updated_at": "2024-02-20T19:36:46+01:00",
+    "updated_at": "2024-02-20T19:40:06+01:00",
     "media_id": "rftx53jatg7d",
     "duration": "0:36",
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/midden-oostenconflict/6302271/hulporganisaties-over-stop-vn-voedselhulp-noord-gaza-er-is-daar-al-niks.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302226,
-    "slug": "waarom-de-ramadan-elk-jaar-op-een-andere-dag-begint",
-    "type": "article",
-    "title": "Waarom de ramadan elk jaar op een andere dag begint",
-    "subtitle": "In 100 woorden",
-    "published_at": "2024-02-20T16:29:46+01:00",
-    "updated_at": "2024-02-20T16:29:47+01:00",
-    "media_id": "0j6xxqpaofv4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779023,
-      "slug": "ramadan",
-      "type": "default",
-      "name": "Ramadan",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/ramadan/6302226/waarom-de-ramadan-elk-jaar-op-een-andere-dag-begint.html",
     "open_new_window": false,
     "partner": null
   }
