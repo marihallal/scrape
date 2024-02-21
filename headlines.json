@@ -1,5 +1,28 @@
 [
   {
+    "id": 6302354,
+    "slug": "netflix-komt-in-maart-met-serie-over-ronja-de-roversdochter-van-astrid-lindgren",
+    "type": "article",
+    "title": "Netflix komt in maart met serie over Ronja de roversdochter van Astrid Lindgren",
+    "subtitle": null,
+    "published_at": "2024-02-21T10:30:34+01:00",
+    "updated_at": "2024-02-21T10:30:35+01:00",
+    "media_id": "rsgx2gjaaecg",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6302354/netflix-komt-in-maart-met-serie-over-ronja-de-roversdochter-van-astrid-lindgren.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6302344,
     "slug": "tieners-doen-kwart-van-hun-betalingen-met-contant-geld",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Vliegtuig moet noodlanding maken vanwege beschadigde vleugel",
     "subtitle": "Video",
     "published_at": "2024-02-21T09:16:22+01:00",
-    "updated_at": "2024-02-21T09:19:47+01:00",
+    "updated_at": "2024-02-21T10:24:20+01:00",
     "media_id": "0kbxwifagcqd",
     "duration": "0:58",
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6302322/nl-alert-verstuurd-vanwege-flinke-rook-in-haarlem-brand-is-inmiddels-geblust.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302320,
-    "slug": "scheiding-kevin-costner-rond-na-onenigheid-over-alimentatie",
-    "type": "article",
-    "title": "Scheiding Kevin Costner rond na onenigheid over alimentatie",
-    "subtitle": null,
-    "published_at": "2024-02-21T06:40:52+01:00",
-    "updated_at": "2024-02-21T07:55:01+01:00",
-    "media_id": "teaxwzoajso0",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6302320/scheiding-kevin-costner-rond-na-onenigheid-over-alimentatie.html",
     "open_new_window": false,
     "partner": null
   }
