@@ -1,12 +1,35 @@
 [
   {
+    "id": 6302435,
+    "slug": "ajax-mogelijk-zonder-henderson-tegen-bodglimt-van-t-schip-hard-over-martha",
+    "type": "article",
+    "title": "Ajax mogelijk zonder Henderson tegen Bodø/Glimt, Van 't Schip hard over Martha",
+    "subtitle": null,
+    "published_at": "2024-02-21T18:50:30+01:00",
+    "updated_at": "2024-02-21T18:50:31+01:00",
+    "media_id": "wulxo56atxwo",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6302435/ajax-mogelijk-zonder-henderson-tegen-bodglimt-van-t-schip-hard-over-martha.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6302432,
     "slug": "net-als-bijna-alle-andere-grote-supermarkten-roept-lidl-koekjes-terug-om-metaal",
     "type": "article",
     "title": "Net als bijna alle andere grote supermarkten roept Lidl koekjes terug om metaal",
     "subtitle": null,
     "published_at": "2024-02-21T18:05:58+01:00",
-    "updated_at": "2024-02-21T18:10:49+01:00",
+    "updated_at": "2024-02-21T18:51:00+01:00",
     "media_id": "d1ix3lcacjow",
     "duration": null,
     "canonical_section": {
@@ -75,8 +98,8 @@
     "title": "Hoofdredacteur Brabants Dagblad stapt op na beschuldigingen over angstcultuur",
     "subtitle": null,
     "published_at": "2024-02-21T17:45:40+01:00",
-    "updated_at": "2024-02-21T17:45:41+01:00",
-    "media_id": "hswxndfart74",
+    "updated_at": "2024-02-21T18:46:54+01:00",
+    "media_id": "lunxjadaiadd",
     "duration": null,
     "canonical_section": {
       "id": 1771675,
@@ -121,7 +144,7 @@
     "title": "Vrouw Alaphilippe slaat terug na uithaal Lefevere: 'Dit is onaanvaardbaar'",
     "subtitle": null,
     "published_at": "2024-02-21T17:32:30+01:00",
-    "updated_at": "2024-02-21T17:32:31+01:00",
+    "updated_at": "2024-02-21T18:49:19+01:00",
     "media_id": "r0sxcsrapptz",
     "duration": null,
     "canonical_section": {
@@ -374,7 +397,7 @@
     "title": "Ministerie berust in besluit rechter, maar wil kinderhartchirurgie wel samenvoegen",
     "subtitle": null,
     "published_at": "2024-02-21T16:15:32+01:00",
-    "updated_at": "2024-02-21T16:59:30+01:00",
+    "updated_at": "2024-02-21T18:51:27+01:00",
     "media_id": "dc9x99za2umf",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6302412/lichamen-van-slachtoffers-in-lochem-geborgen-tientallen-ooggetuigen-krijgen-hulp.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302413,
-    "slug": "brandweer-redt-acht-groningse-studenten-met-hoogwerker",
-    "type": "video",
-    "title": "Brandweer redt acht Groningse studenten met hoogwerker",
-    "subtitle": "Video",
-    "published_at": "2024-02-21T15:49:45+01:00",
-    "updated_at": "2024-02-21T15:49:47+01:00",
-    "media_id": "ruexsl9a64s2",
-    "duration": "0:45",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6302413/brandweer-redt-acht-groningse-studenten-met-hoogwerker.html",
     "open_new_window": false,
     "partner": null
   }
