@@ -1,12 +1,35 @@
 [
   {
+    "id": 6303001,
+    "slug": "hoger-beroep-zwembadmoord-van-start-geen-cholera-op-schip",
+    "type": "article",
+    "title": "Hoger beroep zwembadmoord van start | Geen cholera op schip",
+    "subtitle": "NU praat je bij",
+    "published_at": "2024-02-26T17:48:00+01:00",
+    "updated_at": "2024-02-26T17:48:53+01:00",
+    "media_id": "4m0xybxa3ro6",
+    "duration": null,
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6303001/hoger-beroep-zwembadmoord-van-start-geen-cholera-op-schip.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6303033,
     "slug": "samenvatting-van-de-zandschulp-verrast-mannarino-in-dubai",
     "type": "video",
     "title": "Samenvatting: Van de Zandschulp verrast Mannarino in Dubai",
     "subtitle": "Video",
     "published_at": "2024-02-26T17:35:57+01:00",
-    "updated_at": "2024-02-26T17:35:58+01:00",
+    "updated_at": "2024-02-26T17:38:50+01:00",
     "media_id": "wjkx771adwga",
     "duration": "2:12",
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6303015/commissie-keihard-over-fraudebeleid-staatsmachten-vermorzelden-burgers.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6303010,
-    "slug": "everton-krijgt-belangrijke-punten-terug-in-degradatiestrijd-na-herziening-straf",
-    "type": "article",
-    "title": "Everton krijgt belangrijke punten terug in degradatiestrijd na herziening straf",
-    "subtitle": null,
-    "published_at": "2024-02-26T15:08:54+01:00",
-    "updated_at": "2024-02-26T15:14:11+01:00",
-    "media_id": "xjoxu7jayej8",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6303010/everton-krijgt-belangrijke-punten-terug-in-degradatiestrijd-na-herziening-straf.html",
     "open_new_window": false,
     "partner": null
   }
