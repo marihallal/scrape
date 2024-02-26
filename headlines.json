@@ -1,5 +1,28 @@
 [
   {
+    "id": 6302926,
+    "slug": "kampioen-nuis-verwachtte-vakantie-te-hebben-na-nk-sprint-bier-stond-al-koud",
+    "type": "article",
+    "title": "Kampioen Nuis verwachtte vakantie te hebben na NK sprint: 'Bier stond al koud'",
+    "subtitle": null,
+    "published_at": "2024-02-26T06:35:22+01:00",
+    "updated_at": "2024-02-26T06:35:23+01:00",
+    "media_id": "n5txesta1xsc",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772452,
+      "slug": "schaatsen",
+      "type": "default",
+      "name": "Schaatsen",
+      "style": "nusport",
+      "media_id": "5ktx9n6axubw",
+      "partner": null
+    },
+    "url": "/schaatsen/6302926/kampioen-nuis-verwachtte-vakantie-te-hebben-na-nk-sprint-bier-stond-al-koud.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6302942,
     "slug": "romeo-beckham-en-model-mia-regan-na-een-relatie-van-vijf-jaar-uit-elkaar",
     "type": "article",
@@ -75,7 +98,7 @@
     "title": "Weerbericht | Maandag weer veel regen, maar de dagen daarna gloort de zon",
     "subtitle": null,
     "published_at": "2024-02-26T06:06:22+01:00",
-    "updated_at": "2024-02-26T06:06:23+01:00",
+    "updated_at": "2024-02-26T06:34:07+01:00",
     "media_id": "qrkxxn5a4fyf",
     "duration": null,
     "canonical_section": {
@@ -213,7 +236,7 @@
     "title": "Man steekt zichzelf in brand bij Israëlische ambassade in Washington",
     "subtitle": null,
     "published_at": "2024-02-26T00:42:19+01:00",
-    "updated_at": "2024-02-26T05:50:37+01:00",
+    "updated_at": "2024-02-26T06:41:17+01:00",
     "media_id": "2gwxjpha5a7g",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6302929/aantal-meldingen-over-babboe-bakfietsen-in-twee-dagen-tijd-verdubbeld.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302928,
-    "slug": "van-dijk-kopt-liverpool-in-verlenging-naar-league-cup-winst",
-    "type": "video",
-    "title": "Van Dijk kopt Liverpool in verlenging naar League Cup-winst",
-    "subtitle": "Video",
-    "published_at": "2024-02-25T21:28:19+01:00",
-    "updated_at": "2024-02-25T21:31:40+01:00",
-    "media_id": "sklxrneasuip",
-    "duration": "1:50",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6302928/van-dijk-kopt-liverpool-in-verlenging-naar-league-cup-winst.html",
     "open_new_window": false,
     "partner": null
   }
