@@ -1,12 +1,58 @@
 [
   {
-    "id": 6303351,
-    "slug": "ronaldo-een-wedstrijd-geschorst-voor-maken-van-obsceen-gebaar-in-saoedi-arabie",
+    "id": 6299662,
+    "slug": "van-favoriet-red-bull-tot-hamiltons-vertrek-dit-moet-je-weten-over-f1-jaar-2024",
     "type": "article",
-    "title": "Ronaldo een wedstrijd geschorst voor maken van obsceen gebaar in Saoedi-Arabië",
+    "title": "Van favoriet Red Bull tot Hamiltons vertrek: dit moet je weten over F1-jaar 2024",
+    "subtitle": null,
+    "published_at": "2024-02-29T09:31:23+01:00",
+    "updated_at": "2024-02-29T09:31:24+01:00",
+    "media_id": "frwxgf6apcdb",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Formule 1",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6299662/van-favoriet-red-bull-tot-hamiltons-vertrek-dit-moet-je-weten-over-f1-jaar-2024.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6303353,
+    "slug": "deur-lanceert-medewerker-thaise-winkel-tijdens-zware-storm",
+    "type": "video",
+    "title": "Deur 'lanceert' medewerker Thaise winkel tijdens zware storm",
+    "subtitle": "Video",
+    "published_at": "2024-02-29T09:26:41+01:00",
+    "updated_at": "2024-02-29T09:26:41+01:00",
+    "media_id": "av8xm1kam0ll",
+    "duration": "0:41",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6303353/deur-lanceert-medewerker-thaise-winkel-tijdens-zware-storm.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6303351,
+    "slug": "ronaldo-een-wedstrijd-geschorst-vanwege-obsceen-gebaar-in-saoedi-arabie",
+    "type": "article",
+    "title": "Ronaldo één wedstrijd geschorst vanwege obsceen gebaar in Saoedi-Arabië",
     "subtitle": null,
     "published_at": "2024-02-29T09:10:22+01:00",
-    "updated_at": "2024-02-29T09:19:06+01:00",
+    "updated_at": "2024-02-29T09:29:27+01:00",
     "media_id": "lt5xqjbal71n",
     "duration": null,
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6303351/ronaldo-een-wedstrijd-geschorst-voor-maken-van-obsceen-gebaar-in-saoedi-arabie.html",
+    "url": "/voetbal/6303351/ronaldo-een-wedstrijd-geschorst-vanwege-obsceen-gebaar-in-saoedi-arabie.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/gebaseerd-op-jullie-vragen/6303101/eens-per-vier-jaar-een-feestje-en-veel-grappen-zo-is-vandaag-jarig-zijn.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6303335,
-    "slug": "weerbericht-regenachtige-schrikkeldag-sluit-natte-februari-toepasselijk-af",
-    "type": "article",
-    "title": "Weerbericht | Regenachtige schrikkeldag sluit natte februari toepasselijk af",
-    "subtitle": null,
-    "published_at": "2024-02-29T05:41:39+01:00",
-    "updated_at": "2024-02-29T07:36:04+01:00",
-    "media_id": "lhgximfa7mhh",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779283,
-      "slug": "weerbericht",
-      "type": "default",
-      "name": "Weerbericht",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/weerbericht/6303335/weerbericht-regenachtige-schrikkeldag-sluit-natte-februari-toepasselijk-af.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6303333,
-    "slug": "oranjevrouwen-in-tranen-na-mislopen-olympische-spelen-dit-doet-heel-veel-pijn",
-    "type": "article",
-    "title": "Oranjevrouwen in tranen na mislopen Olympische Spelen: 'Dit doet heel veel pijn'",
-    "subtitle": null,
-    "published_at": "2024-02-29T05:11:53+01:00",
-    "updated_at": "2024-02-29T08:54:50+01:00",
-    "media_id": "umqxln8agchq",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6303333/oranjevrouwen-in-tranen-na-mislopen-olympische-spelen-dit-doet-heel-veel-pijn.html",
     "open_new_window": false,
     "partner": null
   }
