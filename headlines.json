@@ -1,12 +1,35 @@
 [
   {
-    "id": 6303337,
-    "slug": "amerikaans-hooggerechtshof-behandelt-zaak-over-presidentiele-immuniteit-trump",
+    "id": 6303108,
+    "slug": "waarom-ajax-moet-hopen-dat-feyenoord-de-beker-wint",
     "type": "article",
-    "title": "Amerikaans hooggerechtshof behandelt zaak over presidentiële immuniteit Trump",
+    "title": "Waarom Ajax moet hopen dat Feyenoord de beker wint",
+    "subtitle": null,
+    "published_at": "2024-02-29T06:38:01+01:00",
+    "updated_at": "2024-02-29T06:38:02+01:00",
+    "media_id": "561xpviah0t6",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6303108/waarom-ajax-moet-hopen-dat-feyenoord-de-beker-wint.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6303337,
+    "slug": "hooggerechtshof-neemt-zaak-over-presidentiele-immuniteit-trump-in-behandeling",
+    "type": "article",
+    "title": "Hooggerechtshof neemt zaak over presidentiële immuniteit Trump in behandeling",
     "subtitle": null,
     "published_at": "2024-02-29T06:34:37+01:00",
-    "updated_at": "2024-02-29T06:34:38+01:00",
+    "updated_at": "2024-02-29T06:50:51+01:00",
     "media_id": "mlzx8vwa2okn",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": "m1oxq8wabsoj",
       "partner": null
     },
-    "url": "/verkiezingen-vs/6303337/amerikaans-hooggerechtshof-behandelt-zaak-over-presidentiele-immuniteit-trump.html",
+    "url": "/verkiezingen-vs/6303337/hooggerechtshof-neemt-zaak-over-presidentiele-immuniteit-trump-in-behandeling.html",
     "open_new_window": false,
     "partner": null
   },
@@ -144,7 +167,7 @@
     "title": "Oranjevrouwen in tranen na mislopen Olympische Spelen: 'Dit doet heel veel pijn'",
     "subtitle": null,
     "published_at": "2024-02-29T05:11:53+01:00",
-    "updated_at": "2024-02-29T05:22:13+01:00",
+    "updated_at": "2024-02-29T06:52:00+01:00",
     "media_id": "umqxln8agchq",
     "duration": null,
     "canonical_section": {
@@ -282,7 +305,7 @@
     "title": "2023 was een goed jaar voor de autoverkoop, maar stijging zet niet door",
     "subtitle": null,
     "published_at": "2024-02-29T00:01:57+01:00",
-    "updated_at": "2024-02-29T00:01:58+01:00",
+    "updated_at": "2024-02-29T06:49:52+01:00",
     "media_id": "x33xmjhaj8u9",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6303324/superieur-inter-pijnigt-atalanta-in-duel-met-zes-nederlanders-op-het-veld.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6303237,
-    "slug": "olympische-droom-oranjevrouwen-spat-uiteen-na-nederlaag-tegen-duitsland",
-    "type": "article",
-    "title": "Olympische droom Oranjevrouwen spat uiteen na nederlaag tegen Duitsland",
-    "subtitle": null,
-    "published_at": "2024-02-28T22:36:16+01:00",
-    "updated_at": "2024-02-28T22:46:00+01:00",
-    "media_id": "2eoxgw1ak6z9",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6303237/olympische-droom-oranjevrouwen-spat-uiteen-na-nederlaag-tegen-duitsland.html",
     "open_new_window": false,
     "partner": null
   }
