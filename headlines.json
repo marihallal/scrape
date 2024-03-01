@@ -1,5 +1,51 @@
 [
   {
+    "id": 6303608,
+    "slug": "drie-nederlandse-militairen-aangehouden-en-vrijgelaten-door-hezbollah",
+    "type": "article",
+    "title": "Drie Nederlandse militairen aangehouden en vrijgelaten door Hezbollah",
+    "subtitle": null,
+    "published_at": "2024-03-01T21:51:56+01:00",
+    "updated_at": "2024-03-01T21:51:58+01:00",
+    "media_id": "cgax4iva3fok",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6303608/drie-nederlandse-militairen-aangehouden-en-vrijgelaten-door-hezbollah.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6303607,
+    "slug": "rublev-gediskwalificeerd-in-dubai-vanwege-schreeuwen-richting-lijnrechter",
+    "type": "article",
+    "title": "Rublev gediskwalificeerd in Dubai vanwege schreeuwen richting lijnrechter",
+    "subtitle": null,
+    "published_at": "2024-03-01T21:35:00+01:00",
+    "updated_at": "2024-03-01T21:42:27+01:00",
+    "media_id": "iihx0vcavdst",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6303607/rublev-gediskwalificeerd-in-dubai-vanwege-schreeuwen-richting-lijnrechter.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6303606,
     "slug": "dagje-rust-in-horner-soap-in-bahrein-ging-het-eindelijk-weer-over-racen",
     "type": "article",
@@ -190,8 +236,8 @@
     "title": "Live Eredivisie | NEC hard op weg naar derde uitzege van het seizoen",
     "subtitle": null,
     "published_at": "2024-03-01T19:26:58+01:00",
-    "updated_at": "2024-03-01T21:34:00+01:00",
-    "media_id": "plixmaeap5oe",
+    "updated_at": "2024-03-01T21:41:30+01:00",
+    "media_id": "6d1xbj5azsgj",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/videos/6303586/eloise-van-oranje-opent-vintage-kledingwinkel-in-den-haag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6303585,
-    "slug": "kabinet-wil-asielzoekers-tijdelijk-ook-in-hotels-opvangen-wegens-opvangcrisis",
-    "type": "article",
-    "title": "Kabinet wil asielzoekers tijdelijk ook in hotels opvangen wegens opvangcrisis",
-    "subtitle": null,
-    "published_at": "2024-03-01T18:16:30+01:00",
-    "updated_at": "2024-03-01T20:05:57+01:00",
-    "media_id": "6x7xfccawfp5",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779109,
-      "slug": "asielcrisis",
-      "type": "default",
-      "name": "Asiel",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/asielcrisis/6303585/kabinet-wil-asielzoekers-tijdelijk-ook-in-hotels-opvangen-wegens-opvangcrisis.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6303576,
-    "slug": "verstappen-pakt-pole-voor-openingsrace-in-bahrein-maar-verschillen-zijn-beperkt",
-    "type": "article",
-    "title": "Verstappen pakt pole voor openingsrace in Bahrein, maar verschillen zijn beperkt",
-    "subtitle": null,
-    "published_at": "2024-03-01T18:03:48+01:00",
-    "updated_at": "2024-03-01T20:22:03+01:00",
-    "media_id": "og5x7noas9d4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6303576/verstappen-pakt-pole-voor-openingsrace-in-bahrein-maar-verschillen-zijn-beperkt.html",
     "open_new_window": false,
     "partner": null
   }
