@@ -1,5 +1,28 @@
 [
   {
+    "id": 6303487,
+    "slug": "container-valt-van-schip-na-aanvaring-met-willemsbrug-in-rotterdam",
+    "type": "video",
+    "title": "Container valt van schip na aanvaring met Willemsbrug in Rotterdam",
+    "subtitle": "Video",
+    "published_at": "2024-03-01T09:35:55+01:00",
+    "updated_at": "2024-03-01T09:35:56+01:00",
+    "media_id": "kflxuvvarkv1",
+    "duration": "0:46",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6303487/container-valt-van-schip-na-aanvaring-met-willemsbrug-in-rotterdam.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6303483,
     "slug": "consumentenbond-start-massaclaim-tegen-facebook-en-instagram",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/klimaat/6303415/al-een-jaar-recordtemperaturen-in-oceanen-tekenen-dat-opwarming-versnelt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6303469,
-    "slug": "tientallen-doden-door-grote-brand-in-hoofdstad-bangladesh",
-    "type": "article",
-    "title": "Tientallen doden door grote brand in hoofdstad Bangladesh",
-    "subtitle": null,
-    "published_at": "2024-03-01T00:20:06+01:00",
-    "updated_at": "2024-03-01T08:19:09+01:00",
-    "media_id": "8tixvwhaohpw",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6303469/tientallen-doden-door-grote-brand-in-hoofdstad-bangladesh.html",
     "open_new_window": false,
     "partner": null
   }
