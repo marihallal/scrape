@@ -1,5 +1,28 @@
 [
   {
+    "id": 6303747,
+    "slug": "rotterdammer-23-omgekomen-bij-auto-ongeluk-in-capelle-aan-den-ijssel",
+    "type": "article",
+    "title": "Rotterdammer (23) omgekomen bij auto-ongeluk in Capelle aan den IJssel",
+    "subtitle": null,
+    "published_at": "2024-03-03T08:53:32+01:00",
+    "updated_at": "2024-03-03T09:19:21+01:00",
+    "media_id": "hiexotaawmg4",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6303747/rotterdammer-23-omgekomen-bij-auto-ongeluk-in-capelle-aan-den-ijssel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6303568,
     "slug": "meerdere-keren-per-dag-je-waterfles-vullen-hoe-goed-is-dat-eigenlijk",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Messi en Suárez schitteren als vanouds bij Inter Miami met ieder twee goals",
     "subtitle": null,
     "published_at": "2024-03-03T08:44:40+01:00",
-    "updated_at": "2024-03-03T08:44:41+01:00",
+    "updated_at": "2024-03-03T09:10:37+01:00",
     "media_id": "s3lxhmra9d7h",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Israël meldt tien doden bij nieuwe aanvallen op Hezbollah in Libanon",
     "subtitle": null,
     "published_at": "2024-03-03T08:33:54+01:00",
-    "updated_at": "2024-03-03T08:42:59+01:00",
+    "updated_at": "2024-03-03T09:07:18+01:00",
     "media_id": "5nxxd3ja9kym",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Sifan Hassan grijpt naast marathonhattrick met vierde plaats in Tokio",
     "subtitle": null,
     "published_at": "2024-03-03T08:20:34+01:00",
-    "updated_at": "2024-03-03T08:20:35+01:00",
+    "updated_at": "2024-03-03T09:02:59+01:00",
     "media_id": "vx1xqa5ar4cb",
     "duration": null,
     "canonical_section": {
@@ -121,7 +144,7 @@
     "title": "Mercedes had koelingsproblemen in Bahrein: 'Kostte tienden per ronde'",
     "subtitle": null,
     "published_at": "2024-03-03T08:03:44+01:00",
-    "updated_at": "2024-03-03T08:03:45+01:00",
+    "updated_at": "2024-03-03T08:59:59+01:00",
     "media_id": "v0xxplrakkdh",
     "duration": null,
     "canonical_section": {
@@ -213,7 +236,7 @@
     "title": "Swingend PSV op recordjacht: wordt Ajax onttroond als beste landskampioen?",
     "subtitle": null,
     "published_at": "2024-03-03T06:07:39+01:00",
-    "updated_at": "2024-03-03T07:24:16+01:00",
+    "updated_at": "2024-03-03T09:21:57+01:00",
     "media_id": "26fx5l6alzw6",
     "duration": null,
     "canonical_section": {
@@ -236,7 +259,7 @@
     "title": "Waarom vinden we Zuid-Koreaanse producties als Parasite zo goed?",
     "subtitle": "NU+",
     "published_at": "2024-03-03T06:05:33+01:00",
-    "updated_at": "2024-03-03T08:19:25+01:00",
+    "updated_at": "2024-03-03T09:17:39+01:00",
     "media_id": "i3mxqk1akp70",
     "duration": null,
     "canonical_section": {
@@ -351,7 +374,7 @@
     "title": "Verduurzaming gascentrales komt nauwelijks op gang, kabinet schrapt subsidie",
     "subtitle": "NU+",
     "published_at": "2024-03-03T05:08:24+01:00",
-    "updated_at": "2024-03-03T07:27:52+01:00",
+    "updated_at": "2024-03-03T09:18:35+01:00",
     "media_id": "3szx48najwmq",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6303733/arbiter-wekt-woede-real-spelers-door-vlak-voor-winnende-goal-af-te-fluiten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6303732,
-    "slug": "angstaanjagend-dat-verstappen-zich-inhield",
-    "type": "audio",
-    "title": "'Angstaanjagend dat Verstappen zich inhield'",
-    "subtitle": "Podcast De Boordradio",
-    "published_at": "2024-03-02T23:37:38+01:00",
-    "updated_at": "2024-03-03T08:17:04+01:00",
-    "media_id": "36tx2lgapggp",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6303732/angstaanjagend-dat-verstappen-zich-inhield.html",
     "open_new_window": false,
     "partner": null
   }
