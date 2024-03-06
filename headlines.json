@@ -1,5 +1,28 @@
 [
   {
+    "id": 6304191,
+    "slug": "kabinet-roept-gemeenten-tot-de-orde-en-gaat-hoofddoek-bij-boas-verbieden",
+    "type": "article",
+    "title": "Kabinet roept gemeenten tot de orde en gaat hoofddoek bij boa's verbieden",
+    "subtitle": null,
+    "published_at": "2024-03-06T17:44:39+01:00",
+    "updated_at": "2024-03-06T17:45:46+01:00",
+    "media_id": "kwwxuwmaj5o0",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771437,
+      "slug": "politiek",
+      "type": "default",
+      "name": "Politiek",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/politiek/6304191/kabinet-roept-gemeenten-tot-de-orde-en-gaat-hoofddoek-bij-boas-verbieden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6304189,
     "slug": "dominique-janssen-vertrekt-na-vijf-jaar-bij-wolfsburg-en-wil-weer-naar-engeland",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Joost Klein scoort Spotify-record met Europapa: 'Ik ben heel dankbaar'",
     "subtitle": null,
     "published_at": "2024-03-06T17:36:10+01:00",
-    "updated_at": "2024-03-06T17:37:09+01:00",
+    "updated_at": "2024-03-06T17:45:59+01:00",
     "media_id": "tyvxfgtajd44",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Tsunoda wil minder schelden via boordradio: 'Niet steeds op die knop drukken'",
     "subtitle": null,
     "published_at": "2024-03-06T17:14:04+01:00",
-    "updated_at": "2024-03-06T17:14:06+01:00",
+    "updated_at": "2024-03-06T17:42:56+01:00",
     "media_id": "ck1xn05avi4y",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/film/6304162/dakota-johnson-begrijpt-kritiek-op-madame-web-was-een-leerzame-ervaring.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6304166,
-    "slug": "duizenden-nederlandse-paspoorten-op-darkweb-na-cyberaanvallen-op-bedrijven",
-    "type": "article",
-    "title": "Duizenden Nederlandse paspoorten op darkweb na cyberaanvallen op bedrijven",
-    "subtitle": null,
-    "published_at": "2024-03-06T15:47:20+01:00",
-    "updated_at": "2024-03-06T16:25:43+01:00",
-    "media_id": "kjfxi1oayvwc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6304166/duizenden-nederlandse-paspoorten-op-darkweb-na-cyberaanvallen-op-bedrijven.html",
     "open_new_window": false,
     "partner": null
   }
