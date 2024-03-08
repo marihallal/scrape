@@ -1,12 +1,35 @@
 [
   {
+    "id": 6304514,
+    "slug": "verstappen-steunt-topman-marko-in-strijd-binnen-red-bull-helmut-moet-blijven",
+    "type": "article",
+    "title": "Verstappen steunt topman Marko in strijd binnen Red Bull: 'Helmut moet blijven'",
+    "subtitle": null,
+    "published_at": "2024-03-08T19:49:06+01:00",
+    "updated_at": "2024-03-08T19:49:45+01:00",
+    "media_id": "gkixu1ca1p93",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Formule 1",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6304514/verstappen-steunt-topman-marko-in-strijd-binnen-red-bull-helmut-moet-blijven.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6304513,
     "slug": "live-eredivisie-psv-wacht-in-deventer-generale-voor-kraker-tegen-dortmund",
     "type": "article",
     "title": "Live Eredivisie | PSV wacht in Deventer generale voor kraker tegen Dortmund",
     "subtitle": null,
     "published_at": "2024-03-08T19:31:43+01:00",
-    "updated_at": "2024-03-08T19:36:32+01:00",
+    "updated_at": "2024-03-08T19:36:37+01:00",
     "media_id": "1plxy37ar72s",
     "duration": null,
     "canonical_section": {
@@ -300,12 +323,12 @@
   },
   {
     "id": 6304497,
-    "slug": "live-schaatsen-de-boo-gaat-strijd-aan-met-dubreuil-op-500-meter-wk-sprint",
+    "slug": "live-schaatsen-de-boo-maakt-wk-sprint-weer-spannend-met-goede-500-meter",
     "type": "article",
-    "title": "Live schaatsen | De Boo gaat strijd aan met Dubreuil op 500 meter WK sprint",
+    "title": "Live schaatsen | De Boo maakt WK sprint weer spannend met goede 500 meter",
     "subtitle": null,
     "published_at": "2024-03-08T17:59:55+01:00",
-    "updated_at": "2024-03-08T19:07:21+01:00",
+    "updated_at": "2024-03-08T19:40:24+01:00",
     "media_id": "yi3xdd7arq49",
     "duration": null,
     "canonical_section": {
@@ -317,7 +340,7 @@
       "media_id": "5ktx9n6axubw",
       "partner": null
     },
-    "url": "/schaatsen/6304497/live-schaatsen-de-boo-gaat-strijd-aan-met-dubreuil-op-500-meter-wk-sprint.html",
+    "url": "/schaatsen/6304497/live-schaatsen-de-boo-maakt-wk-sprint-weer-spannend-met-goede-500-meter.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6304435/vijftien-jaar-en-3-rapporten-na-q-koortsepidemie-doe-eens-wat-wordt-gevraagd.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6304495,
-    "slug": "jacqueline-govaert-volgt-jan-smit-op-als-commentator-bij-eurovisie-songfestival",
-    "type": "article",
-    "title": "Jacqueline Govaert volgt Jan Smit op als commentator bij Eurovisie Songfestival",
-    "subtitle": null,
-    "published_at": "2024-03-08T17:20:35+01:00",
-    "updated_at": "2024-03-08T17:20:36+01:00",
-    "media_id": "bh6xsbzannik",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6304495/jacqueline-govaert-volgt-jan-smit-op-als-commentator-bij-eurovisie-songfestival.html",
     "open_new_window": false,
     "partner": null
   }
