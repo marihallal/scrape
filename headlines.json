@@ -1,12 +1,35 @@
 [
   {
+    "id": 6304476,
+    "slug": "nederlanders-schermen-persoonlijke-gegevens-op-internet-vaker-af",
+    "type": "article",
+    "title": "Nederlanders schermen persoonlijke gegevens op internet vaker af",
+    "subtitle": null,
+    "published_at": "2024-03-11T00:03:10+01:00",
+    "updated_at": "2024-03-11T00:03:11+01:00",
+    "media_id": "y9xxn83an8i0",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6304476/nederlanders-schermen-persoonlijke-gegevens-op-internet-vaker-af.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6304731,
     "slug": "actrice-vanessa-hudgens-kondigt-zwangerschap-aan-op-rode-loper-oscars",
     "type": "article",
     "title": "Actrice Vanessa Hudgens kondigt zwangerschap aan op rode loper Oscars",
     "subtitle": null,
     "published_at": "2024-03-10T23:51:09+01:00",
-    "updated_at": "2024-03-10T23:51:11+01:00",
+    "updated_at": "2024-03-11T00:11:16+01:00",
     "media_id": "rj7xqkcanpmz",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6304712/feyenoord-trainer-slot-start-met-een-wijziging-aan-duel-met-heracles.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6304713,
-    "slug": "city-speelt-na-fout-ake-gelijk-in-spektakelstuk-tegen-liverpool-arsenal-aan-kop",
-    "type": "article",
-    "title": "City speelt na fout Aké gelijk in spektakelstuk tegen Liverpool, Arsenal aan kop",
-    "subtitle": null,
-    "published_at": "2024-03-10T18:44:59+01:00",
-    "updated_at": "2024-03-10T19:02:32+01:00",
-    "media_id": "f6xx1xyaw1hk",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6304713/city-speelt-na-fout-ake-gelijk-in-spektakelstuk-tegen-liverpool-arsenal-aan-kop.html",
     "open_new_window": false,
     "partner": null
   }
