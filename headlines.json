@@ -1,5 +1,28 @@
 [
   {
+    "id": 6304779,
+    "slug": "hondenfokker-eersel-krijgt-totaalverbod-nu-hij-ook-andere-dieren-verwaarloost",
+    "type": "article",
+    "title": "Hondenfokker Eersel krijgt totaalverbod nu hij ook andere dieren verwaarloost",
+    "subtitle": null,
+    "published_at": "2024-03-11T11:35:11+01:00",
+    "updated_at": "2024-03-11T11:35:12+01:00",
+    "media_id": "3qdxbloaieni",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772536,
+      "slug": "dieren",
+      "type": "default",
+      "name": "Dieren",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/dieren/6304779/hondenfokker-eersel-krijgt-totaalverbod-nu-hij-ook-andere-dieren-verwaarloost.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6304754,
     "slug": "ben-jij-ooit-afgewezen-voor-een-baan-vanwege-je-leeftijd",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tech/6304288/vernieuwing-betaalpassen-brengt-zowel-vooruitgang-als-frustratie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6304742,
-    "slug": "woeste-griekspoor-slaat-racket-aan-flarden-tijdens-nederlaag-op-indian-wells",
-    "type": "article",
-    "title": "Woeste Griekspoor slaat racket aan flarden tijdens nederlaag op Indian Wells",
-    "subtitle": null,
-    "published_at": "2024-03-11T07:07:04+01:00",
-    "updated_at": "2024-03-11T10:08:08+01:00",
-    "media_id": "2rmxj96a59aw",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6304742/woeste-griekspoor-slaat-racket-aan-flarden-tijdens-nederlaag-op-indian-wells.html",
     "open_new_window": false,
     "partner": null
   }
